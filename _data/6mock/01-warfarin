@@ -1,0 +1,211 @@
+# SECTION 1a: WARFARIN - CALCULATING 1MG TABLETS (IDs 1-20)
+- id: 1
+  question: "A male patient has a prescription for warfarin 1mg tablets with the directions 'Take 4 mg and 5 mg on alternating days'. You have 1 mg and 3 mg warfarin tablets available. What is the exact number of 1 mg tablets required for a 28-day supply alongside sufficient 3 mg tablets?"
+  answer: 42
+  solution: |
+    **Step 1:** 4mg dose = one 3mg + one 1mg. 5mg dose = one 3mg + two 1mg. <br />
+    **Step 2:** (1 x 14 days) + (2 x 14 days) = 14 + 28 = 42.
+
+- id: 2
+  question: "A female patient is prescribed 'Take 2 mg and 3 mg on alternating days'. You have 1 mg and 3 mg tablets. How many 1mg tablets are needed for a 28-day supply alongside sufficient 3 mg tablets?"
+  answer: 28
+  solution: |
+    **Step 1:** 2mg dose = two 1mg. 3mg dose = one 3mg (zero 1mg). <br />
+    **Step 2:** (2 x 14) + (0 x 14) = 28.
+
+- id: 3
+  question: "A male patient requires 'Take 1 mg and 2 mg on alternating days'. You have 1 mg and 3 mg tablets available. How many 1mg tablets are needed for a 28-day supply?"
+  answer: 42
+  solution: |
+    **Step 1:** 1mg days = one 1mg. 2mg days = two 1mg. <br />
+    **Step 2:** (1 x 14) + (2 x 14) = 42.
+
+- id: 4
+  question: "A female patient is prescribed '7 mg and 8 mg on alternating days'. You have 1 mg and 3 mg tablets available. Calculate the total number of 1mg tablets required for a 28-day supply."
+  answer: 42
+  solution: |
+    **Step 1:** 7mg = (2x3mg) + 1mg. 8mg = (2x3mg) + 2mg. <br />
+    **Step 2:** (1 x 14) + (2 x 14) = 42.
+
+- id: 5
+  question: "A male patient is taking '5 mg and 6 mg on alternating days'. Using 1 mg and 3 mg tablets, how many 1mg tablets are required for a 28-day supply?"
+  answer: 28
+  solution: |
+    **Step 1:** 5mg = (1x3mg) + 2mg. 6mg = (2x3mg) + 0mg. <br />
+    **Step 2:** (2 x 14) + (0 x 14) = 28.
+
+- id: 6
+  question: "A female patient takes '4 mg and 7 mg on alternating days'. You have 1 mg and 3 mg tablets. What is the total requirement of 1mg tablets for 28 days?"
+  answer: 28
+  solution: |
+    **Step 1:** 4mg = (1x3mg) + 1mg. 7mg = (2x3mg) + 1mg. <br />
+    **Step 2:** (1 x 14) + (1 x 14) = 28.
+
+- id: 7
+  question: "A male patient is prescribed '2 mg and 5 mg on alternating days'. Using 1 mg and 3 mg tablets, calculate the 1mg tablet requirement for 28 days."
+  answer: 56
+  solution: |
+    **Step 1:** 2mg = 2x1mg. 5mg = (1x3mg) + 2mg. <br />
+    **Step 2:** (2 x 14) + (2 x 14) = 56.
+
+- id: 8
+  question: "A female patient is prescribed '10 mg and 11 mg on alternating days'. You have 1 mg and 3 mg tablets available. How many 1mg tablets are required for a 28-day supply?"
+  answer: 42
+  solution: |
+    **Step 1:** 10mg = (3x3mg) + 1mg. 11mg = (3x3mg) + 2mg. <br />
+    **Step 2:** (1 x 14) + (2 x 14) = 42.
+
+- id: 9
+  question: "A male patient requires '3 mg and 4 mg on alternating days'. You have 1 mg and 3 mg tablets. How many 1mg tablets are needed for 28 days?"
+  answer: 14
+  solution: |
+    **Step 1:** 3mg = (1x3mg) + 0mg. 4mg = (1x3mg) + 1mg. <br />
+    **Step 2:** (0 x 14) + (1 x 14) = 14.
+
+- id: 10
+  question: "A female patient takes '5 mg and 8 mg on alternating days'. Using 1 mg and 3 mg tablets, how many 1mg tablets for a 28-day supply?"
+  answer: 56
+  solution: |
+    **Step 1:** 5mg = (1x3mg) + 2mg. 8mg = (2x3mg) + 2mg. <br />
+    **Step 2:** (2 x 14) + (2 x 14) = 56.
+
+- id: 11
+  question: "A male patient is prescribed '1 mg and 4 mg on alternating days'. You have 1 mg and 3 mg tablets available. Calculate the total number of 1mg tablets required for 28 days."
+  answer: 28
+  solution: |
+    **Step 1:** 1mg = 1x1mg. 4mg = (1x3mg) + 1mg. <br />
+    **Step 2:** (1 x 14) + (1 x 14) = 28.
+
+- id: 12
+  question: "A female patient is prescribed '8 mg and 10 mg on alternating days'. You have 1 mg and 3 mg tablets. How many 1mg tablets for 28 days?"
+  answer: 42
+  solution: |
+    **Step 1:** 8mg = (2x3mg) + 2mg. 10mg = (3x3mg) + 1mg. <br />
+    **Step 2:** (2 x 14) + (1 x 14) = 42.
+
+- id: 13
+  question: "A male patient requires '2 mg and 10 mg on alternating days'. You have 1 mg and 3 mg tablets. How many 1mg tablets are needed for 28 days?"
+  answer: 42
+  solution: |
+    **Step 1:** 2mg = 2x1mg. 10mg = (3x3mg) + 1mg. <br />
+    **Step 2:** (2 x 14) + (1 x 14) = 42.
+
+- id: 14
+  question: "A female patient is prescribed '1 mg and 5 mg on alternating days'. You have 1 mg and 3 mg tablets. How many 1mg tablets are needed for 28 days?"
+  answer: 42
+  solution: |
+    **Step 1:** 1mg = 1x1mg. 5mg = (1x3mg) + 2mg. <br />
+    **Step 2:** (1 x 14) + (2 x 14) = 42.
+
+- id: 15
+  question: "A male patient is taking '6 mg and 7 mg on alternating days'. You have 1 mg and 3 mg tablets. How many 1mg tablets for 28 days?"
+  answer: 14
+  solution: |
+    **Step 1:** 6mg = 2x3mg. 7mg = (2x3mg) + 1mg. <br />
+    **Step 2:** (0 x 14) + (1 x 14) = 14.
+
+- id: 16
+  question: "A female patient is prescribed '4 mg and 8 mg on alternating days'. You have 1 mg and 3 mg tablets. How many 1mg tablets are needed for 28 days?"
+  answer: 42
+  solution: |
+    **Step 1:** 4mg = (1x3mg) + 1mg. 8mg = (2x3mg) + 2mg. <br />
+    **Step 2:** (1 x 14) + (2 x 14) = 42.
+
+- id: 17
+  question: "A male patient takes '9 mg and 10 mg on alternating days'. You have 1 mg and 3 mg tablets. How many 1mg tablets are needed for 28 days?"
+  answer: 14
+  solution: |
+    **Step 1:** 9mg = 3x3mg. 10mg = (3x3mg) + 1mg. <br />
+    **Step 2:** (0 x 14) + (1 x 14) = 14.
+
+- id: 18
+  question: "A female patient is prescribed '2 mg and 4 mg on alternating days'. Using 1 mg and 3 mg tablets, calculate the 1mg tablet requirement for 28 days."
+  answer: 42
+  solution: |
+    **Step 1:** 2mg = 2x1mg. 4mg = (1x3mg) + 1mg. <br />
+    **Step 2:** (2 x 14) + (1 x 14) = 42.
+
+- id: 19
+  question: "A male patient is prescribed '1 mg and 3 mg on alternating days'. You have 1 mg and 3 mg tablets. How many 1mg tablets are needed for 28 days?"
+  answer: 14
+  solution: |
+    **Step 1:** 1mg = 1x1mg. 3mg = 1x3mg. <br />
+    **Step 2:** (1 x 14) + (0 x 14) = 14.
+
+- id: 20
+  question: "A female patient requires '5 mg and 7 mg on alternating days'. Using 1 mg and 3 mg tablets, how many 1mg tablets for a 28-day supply?"
+  answer: 42
+  solution: |
+    **Step 1:** 5mg = (1x3mg) + 2mg. 7mg = (2x3mg) + 1mg. <br />
+    **Step 2:** (2 x 14) + (1 x 14) = 42.
+
+# SECTION 1b: WARFARIN - CALCULATING 3MG TABLETS (IDs 21-30)
+- id: 21
+  question: "Mr. AG has a prescription for '4 mg and 5 mg on alternating days' for 28 days. Using 1 mg and 3 mg tablets, and using the 3 mg strength wherever possible, what is the exact number of 3 mg tablets required for this 28-day supply?"
+  answer: 28
+  solution: |
+    **Step 1:** Both the 4mg (1x3mg + 1x1mg) and 5mg (1x3mg + 2x1mg) doses use one 3mg tablet. <br />
+    **Step 2:** 1 tablet x 28 days = 28 tablets.
+
+- id: 22
+  question: "A patient is prescribed '3 mg and 6 mg on alternating days' for 28 days. You have 1 mg and 3 mg tablets. How many 3 mg tablets are required for this supply?"
+  answer: 42
+  solution: |
+    **Step 1:** 3mg = one 3mg. 6mg = two 3mg. <br />
+    **Step 2:** (1 x 14) + (2 x 14) = 42.
+
+- id: 23
+  question: "A male patient is prescribed '5 mg and 7 mg on alternating days'. Using 1 mg and 3 mg tablets, how many 3 mg tablets are needed for a 28-day supply?"
+  answer: 42
+  solution: |
+    **Step 1:** 5mg = (1x3mg) + 2mg. 7mg = (2x3mg) + 1mg. <br />
+    **Step 2:** (1 x 14) + (2 x 14) = 42.
+
+- id: 24
+  question: "A female patient takes '6 mg and 8 mg on alternating days'. You have 1 mg and 3 mg tablets. What is the exact number of 3 mg tablets required for a 28-day supply?"
+  answer: 56
+  solution: |
+    **Step 1:** 6mg = 2x3mg. 8mg = (2x3mg) + 2mg. <br />
+    **Step 2:** (2 x 14) + (2 x 14) = 56.
+
+- id: 25
+  question: "A male patient takes '4 mg and 7 mg on alternating days'. Using 1 mg and 3 mg tablets, how many 3mg tablets are required for a 28-day supply?"
+  answer: 42
+  solution: |
+    **Step 1:** 4mg = 1x3mg. 7mg = 2x3mg. <br />
+    **Step 2:** (1 x 14) + (2 x 14) = 42.
+
+- id: 26
+  question: "A female patient takes '3 mg and 5 mg on alternating days'. How many 3mg tablets are needed for a 28-day supply?"
+  answer: 28
+  solution: |
+    **Step 1:** 3mg = 1x3mg. 5mg = 1x3mg. <br />
+    **Step 2:** (1 x 14) + (1 x 14) = 28.
+
+- id: 27
+  question: "A male patient is prescribed '6 mg and 9 mg on alternating days'. How many 3mg tablets for a 28-day supply?"
+  answer: 70
+  solution: |
+    **Step 1:** 6mg = 2x3mg. 9mg = 3x3mg. <br />
+    **Step 2:** (2 x 14) + (3 x 14) = 70.
+
+- id: 28
+  question: "A female patient takes '7 mg and 10 mg on alternating days'. How many 3mg tablets are required for 28 days?"
+  answer: 70
+  solution: |
+    **Step 1:** 7mg = 2x3mg. 10mg = 3x3mg. <br />
+    **Step 2:** (2 x 14) + (3 x 14) = 70.
+
+- id: 29
+  question: "A male patient requires '4 mg and 6 mg on alternating days'. How many 3mg tablets are needed for 28 days?"
+  answer: 42
+  solution: |
+    **Step 1:** 4mg = 1x3mg. 6mg = 2x3mg. <br />
+    **Step 2:** (1 x 14) + (2 x 14) = 42.
+
+- id: 30
+  question: "A female patient takes '5 mg and 9 mg on alternating days'. How many 3mg tablets for 28 days?"
+  answer: 56
+  solution: |
+    **Step 1:** 5mg = 1x3mg. 9mg = 3x3mg. <br />
+    **Step 2:** (1 x 14) + (3 x 14) = 56.
