@@ -1,0 +1,360 @@
+- id: 51
+  question: "A 75-year-old man, weighing 58 kg, is admitted to ITU following a coronary artery bypass graft and is prescribed dopamine 3 microg/kg/min IV. Calculate the rate in ml/hr at which a solution of dopamine must be infused to provide this dose if dopamine is administered as a 4 mg/ml solution. Give your answer to one decimal place."
+  answer: 2.6
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    58 kg x 3 microg/kg/min = 174 microg/min <br />
+    174 microg/min x 60 min = 10,440 microg/hr <br />
+    10,440 / 1000 = 10.44 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{10.44 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 2.61 \text{ ml/hr} \) <br />
+    **Answer:** 2.6
+
+- id: 52
+  question: "An 82-year-old woman, weighing 65 kg, is admitted with cardiogenic shock and is prescribed dopamine 5 microg/kg/min IV. Calculate the rate in ml/hr at which a solution of dopamine must be infused if dopamine is administered as a 2 mg/ml solution. Give your answer to one decimal place."
+  answer: 9.8
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    65 kg x 5 microg/kg/min x 60 min = 19,500 microg/hr <br />
+    19,500 / 1000 = 19.5 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{19.5 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 9.75 \text{ ml/hr} \) <br />
+    **Answer:** 9.8
+
+- id: 53
+  question: "A 68-year-old man, weighing 72 kg, is admitted to ITU and is prescribed dopamine 10 microg/kg/min IV. Calculate the rate in ml/hr at which a solution of dopamine must be infused if dopamine is administered as a 4 mg/ml solution. Give your answer to one decimal place."
+  answer: 10.8
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    72 kg x 10 microg/kg/min x 60 min = 43,200 microg/hr <br />
+    43,200 / 1000 = 43.2 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{43.2 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 10.8 \text{ ml/hr} \) <br />
+    **Answer:** 10.8
+
+- id: 54
+  question: "A 60-year-old woman, weighing 55 kg, is admitted with heart failure and is prescribed dopamine 2 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 1.6 mg/ml solution. Give your answer to one decimal place."
+  answer: 4.1
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    55 kg x 2 microg/kg/min x 60 min = 6,600 microg/hr <br />
+    6,600 / 1000 = 6.6 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{6.6 \text{ mg}}{1.6 \text{ mg}} \times 1 \text{ ml} = 4.125 \text{ ml/hr} \) <br />
+    **Answer:** 4.1
+
+- id: 55
+  question: "A 70-year-old man, weighing 80 kg, is admitted following cardiac surgery and is prescribed dopamine 7.5 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 3 mg/ml solution."
+  answer: 12.0
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    80 kg x 7.5 microg/kg/min x 60 min = 36,000 microg/hr <br />
+    36,000 / 1000 = 36 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{36 \text{ mg}}{3 \text{ mg}} \times 1 \text{ ml} = 12.0 \text{ ml/hr} \) <br />
+    **Answer:** 12.0
+
+- id: 56
+  question: "An 85-year-old woman, weighing 48 kg, is admitted to ITU and is prescribed dopamine 4 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 2 mg/ml solution."
+  answer: 5.8
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    48 kg x 4 microg/kg/min x 60 min = 11,520 microg/hr <br />
+    11,520 / 1000 = 11.52 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{11.52 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 5.76 \text{ ml/hr} \) <br />
+    **Answer:** 5.8
+
+- id: 57
+  question: "A 64-year-old man, weighing 90 kg, is admitted following a bypass graft and is prescribed dopamine 6 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 4 mg/ml solution."
+  answer: 8.1
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    90 kg x 6 microg/kg/min x 60 min = 32,400 microg/hr <br />
+    32,400 / 1000 = 32.4 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{32.4 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 8.1 \text{ ml/hr} \) <br />
+    **Answer:** 8.1
+
+- id: 58
+  question: "A 55-year-old woman, weighing 70 kg, is admitted with cardiogenic shock and is prescribed dopamine 15 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 5 mg/ml solution."
+  answer: 12.6
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    70 kg x 15 microg/kg/min x 60 min = 63,000 microg/hr <br />
+    63,000 / 1000 = 63 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{63 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 12.6 \text{ ml/hr} \) <br />
+    **Answer:** 12.6
+
+- id: 59
+  question: "An 80-year-old man, weighing 62 kg, is admitted to ITU and is prescribed dopamine 2.5 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 1.25 mg/ml solution."
+  answer: 7.4
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    62 kg x 2.5 microg/kg/min x 60 min = 9,300 microg/hr <br />
+    9,300 / 1000 = 9.3 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{9.3 \text{ mg}}{1.25 \text{ mg}} \times 1 \text{ ml} = 7.44 \text{ ml/hr} \) <br />
+    **Answer:** 7.4
+
+- id: 60
+  question: "A 77-year-old woman, weighing 54 kg, is admitted following cardiac surgery and is prescribed dopamine 3 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 2 mg/ml solution."
+  answer: 4.9
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    54 kg x 3 microg/kg/min x 60 min = 9,720 microg/hr <br />
+    9,720 / 1000 = 9.72 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{9.72 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 4.86 \text{ ml/hr} \) <br />
+    **Answer:** 4.9
+
+- id: 61
+  question: "A 69-year-old man, weighing 100 kg, is admitted with heart failure and is prescribed dopamine 5 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 4 mg/ml solution."
+  answer: 7.5
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    100 kg x 5 microg/kg/min x 60 min = 30,000 microg/hr <br />
+    30,000 / 1000 = 30 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{30 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 7.5 \text{ ml/hr} \) <br />
+    **Answer:** 7.5
+
+- id: 62
+  question: "A 72-year-old woman, weighing 68 kg, is admitted to ITU and is prescribed dopamine 8 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 3.2 mg/ml solution."
+  answer: 10.2
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    68 kg x 8 microg/kg/min x 60 min = 32,640 microg/hr <br />
+    32,640 / 1000 = 32.64 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{32.64 \text{ mg}}{3.2 \text{ mg}} \times 1 \text{ ml} = 10.2 \text{ ml/hr} \) <br />
+    **Answer:** 10.2
+
+- id: 63
+  question: "A 61-year-old man, weighing 85 kg, is admitted following cardiac surgery and is prescribed dopamine 12 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 4 mg/ml solution."
+  answer: 15.3
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    85 kg x 12 microg/kg/min x 60 min = 61,200 microg/hr <br />
+    61,200 / 1000 = 61.2 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{61.2 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 15.3 \text{ ml/hr} \) <br />
+    **Answer:** 15.3
+
+- id: 64
+  question: "An 88-year-old woman, weighing 42 kg, is admitted to ITU and is prescribed dopamine 4 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 1 mg/ml solution."
+  answer: 10.1
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    42 kg x 4 microg/kg/min x 60 min = 10,080 microg/hr <br />
+    10,080 / 1000 = 10.08 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{10.08 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 10.08 \text{ ml/hr} \) <br />
+    **Answer:** 10.1
+
+- id: 65
+  question: "A 74-year-old man, weighing 75 kg, is admitted following a coronary bypass and is prescribed dopamine 20 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as an 8 mg/ml solution."
+  answer: 11.3
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    75 kg x 20 microg/kg/min x 60 min = 90,000 microg/hr <br />
+    90,000 / 1000 = 90 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{90 \text{ mg}}{8 \text{ mg}} \times 1 \text{ ml} = 11.25 \text{ ml/hr} \) <br />
+    **Answer:** 11.3
+
+- id: 66
+  question: "A 66-year-old woman, weighing 63 kg, is admitted with heart failure and is prescribed dopamine 6 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 2 mg/ml solution."
+  answer: 11.3
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    63 kg x 6 microg/kg/min x 60 min = 22,680 microg/hr <br />
+    22,680 / 1000 = 22.68 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{22.68 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 11.34 \text{ ml/hr} \) <br />
+    **Answer:** 11.3
+
+- id: 67
+  question: "A 71-year-old man, weighing 78 kg, is admitted to ITU and is prescribed dopamine 3.5 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 4 mg/ml solution."
+  answer: 4.1
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    78 kg x 3.5 microg/kg/min x 60 min = 16,380 microg/hr <br />
+    16,380 / 1000 = 16.38 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{16.38 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 4.095 \text{ ml/hr} \) <br />
+    **Answer:** 4.1
+
+- id: 68
+  question: "An 83-year-old woman, weighing 50 kg, is admitted following cardiac surgery and is prescribed dopamine 10 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 5 mg/ml solution."
+  answer: 6.0
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    50 kg x 10 microg/kg/min x 60 min = 30,000 microg/hr <br />
+    30,000 / 1000 = 30 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{30 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 6.0 \text{ ml/hr} \) <br />
+    **Answer:** 6.0
+
+- id: 69
+  question: "A 62-year-old man, weighing 88 kg, is admitted with cardiogenic shock and is prescribed dopamine 12.5 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as an 8 mg/ml solution."
+  answer: 8.3
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    88 kg x 12.5 microg/kg/min x 60 min = 66,000 microg/hr <br />
+    66,000 / 1000 = 66 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{66 \text{ mg}}{8 \text{ mg}} \times 1 \text{ ml} = 8.25 \text{ ml/hr} \) <br />
+    **Answer:** 8.3
+
+- id: 70
+  question: "A 79-year-old woman, weighing 56 kg, is admitted to ITU and is prescribed dopamine 5 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 1.6 mg/ml solution."
+  answer: 10.5
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    56 kg x 5 microg/kg/min x 60 min = 16,800 microg/hr <br />
+    16,800 / 1000 = 16.8 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{16.8 \text{ mg}}{1.6 \text{ mg}} \times 1 \text{ ml} = 10.5 \text{ ml/hr} \) <br />
+    **Answer:** 10.5
+
+- id: 71
+  question: "A 65-year-old man, weighing 95 kg, is admitted following a bypass graft and is prescribed dopamine 2 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 1 mg/ml solution."
+  answer: 11.4
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    95 kg x 2 microg/kg/min x 60 min = 11,400 microg/hr <br />
+    11,400 / 1000 = 11.4 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{11.4 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 11.4 \text{ ml/hr} \) <br />
+    **Answer:** 11.4
+
+- id: 72
+  question: "An 81-year-old woman, weighing 45 kg, is admitted with heart failure and is prescribed dopamine 7.5 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 3 mg/ml solution."
+  answer: 6.8
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    45 kg x 7.5 microg/kg/min x 60 min = 20,250 microg/hr <br />
+    20,250 / 1000 = 20.25 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{20.25 \text{ mg}}{3 \text{ mg}} \times 1 \text{ ml} = 6.75 \text{ ml/hr} \) <br />
+    **Answer:** 6.8
+
+- id: 73
+  question: "A 73-year-old man, weighing 82 kg, is admitted to ITU and is prescribed dopamine 4 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 4 mg/ml solution."
+  answer: 4.9
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    82 kg x 4 microg/kg/min x 60 min = 19,680 microg/hr <br />
+    19,680 / 1000 = 19.68 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{19.68 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 4.92 \text{ ml/hr} \) <br />
+    **Answer:** 4.9
+
+- id: 74
+  question: "A 67-year-old woman, weighing 70 kg, is admitted following cardiac surgery and is prescribed dopamine 15 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as an 8 mg/ml solution."
+  answer: 7.9
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    70 kg x 15 microg/kg/min x 60 min = 63,000 microg/hr <br />
+    63,000 / 1000 = 63 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{63 \text{ mg}}{8 \text{ mg}} \times 1 \text{ ml} = 7.875 \text{ ml/hr} \) <br />
+    **Answer:** 7.9
+
+- id: 75
+  question: "A 76-year-old man, weighing 60 kg, is admitted with heart failure and is prescribed dopamine 3 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 2.5 mg/ml solution."
+  answer: 4.3
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    60 kg x 3 microg/kg/min x 60 min = 10,800 microg/hr <br />
+    10,800 / 1000 = 10.8 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{10.8 \text{ mg}}{2.5 \text{ mg}} \times 1 \text{ ml} = 4.32 \text{ ml/hr} \) <br />
+    **Answer:** 4.3
+
+- id: 76
+  question: "An 86-year-old woman, weighing 40 kg, is admitted to ITU and is prescribed dopamine 5 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 1 mg/ml solution."
+  answer: 12.0
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    40 kg x 5 microg/kg/min x 60 min = 12,000 microg/hr <br />
+    12,000 / 1000 = 12 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{12 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 12.0 \text{ ml/hr} \) <br />
+    **Answer:** 12.0
+
+- id: 77
+  question: "A 63-year-old man, weighing 85 kg, is admitted following cardiac surgery and is prescribed dopamine 10 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 4 mg/ml solution."
+  answer: 12.8
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    85 kg x 10 microg/kg/min x 60 min = 51,000 microg/hr <br />
+    51,000 / 1000 = 51 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{51 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 12.75 \text{ ml/hr} \) <br />
+    **Answer:** 12.8
+
+- id: 78
+  question: "A 78-year-old woman, weighing 58 kg, is admitted with cardiogenic shock and is prescribed dopamine 6 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 2 mg/ml solution."
+  answer: 10.4
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    58 kg x 6 microg/kg/min x 60 min = 20,880 microg/hr <br />
+    20,880 / 1000 = 20.88 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{20.88 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 10.44 \text{ ml/hr} \) <br />
+    **Answer:** 10.4
+
+- id: 79
+  question: "A 69-year-old man, weighing 74 kg, is admitted to ITU and is prescribed dopamine 3 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 1.6 mg/ml solution."
+  answer: 8.3
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    74 kg x 3 microg/kg/min x 60 min = 13,320 microg/hr <br />
+    13,320 / 1000 = 13.32 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{13.32 \text{ mg}}{1.6 \text{ mg}} \times 1 \text{ ml} = 8.325 \text{ ml/hr} \) <br />
+    **Answer:** 8.3
+
+- id: 80
+  question: "An 84-year-old woman, weighing 46 kg, is admitted with heart failure and is prescribed dopamine 5 microg/kg/min IV. Calculate the rate in ml/hr if dopamine is administered as a 1 mg/ml solution."
+  answer: 13.8
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    46 kg x 5 microg/kg/min x 60 min = 13,800 microg/hr <br />
+    13,800 / 1000 = 13.8 mg/hr (Need) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{13.8 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 13.8 \text{ ml/hr} \) <br />
+    **Answer:** 13.8
