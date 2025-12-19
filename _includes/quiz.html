@@ -1,7 +1,8 @@
+{% assign quiz_data = site.data[include.source] %}
+
 <section id="quiz-container" class="quiz-container" aria-labelledby="quiz-heading">
     <h2 id="quiz-heading">Pharmacy Calculations Quiz</h2>
     
-    <!-- Accessibility: Live region for score and timer updates -->
     <div class="quiz-status" aria-live="polite">
         <p>Question <span id="current-q-num">0</span> of 20</p>
         <p>Score: <span id="score-count">0</span>/20</p>
@@ -9,9 +10,7 @@
     </div>
 
     <div id="quiz-box">
-        <div id="question-text" class="question-box" role="region" aria-live="assertive">
-            <!-- Question will be injected here -->
-        </div>
+        <div id="question-text" class="question-box" role="region" aria-live="assertive"></div>
 
         <div class="answer-section">
             <label for="user-answer">Your Answer (numerical):</label>
@@ -40,17 +39,12 @@
     </div>
 </section>
 
-<!-- Pass ONLY the selected data set to JS -->
-{% assign quiz_data = site.data[include.source] %}
-
 <script>
-    // include.source comes from the {% include ... source="xyz" %} tag
-    // site.data[include.source] looks up _data/xyz.yml
-    const allQuestions = {{ quiz_data | jsonify }};
+    // This part converts your YAML data into JavaScript
+    // If the data is missing, it creates an empty list [] so the build doesn't crash
+    const allQuestions = {{ quiz_data | jsonify | default: '[]' }};
     
-    // Safety check for accessibility: if data is missing, notify the user
-    if (!allQuestions || allQuestions.length === 0) {
-        console.error("Quiz data source '{{ include.source }}' not found in _data folder.");
-        document.getElementById('quiz-box').innerHTML = "<p role='alert'>Error: Question set not found.</p>";
+    if (allQuestions.length === 0) {
+        document.getElementById('quiz-box').innerHTML = "<p role='alert' style='color:red; font-weight:bold;'>Error: The data file '_data/{{ include.source }}.yml' was not found or is empty.</p>";
     }
 </script>
