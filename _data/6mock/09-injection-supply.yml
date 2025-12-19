@@ -1,0 +1,346 @@
+- id: 221
+  question: "A patient who weighs 55 kg attends a pre-admission clinic 2 weeks prior to surgery. The patient is found to have moderate anaemia and the doctor prescribes Venofer®. Venofer® is given at a dose of 200 mg three times a week for 2 weeks pre-surgery and is available as a 20 mg/mL injection in 5 mL vials. How many vials of Venofer® should be supplied to complete the course? Give your answer as a whole number."
+  answer: 12
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Total doses: 3 doses per week x 2 weeks = 6 doses <br />
+    Total mg needed: 6 doses x 200 mg = 1,200 mg <br />
+    <br />
+    **Step 2: Total amount per vial (Have)** <br />
+    Using \( \text{Concentration} \times \text{Supplied In} \): <br />
+    20 mg/mL x 5 mL = 100 mg per vial <br />
+    <br />
+    **Step 3: Calculate total vials** <br />
+    Total vials = \( \frac{1,200 \text{ mg}}{100 \text{ mg}} = 12 \text{ vials} \) <br />
+    <br />
+    **Answer:** 12
+
+- id: 222
+  question: "A patient weighing 70 kg is diagnosed with iron deficiency and prescribed Venofer® prior to an elective procedure. The dose is 100 mg twice a week for 4 weeks. The medication is available as a 20 mg/mL injection in 5 mL vials. How many vials of Venofer® should be supplied to complete the course? Give your answer as a whole number."
+  answer: 8
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Total doses: 2 doses per week x 4 weeks = 8 doses <br />
+    Total mg needed: 8 doses x 100 mg = 800 mg <br />
+    <br />
+    **Step 2: Total amount per vial (Have)** <br />
+    Using \( \text{Concentration} \times \text{Supplied In} \): <br />
+    20 mg/mL x 5 mL = 100 mg per vial <br />
+    <br />
+    **Step 3: Calculate total vials** <br />
+    Total vials = \( \frac{800 \text{ mg}}{100 \text{ mg}} = 8 \text{ vials} \) <br />
+    <br />
+    **Answer:** 8
+
+- id: 223
+  question: "A patient who weighs 62 kg is prescribed Venofer® for the treatment of iron deficiency anaemia. The prescription is for 200 mg twice a week for 3 weeks. Venofer® is available as a 20 mg/mL injection in 5 mL vials. How many vials of Venofer® should be supplied to complete the full 3-week course? Give your answer as a whole number."
+  answer: 12
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Total doses: 2 doses per week x 3 weeks = 6 doses <br />
+    Total mg needed: 6 doses x 200 mg = 1,200 mg <br />
+    <br />
+    **Step 2: Total amount per vial (Have)** <br />
+    Using \( \text{Concentration} \times \text{Supplied In} \): <br />
+    20 mg/mL x 5 mL = 100 mg per vial <br />
+    <br />
+    **Step 3: Calculate total vials** <br />
+    Total vials = \( \frac{1,200 \text{ mg}}{100 \text{ mg}} = 12 \text{ vials} \) <br />
+    <br />
+    **Answer:** 12
+
+- id: 224
+  question: "A patient weighing 80 kg is prescribed Venofer® 100 mg three times a week for 2 weeks pre-surgery. The medication is supplied in 5 mL vials with a concentration of 20 mg/mL. How many vials of Venofer® are required to complete this course? Give your answer as a whole number."
+  answer: 6
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Total doses: 3 doses per week x 2 weeks = 6 doses <br />
+    Total mg needed: 6 doses x 100 mg = 600 mg <br />
+    <br />
+    **Step 2: Total amount per vial (Have)** <br />
+    Using \( \text{Concentration} \times \text{Supplied In} \): <br />
+    20 mg/mL x 5 mL = 100 mg per vial <br />
+    <br />
+    **Step 3: Calculate total vials** <br />
+    Total vials = \( \frac{600 \text{ mg}}{100 \text{ mg}} = 6 \text{ vials} \) <br />
+    <br />
+    **Answer:** 6
+
+- id: 225
+  question: "A patient who weighs 48 kg requires Venofer® for anaemia management. The dose is 200 mg once a week for 5 weeks. The stock available in the hospital dispensary is 20 mg/mL in 5 mL vials. How many vials of Venofer® should be supplied to complete the course? Give your answer as a whole number."
+  answer: 10
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Total doses: 1 dose per week x 5 weeks = 5 doses <br />
+    Total mg needed: 5 doses x 200 mg = 1,000 mg <br />
+    <br />
+    **Step 2: Total amount per vial (Have)** <br />
+    Using \( \text{Concentration} \times \text{Supplied In} \): <br />
+    20 mg/mL x 5 mL = 100 mg per vial <br />
+    <br />
+    **Step 3: Calculate total vials** <br />
+    Total vials = \( \frac{1,000 \text{ mg}}{100 \text{ mg}} = 10 \text{ vials} \) <br />
+    <br />
+    **Answer:** 10
+
+- id: 231
+  question: "A 58-year-old patient weighing 62 kg is prescribed iron sucrose injection for iron deficiency anaemia. The dose is 150 mg three times a week for 4 weeks. The medication is available as a 15 mg/mL injection in 10 mL vials. How many vials should be supplied to complete the full course? Give your answer as a whole number."
+  answer: 12
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Total doses: 3 doses per week x 4 weeks = 12 doses <br />
+    Total mg needed: 12 doses x 150 mg = 1,800 mg <br />
+    <br />
+    **Step 2: Total amount per vial (Have)** <br />
+    Using \( \text{Concentration} \times \text{Supplied In} \): <br />
+    15 mg/mL x 10 mL = 150 mg per vial <br />
+    <br />
+    **Step 3: Calculate total vials** <br />
+    Total vials = \( \frac{1,800 \text{ mg}}{150 \text{ mg}} = 12 \text{ vials} \) <br />
+    <br />
+    **Answer:** 12
+
+- id: 232
+  question: "A 65-year-old patient weighing 65 kg is prescribed a generic iron injection prior to surgery. The dose is 250 mg once a week for 6 weeks. The pharmacy stock is 50 mg/mL in 2 mL vials. How many vials should be supplied to complete the course? Give your answer as a whole number."
+  answer: 15
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Total doses: 1 dose per week x 6 weeks = 6 doses <br />
+    Total mg needed: 6 doses x 250 mg = 1,500 mg <br />
+    <br />
+    **Step 2: Total amount per vial (Have)** <br />
+    Using \( \text{Concentration} \times \text{Supplied In} \): <br />
+    50 mg/mL x 2 mL = 100 mg per vial <br />
+    <br />
+    **Step 3: Calculate total vials** <br />
+    Total vials = \( \frac{1,500 \text{ mg}}{100 \text{ mg}} = 15 \text{ vials} \) <br />
+    <br />
+    **Answer:** 15
+
+- id: 233
+  question: "A 72-year-old patient weighing 72 kg is prescribed an injectable medication for chronic anaemia. The dose is 100 mg four times a week for 2 weeks. The stock available is 10 mg/mL in 5 mL vials. How many vials should be supplied to complete the course? Give your answer as a whole number."
+  answer: 16
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Total doses: 4 doses per week x 2 weeks = 8 doses <br />
+    Total mg needed: 8 doses x 100 mg = 800 mg <br />
+    <br />
+    **Step 2: Total amount per vial (Have)** <br />
+    Using \( \text{Concentration} \times \text{Supplied In} \): <br />
+    10 mg/mL x 5 mL = 50 mg per vial <br />
+    <br />
+    **Step 3: Calculate total vials** <br />
+    Total vials = \( \frac{800 \text{ mg}}{50 \text{ mg}} = 16 \text{ vials} \) <br />
+    <br />
+    **Answer:** 16
+
+- id: 234
+  question: "A 50-year-old patient weighing 50 kg is prescribed an iron supplement injection for the treatment of anaemia. The dose is 125 mg twice a week for 4 weeks. The medication is supplied as 25 mg/mL in 2 mL vials. How many vials are required to complete this course? Give your answer as a whole number."
+  answer: 20
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Total doses: 2 doses per week x 4 weeks = 8 doses <br />
+    Total mg needed: 8 doses x 125 mg = 1,000 mg <br />
+    <br />
+    **Step 2: Total amount per vial (Have)** <br />
+    Using \( \text{Concentration} \times \text{Supplied In} \): <br />
+    25 mg/mL x 2 mL = 50 mg per vial <br />
+    <br />
+    **Step 3: Calculate total vials** <br />
+    Total vials = \( \frac{1,000 \text{ mg}}{50 \text{ mg}} = 20 \text{ vials} \) <br />
+    <br />
+    **Answer:** 20
+
+- id: 235
+  question: "An 88-year-old patient weighing 88 kg is prescribed a maintenance iron injection. The dose is 300 mg once a week for 1 week. The available vials have a concentration of 30 mg/mL in 5 mL vials. How many vials should be supplied? Give your answer as a whole number."
+  answer: 2
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Total doses: 1 dose per week x 1 week = 1 dose <br />
+    Total mg needed: 1 dose x 300 mg = 300 mg <br />
+    <br />
+    **Step 2: Total amount per vial (Have)** <br />
+    Using \( \text{Concentration} \times \text{Supplied In} \): <br />
+    30 mg/mL x 5 mL = 150 mg per vial <br />
+    <br />
+    **Step 3: Calculate total vials** <br />
+    Total vials = \( \frac{300 \text{ mg}}{150 \text{ mg}} = 2 \text{ vials} \) <br />
+    <br />
+    **Answer:** 2
+
+- id: 236
+  question: "A 45-year-old patient weighing 55 kg is prescribed a course of an injectable antibiotic for a deep-seated infection. The dose is 200 mg three times a day for 5 days. The hospital stock available is 40 mg/mL in 2.5 mL vials. How many vials should be supplied to complete the course? Give your answer as a whole number."
+  answer: 30
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Doses per day: 3 <br />
+    Total doses: 3 doses x 5 days = 15 doses <br />
+    Total mg needed: 15 doses x 200 mg = 3,000 mg <br />
+    <br />
+    **Step 2: Total amount per vial (Have)** <br />
+    Using \( \text{Concentration} \times \text{Supplied In} \): <br />
+    40 mg/mL x 2.5 mL = 100 mg per vial <br />
+    <br />
+    **Step 3: Calculate total vials** <br />
+    Total vials = \( \frac{3,000 \text{ mg}}{100 \text{ mg}} = 30 \text{ vials} \) <br />
+    <br />
+    **Answer:** 30
+
+- id: 237
+  question: "A 60-year-old patient weighing 75 kg requires an iron supplement injection to treat anaemia. The prescriber has requested 150 mg to be administered twice a day for 7 days. The medication is available as a 30 mg/mL injection in 5 mL vials. How many vials are required to complete the full 7-day course? Give your answer as a whole number."
+  answer: 14
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Doses per day: 2 <br />
+    Total doses: 2 doses x 7 days = 14 doses <br />
+    Total mg needed: 14 doses x 150 mg = 2,100 mg <br />
+    <br />
+    **Step 2: Total amount per vial (Have)** <br />
+    Using \( \text{Concentration} \times \text{Supplied In} \): <br />
+    30 mg/mL x 5 mL = 150 mg per vial <br />
+    <br />
+    **Step 3: Calculate total vials** <br />
+    Total vials = \( \frac{2,100 \text{ mg}}{150 \text{ mg}} = 14 \text{ vials} \) <br />
+    <br />
+    **Answer:** 14
+
+- id: 238
+  question: "A 78-year-old patient weighing 60 kg is prescribed a high-potency vitamin injection. The dose is 400 mg once a week for 3 weeks. The pharmacy holds a stock of 80 mg/mL in 1 mL vials. How many vials should be supplied to the ward to complete the 3-week course? Give your answer as a whole number."
+  answer: 15
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Total doses: 1 dose per week x 3 weeks = 3 doses <br />
+    Total mg needed: 3 doses x 400 mg = 1,200 mg <br />
+    <br />
+    **Step 2: Total amount per vial (Have)** <br />
+    Using \( \text{Concentration} \times \text{Supplied In} \): <br />
+    80 mg/mL x 1 mL = 80 mg per vial <br />
+    <br />
+    **Step 3: Calculate total vials** <br />
+    Total vials = \( \frac{1,200 \text{ mg}}{80 \text{ mg}} = 15 \text{ vials} \) <br />
+    <br />
+    **Answer:** 15
+
+- id: 239
+  question: "A 33-year-old patient weighing 50 kg is prescribed a medication for a chronic condition. The dose is 75 mg twice a day for 10 days. The medication is supplied in 5 mL vials with a concentration of 15 mg/mL. How many vials are needed for the complete 10-day treatment? Give your answer as a whole number."
+  answer: 20
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Doses per day: 2 <br />
+    Total doses: 2 doses x 10 days = 20 doses <br />
+    Total mg needed: 20 doses x 75 mg = 1,500 mg <br />
+    <br />
+    **Step 2: Total amount per vial (Have)** <br />
+    Using \( \text{Concentration} \times \text{Supplied In} \): <br />
+    15 mg/mL x 5 mL = 75 mg per vial <br />
+    <br />
+    **Step 3: Calculate total vials** <br />
+    Total vials = \( \frac{1,500 \text{ mg}}{75 \text{ mg}} = 20 \text{ vials} \) <br />
+    <br />
+    **Answer:** 20
+
+- id: 240
+  question: "A 67-year-old patient weighing 82 kg is prescribed a 4-day course of a therapeutic injection. The dose is 500 mg daily. The pharmacy stock is a concentration of 100 mg/mL in 1 mL vials. How many vials should be supplied for the 4-day course? Give your answer as a whole number."
+  answer: 20
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Total doses: 1 dose per day x 4 days = 4 doses <br />
+    Total mg needed: 4 doses x 500 mg = 2,000 mg <br />
+    <br />
+    **Step 2: Total amount per vial (Have)** <br />
+    Using \( \text{Concentration} \times \text{Supplied In} \): <br />
+    100 mg/mL x 1 mL = 100 mg per vial <br />
+    <br />
+    **Step 3: Calculate total vials** <br />
+    Total vials = \( \frac{2,000 \text{ mg}}{100 \text{ mg}} = 20 \text{ vials} \) <br />
+    <br />
+    **Answer:** 20
+
+- id: 241
+  question: "A 40-year-old patient weighing 75 kg is prescribed a course of an injectable antibiotic. The dose is 500 mg to be administered twice a day for 5 days. The hospital stock available is 50 mg/mL in 10 mL vials. How many vials should be supplied to complete the full course? Give your answer as a whole number."
+  answer: 10
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Doses per day: 2 <br />
+    Total doses: 2 doses x 5 days = 10 doses <br />
+    Total mg needed: 10 doses x 500 mg = 5,000 mg <br />
+    <br />
+    **Step 2: Total amount per vial (Have)** <br />
+    Using \( \text{Concentration} \times \text{Supplied In} \): <br />
+    50 mg/mL x 10 mL = 500 mg per vial <br />
+    <br />
+    **Step 3: Calculate total vials** <br />
+    Total vials = \( \frac{5,000 \text{ mg}}{500 \text{ mg}} = 10 \text{ vials} \) <br />
+    <br />
+    **Answer:** 10
+
+- id: 242
+  question: "A 52-year-old patient weighing 68 kg is prescribed a diuretic injection. The dose is 40 mg three times a day for 3 days. The pharmacy holds a stock of 10 mg/mL in 4 mL vials. How many vials should be supplied for the 3-day course? Give your answer as a whole number."
+  answer: 9
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Doses per day: 3 <br />
+    Total doses: 3 doses x 3 days = 9 doses <br />
+    Total mg needed: 9 doses x 40 mg = 360 mg <br />
+    <br />
+    **Step 2: Total amount per vial (Have)** <br />
+    Using \( \text{Concentration} \times \text{Supplied In} \): <br />
+    10 mg/mL x 4 mL = 40 mg per vial <br />
+    <br />
+    **Step 3: Calculate total vials** <br />
+    Total vials = \( \frac{360 \text{ mg}}{40 \text{ mg}} = 9 \text{ vials} \) <br />
+    <br />
+    **Answer:** 9
+
+- id: 243
+  question: "A 28-year-old patient weighing 54 kg is prescribed an anti-inflammatory injection for post-operative pain. The dose is 30 mg four times a day for 2 days. The medication is supplied in 1 mL vials with a concentration of 30 mg/mL. How many vials are required to complete this course? Give your answer as a whole number."
+  answer: 8
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Doses per day: 4 <br />
+    Total doses: 4 doses x 2 days = 8 doses <br />
+    Total mg needed: 8 doses x 30 mg = 240 mg <br />
+    <br />
+    **Step 2: Total amount per vial (Have)** <br />
+    Using \( \text{Concentration} \times \text{Supplied In} \): <br />
+    30 mg/mL x 1 mL = 30 mg per vial <br />
+    <br />
+    **Step 3: Calculate total vials** <br />
+    Total vials = \( \frac{240 \text{ mg}}{30 \text{ mg}} = 8 \text{ vials} \) <br />
+    <br />
+    **Answer:** 8
+
+- id: 244
+  question: "A 66-year-old patient weighing 82 kg is prescribed a therapeutic injection to be administered three times a day for 4 days. The dose is 50 mg. The pharmacy stock has a concentration of 25 mg/mL in 2 mL vials. How many vials should be supplied to complete the 4-day treatment? Give your answer as a whole number."
+  answer: 12
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Doses per day: 3 <br />
+    Total doses: 3 doses x 4 days = 12 doses <br />
+    Total mg needed: 12 doses x 50 mg = 600 mg <br />
+    <br />
+    **Step 2: Total amount per vial (Have)** <br />
+    Using \( \text{Concentration} \times \text{Supplied In} \): <br />
+    25 mg/mL x 2 mL = 50 mg per vial <br />
+    <br />
+    **Step 3: Calculate total vials** <br />
+    Total vials = \( \frac{600 \text{ mg}}{50 \text{ mg}} = 12 \text{ vials} \) <br />
+    <br />
+    **Answer:** 12
+
+- id: 245
+  question: "An 81-year-old patient weighing 58 kg is prescribed a series of three iron injections to be given once daily for 3 days. The dose for each injection is 200 mg. The available stock is 20 mg/mL in 2 mL vials. How many vials of the iron injection should be supplied to complete the course? Give your answer as a whole number."
+  answer: 15
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Total doses: 3 <br />
+    Total mg needed: 3 doses x 200 mg = 600 mg <br />
+    <br />
+    **Step 2: Total amount per vial (Have)** <br />
+    Using \( \text{Concentration} \times \text{Supplied In} \): <br />
+    20 mg/mL x 2 mL = 40 mg per vial <br />
+    <br />
+    **Step 3: Calculate total vials** <br />
+    Total vials = \( \frac{600 \text{ mg}}{40 \text{ mg}} = 15 \text{ vials} \) <br />
+    <br />
+    **Answer:** 15
