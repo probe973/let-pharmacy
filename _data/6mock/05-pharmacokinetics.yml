@@ -1,0 +1,374 @@
+- id: 111
+  question: "A patient is being transitioned from digoxin 50 microg/mL elixir to tablets as the swallowing difficulties they experienced since a recent stroke have significantly improved. The patient is currently prescribed 2.5 mL elixir once daily (F = 0.8). What dose of digoxin tablets (F = 0.6), in micrograms, would provide the equivalent daily dose? Round your answer to the nearest 125 microg."
+  answer: 125
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: 2.5 mL x 50 microg/mL = 125 microg <br />
+    Target Absorbed = 125 microg x 0.8 = 100 microg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 100 microg / 0.6 = 166.67 microg <br />
+    <br />
+    **Answer:** 125 (166.67 is closer to 125 than 250)
+
+- id: 112
+  question: "A patient is switching from phenytoin sodium capsules to phenytoin chewable tablets to assist with administration following clinical review. The patient is currently stable on 300 mg of capsules daily (F = 1.0). What dose of chewable tablets (F = 0.9), in milligrams, is required to provide the equivalent daily dose? Round your answer to the nearest 50 mg."
+  answer: 350
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Target Absorbed = 300 mg x 1.0 = 300 mg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 300 mg / 0.9 = 333.33 mg <br />
+    <br />
+    **Answer:** 350 (333.33 is closer to 350 than 300)
+
+- id: 113
+  question: "A patient requires a switch from IV morphine to oral morphine solution for the management of chronic pain following discharge from hospital. The current daily IV dose is 60 mg (F = 1.0). Calculate the equivalent total daily dose for the oral morphine solution (F = 0.3) in milligrams. Round your answer to the nearest 100 mg."
+  answer: 200
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Target Absorbed = 60 mg x 1.0 = 60 mg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 60 mg / 0.3 = 200 mg <br />
+    <br />
+    **Answer:** 200
+
+- id: 114
+  question: "A patient is being transitioned from digoxin 50 microg/mL elixir to tablets following successful treatment for heart failure. The current dose is 4 mL elixir once daily (F = 0.8). What dose of digoxin tablets (F = 0.6), in micrograms, would provide the equivalent daily dose? Round your answer to the nearest 125 microg."
+  answer: 250
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: 4 mL x 50 microg/mL = 200 microg <br />
+    Target Absorbed = 200 microg x 0.8 = 160 microg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 160 microg / 0.6 = 266.67 microg <br />
+    <br />
+    **Answer:** 250 (266.67 is closer to 250 than 375)
+
+- id: 115
+  question: "A patient on a specialty ward is being switched from IV ciclosporin to oral ciclosporin following clinical stabilization. The current IV dose is 140 mg daily (F = 1.0). Calculate the equivalent total daily oral dose (F = 0.35) in milligrams. Round your answer to the nearest 100 mg."
+  answer: 400
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Target Absorbed = 140 mg x 1.0 = 140 mg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 140 mg / 0.35 = 400 mg <br />
+    <br />
+    **Answer:** 400
+
+- id: 116
+  question: "A patient is transitioning from hospital to home care and is being switched from IV morphine to oral morphine solution. The current IV dose is 10 mg administered every 4 hours (F = 1.0). Calculate the equivalent total daily oral dose (F = 0.4) in milligrams. Round your answer to the nearest 50 mg."
+  answer: 150
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Daily dose: 10 mg x 6 doses = 60 mg <br />
+    Target Absorbed = 60 mg x 1.0 = 60 mg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 60 mg / 0.4 = 150 mg <br />
+    <br />
+    **Answer:** 150
+
+- id: 117
+  question: "A patient is being switched from digoxin 50 microg/mL elixir to tablets to simplify their long-term medication management. The current dose is 3.5 mL elixir once daily (F = 0.8). What dose of digoxin tablets (F = 0.6), in micrograms, would provide the equivalent daily dose? Round your answer to the nearest 250 microg."
+  answer: 250
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: 3.5 mL x 50 microg/mL = 175 microg <br />
+    Target Absorbed = 175 microg x 0.8 = 140 microg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 140 microg / 0.6 = 233.33 microg <br />
+    <br />
+    **Answer:** 250 (Rounded to the nearest 250 microg)
+
+- id: 118
+  question: "A patient recovers from acute dysphagia and is switching from digoxin 50 microg/mL elixir to tablets. They have been taking 5 mL of the elixir once daily (F = 0.8). What dose of digoxin tablets (F = 0.6), in micrograms, would provide the equivalent daily dose? Round your answer to the nearest 125 microg."
+  answer: 375
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: 5 mL x 50 microg/mL = 250 microg <br />
+    Target Absorbed = 250 microg x 0.8 = 200 microg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 200 microg / 0.6 = 333.33 microg <br />
+    <br />
+    **Answer:** 375 (333.33 is closer to 375 than 250)
+
+- id: 119
+  question: "A patient is switched from oral drug X tablets to an IV formulation due to a requirement for nil-by-mouth status. The current oral dose is 500 mg daily (F = 0.6). Calculate the equivalent daily IV dose (F = 1.0) in milligrams. Round your answer to the nearest 50 mg."
+  answer: 300
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Target Absorbed = 500 mg x 0.6 = 300 mg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 300 mg / 1.0 = 300 mg <br />
+    <br />
+    **Answer:** 300
+
+- id: 120
+  question: "A patient is transitioning from a liquid medication to a tablet to assist with medication compliance. The current dose is 20 mL of a 20 mg/mL liquid daily (F = 0.7). What is the equivalent dose of the tablet (F = 0.95), in milligrams, to providing the equivalent dose? Round your answer to the nearest 50 mg."
+  answer: 300
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: 20 mL x 20 mg/mL = 400 mg <br />
+    Target Absorbed = 400 mg x 0.7 = 280 mg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 280 mg / 0.95 = 294.74 mg <br />
+    <br />
+    **Answer:** 300 (Rounded to the nearest 50 mg)
+
+- id: 121
+  question: "A patient is switching from phenytoin sodium capsules to phenytoin oral suspension following the removal of a nasogastric tube. The patient currently takes 200 mg of capsules daily (F = 1.0). What dose of oral suspension (F = 0.8), in milligrams, is required to provide the equivalent daily dose? Round your answer to the nearest 50 mg."
+  answer: 250
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Target Absorbed = 200 mg x 1.0 = 200 mg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 200 mg / 0.8 = 250 mg <br />
+    <br />
+    **Answer:** 250
+
+- id: 122
+  question: "A patient is being transitioned from digoxin 50 microg/mL elixir to tablets prior to discharge from the hospital. The patient is currently prescribed 1.5 mL of the elixir once daily (F = 0.8). What dose of digoxin tablets (F = 0.6), in micrograms, would provide the equivalent amount of drug? Round your answer to the nearest 125 microg."
+  answer: 125
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: 1.5 mL x 50 microg/mL = 75 microg <br />
+    Target Absorbed = 75 microg x 0.8 = 60 microg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 60 microg / 0.6 = 100 microg <br />
+    <br />
+    **Answer:** 125 (Rounded to the nearest available tablet size)
+
+- id: 123
+  question: "A patient requires a switch from 1000 mg of an oral medication daily (F = 0.3) to an intramuscular formulation (F = 0.75). Calculate the equivalent daily IM dose in milligrams. Round your answer to the nearest 100 mg."
+  answer: 400
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Target Absorbed = 1000 mg x 0.3 = 300 mg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 300 mg / 0.75 = 400 mg <br />
+    <br />
+    **Answer:** 400
+
+- id: 124
+  question: "An elderly patient with improved swallowing function is switching from digoxin 50 microg/mL liquid (F = 0.8) to tablets (F = 0.7). The maintenance dose is 4.5 mL of liquid once daily. Calculate the equivalent dose in micrograms for the tablets. Round your answer to the nearest 125 microg."
+  answer: 250
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: 4.5 mL x 50 microg/mL = 225 microg <br />
+    Target Absorbed = 225 microg x 0.8 = 180 microg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 180 microg / 0.7 = 257.14 microg <br />
+    <br />
+    **Answer:** 250 (Rounded to the nearest 125 microg)
+
+- id: 125
+  question: "A patient is transitioning from oral tablets to an IV formulation for a specific clinical procedure. The current oral dose is 800 mg daily (F = 0.5). Calculate the equivalent total daily IV dose (F = 1.0) in milligrams. Round your answer to the nearest 100 mg."
+  answer: 400
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Target Absorbed = 800 mg x 0.5 = 400 mg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 400 mg / 1.0 = 400 mg <br />
+    <br />
+    **Answer:** 400
+
+- id: 126
+  question: "A patient is switching from phenytoin oral suspension to phenytoin sodium capsules to improve dose accuracy at home. The patient currently takes 400 mg of the suspension daily (F = 0.8). What dose of capsules (F = 1.0), in milligrams, is required to provide the equivalent daily dose? Round your answer to the nearest 50 mg."
+  answer: 300
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Target Absorbed = 400 mg x 0.8 = 320 mg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 320 mg / 1.0 = 320 mg <br />
+    <br />
+    **Answer:** 300 (320 is closer to 300 than 350)
+
+- id: 127
+  question: "Following clinical improvement, a patient is switching from digoxin 50 microg/mL elixir (F = 0.85) to tablets (F = 0.7). The maintenance dose is 3 mL of elixir once daily. Calculate the equivalent dose in micrograms for the tablets. Round your answer to the nearest 125 microg."
+  answer: 125
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: 3 mL x 50 microg/mL = 150 microg <br />
+    Target Absorbed = 150 microg x 0.85 = 127.5 microg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 127.5 microg / 0.7 = 182.14 microg <br />
+    <br />
+    **Answer:** 125 (182.14 is closer to 125 than 250)
+
+- id: 128
+  question: "A patient is transitioning from a drug with F = 0.25 to a new formulation with F = 0.5. The original daily dose was 800 mg. Calculate the equivalent new dose in milligrams. Round your answer to the nearest 100 mg."
+  answer: 400
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Target Absorbed = 800 mg x 0.25 = 200 mg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 200 mg / 0.5 = 400 mg <br />
+    <br />
+    **Answer:** 400
+
+- id: 129
+  question: "A patient is transitioning from digoxin 50 microg/mL liquid to tablets following a review of their medication. The patient is currently prescribed 2.2 mL once daily (F = 0.8). What dose of digoxin tablets (F = 0.6), in micrograms, provides the equivalent dose? Round your answer to the nearest 125 microg."
+  answer: 125
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: 2.2 mL x 50 microg/mL = 110 microg <br />
+    Target Absorbed = 110 microg x 0.8 = 88 microg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 88 microg / 0.6 = 146.67 microg <br />
+    <br />
+    **Answer:** 125 (146.67 is closer to 125 than 250)
+
+- id: 130
+  question: "A patient on a respiratory ward is switching from 400 mg oral aminophylline (F = 0.8) daily to an IV infusion (F = 1.0). Calculate the equivalent daily IV dose in milligrams. Round your answer to the nearest 50 mg."
+  answer: 300
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Target Absorbed = 400 mg x 0.8 = 320 mg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 320 mg / 1.0 = 320 mg <br />
+    <br />
+    **Answer:** 300 (320 is closer to 300 than 350)
+
+- id: 131
+  question: "A patient is switching from phenytoin sodium capsules to phenytoin oral suspension to assist with administration. The patient currently takes 500 mg of capsules daily (F = 1.0). What dose of oral suspension (F = 0.8), in milligrams, is required to provide the equivalent dose? Round your answer to the nearest 100 mg."
+  answer: 600
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Target Absorbed = 500 mg x 1.0 = 500 mg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 500 mg / 0.8 = 625 mg <br />
+    <br />
+    **Answer:** 600 (Rounded to the nearest 100 mg)
+
+- id: 132
+  question: "A patient with heart failure is being transitioned from digoxin 50 microg/mL elixir to tablets to improve medication adherence. The current dose is 2.8 mL once daily (F = 0.8). What dose of digoxin tablets (F = 0.6), in micrograms, provides the equivalent dose? Round your answer to the nearest 125 microg."
+  answer: 250
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: 2.8 mL x 50 microg/mL = 140 microg <br />
+    Target Absorbed = 140 microg x 0.8 = 112 microg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 112 microg / 0.6 = 186.67 microg <br />
+    <br />
+    **Answer:** 250 (186.67 is closer to 250 than 125)
+
+- id: 133
+  question: "A patient requires a switch from IV ciclosporin to oral ciclosporin following clinical improvement. The current IV dose is 210 mg daily (F = 1.0). Calculate the equivalent daily oral dose (F = 0.35) in milligrams. Round your answer to the nearest 50 mg."
+  answer: 600
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Target Absorbed = 210 mg x 1.0 = 210 mg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 210 mg / 0.35 = 600 mg <br />
+    <br />
+    **Answer:** 600
+
+- id: 134
+  question: "An elderly patient with improved dysphagia is switching from digoxin 50 microg/mL liquid to tablets. The maintenance dose is 3.8 mL of liquid once daily (F = 0.8). Calculate the equivalent tablet dose (F = 0.6) in micrograms. Round your answer to the nearest 125 microg."
+  answer: 250
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: 3.8 mL x 50 microg/mL = 190 microg <br />
+    Target Absorbed = 190 microg x 0.8 = 152 microg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 152 microg / 0.6 = 253.33 microg <br />
+    <br />
+    **Answer:** 250 (Rounded to the nearest 125 microg)
+
+- id: 135
+  question: "A patient is switched from oral drug Y tablets to an IV version due to clinical deterioration. The current dose is 450 mg daily (F = 0.5). Calculate the equivalent total daily IV dose (F = 1.0) in milligrams. Round your answer to the nearest 50 mg."
+  answer: 250
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Target Absorbed = 450 mg x 0.5 = 225 mg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 225 mg / 1.0 = 225 mg <br />
+    <br />
+    **Answer:** 250 (225 is closer to 250 than 200)
+
+- id: 136
+  question: "A patient is transitioning from digoxin 50 microg/mL elixir to tablets prior to hospital discharge. The current dose is 4.8 mL once daily (F = 0.8). What dose of digoxin tablets (F = 0.6), in micrograms, provides the equivalent dose? Round your answer to the nearest 125 microg."
+  answer: 250
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: 4.8 mL x 50 microg/mL = 240 microg <br />
+    Target Absorbed = 240 microg x 0.8 = 192 microg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 192 microg / 0.6 = 320 microg <br />
+    <br />
+    **Answer:** 250 (320 is closer to 250 than 375)
+
+- id: 137
+  question: "A patient is switching from 150 mg of an oral drug (F = 0.6) to a new formulation with a bioavailability of 0.9. Calculate the equivalent daily dose in milligrams. Round your answer to the nearest 50 mg."
+  answer: 100
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Target Absorbed = 150 mg x 0.6 = 90 mg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 90 mg / 0.9 = 100 mg <br />
+    <br />
+    **Answer:** 100
+
+- id: 138
+  question: "A patient is switching from digoxin 50 microg/mL liquid to tablets following clinical review. The current dose is 3.1 mL daily (F = 0.8). What dose of digoxin tablets (F = 0.6), in micrograms, provides the equivalent dose? Round your answer to the nearest 125 microg."
+  answer: 250
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: 3.1 mL x 50 microg/mL = 155 microg <br />
+    Target Absorbed = 155 microg x 0.8 = 124 microg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 124 microg / 0.6 = 206.67 microg <br />
+    <br />
+    **Answer:** 250 (Rounded to the nearest tablet size)
+
+- id: 139
+  question: "A patient requires a switch from 120 mg of a daily drug (F = 0.75) to an intravenous form (F = 1.0). Calculate the equivalent daily IV dose in milligrams. Round your answer to the nearest 50 mg."
+  answer: 100
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Target Absorbed = 120 mg x 0.75 = 90 mg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 90 mg / 1.0 = 90 mg <br />
+    <br />
+    **Answer:** 100 (90 is closer to 100 than 50)
+
+- id: 140
+  question: "A patient recovers from a clinical complication and is switched from digoxin liquid (F = 0.8) to tablets (F = 0.6). The patient has been taking 5.5 mL of a 50 microg/mL liquid once daily. Calculate the equivalent tablet dose in micrograms. Round your answer to the nearest 125 microg."
+  answer: 375
+  solution: |
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: 5.5 mL x 50 microg/mL = 275 microg <br />
+    Target Absorbed = 275 microg x 0.8 = 220 microg <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    New Dose = 220 microg / 0.6 = 366.67 microg <br />
+    <br />
+    **Answer:** 375 (366.67 is closer to 375 than 250)
