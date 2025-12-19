@@ -6,18 +6,26 @@ document.addEventListener('DOMContentLoaded', () => {
 
     if (!container) return;
 
+    // 1. Start the timer immediately so it isn't blocked by the loop
     let startTime = Date.now();
+    startTimer();
+
     let selectedQuestions = [];
+
+    // 2. A simple "Translator" function to handle bold text (Markdown to HTML)
+    function cleanText(text) {
+        if (!text) return "";
+        // This replaces **text** with <strong>text</strong>
+        return text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+    }
 
     function initTest() {
         let questionIndex = 0;
 
-        // Loop through every file Jekyll found in the folder
         for (let poolName in testData) {
             const questionPool = testData[poolName];
             
-            // SAFETY CHECK: Only proceed if this file is actually a list (Array)
-            // This prevents hidden system files from crashing the script
+            // Only proceed if the file contains a list of questions
             if (Array.isArray(questionPool) && questionPool.length > 0) {
                 
                 const randomIndex = Math.floor(Math.random() * questionPool.length);
@@ -29,25 +37,28 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         }
         
-        // Move startTimer here to ensure it starts even if a file is skipped
-        startTimer();
+        // 3. Draw all math symbols ONCE after the loop is finished
+        if (window.MathJax) {
+            MathJax.typesetPromise([container]);
+        }
     }
 
     function renderQuestionHTML(q, i) {
         const div = document.createElement('div');
         div.className = 'test-question-item';
         div.innerHTML = `
-            <div class="question-text"><strong>Question ${i + 1}:</strong> ${q.question}</div>
+            <div class="question-text">
+                <strong>Question ${i + 1}:</strong> ${cleanText(q.question)}
+            </div>
             <div class="input-area">
                 <input type="number" id="ans-${i}" class="user-test-input" step="any" placeholder="0.0">
             </div>
             <div id="sol-${i}" class="solution-text" style="display:none;">
                 <hr>
-                <strong>Solution:</strong> ${q.solution}
+                <strong>Solution:</strong><br>${cleanText(q.solution)}
             </div>
         `;
         container.appendChild(div);
-        if (window.MathJax) MathJax.typesetPromise([div]);
     }
 
     function startTimer() {
@@ -70,7 +81,6 @@ document.addEventListener('DOMContentLoaded', () => {
             solutionDiv.style.display = 'block';
             inputField.disabled = true;
 
-            // Math checking (allowing for minor rounding differences)
             if (!isNaN(userAns) && Math.abs(userAns - q.answer) < 0.01) {
                 score++;
                 inputField.classList.add('correct-border');
@@ -82,13 +92,13 @@ document.addEventListener('DOMContentLoaded', () => {
         submitBtn.style.display = 'none';
         resultsArea.style.display = 'block';
         
-        // We use window.location.href to "Restart" - it is cleaner than reload
         resultsArea.innerHTML = `
             <h3>Results: ${score} / ${selectedQuestions.length}</h3>
             <p>Finished in: ${timerDisplay.textContent}</p>
-            <button onclick="window.location.href=window.location.href" class="btn">Try Another Set</button>
+            <button onclick="window.location.reload()" class="btn">Try Another Set</button>
         `;
         
+        // Final math draw for the solutions
         if (window.MathJax) MathJax.typesetPromise([container]);
     });
 
