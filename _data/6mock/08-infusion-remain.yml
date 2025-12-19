@@ -1,0 +1,590 @@
+- id: 196
+  question: "A 46-year-old woman weighing 70 kg is prescribed an infusion of Immunoglobulin 10% at a dose of 0.4 g/kg. The infusion rate is set at 0.5 mL/kg/hr for 15 mins, then 1.0 mL/kg/hr for 30 mins, then 2.0 mL/kg/hr for 45 minutes, and finally 4.0 mL/kg/hr for the remainder of the infusion. What is the total infusion duration in minutes if it is infused at the prescribed rate? Round your answer up to the nearest whole minute."
+  answer: 119
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Total drug needed: 70 kg x 0.4 g/kg = 28 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{28 \text{ g}}{10 \text{ g}} \times 100 \text{ mL} = 280 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (15m): 0.5 mL/kg/hr x 70 kg x 0.25 hr = 8.75 mL <br />
+    Phase 2 (30m): 1.0 mL/kg/hr x 70 kg x 0.5 hr = 35.0 mL <br />
+    Phase 3 (45m): 2.0 mL/kg/hr x 70 kg x 0.75 hr = 105.0 mL <br />
+    Total volume delivered in phases = 148.75 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: 280 mL - 148.75 mL = 131.25 mL <br />
+    Final rate: 4.0 mL/kg/hr x 70 kg = 280 mL/hr <br />
+    Remainder time: \( \frac{131.25 \text{ mL}}{280 \text{ mL/hr}} \times 60 \text{ mins} = 28.125 \text{ mins} \) <br />
+    Total duration: 15 + 30 + 45 + 28.125 = 118.125 minutes <br />
+    <br />
+    **Answer:** 119
+
+- id: 197
+  question: "A 62-year-old man weighing 80 kg is prescribed an infusion of Immunoglobulin 5% at a dose of 0.3 g/kg. The infusion rate is set at 1.0 mL/kg/hr for 30 mins, then 2.0 mL/kg/hr for 15 mins, then 3.0 mL/kg/hr for 60 minutes, and finally 5.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 133
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    Total drug needed: 80 kg x 0.3 g/kg = 24 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{24 \text{ g}}{5 \text{ g}} \times 100 \text{ mL} = 480 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (30m): 1.0 mL/kg/hr x 80 kg x 0.5 hr = 40.0 mL <br />
+    Phase 2 (15m): 2.0 mL/kg/hr x 80 kg x 0.25 hr = 40.0 mL <br />
+    Phase 3 (60m): 3.0 mL/kg/hr x 80 kg x 1.0 hr = 240.0 mL <br />
+    Total volume delivered in phases = 320.0 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: 480 mL - 320.0 mL = 160.0 mL <br />
+    Final rate: 5.0 mL/kg/hr x 80 kg = 400 mL/hr <br />
+    Remainder time: \( \frac{160.0 \text{ mL}}{400 \text{ mL/hr}} \times 60 \text{ mins} = 24.0 \text{ mins} \) <br />
+    Total duration: 30 + 15 + 60 + 24 = 129 minutes <br />
+    Wait, let me re-check: 30+15+60=105. 105+24=129. <br />
+    **Answer:** 129
+
+- id: 198
+  question: "A 55-year-old man weighing 90 kg is prescribed an infusion of Immunoglobulin 10% at a dose of 0.5 g/kg. The infusion rate is set at 0.5 mL/kg/hr for 45 mins, then 1.0 mL/kg/hr for 60 mins, then 2.0 mL/kg/hr for 30 minutes, and finally 6.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 154
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    90 kg x 0.5 g/kg = 45 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{45 \text{ g}}{10 \text{ g}} \times 100 \text{ mL} = 450 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (45m): 0.5 x 90 x 0.75 hr = 33.75 mL <br />
+    Phase 2 (60m): 1.0 x 90 x 1.0 hr = 90.0 mL <br />
+    Phase 3 (30m): 2.0 x 90 x 0.5 hr = 90.0 mL <br />
+    Total volume delivered in phases = 213.75 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: 450 mL - 213.75 mL = 236.25 mL <br />
+    Final rate: 6.0 x 90 = 540 mL/hr <br />
+    Remainder time: \( \frac{236.25 \text{ mL}}{540 \text{ mL/hr}} \times 60 \text{ mins} = 26.25 \text{ mins} \) <br />
+    Total duration: 45 + 60 + 30 + 26.25 = 161.25 minutes <br />
+    <br />
+    **Answer:** 162
+
+- id: 199
+  question: "A 32-year-old woman weighing 65 kg is prescribed an infusion of Immunoglobulin 10% at a dose of 0.4 g/kg. The infusion rate is set at 1.0 mL/kg/hr for 15 mins, then 2.0 mL/kg/hr for 45 mins, then 4.0 mL/kg/hr for 30 minutes, and finally 10.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 96
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    65 kg x 0.4 g/kg = 26 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{26 \text{ g}}{10 \text{ g}} \times 100 \text{ mL} = 260 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (15m): 1.0 x 65 x 0.25 hr = 16.25 mL <br />
+    Phase 2 (45m): 2.0 x 65 x 0.75 hr = 97.5 mL <br />
+    Phase 3 (30m): 4.0 x 65 x 0.5 hr = 130.0 mL <br />
+    Total volume delivered in phases = 243.75 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: 260 mL - 243.75 mL = 16.25 mL <br />
+    Final rate: 10.0 x 65 = 650 mL/hr <br />
+    Remainder time: \( \frac{16.25 \text{ mL}}{650 \text{ mL/hr}} \times 60 \text{ mins} = 1.5 \text{ mins} \) <br />
+    Total duration: 15 + 45 + 30 + 1.5 = 91.5 minutes <br />
+    <br />
+    **Answer:** 92
+
+- id: 200
+  question: "A 50-year-old lady weighing 84 kg is prescribed an infusion of Immunoglobulin 5% at a dose of 0.2 g/kg. The infusion rate is set at 0.5 mL/kg/hr for 60 mins, then 1.0 mL/kg/hr for 30 mins, and finally 2.5 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 171
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    84 kg x 0.2 g/kg = 16.8 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{16.8 \text{ g}}{5 \text{ g}} \times 100 \text{ mL} = 336 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (60m): 0.5 x 84 x 1.0 hr = 42.0 mL <br />
+    Phase 2 (30m): 1.0 x 84 x 0.5 hr = 42.0 mL <br />
+    Total volume delivered in phases = 84.0 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: 336 mL - 84.0 mL = 252.0 mL <br />
+    Final rate: 2.5 x 84 = 210 mL/hr <br />
+    Remainder time: \( \frac{252.0 \text{ mL}}{210 \text{ mL/hr}} \times 60 \text{ mins} = 72.0 \text{ mins} \) <br />
+    Total duration: 60 + 30 + 72 = 162 minutes <br />
+    <br />
+    **Answer:** 162
+
+- id: 201
+  question: "A 44-year-old man weighing 72 kg is prescribed an infusion of Immunoglobulin 10% at a dose of 0.5 g/kg. The rate is set at 1.2 mL/kg/hr for 15 mins, then 2.4 mL/kg/hr for 15 mins, then 4.8 mL/kg/hr for 45 minutes, and finally 8.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 104
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    72 kg x 0.5 g/kg = 36 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{36 \text{ g}}{10 \text{ g}} \times 100 \text{ mL} = 360 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (15m): 1.2 x 72 x 0.25 hr = 21.6 mL <br />
+    Phase 2 (15m): 2.4 x 72 x 0.25 hr = 43.2 mL <br />
+    Phase 3 (45m): 4.8 x 72 x 0.75 hr = 259.2 mL <br />
+    Total volume delivered in phases = 324.0 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: 360 mL - 324.0 mL = 36.0 mL <br />
+    Final rate: 8.0 x 72 = 576 mL/hr <br />
+    Remainder time: \( \frac{36.0 \text{ mL}}{576 \text{ mL/hr}} \times 60 \text{ mins} = 3.75 \text{ mins} \) <br />
+    Total duration: 15 + 15 + 45 + 3.75 = 78.75 minutes <br />
+    <br />
+    **Answer:** 79
+
+- id: 202
+  question: "An 80-year-old man weighing 75 kg is prescribed an infusion of Immunoglobulin 10% at a dose of 0.35 g/kg. The rate is set at 0.5 mL/kg/hr for 30 mins, then 1.0 mL/kg/hr for 60 mins, then 2.0 mL/kg/hr for 15 minutes, and finally 5.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 133
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    75 kg x 0.35 g/kg = 26.25 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{26.25 \text{ g}}{10 \text{ g}} \times 100 \text{ mL} = 262.5 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (30m): 0.5 x 75 x 0.5 = 18.75 mL <br />
+    Phase 2 (60m): 1.0 x 75 x 1.0 = 75.0 mL <br />
+    Phase 3 (15m): 2.0 x 75 x 0.25 = 37.5 mL <br />
+    Total volume delivered in phases = 131.25 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: 262.5 - 131.25 = 131.25 mL <br />
+    Final rate: 5.0 x 75 = 375 mL/hr <br />
+    Remainder time: \( \frac{131.25 \text{ mL}}{375 \text{ mL/hr}} \times 60 \text{ mins} = 21 \text{ mins} \) <br />
+    Total duration: 30 + 60 + 15 + 21 = 126 minutes <br />
+    <br />
+    **Answer:** 126
+
+- id: 203
+  question: "A 38-year-old woman weighing 55 kg is prescribed Immunoglobulin 10%, 0.6 g/kg. Rate: 0.8 mL/kg/hr for 30 mins, then 1.6 mL/kg/hr for 30 mins, then 3.2 mL/kg/hr for 30 minutes, then 8.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 129
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    55 kg x 0.6 g/kg = 33 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{33 \text{ g}}{10 \text{ g}} \times 100 \text{ mL} = 330 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (30m): 0.8 x 55 x 0.5 = 22.0 mL <br />
+    Phase 2 (30m): 1.6 x 55 x 0.5 = 44.0 mL <br />
+    Phase 3 (30m): 3.2 x 55 x 0.5 = 88.0 mL <br />
+    Total volume delivered in phases = 154.0 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: 330.0 - 154.0 = 176.0 mL <br />
+    Final rate: 8.0 x 55 = 440 mL/hr <br />
+    Remainder time: \( \frac{176.0 \text{ mL}}{440 \text{ mL/hr}} \times 60 \text{ mins} = 24.0 \text{ mins} \) <br />
+    Total duration: 30 + 30 + 30 + 24 = 114 minutes <br />
+    <br />
+    **Answer:** 114
+
+- id: 204
+  question: "A 66-year-old man weighing 82 kg is prescribed Immunoglobulin 10%, 0.3 g/kg. Rate: 1.0 mL/kg/hr for 60 mins, and finally 4.0 mL/kg/hr for the remainder of the infusion. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 99
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    82 kg x 0.3 g/kg = 24.6 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{24.6 \text{ g}}{10 \text{ g}} \times 100 \text{ mL} = 246 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (60m): 1.0 x 82 x 1.0 hr = 82.0 mL <br />
+    Total volume delivered in phases = 82.0 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: 246.0 - 82.0 = 164.0 mL <br />
+    Final rate: 4.0 x 82 = 328 mL/hr <br />
+    Remainder time: \( \frac{164.0 \text{ mL}}{328 \text{ mL/hr}} \times 60 \text{ mins} = 30.0 \text{ mins} \) <br />
+    Total duration: 60 + 30 = 90 minutes <br />
+    <br />
+    **Answer:** 90
+
+- id: 205
+  question: "A 48-year-old woman weighing 50 kg is prescribed Immunoglobulin 10%, 0.45 g/kg. Rate: 1.5 mL/kg/hr for 15 mins, then 3.0 mL/kg/hr for 15 mins, then 6.0 mL/kg/hr for 15 minutes, and finally 10.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 72
+  solution: |
+    **Step 1: Dose** = 22.5 g. **Step 2: Vol** = 225 mL. <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (15m): 1.5 x 50 x 0.25 = 18.75 mL <br />
+    Phase 2 (15m): 3.0 x 50 x 0.25 = 37.5 mL <br />
+    Phase 3 (15m): 6.0 x 50 x 0.25 = 75.0 mL <br />
+    Total volume delivered in phases = 131.25 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining: 225 - 131.25 = 93.75 mL <br />
+    Final rate: 10.0 x 50 = 500 mL/hr <br />
+    Remainder time: \( \frac{93.75 \text{ mL}}{500 \text{ mL/hr}} \times 60 \text{ mins} = 11.25 \text{ mins} \) <br />
+    Total duration: 15 + 15 + 15 + 11.25 = 56.25 minutes <br />
+    <br />
+    **Answer:** 57
+
+- id: 206
+  question: "A 74-year-old man weighing 75 kg is prescribed Immunoglobulin 10%, 0.4 g/kg. Rate: 0.5 mL/kg/hr for 30 mins, then 1.0 mL/kg/hr for 30 mins, then 2.0 mL/kg/hr for 30 minutes, and finally 5.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 114
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    75 kg x 0.4 g/kg = 30 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{30 \text{ g}}{10 \text{ g}} \times 100 \text{ mL} = 300 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (30m): 0.5 x 75 x 0.5 = 18.75 mL <br />
+    Phase 2 (30m): 1.0 x 75 x 0.5 = 37.5 mL <br />
+    Phase 3 (30m): 2.0 x 75 x 0.5 = 75.0 mL <br />
+    Total volume delivered in phases = 131.25 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining: 300 - 131.25 = 168.75 mL <br />
+    Final rate: 5.0 x 75 = 375 mL/hr <br />
+    Remainder time: \( \frac{168.75 \text{ mL}}{375 \text{ mL/hr}} \times 60 \text{ mins} = 27.0 \text{ mins} \) <br />
+    Total duration: 30 + 30 + 30 + 27 = 117 minutes <br />
+    <br />
+    **Answer:** 117
+
+- id: 207
+  question: "A 42-year-old lady weighing 62 kg is prescribed Immunoglobulin 10%, 0.35 g/kg. Rate: 1.2 mL/kg/hr for 60 mins, and finally 8.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 104
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    62 kg x 0.35 g/kg = 21.7 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{21.7 \text{ g}}{10 \text{ g}} \times 100 \text{ mL} = 217 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (60m): 1.2 x 62 x 1.0 hr = 74.4 mL <br />
+    Total volume delivered in phases = 74.4 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining: 217 - 74.4 = 142.6 mL <br />
+    Final rate: 8.0 x 62 = 496 mL/hr <br />
+    Remainder time: \( \frac{142.6 \text{ mL}}{496 \text{ mL/hr}} \times 60 \text{ mins} = 17.25 \text{ mins} \) <br />
+    Total duration: 60 + 17.25 = 77.25 minutes <br />
+    <br />
+    **Answer:** 78
+
+- id: 208
+  question: "An 82-year-old man weighing 75 kg is prescribed Immunoglobulin 5%, 0.5 g/kg. Rate: 0.5 mL/kg/hr for 30 mins, then 1.0 mL/kg/hr for 30 mins, then 2.0 mL/kg/hr for 30 minutes, and finally 4.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 265
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    75 kg x 0.5 g/kg = 37.5 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{37.5 \text{ g}}{5 \text{ g}} \times 100 \text{ mL} = 750 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (30m): 0.5 x 75 x 0.5 = 18.75 mL <br />
+    Phase 2 (30m): 1.0 x 75 x 0.5 = 37.5 mL <br />
+    Phase 3 (30m): 2.0 x 75 x 0.5 = 75.0 mL <br />
+    Total volume delivered in phases = 131.25 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining: 750 - 131.25 = 618.75 mL <br />
+    Final rate: 4.0 x 75 = 300 mL/hr <br />
+    Remainder time: \( \frac{618.75 \text{ mL}}{300 \text{ mL/hr}} \times 60 \text{ mins} = 123.75 \text{ mins} \) <br />
+    Total duration: 30 + 30 + 30 + 123.75 = 213.75 minutes <br />
+    <br />
+    **Answer:** 214
+
+- id: 209
+  question: "A 51-year-old woman weighing 88 kg is prescribed Immunoglobulin 10%, 0.3 g/kg. Rate: 0.8 mL/kg/hr for 15 mins, then 1.6 mL/kg/hr for 45 mins, then 3.2 mL/kg/hr for 30 minutes, and finally 5.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 100
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    88 kg x 0.3 g/kg = 26.4 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{26.4 \text{ g}}{10 \text{ g}} \times 100 \text{ mL} = 264 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (15m): 0.8 x 88 x 0.25 = 17.6 mL <br />
+    Phase 2 (45m): 1.6 x 88 x 0.75 = 105.6 mL <br />
+    Phase 3 (30m): 3.2 x 88 x 0.5 = 140.8 mL <br />
+    Total volume delivered in first 60 mins (P1+P2) = 123.2 mL <br />
+    Total volume delivered in first 90 mins (P1+P2+P3) = 264 mL <br />
+    *Note: The infusion finishes exactly at the end of Phase 3.* <br />
+    <br />
+    **Step 4: Total Time** <br />
+    Total duration: 15 + 45 + 30 = 90 minutes <br />
+    <br />
+    **Answer:** 90
+
+- id: 210
+  question: "A 60-year-old man weighing 80 kg is prescribed Immunoglobulin 5%, 0.4 g/kg. Rate: 0.5 mL/kg/hr for 45 mins, then 1.0 mL/kg/hr for 15 mins, then 2.5 mL/kg/hr for 30 minutes, and finally 5.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 135
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    80 kg x 0.4 g/kg = 32 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{32 \text{ g}}{5 \text{ g}} \times 100 \text{ mL} = 640 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (45m): 0.5 x 80 x 0.75 = 30.0 mL <br />
+    Phase 2 (15m): 1.0 x 80 x 0.25 = 20.0 mL <br />
+    Phase 3 (30m): 2.5 x 80 x 0.5 = 100.0 mL <br />
+    Total volume delivered in phases = 150.0 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining: 640 - 150 = 490.0 mL <br />
+    Final rate: 5.0 x 80 = 400 mL/hr <br />
+    Remainder time: \( \frac{490.0 \text{ mL}}{400 \text{ mL/hr}} \times 60 \text{ mins} = 73.5 \text{ mins} \) <br />
+    Total duration: 45 + 15 + 30 + 73.5 = 163.5 minutes <br />
+    <br />
+    **Answer:** 164
+
+- id: 211
+  question: "A 47-year-old man weighing 84 kg is prescribed Immunoglobulin 10%, 0.5 g/kg. Rate: 1.2 mL/kg/hr for 30 mins, then 2.4 mL/kg/hr for 30 mins, then 4.8 mL/kg/hr for 30 minutes, and finally 8.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 122
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    84 kg x 0.5 g/kg = 42 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{42 \text{ g}}{10 \text{ g}} \times 100 \text{ mL} = 420 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (30m): 1.2 x 84 x 0.5 = 50.4 mL <br />
+    Phase 2 (30m): 2.4 x 84 x 0.5 = 100.8 mL <br />
+    Phase 3 (30m): 4.8 x 84 x 0.5 = 201.6 mL <br />
+    Total volume delivered in phases = 352.8 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining: 420 - 352.8 = 67.2 mL <br />
+    Final rate: 8.0 x 84 = 672 mL/hr <br />
+    Remainder time: \( \frac{67.2 \text{ mL}}{672 \text{ mL/hr}} \times 60 \text{ mins} = 6.0 \text{ mins} \) <br />
+    Total duration: 30 + 30 + 30 + 6 = 96 minutes <br />
+    <br />
+    **Answer:** 96
+
+- id: 212
+  question: "A 58-year-old lady weighing 70 kg is prescribed Immunoglobulin 10%, 0.45 g/kg. Rate: 0.6 mL/kg/hr for 15 mins, then 1.2 mL/kg/hr for 45 mins, then 2.4 mL/kg/hr for 60 minutes, and finally 6.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 133
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    70 kg x 0.45 g/kg = 31.5 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{31.5 \text{ g}}{10 \text{ g}} \times 100 \text{ mL} = 315 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (15m): 0.6 x 70 x 0.25 = 10.5 mL <br />
+    Phase 2 (45m): 1.2 x 70 x 0.75 = 63.0 mL <br />
+    Phase 3 (60m): 2.4 x 70 x 1.0 = 168.0 mL <br />
+    Total volume delivered in phases = 241.5 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining: 315 - 241.5 = 73.5 mL <br />
+    Final rate: 6.0 x 70 = 420 mL/hr <br />
+    Remainder time: \( \frac{73.5 \text{ mL}}{420 \text{ mL/hr}} \times 60 \text{ mins} = 10.5 \text{ mins} \) <br />
+    Total duration: 15 + 45 + 60 + 10.5 = 130.5 minutes <br />
+    <br />
+    **Answer:** 131
+
+- id: 213
+  question: "A 65-year-old man weighing 75 kg is prescribed Immunoglobulin 5%, 0.25 g/kg. Rate: 1.0 mL/kg/hr for 30 mins, then 2.0 mL/kg/hr for 30 mins, then 3.0 mL/kg/hr for 30 minutes, and finally 5.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 112
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    75 kg x 0.25 g/kg = 18.75 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{18.75 \text{ g}}{5 \text{ g}} \times 100 \text{ mL} = 375 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (30m): 1.0 x 75 x 0.5 = 37.5 mL <br />
+    Phase 2 (30m): 2.0 x 75 x 0.5 = 75.0 mL <br />
+    Phase 3 (30m): 3.0 x 75 x 0.5 = 112.5 mL <br />
+    Total volume delivered in phases = 225.0 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining: 375 - 225 = 150.0 mL <br />
+    Final rate: 5.0 x 75 = 375 mL/hr <br />
+    Remainder time: \( \frac{150.0 \text{ mL}}{375 \text{ mL/hr}} \times 60 \text{ mins} = 24.0 \text{ mins} \) <br />
+    Total duration: 30 + 30 + 30 + 24 = 114 minutes <br />
+    <br />
+    **Answer:** 114
+
+- id: 214
+  question: "A 44-year-old woman weighing 56 kg is prescribed Immunoglobulin 10%, 0.5 g/kg. Rate: 0.8 mL/kg/hr for 15 mins, then 1.6 mL/kg/hr for 30 mins, then 3.2 mL/kg/hr for 60 minutes, and finally 6.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 135
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    56 kg x 0.5 g/kg = 28 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{28 \text{ g}}{10 \text{ g}} \times 100 \text{ mL} = 280 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (15m): 0.8 x 56 x 0.25 = 11.2 mL <br />
+    Phase 2 (30m): 1.6 x 56 x 0.5 = 44.8 mL <br />
+    Phase 3 (60m): 3.2 x 56 x 1.0 = 179.2 mL <br />
+    Total volume delivered in phases = 235.2 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining: 280 - 235.2 = 44.8 mL <br />
+    Final rate: 6.0 x 56 = 336 mL/hr <br />
+    Remainder time: \( \frac{44.8 \text{ mL}}{336 \text{ mL/hr}} \times 60 \text{ mins} = 8.0 \text{ mins} \) <br />
+    Total duration: 15 + 30 + 60 + 8 = 113 minutes <br />
+    <br />
+    **Answer:** 113
+
+- id: 215
+  question: "An 82-year-old man weighing 85 kg is prescribed Immunoglobulin 10%, 0.4 g/kg. Rate: 1.0 mL/kg/hr for 30 mins, then 2.0 mL/kg/hr for 45 mins, then 4.0 mL/kg/hr for 15 minutes, and finally 8.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 110
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    85 kg x 0.4 g/kg = 34 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{34 \text{ g}}{10 \text{ g}} \times 100 \text{ mL} = 340 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (30m): 1.0 x 85 x 0.5 = 42.5 mL <br />
+    Phase 2 (45m): 2.0 x 85 x 0.75 = 127.5 mL <br />
+    Phase 3 (15m): 4.0 x 85 x 0.25 = 85.0 mL <br />
+    Total volume delivered in phases = 255.0 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining: 340 - 255 = 85.0 mL <br />
+    Final rate: 8.0 x 85 = 680 mL/hr <br />
+    Remainder time: \( \frac{85.0 \text{ mL}}{680 \text{ mL/hr}} \times 60 \text{ mins} = 7.5 \text{ mins} \) <br />
+    Total duration: 30 + 45 + 15 + 7.5 = 97.5 minutes <br />
+    <br />
+    **Answer:** 98
+
+- id: 216
+  question: "A 51-year-old woman weighing 88 kg is prescribed Immunoglobulin 10%, 0.55 g/kg. Rate: 0.5 mL/kg/hr for 60 mins, then 1.0 mL/kg/hr for 60 mins, then 2.0 mL/kg/hr for 60 minutes, and finally 4.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 125
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    88 kg x 0.55 g/kg = 48.4 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{48.4 \text{ g}}{10 \text{ g}} \times 100 \text{ mL} = 484 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (60m): 0.5 x 88 x 1.0 = 44.0 mL <br />
+    Phase 2 (60m): 1.0 x 88 x 1.0 = 88.0 mL <br />
+    Phase 3 (60m): 2.0 x 88 x 1.0 = 176.0 mL <br />
+    Total volume delivered in phases = 308.0 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining: 484 - 308 = 176.0 mL <br />
+    Final rate: 4.0 x 88 = 352 mL/hr <br />
+    Remainder time: \( \frac{176.0 \text{ mL}}{352 \text{ mL/hr}} \times 60 \text{ mins} = 30.0 \text{ mins} \) <br />
+    Total duration: 60 + 60 + 60 + 30 = 210 minutes <br />
+    <br />
+    **Answer:** 210
+
+- id: 217
+  question: "A 38-year-old woman weighing 65 kg is prescribed Immunoglobulin 10%, 0.3 g/kg. Rate: 1.2 mL/kg/hr for 30 mins, then 2.4 mL/kg/hr for 15 mins, and finally 5.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 130
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    65 kg x 0.3 g/kg = 19.5 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{19.5 \text{ g}}{10 \text{ g}} \times 100 \text{ mL} = 195 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (30m): 1.2 x 65 x 0.5 = 39.0 mL <br />
+    Phase 2 (15m): 2.4 x 65 x 0.25 = 39.0 mL <br />
+    Total volume delivered in phases = 78.0 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining: 195 - 78 = 117.0 mL <br />
+    Final rate: 5.0 x 65 = 325 mL/hr <br />
+    Remainder time: \( \frac{117.0 \text{ mL}}{325 \text{ mL/hr}} \times 60 \text{ mins} = 21.6 \text{ mins} \) <br />
+    Total duration: 30 + 15 + 21.6 = 66.6 minutes <br />
+    <br />
+    **Answer:** 67
+
+- id: 218
+  question: "A 88-year-old woman weighing 42 kg is prescribed Immunoglobulin 10%, 0.35 g/kg. Rate: 0.5 mL/kg/hr for 15 mins, then 1.0 mL/kg/hr for 30 mins, then 2.0 mL/kg/hr for 45 minutes, and finally 4.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 110
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    42 kg x 0.35 g/kg = 14.7 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{14.7 \text{ g}}{10 \text{ g}} \times 100 \text{ mL} = 147 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (15m): 0.5 x 42 x 0.25 = 5.25 mL <br />
+    Phase 2 (30m): 1.0 x 42 x 0.5 = 21.0 mL <br />
+    Phase 3 (45m): 2.0 x 42 x 0.75 = 63.0 mL <br />
+    Total volume delivered in phases = 89.25 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining: 147 - 89.25 = 57.75 mL <br />
+    Final rate: 4.0 x 42 = 168 mL/hr <br />
+    Remainder time: \( \frac{57.75 \text{ mL}}{168 \text{ mL/hr}} \times 60 \text{ mins} = 20.625 \text{ mins} \) <br />
+    Total duration: 15 + 30 + 45 + 20.625 = 110.625 minutes <br />
+    <br />
+    **Answer:** 111
+
+- id: 219
+  question: "A 74-year-old man weighing 75 kg is prescribed Immunoglobulin 10%, 0.45 g/kg. Rate: 1.0 mL/kg/hr for 45 mins, then 2.0 mL/kg/hr for 45 mins, then 4.0 mL/kg/hr for 45 minutes, and finally 8.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 165
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    75 kg x 0.45 g/kg = 33.75 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{33.75 \text{ g}}{10 \text{ g}} \times 100 \text{ mL} = 337.5 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (45m): 1.0 x 75 x 0.75 = 56.25 mL <br />
+    Phase 2 (45m): 2.0 x 75 x 0.75 = 112.5 mL <br />
+    Phase 3 (45m): 4.0 x 75 x 0.75 = 225.0 mL <br />
+    Total volume delivered in phases 1 and 2 = 168.75 mL <br />
+    Total volume needed = 337.5 mL <br />
+    *Note: Infusion reaches the fourth phase.* <br />
+    Total volume delivered in phases 1, 2, and 3 = 393.75 mL. <br />
+    Wait, let me recalculate: 56.25 + 112.5 = 168.75. 337.5 - 168.75 = 168.75. <br />
+    Infusion ends during Phase 3. <br />
+    Rate Phase 3: 4 x 75 = 300 mL/hr. <br />
+    Remainder Time Phase 3: \( \frac{168.75 \text{ mL}}{300 \text{ mL/hr}} \times 60 \text{ mins} = 33.75 \text{ mins} \) <br />
+    Total duration: 45 + 45 + 33.75 = 123.75 minutes <br />
+    <br />
+    **Answer:** 124
+
+- id: 220
+  question: "A 48-year-old woman weighing 50 kg is prescribed Immunoglobulin 10%, 0.55 g/kg. Rate: 0.8 mL/kg/hr for 60 mins, then 1.6 mL/kg/hr for 60 mins, then 3.2 mL/kg/hr for 60 minutes, and finally 6.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
+  answer: 218
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    50 kg x 0.55 g/kg = 27.5 g <br />
+    <br />
+    **Step 2: Total Volume (Supplied In)** <br />
+    \( \frac{27.5 \text{ g}}{10 \text{ g}} \times 100 \text{ mL} = 275 \text{ mL} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (60m): 0.8 x 50 x 1.0 hr = 40.0 mL <br />
+    Phase 2 (60m): 1.6 x 50 x 1.0 hr = 80.0 mL <br />
+    Phase 3 (60m): 3.2 x 50 x 1.0 hr = 160.0 mL <br />
+    Total volume delivered in phases 1 and 2 = 120.0 mL <br />
+    Remainder after Phase 2 = 155.0 mL <br />
+    Phase 3 rate = 160.0 mL/hr <br />
+    Remainder time in Phase 3: \( \frac{155.0 \text{ mL}}{160.0 \text{ mL/hr}} \times 60 \text{ mins} = 58.125 \text{ mins} \) <br />
+    Total duration: 60 + 60 + 58.125 = 178.125 minutes <br />
+    <br />
+    **Answer:** 179
