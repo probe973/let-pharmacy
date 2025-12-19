@@ -1,0 +1,40 @@
+# _config.yml
+
+# Site Settings
+title:            Pharmacy Calculations
+description:      Workshops and quizzes to practice calculations in pharmacy
+author:           UEA
+
+baseurl:          "/let-pharmacy"
+
+url:              "https://probe973.github.io/let-pharmacy"
+
+# Jekyll Build Settings
+markdown:         kramdown
+highlighter:      rouge
+plugins:
+  # No SEO plugins needed.
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  math_engine: mathjax
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - LICENSE.md
+  - README.md
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
