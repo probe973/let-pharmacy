@@ -253,3 +253,89 @@ input::-webkit-inner-spin-button {
 input[type=number] {
     -moz-appearance: textfield;
 }
+
+/* --- Test Mode Styles --- */
+
+/* 1. Remove numerical up/down arrows for a cleaner AAA UI */
+.user-test-input::-webkit-outer-spin-button,
+.user-test-input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.user-test-input {
+    -moz-appearance: textfield; /* For Firefox */
+    font-size: 1.2rem;
+    padding: 10px;
+    border: 2px solid var(--scrub-green-dark);
+    border-radius: 4px;
+    width: 150px;
+    margin-top: 10px;
+}
+
+/* 2. Individual Question Blocks */
+.test-question-item {
+    background-color: #ffffff;
+    border: 1px solid #ccc;
+    border-left: 8px solid var(--scrub-green-dark);
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.question-text {
+    font-size: 1.2rem;
+    line-height: 1.5;
+    margin-bottom: 1rem;
+    color: var(--text-main);
+}
+
+/* 3. Status Bar (Timer and Count) */
+.test-status-bar {
+    display: flex;
+    justify-content: space-between;
+    background-color: var(--scrub-green-light);
+    color: var(--scrub-green-dark);
+    padding: 1rem;
+    margin-bottom: 2rem;
+    border-radius: 4px;
+    font-weight: bold;
+    border: 1px solid var(--scrub-green-dark);
+}
+
+/* 4. Feedback Borders (Correct/Incorrect) */
+/* Green contrast: 4.5:1 minimum */
+.correct-border {
+    border: 3px solid #2e7d32 !important;
+    background-color: #e8f5e9;
+}
+
+/* Red contrast: 4.5:1 minimum */
+.incorrect-border {
+    border: 3px solid #d32f2f !important;
+    background-color: #ffebee;
+}
+
+/* 5. Solution Boxes */
+.solution-text {
+    margin-top: 1.5rem;
+    padding: 1rem;
+    background-color: #fff9c4; /* Soft yellow for visibility */
+    border-radius: 4px;
+    color: #333;
+}
+
+/* 6. Results Box */
+.final-results-box {
+    margin-top: 2rem;
+    padding: 2rem;
+    background-color: var(--scrub-green-dark);
+    color: white;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.final-results-box h3 {
+    margin-top: 0;
+    font-size: 2rem;
+}
