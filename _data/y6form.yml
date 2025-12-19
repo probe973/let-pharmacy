@@ -1,449 +1,374 @@
+# SECTION 1: WARFARIN - CALCULATING 1MG TABLETS (IDs 1-20)
 - id: 1
-  question: "A male patient has a prescription for warfarin 1mg tablets with the directions 'Take 4 mg and 5 mg on alternating days', but the quantity is missing. You have 1 mg and 3 mg warfarin tablets available to make up the required dose. Assuming that his INR remains stable, what is the exact number of warfarin 1mg tablets that would be required for a 28-day supply alongside a sufficient supply of 3 mg tablets?"
+  question: "A male patient has a prescription for warfarin 1mg tablets with the directions 'Take 4 mg and 5 mg on alternating days'. You have 1 mg and 3 mg warfarin tablets available. What is the exact number of 1 mg tablets required for a 28-day supply alongside sufficient 3 mg tablets?"
   answer: 42
   solution: |
-    **Step 1: Determine the 1mg tablets needed for each individual dose** <br />
-    To minimize the total number of tablets, we use the 3mg strength as the base: <br />
-    - On 4mg days: One 3mg tablet + One 1mg tablet (1 x 1mg tablet needed). <br />
-    - On 5mg days: One 3mg tablet + Two 1mg tablets (2 x 1mg tablets needed). <br />
-    <br />
-    **Step 2: Calculate for the 28-day period (14 days of each dose)** <br />
-    - Total for 4mg days: \( 1 \text{ tablet} \times 14 \text{ days} = 14 \) tablets. <br />
-    - Total for 5mg days: \( 2 \text{ tablets} \times 14 \text{ days} = 28 \) tablets. <br />
-    <br />
-    **Total 1mg tablets required:** \( 14 + 28 = 42 \).
+    **Step 1:** 4mg dose = one 3mg + one 1mg. 5mg dose = one 3mg + two 1mg. <br />
+    **Step 2:** (1 x 14 days) + (2 x 14 days) = 14 + 28 = 42.
 
 - id: 2
-  question: "A female patient is prescribed warfarin with the directions 'Take 2 mg and 3 mg on alternating days'. You have 1 mg and 3 mg tablets available. What is the exact number of warfarin 1mg tablets required for a 28-day supply alongside the necessary 3 mg tablets?"
+  question: "A female patient is prescribed 'Take 2 mg and 3 mg on alternating days'. You have 1 mg and 3 mg tablets. How many 1mg tablets are needed for a 28-day supply alongside sufficient 3 mg tablets?"
   answer: 28
   solution: |
-    **Step 1: Determine the 1mg tablets needed for each individual dose** <br />
-    - On 2mg days: Two 1mg tablets (2 x 1mg tablets needed). <br />
-    - On 3mg days: One 3mg tablet (0 x 1mg tablets needed). <br />
-    <br />
-    **Step 2: Calculate for the 28-day period (14 days of each dose)** <br />
-    - Total for 2mg days: \( 2 \text{ tablets} \times 14 \text{ days} = 28 \) tablets. <br />
-    - Total for 3mg days: \( 0 \text{ tablets} \times 14 \text{ days} = 0 \) tablets. <br />
-    <br />
-    **Total 1mg tablets required:** \( 28 + 0 = 28 \).
+    **Step 1:** 2mg dose = two 1mg. 3mg dose = one 3mg (zero 1mg). <br />
+    **Step 2:** (2 x 14) + (0 x 14) = 28.
 
 - id: 3
   question: "A male patient requires 'Take 1 mg and 2 mg on alternating days'. You have 1 mg and 3 mg tablets available. How many 1mg tablets are needed for a 28-day supply?"
   answer: 42
   solution: |
-    **Step 1: Determine the 1mg tablets needed for each dose** <br />
-    - On 1mg days: One 1mg tablet. <br />
-    - On 2mg days: Two 1mg tablets. <br />
-    <br />
-    **Step 2: Calculate for 28 days** <br />
-    - 1mg days: \( 1 \times 14 = 14 \). <br />
-    - 2mg days: \( 2 \times 14 = 28 \). <br />
-    **Total 1mg tablets required:** \( 14 + 28 = 42 \).
+    **Step 1:** 1mg days = one 1mg. 2mg days = two 1mg. <br />
+    **Step 2:** (1 x 14) + (2 x 14) = 42.
 
 - id: 4
-  question: "A female patient is prescribed '7 mg and 8 mg on alternating days'. You have 1 mg and 3 mg tablets available. Calculate the total number of 1mg tablets required for a 28-day supply alongside sufficient 3 mg tablets."
+  question: "A female patient is prescribed '7 mg and 8 mg on alternating days'. You have 1 mg and 3 mg tablets available. Calculate the total number of 1mg tablets required for a 28-day supply."
   answer: 42
   solution: |
-    **Step 1: Determine the 1mg tablets needed per dose** <br />
-    - On 7mg days: Two 3mg tablets + One 1mg tablet (1 needed). <br />
-    - On 8mg days: Two 3mg tablets + Two 1mg tablets (2 needed). <br />
-    <br />
-    **Step 2: Calculate for 28 days** <br />
-    - 7mg days: \( 1 \times 14 = 14 \). <br />
-    - 8mg days: \( 2 \times 14 = 28 \). <br />
-    **Total 1mg tablets required:** \( 14 + 28 = 42 \).
+    **Step 1:** 7mg = (2x3mg) + 1mg. 8mg = (2x3mg) + 2mg. <br />
+    **Step 2:** (1 x 14) + (2 x 14) = 42.
 
 - id: 5
   question: "A male patient is taking '5 mg and 6 mg on alternating days'. Using 1 mg and 3 mg tablets, how many 1mg tablets are required for a 28-day supply?"
   answer: 28
   solution: |
-    **Step 1: Determine 1mg tablet usage** <br />
-    - 5mg dose: One 3mg + Two 1mg (2 needed). <br />
-    - 6mg dose: Two 3mg tablets (0 needed). <br />
-    <br />
-    **Step 2: Calculate for 28 days** <br />
-    - Total: \( (2 \times 14) + (0 \times 14) = 28 \).
+    **Step 1:** 5mg = (1x3mg) + 2mg. 6mg = (2x3mg) + 0mg. <br />
+    **Step 2:** (2 x 14) + (0 x 14) = 28.
 
 - id: 6
-  question: "A female patient takes '4 mg and 7 mg on alternating days'. You have 1 mg and 3 mg tablets available. What is the total requirement of 1mg tablets for 28 days?"
+  question: "A female patient takes '4 mg and 7 mg on alternating days'. You have 1 mg and 3 mg tablets. What is the total requirement of 1mg tablets for 28 days?"
   answer: 28
   solution: |
-    **Step 1: Determine 1mg tablet usage** <br />
-    - 4mg dose: One 3mg + One 1mg (1 needed). <br />
-    - 7mg dose: Two 3mg + One 1mg (1 needed). <br />
-    <br />
-    **Step 2: Calculate for 28 days** <br />
-    - Total: \( (1 \times 14) + (1 \times 14) = 28 \).
+    **Step 1:** 4mg = (1x3mg) + 1mg. 7mg = (2x3mg) + 1mg. <br />
+    **Step 2:** (1 x 14) + (1 x 14) = 28.
 
 - id: 7
   question: "A male patient is prescribed '2 mg and 5 mg on alternating days'. Using 1 mg and 3 mg tablets, calculate the 1mg tablet requirement for 28 days."
   answer: 56
   solution: |
-    **Step 1: Determine 1mg tablet usage** <br />
-    - 2mg dose: Two 1mg (2 needed). <br />
-    - 5mg dose: One 3mg + Two 1mg (2 needed). <br />
-    <br />
-    **Step 2: Calculate for 28 days** <br />
-    - Total: \( (2 \times 14) + (2 \times 14) = 56 \).
+    **Step 1:** 2mg = 2x1mg. 5mg = (1x3mg) + 2mg. <br />
+    **Step 2:** (2 x 14) + (2 x 14) = 56.
 
 - id: 8
   question: "A female patient is prescribed '10 mg and 11 mg on alternating days'. You have 1 mg and 3 mg tablets available. How many 1mg tablets are required for a 28-day supply?"
   answer: 42
   solution: |
-    **Step 1: Determine 1mg tablet usage** <br />
-    - 10mg dose: Three 3mg + One 1mg (1 needed). <br />
-    - 11mg dose: Three 3mg + Two 1mg (2 needed). <br />
-    <br />
-    **Step 2: Calculate for 28 days** <br />
-    - Total: \( (1 \times 14) + (2 \times 14) = 42 \).
+    **Step 1:** 10mg = (3x3mg) + 1mg. 11mg = (3x3mg) + 2mg. <br />
+    **Step 2:** (1 x 14) + (2 x 14) = 42.
 
 - id: 9
-  question: "A male patient requires '3 mg and 4 mg on alternating days'. You have 1 mg and 3 mg tablets available. How many 1mg tablets are needed for 28 days?"
+  question: "A male patient requires '3 mg and 4 mg on alternating days'. You have 1 mg and 3 mg tablets. How many 1mg tablets are needed for 28 days?"
   answer: 14
   solution: |
-    **Step 1: Determine 1mg tablet usage** <br />
-    - 3mg dose: One 3mg (0 needed). <br />
-    - 4mg dose: One 3mg + One 1mg (1 needed). <br />
-    <br />
-    **Step 2: Calculate for 28 days** <br />
-    - Total: \( (0 \times 14) + (1 \times 14) = 14 \).
+    **Step 1:** 3mg = (1x3mg) + 0mg. 4mg = (1x3mg) + 1mg. <br />
+    **Step 2:** (0 x 14) + (1 x 14) = 14.
 
 - id: 10
   question: "A female patient takes '5 mg and 8 mg on alternating days'. Using 1 mg and 3 mg tablets, how many 1mg tablets for a 28-day supply?"
   answer: 56
   solution: |
-    **Step 1: Determine 1mg tablet usage** <br />
-    - 5mg dose: One 3mg + Two 1mg (2 needed). <br />
-    - 8mg dose: Two 3mg + Two 1mg (2 needed). <br />
-    <br />
-    **Step 2: Calculate for 28 days** <br />
-    - Total: \( (2 \times 14) + (2 \times 14) = 56 \).
+    **Step 1:** 5mg = (1x3mg) + 2mg. 8mg = (2x3mg) + 2mg. <br />
+    **Step 2:** (2 x 14) + (2 x 14) = 56.
 
 - id: 11
   question: "A male patient is prescribed '1 mg and 4 mg on alternating days'. You have 1 mg and 3 mg tablets available. Calculate the total number of 1mg tablets required for 28 days."
   answer: 28
   solution: |
-    **Step 1: Determine 1mg tablet usage** <br />
-    - 1mg dose: One 1mg (1 needed). <br />
-    - 4mg dose: One 3mg + One 1mg (1 needed). <br />
-    <br />
-    **Step 2: Calculate for 28 days** <br />
-    - Total: \( (1 \times 14) + (1 \times 14) = 28 \).
+    **Step 1:** 1mg = 1x1mg. 4mg = (1x3mg) + 1mg. <br />
+    **Step 2:** (1 x 14) + (1 x 14) = 28.
 
 - id: 12
   question: "A female patient is prescribed '8 mg and 10 mg on alternating days'. You have 1 mg and 3 mg tablets. How many 1mg tablets for 28 days?"
   answer: 42
   solution: |
-    **Step 1: Determine 1mg tablet usage** <br />
-    - 8mg dose: Two 3mg + Two 1mg (2 needed). <br />
-    - 10mg dose: Three 3mg + One 1mg (1 needed). <br />
-    <br />
-    **Step 2: Calculate for 28 days** <br />
-    - Total: \( (2 \times 14) + (1 \times 14) = 42 \).
+    **Step 1:** 8mg = (2x3mg) + 2mg. 10mg = (3x3mg) + 1mg. <br />
+    **Step 2:** (2 x 14) + (1 x 14) = 42.
 
 - id: 13
-  question: "A male patient requires '2 mg and 10 mg on alternating days'. You have 1 mg and 3 mg tablets available. How many 1mg tablets are needed for 28 days?"
+  question: "A male patient requires '2 mg and 10 mg on alternating days'. You have 1 mg and 3 mg tablets. How many 1mg tablets are needed for 28 days?"
   answer: 42
   solution: |
-    **Step 1: Determine 1mg tablet usage** <br />
-    - 2mg dose: Two 1mg (2 needed). <br />
-    - 10mg dose: Three 3mg + One 1mg (1 needed). <br />
-    <br />
-    **Step 2: Calculate for 28 days** <br />
-    - Total: \( (2 \times 14) + (1 \times 14) = 42 \).
+    **Step 1:** 2mg = 2x1mg. 10mg = (3x3mg) + 1mg. <br />
+    **Step 2:** (2 x 14) + (1 x 14) = 42.
 
 - id: 14
-  question: "A female patient is prescribed '1 mg and 5 mg on alternating days'. You have 1 mg and 3 mg tablets available. How many 1mg tablets are needed for 28 days?"
+  question: "A female patient is prescribed '1 mg and 5 mg on alternating days'. You have 1 mg and 3 mg tablets. How many 1mg tablets are needed for 28 days?"
   answer: 42
   solution: |
-    **Step 1: Determine 1mg tablet usage** <br />
-    - 1mg dose: One 1mg (1 needed). <br />
-    - 5mg dose: One 3mg + Two 1mg (2 needed). <br />
-    <br />
-    **Step 2: Calculate for 28 days** <br />
-    - Total: \( (1 \times 14) + (2 \times 14) = 42 \).
+    **Step 1:** 1mg = 1x1mg. 5mg = (1x3mg) + 2mg. <br />
+    **Step 2:** (1 x 14) + (2 x 14) = 42.
 
 - id: 15
-  question: "A male patient is taking '6 mg and 7 mg on alternating days'. You have 1 mg and 3 mg tablets available. How many 1mg tablets for 28 days?"
+  question: "A male patient is taking '6 mg and 7 mg on alternating days'. You have 1 mg and 3 mg tablets. How many 1mg tablets for 28 days?"
   answer: 14
   solution: |
-    **Step 1: Determine 1mg tablet usage** <br />
-    - 6mg dose: Two 3mg (0 needed). <br />
-    - 7mg dose: Two 3mg + One 1mg (1 needed). <br />
-    <br />
-    **Step 2: Calculate for 28 days** <br />
-    - Total: \( (0 \times 14) + (1 \times 14) = 14 \).
+    **Step 1:** 6mg = 2x3mg. 7mg = (2x3mg) + 1mg. <br />
+    **Step 2:** (0 x 14) + (1 x 14) = 14.
 
 - id: 16
-  question: "A female patient is prescribed '4 mg and 8 mg on alternating days'. You have 1 mg and 3 mg tablets available. How many 1mg tablets are needed for 28 days?"
+  question: "A female patient is prescribed '4 mg and 8 mg on alternating days'. You have 1 mg and 3 mg tablets. How many 1mg tablets are needed for 28 days?"
   answer: 42
   solution: |
-    **Step 1: Determine 1mg tablet usage** <br />
-    - 4mg dose: One 3mg + One 1mg (1 needed). <br />
-    - 8mg dose: Two 3mg + Two 1mg (2 needed). <br />
-    <br />
-    **Step 2: Calculate for 28 days** <br />
-    - Total: \( (1 \times 14) + (2 \times 14) = 42 \).
+    **Step 1:** 4mg = (1x3mg) + 1mg. 8mg = (2x3mg) + 2mg. <br />
+    **Step 2:** (1 x 14) + (2 x 14) = 42.
 
 - id: 17
-  question: "A male patient takes '9 mg and 10 mg on alternating days'. You have 1 mg and 3 mg tablets available. How many 1mg tablets are needed for 28 days?"
+  question: "A male patient takes '9 mg and 10 mg on alternating days'. You have 1 mg and 3 mg tablets. How many 1mg tablets are needed for 28 days?"
   answer: 14
   solution: |
-    **Step 1: Determine 1mg tablet usage** <br />
-    - 9mg dose: Three 3mg (0 needed). <br />
-    - 10mg dose: Three 3mg + One 1mg (1 needed). <br />
-    <br />
-    **Step 2: Calculate for 28 days** <br />
-    - Total: \( (0 \times 14) + (1 \times 14) = 14 \).
+    **Step 1:** 9mg = 3x3mg. 10mg = (3x3mg) + 1mg. <br />
+    **Step 2:** (0 x 14) + (1 x 14) = 14.
 
 - id: 18
   question: "A female patient is prescribed '2 mg and 4 mg on alternating days'. Using 1 mg and 3 mg tablets, calculate the 1mg tablet requirement for 28 days."
   answer: 42
   solution: |
-    **Step 1: Determine 1mg tablet usage** <br />
-    - 2mg dose: Two 1mg (2 needed). <br />
-    - 4mg dose: One 3mg + One 1mg (1 needed). <br />
-    <br />
-    **Step 2: Calculate for 28 days** <br />
-    - Total: \( (2 \times 14) + (1 \times 14) = 42 \).
+    **Step 1:** 2mg = 2x1mg. 4mg = (1x3mg) + 1mg. <br />
+    **Step 2:** (2 x 14) + (1 x 14) = 42.
 
 - id: 19
   question: "A male patient is prescribed '1 mg and 3 mg on alternating days'. You have 1 mg and 3 mg tablets. How many 1mg tablets are needed for 28 days?"
   answer: 14
   solution: |
-    **Step 1: Determine 1mg tablet usage** <br />
-    - 1mg dose: One 1mg (1 needed). <br />
-    - 3mg dose: One 3mg (0 needed). <br />
-    <br />
-    **Step 2: Calculate for 28 days** <br />
-    - Total: \( (1 \times 14) + (0 \times 14) = 14 \).
+    **Step 1:** 1mg = 1x1mg. 3mg = 1x3mg. <br />
+    **Step 2:** (1 x 14) + (0 x 14) = 14.
 
 - id: 20
   question: "A female patient requires '5 mg and 7 mg on alternating days'. Using 1 mg and 3 mg tablets, how many 1mg tablets for a 28-day supply?"
   answer: 42
   solution: |
-    **Step 1: Determine 1mg tablet usage** <br />
-    - 5mg dose: One 3mg + Two 1mg (2 needed). <br />
-    - 7mg dose: Two 3mg + One 1mg (1 needed). <br />
-    <br />
-    **Step 2: Calculate for 28 days** <br />
-    - Total: \( (2 \times 14) + (1 \times 14) = 42 \).
+    **Step 1:** 5mg = (1x3mg) + 2mg. 7mg = (2x3mg) + 1mg. <br />
+    **Step 2:** (2 x 14) + (1 x 14) = 42.
 
+# SECTION 2: WARFARIN - CALCULATING 3MG TABLETS (IDs 21-30)
+- id: 21
+  question: "Mr. AG has a prescription for '4 mg and 5 mg on alternating days' for 28 days. Using 1 mg and 3 mg tablets, and using the 3 mg strength wherever possible, what is the exact number of 3 mg tablets required for this 28-day supply?"
+  answer: 28
+  solution: |
+    **Step 1:** Both the 4mg (1x3mg + 1x1mg) and 5mg (1x3mg + 2x1mg) doses use one 3mg tablet. <br />
+    **Step 2:** 1 tablet x 28 days = 28 tablets.
+
+- id: 22
+  question: "A patient is prescribed '3 mg and 6 mg on alternating days' for 28 days. You have 1 mg and 3 mg tablets. How many 3 mg tablets are required for this supply?"
+  answer: 42
+  solution: |
+    **Step 1:** 3mg = one 3mg. 6mg = two 3mg. <br />
+    **Step 2:** (1 x 14) + (2 x 14) = 42.
+
+- id: 23
+  question: "A male patient is prescribed '5 mg and 7 mg on alternating days'. Using 1 mg and 3 mg tablets, how many 3 mg tablets are needed for a 28-day supply?"
+  answer: 42
+  solution: |
+    **Step 1:** 5mg = (1x3mg) + 2mg. 7mg = (2x3mg) + 1mg. <br />
+    **Step 2:** (1 x 14) + (2 x 14) = 42.
+
+- id: 24
+  question: "A female patient takes '6 mg and 8 mg on alternating days'. You have 1 mg and 3 mg tablets. What is the exact number of 3 mg tablets required for a 28-day supply?"
+  answer: 56
+  solution: |
+    **Step 1:** 6mg = 2x3mg. 8mg = (2x3mg) + 2mg. <br />
+    **Step 2:** (2 x 14) + (2 x 14) = 56.
+
+- id: 25
+  question: "A male patient takes '4 mg and 7 mg on alternating days'. Using 1 mg and 3 mg tablets, how many 3mg tablets are required for a 28-day supply?"
+  answer: 42
+  solution: |
+    **Step 1:** 4mg = 1x3mg. 7mg = 2x3mg. <br />
+    **Step 2:** (1 x 14) + (2 x 14) = 42.
+
+- id: 26
+  question: "A female patient takes '3 mg and 5 mg on alternating days'. How many 3mg tablets are needed for a 28-day supply?"
+  answer: 28
+  solution: |
+    **Step 1:** 3mg = 1x3mg. 5mg = 1x3mg. <br />
+    **Step 2:** (1 x 14) + (1 x 14) = 28.
+
+- id: 27
+  question: "A male patient is prescribed '6 mg and 9 mg on alternating days'. How many 3mg tablets for a 28-day supply?"
+  answer: 70
+  solution: |
+    **Step 1:** 6mg = 2x3mg. 9mg = 3x3mg. <br />
+    **Step 2:** (2 x 14) + (3 x 14) = 70.
+
+- id: 28
+  question: "A female patient takes '7 mg and 10 mg on alternating days'. How many 3mg tablets are required for 28 days?"
+  answer: 70
+  solution: |
+    **Step 1:** 7mg = 2x3mg. 10mg = 3x3mg. <br />
+    **Step 2:** (2 x 14) + (3 x 14) = 70.
+
+- id: 29
+  question: "A male patient requires '4 mg and 6 mg on alternating days'. How many 3mg tablets are needed for 28 days?"
+  answer: 42
+  solution: |
+    **Step 1:** 4mg = 1x3mg. 6mg = 2x3mg. <br />
+    **Step 2:** (1 x 14) + (2 x 14) = 42.
+
+- id: 30
+  question: "A female patient takes '5 mg and 9 mg on alternating days'. How many 3mg tablets for 28 days?"
+  answer: 56
+  solution: |
+    **Step 1:** 5mg = 1x3mg. 9mg = 3x3mg. <br />
+    **Step 2:** (1 x 14) + (3 x 14) = 56.
+
+# SECTION 3: INJECTIONS - RECONSTITUTION & WEIGHT-BASED (IDs 31-50)
 - id: 31
-  question: "A 12-year-old girl weighing 39 kg has been prescribed amoxicillin 50 mg/kg QDS for suspected endocarditis. The displacement volume for the 1000 mg amoxicillin vial is 0.8 mL. Each vial needs to be reconstituted with 20 mL of water for injection. How many millilitres of amoxicillin injection need to be given for each prescribed dose? Give your answer to one decimal place."
+  question: "A 12-year-old girl weighing 39 kg has been prescribed amoxicillin 50 mg/kg QDS. The displacement volume for the 1000 mg amoxicillin vial is 0.8 mL. Each vial is reconstituted with 20 mL of water for injection. How many millilitres (mL) need to be given for each dose? Give your answer to one decimal place."
   answer: 40.6
   solution: |
-    **Step 1: Calculate the required dose in mg** <br />
-    Weight = 39 kg. Dose = 50 mg/kg. <br />
-    \( 39 \text{ kg} \times 50 \text{ mg/kg} = 1,950 \text{ mg per dose.} \) <br />
-    <br />
-    **Step 2: Calculate the concentration of the reconstituted vial** <br />
-    Vial strength = 1,000 mg. <br />
-    Final Volume = Diluent (20 mL) + Displacement Volume (0.8 mL) = 20.8 mL. <br />
-    Concentration = \( 1,000 \text{ mg} / 20.8 \text{ mL} = 48.0769 \text{ mg/mL.} \) <br />
-    <br />
-    **Step 3: Calculate the volume to be administered** <br />
-    Volume = Required Dose / Concentration. <br />
-    \( 1,950 \text{ mg} / 48.0769 \text{ mg/mL} = 40.5615 \text{ mL.} \) <br />
-    <br />
-    **Answer:** 40.6 mL (to 1 decimal place).
+    **Step 1:** Dose = 39 kg x 50 mg/kg = 1,950 mg. <br />
+    **Step 2:** Conc = 1,000 mg / (20 + 0.8 mL) = 48.077 mg/mL. <br />
+    **Step 3:** Vol = 1,950 / 48.077 = 40.56 mL. <br />
+    **Answer:** 40.6 mL.
 
 - id: 32
-  question: "A 5-year-old boy weighing 18 kg is prescribed benzylpenicillin 30 mg/kg every 6 hours. The displacement volume for a 600 mg vial is 0.4 mL. Each vial is reconstituted with 9.6 mL of 0.9% sodium chloride. How many millilitres should be administered for each dose? Give your answer to one decimal place."
+  question: "A 5-year-old boy weighing 18 kg is prescribed benzylpenicillin 30 mg/kg every 6 hours. The displacement volume for a 600 mg vial is 0.4 mL. Reconstitute with 9.6 mL of saline. How many mL should be given per dose? (1 decimal place)"
   answer: 9.0
   solution: |
-    **Step 1: Calculate the required dose** <br />
-    \( 18 \text{ kg} \times 30 \text{ mg/kg} = 540 \text{ mg per dose.} \) <br />
-    <br />
-    **Step 2: Calculate the concentration** <br />
-    Final Volume = \( 9.6 \text{ mL (diluent)} + 0.4 \text{ mL (DV)} = 10 \text{ mL total.} \) <br />
-    Concentration = \( 600 \text{ mg} / 10 \text{ mL} = 60 \text{ mg/mL.} \) <br />
-    <br />
-    **Step 3: Calculate the volume to give** <br />
-    \( 540 \text{ mg} / 60 \text{ mg/mL} = 9.0 \text{ mL.} \) <br />
-    <br />
-    **Answer:** 9.0 mL.
+    **Step 1:** Dose = 18 x 30 = 540 mg. <br />
+    **Step 2:** Conc = 600 mg / (9.6 + 0.4 mL) = 60 mg/mL. <br />
+    **Step 3:** Vol = 540 / 60 = 9.0 mL.
 
 - id: 33
-  question: "A child weighing 22 kg is prescribed cefuroxime 25 mg/kg TDS. The 750 mg vial has a displacement volume of 0.5 mL. Each vial is reconstituted with 14.5 mL of water for injection. Calculate the volume (in mL) required for one dose. Give your answer to one decimal place."
+  question: "A child weighing 22 kg is prescribed cefuroxime 25 mg/kg TDS. The 750 mg vial has a displacement volume of 0.5 mL. Reconstitute with 14.5 mL of water. Calculate the volume for one dose in mL to one decimal place."
   answer: 11.0
   solution: |
-    **Step 1: Calculate the required dose** <br />
-    \( 22 \text{ kg} \times 25 \text{ mg/kg} = 550 \text{ mg per dose.} \) <br />
-    <br />
-    **Step 2: Calculate the concentration** <br />
-    Final Volume = \( 14.5 \text{ mL} + 0.5 \text{ mL} = 15 \text{ mL.} \) <br />
-    Concentration = \( 750 \text{ mg} / 15 \text{ mL} = 50 \text{ mg/mL.} \) <br />
-    <br />
-    **Step 3: Calculate the volume** <br />
-    \( 550 \text{ mg} / 50 \text{ mg/mL} = 11.0 \text{ mL.} \) <br />
-    <br />
-    **Answer:** 11.0 mL.
+    **Step 1:** Dose = 22 x 25 = 550 mg. <br />
+    **Step 2:** Conc = 750 / 15 = 50 mg/mL. <br />
+    **Step 3:** Vol = 550 / 50 = 11.0 mL.
 
 - id: 34
-  question: "A 45 kg patient is prescribed flucloxacillin 50 mg/kg QDS. The displacement volume for a 1 g (1000 mg) vial is 0.7 mL. Each vial is reconstituted with 19.3 mL of water for injection. How many millilitres are required for each dose? Give your answer to one decimal place."
+  question: "A 45 kg patient is prescribed flucloxacillin 50 mg/kg QDS. The displacement volume for a 1000 mg vial is 0.7 mL. Reconstitute with 19.3 mL water. How many mL per dose? (1 decimal place)"
   answer: 45.0
   solution: |
-    **Step 1: Calculate the dose** <br />
-    \( 45 \text{ kg} \times 50 \text{ mg/kg} = 2,250 \text{ mg.} \) <br />
-    <br />
-    **Step 2: Calculate concentration** <br />
-    Final Volume = \( 19.3 + 0.7 = 20 \text{ mL.} \) <br />
-    Concentration = \( 1,000 \text{ mg} / 20 \text{ mL} = 50 \text{ mg/mL.} \) <br />
-    <br />
-    **Step 3: Calculate volume** <br />
-    \( 2,250 \text{ mg} / 50 \text{ mg/mL} = 45.0 \text{ mL.} \) <br />
-    <br />
-    **Answer:** 45.0 mL.
+    **Step 1:** Dose = 45 x 50 = 2,250 mg. <br />
+    **Step 2:** Conc = 1,000 / 20 = 50 mg/mL. <br />
+    **Step 3:** Vol = 2,250 / 50 = 45.0 mL.
 
 - id: 35
-  question: "A baby weighing 8 kg is prescribed co-amoxiclav 30 mg/kg TDS. A 600 mg vial has a displacement volume of 0.45 mL. Reconstitute the vial with 11.55 mL of water for injection. What volume (in mL) is needed for each dose? Give your answer to one decimal place."
+  question: "A baby weighing 8 kg is prescribed co-amoxiclav 30 mg/kg TDS. A 600 mg vial (DV 0.45 mL) is reconstituted with 11.55 mL water. What volume (in mL) is needed per dose? (1 decimal place)"
   answer: 4.8
   solution: |
-    **Step 1: Dose calculation** <br />
-    \( 8 \text{ kg} \times 30 \text{ mg/kg} = 240 \text{ mg.} \) <br />
-    <br />
-    **Step 2: Reconstitution concentration** <br />
-    Final Vol = \( 11.55 + 0.45 = 12 \text{ mL.} \) <br />
-    Concentration = \( 600 \text{ mg} / 12 \text{ mL} = 50 \text{ mg/mL.} \) <br />
-    <br />
-    **Step 3: Volume calculation** <br />
-    \( 240 \text{ mg} / 50 \text{ mg/mL} = 4.8 \text{ mL.} \) <br />
-    <br />
-    **Answer:** 4.8 mL.
+    **Step 1:** Dose = 8 x 30 = 240 mg. <br />
+    **Step 2:** Conc = 600 / 12 = 50 mg/mL. <br />
+    **Step 3:** Vol = 240 / 50 = 4.8 mL.
 
 - id: 36
-  question: "A patient weighing 55 kg is prescribed ceftriaxone 20 mg/kg OD. The 1 g (1000 mg) vial has a displacement volume of 0.6 mL and is reconstituted with 9.4 mL of 1% lidocaine. What volume is required for the dose? Give your answer to one decimal place."
+  question: "A patient weighing 55 kg is prescribed ceftriaxone 20 mg/kg OD. The 1000 mg vial (DV 0.6 mL) is reconstituted with 9.4 mL lidocaine. What volume is required in mL? (1 decimal place)"
   answer: 11.0
   solution: |
-    **Step 1: Dose** = \( 55 \text{ kg} \times 20 \text{ mg/kg} = 1,100 \text{ mg.} \) <br />
-    **Step 2: Final Vol** = \( 9.4 + 0.6 = 10 \text{ mL.} \) <br />
-    **Step 3: Concentration** = \( 1,000 \text{ mg} / 10 \text{ mL} = 100 \text{ mg/mL.} \) <br />
-    **Step 4: Vol to give** = \( 1,100 / 100 = 11.0 \text{ mL.} \) <br />
-    **Answer:** 11.0 mL.
+    **Step 1:** Dose = 55 x 20 = 1,100 mg. <br />
+    **Step 2:** Conc = 1,000 / 10 = 100 mg/mL. <br />
+    **Step 3:** Vol = 1,100 / 100 = 11.0 mL.
 
 - id: 37
-  question: "A 10 kg child is prescribed amoxicillin 100 mg/kg TDS. The displacement volume of a 500 mg vial is 0.4 mL. Reconstitute with 4.6 mL of water for injection. How many millilitres are needed per dose? Give your answer to one decimal place."
+  question: "A 10 kg child is prescribed amoxicillin 100 mg/kg TDS. A 500 mg vial (DV 0.4 mL) is reconstituted with 4.6 mL water. How many mL are needed per dose? (1 decimal place)"
   answer: 10.0
   solution: |
-    **Step 1: Dose** = \( 10 \times 100 = 1,000 \text{ mg.} \) <br />
-    **Step 2: Concentration** = \( 500 \text{ mg} / (4.6 + 0.4 \text{ mL}) = 100 \text{ mg/mL.} \) <br />
-    **Step 3: Volume** = \( 1,000 / 100 = 10.0 \text{ mL.} \) <br />
-    **Answer:** 10.0 mL.
+    **Step 1:** Dose = 10 x 100 = 1,000 mg. <br />
+    **Step 2:** Conc = 500 / 5 = 100 mg/mL. <br />
+    **Step 3:** Vol = 1,000 / 100 = 10.0 mL.
 
 - id: 38
-  question: "An 18 kg child is prescribed vancomycin 15 mg/kg every 6 hours. Reconstitute a 500 mg vial (DV = 0.3 mL) with 9.7 mL of water for injection. Calculate the volume for each dose in mL. Give your answer to one decimal place."
+  question: "An 18 kg child is prescribed vancomycin 15 mg/kg QDS. Reconstitute a 500 mg vial (DV 0.3 mL) with 9.7 mL water. Calculate the volume for each dose in mL. (1 decimal place)"
   answer: 5.4
   solution: |
-    **Step 1: Dose** = \( 18 \times 15 = 270 \text{ mg.} \) <br />
-    **Step 2: Concentration** = \( 500 \text{ mg} / 10 \text{ mL} = 50 \text{ mg/mL.} \) <br />
-    **Step 3: Vol** = \( 270 / 50 = 5.4 \text{ mL.} \) <br />
-    **Answer:** 5.4 mL.
+    **Step 1:** Dose = 18 x 15 = 270 mg. <br />
+    **Step 2:** Conc = 500 / 10 = 50 mg/mL. <br />
+    **Step 3:** Vol = 270 / 50 = 5.4 mL.
 
 - id: 39
-  question: "A 32 kg patient is prescribed meropenem 20 mg/kg TDS. A 500 mg vial has a displacement volume of 0.4 mL and is reconstituted with 9.6 mL of water for injection. What volume is given for each dose? Give your answer to one decimal place."
+  question: "A 32 kg patient is prescribed meropenem 20 mg/kg TDS. A 500 mg vial (DV 0.4 mL) is reconstituted with 9.6 mL water. What volume (in mL) is given for each dose? (1 decimal place)"
   answer: 12.8
   solution: |
-    **Step 1: Dose** = \( 32 \times 20 = 640 \text{ mg.} \) <br />
-    **Step 2: Conc** = \( 500 / 10 = 50 \text{ mg/mL.} \) <br />
-    **Step 3: Vol** = \( 640 / 50 = 12.8 \text{ mL.} \) <br />
-    **Answer:** 12.8 mL.
+    **Step 1:** Dose = 32 x 20 = 640 mg. <br />
+    **Step 2:** Conc = 500 / 10 = 50 mg/mL. <br />
+    **Step 3:** Vol = 640 / 50 = 12.8 mL.
 
 - id: 40
-  question: "A 75 kg patient is prescribed piperacillin/tazobactam 4.5 g (4500 mg) TDS. The 4.5 g vial has a displacement volume of 3.15 mL and is reconstituted with 20 mL of 0.9% sodium chloride. How many mL are given per dose? Give your answer to one decimal place."
+  question: "A 75 kg patient is prescribed piperacillin/tazobactam 4.5 g TDS. The 4.5 g vial (DV 3.15 mL) is reconstituted with 20 mL saline. How many mL are given per dose? (1 decimal place)"
   answer: 23.2
   solution: |
-    **Step 1: Dose** = 4,500 mg. <br />
-    **Step 2: Concentration** = \( 4,500 \text{ mg} / (20 + 3.15 \text{ mL}) = 4,500 / 23.15 = 194.384 \text{ mg/mL.} \) <br />
-    **Step 3: Vol to give** = \( 4,500 / 194.384 = 23.15 \text{ mL.} \) <br />
-    **Answer:** 23.2 mL (rounded from 23.15).
+    **Step 1:** Dose = 4,500 mg. <br />
+    **Step 2:** Conc = 4,500 / 23.15 = 194.38 mg/mL. <br />
+    **Step 3:** Vol = 4,500 / 194.38 = 23.15 mL. <br />
+    **Answer:** 23.2 mL.
 
 - id: 41
-  question: "A child weighing 14 kg is prescribed amoxicillin 25 mg/kg TDS. A 500 mg vial (DV 0.4 mL) is reconstituted with 9.6 mL water for injection. Calculate the mL per dose to one decimal place."
+  question: "A child weighing 14 kg is prescribed amoxicillin 25 mg/kg TDS. A 500 mg vial (DV 0.4 mL) is reconstituted with 9.6 mL water. Calculate the mL per dose to one decimal place."
   answer: 7.0
   solution: |
-    **Step 1: Dose** = \( 14 \times 25 = 350 \text{ mg.} \) <br />
-    **Step 2: Conc** = \( 500 / 10 = 50 \text{ mg/mL.} \) <br />
-    **Step 3: Vol** = \( 350 / 50 = 7.0 \text{ mL.} \) <br />
-    **Answer:** 7.0 mL.
+    **Step 1:** Dose = 14 x 25 = 350 mg. <br />
+    **Step 2:** Conc = 500 / 10 = 50 mg/mL. <br />
+    **Step 3:** Vol = 350 / 50 = 7.0 mL.
 
 - id: 42
-  question: "A 26 kg patient is prescribed flucloxacillin 25 mg/kg QDS. A 1 g (1000 mg) vial (DV 0.7 mL) is reconstituted with 9.3 mL water for injection. Calculate the mL per dose to one decimal place."
+  question: "A 26 kg patient is prescribed flucloxacillin 25 mg/kg QDS. A 1000 mg vial (DV 0.7 mL) is reconstituted with 9.3 mL water. Calculate the mL per dose. (1 decimal place)"
   answer: 6.5
   solution: |
-    **Step 1: Dose** = \( 26 \times 25 = 650 \text{ mg.} \) <br />
-    **Step 2: Conc** = \( 1,000 / 10 = 100 \text{ mg/mL.} \) <br />
-    **Step 3: Vol** = \( 650 / 100 = 6.5 \text{ mL.} \) <br />
-    **Answer:** 6.5 mL.
+    **Step 1:** Dose = 26 x 25 = 650 mg. <br />
+    **Step 2:** Conc = 1,000 / 10 = 100 mg/mL. <br />
+    **Step 3:** Vol = 650 / 100 = 6.5 mL.
 
 - id: 43
-  question: "A 12 kg baby is prescribed benzylpenicillin 60 mg/kg every 6 hours. A 1.2 g (1200 mg) vial has a displacement volume of 0.8 mL and is reconstituted with 11.2 mL water for injection. Calculate the mL per dose to one decimal place."
+  question: "A 12 kg baby is prescribed benzylpenicillin 60 mg/kg every 6 hours. A 1200 mg vial (DV 0.8 mL) is reconstituted with 11.2 mL water. Calculate the mL per dose. (1 decimal place)"
   answer: 7.2
   solution: |
-    **Step 1: Dose** = \( 12 \times 60 = 720 \text{ mg.} \) <br />
-    **Step 2: Conc** = \( 1,200 / (11.2 + 0.8) = 100 \text{ mg/mL.} \) <br />
-    **Step 3: Vol** = \( 720 / 100 = 7.2 \text{ mL.} \) <br />
-    **Answer:** 7.2 mL.
+    **Step 1:** Dose = 12 x 60 = 720 mg. <br />
+    **Step 2:** Conc = 1,200 / 12 = 100 mg/mL. <br />
+    **Step 3:** Vol = 720 / 100 = 7.2 mL.
 
 - id: 44
-  question: "A child weighs 34 kg and is prescribed cefotaxime 50 mg/kg every 8 hours. A 1 g vial (DV 0.6 mL) is reconstituted with 9.4 mL water for injection. Calculate the mL per dose to one decimal place."
+  question: "A child weighs 34 kg and is prescribed cefotaxime 50 mg/kg TDS. A 1000 mg vial (DV 0.6 mL) is reconstituted with 9.4 mL water. Calculate the mL per dose. (1 decimal place)"
   answer: 17.0
   solution: |
-    **Step 1: Dose** = \( 34 \times 50 = 1,700 \text{ mg.} \) <br />
-    **Step 2: Conc** = \( 1,000 / 10 = 100 \text{ mg/mL.} \) <br />
-    **Step 3: Vol** = \( 1,700 / 100 = 17.0 \text{ mL.} \) <br />
-    **Answer:** 17.0 mL.
+    **Step 1:** Dose = 34 x 50 = 1,700 mg. <br />
+    **Step 2:** Conc = 1,000 / 10 = 100 mg/mL. <br />
+    **Step 3:** Vol = 1,700 / 100 = 17.0 mL.
 
 - id: 45
-  question: "A 40 kg patient is prescribed meropenem 15 mg/kg TDS. A 1 g vial (DV 0.8 mL) is reconstituted with 19.2 mL water for injection. Calculate the volume for each dose in mL to one decimal place."
+  question: "A 40 kg patient is prescribed meropenem 15 mg/kg TDS. A 1000 mg vial (DV 0.8 mL) is reconstituted with 19.2 mL water. Calculate the volume for each dose in mL. (1 decimal place)"
   answer: 12.0
   solution: |
-    **Step 1: Dose** = \( 40 \times 15 = 600 \text{ mg.} \) <br />
-    **Step 2: Conc** = \( 1,000 / 20 = 50 \text{ mg/mL.} \) <br />
-    **Step 3: Vol** = \( 600 / 50 = 12.0 \text{ mL.} \) <br />
-    **Answer:** 12.0 mL.
+    **Step 1:** Dose = 40 x 15 = 600 mg. <br />
+    **Step 2:** Conc = 1,000 / 20 = 50 mg/mL. <br />
+    **Step 3:** Vol = 600 / 50 = 12.0 mL.
 
 - id: 46
-  question: "A child weighs 28 kg and is prescribed teicoplanin 10 mg/kg. A 400 mg vial (DV 0.2 mL) is reconstituted with 3.8 mL water for injection. Calculate the mL per dose to one decimal place."
+  question: "A child weighs 28 kg and is prescribed teicoplanin 10 mg/kg. A 400 mg vial (DV 0.2 mL) is reconstituted with 3.8 mL water. Calculate the mL per dose. (1 decimal place)"
   answer: 2.8
   solution: |
-    **Step 1: Dose** = \( 28 \times 10 = 280 \text{ mg.} \) <br />
-    **Step 2: Conc** = \( 400 / 4 = 100 \text{ mg/mL.} \) <br />
-    **Step 3: Vol** = \( 280 / 100 = 2.8 \text{ mL.} \) <br />
-    **Answer:** 2.8 mL.
+    **Step 1:** Dose = 28 x 10 = 280 mg. <br />
+    **Step 2:** Conc = 400 / 4 = 100 mg/mL. <br />
+    **Step 3:** Vol = 280 / 100 = 2.8 mL.
 
 - id: 47
-  question: "A patient weighing 62 kg is prescribed ceftazidime 30 mg/kg TDS. A 2 g (2000 mg) vial (DV 1.2 mL) is reconstituted with 18.8 mL water for injection. How many mL are required per dose? Give your answer to one decimal place."
+  question: "A patient weighing 62 kg is prescribed ceftazidime 30 mg/kg TDS. A 2000 mg vial (DV 1.2 mL) is reconstituted with 18.8 mL water. How many mL per dose? (1 decimal place)"
   answer: 18.6
   solution: |
-    **Step 1: Dose** = \( 62 \times 30 = 1,860 \text{ mg.} \) <br />
-    **Step 2: Conc** = \( 2,000 / 20 = 100 \text{ mg/mL.} \) <br />
-    **Step 3: Vol** = \( 1,860 / 100 = 18.6 \text{ mL.} \) <br />
-    **Answer:** 18.6 mL.
+    **Step 1:** Dose = 62 x 30 = 1,860 mg. <br />
+    **Step 2:** Conc = 2,000 / 20 = 100 mg/mL. <br />
+    **Step 3:** Vol = 1,860 / 100 = 18.6 mL.
 
 - id: 48
-  question: "An 11 kg infant is prescribed flucloxacillin 50 mg/kg QDS. A 250 mg vial (DV 0.2 mL) is reconstituted with 4.8 mL water for injection. Calculate the volume needed per dose in mL. Give your answer to one decimal place."
+  question: "An 11 kg infant is prescribed flucloxacillin 50 mg/kg QDS. A 250 mg vial (DV 0.2 mL) is reconstituted with 4.8 mL water. Calculate the volume needed per dose in mL. (1 decimal place)"
   answer: 11.0
   solution: |
-    **Step 1: Dose** = \( 11 \times 50 = 550 \text{ mg.} \) <br />
-    **Step 2: Conc** = \( 250 / 5 = 50 \text{ mg/mL.} \) <br />
-    **Step 3: Vol** = \( 550 / 50 = 11.0 \text{ mL.} \) <br />
-    **Answer:** 11.0 mL.
+    **Step 1:** Dose = 11 x 50 = 550 mg. <br />
+    **Step 2:** Conc = 250 / 5 = 50 mg/mL. <br />
+    **Step 3:** Vol = 550 / 50 = 11.0 mL.
 
 - id: 49
-  question: "A child weighing 20 kg is prescribed benzylpenicillin 50 mg/kg every 6 hours. A 600 mg vial (DV 0.4 mL) is reconstituted with 11.6 mL water for injection. Calculate the volume for each dose in mL to one decimal place."
+  question: "A child weighing 20 kg is prescribed benzylpenicillin 50 mg/kg every 6 hours. A 600 mg vial (DV 0.4 mL) is reconstituted with 11.6 mL water. Calculate the volume per dose in mL. (1 decimal place)"
   answer: 20.0
   solution: |
-    **Step 1: Dose** = \( 20 \times 50 = 1,000 \text{ mg.} \) <br />
-    **Step 2: Conc** = \( 600 / 12 = 50 \text{ mg/mL.} \) <br />
-    **Step 3: Vol** = \( 1,000 / 50 = 20.0 \text{ mL.} \) <br />
-    **Answer:** 20.0 mL.
+    **Step 1:** Dose = 20 x 50 = 1,000 mg. <br />
+    **Step 2:** Conc = 600 / 12 = 50 mg/mL. <br />
+    **Step 3:** Vol = 1,000 / 50 = 20.0 mL.
 
 - id: 50
-  question: "A 48 kg patient is prescribed amoxicillin 50 mg/kg TDS. A 1 g (1000 mg) vial (DV 0.8 mL) is reconstituted with 19.2 mL water for injection. Calculate the volume per dose in mL to one decimal place."
+  question: "A 48 kg patient is prescribed amoxicillin 50 mg/kg TDS. A 1000 mg vial (DV 0.8 mL) is reconstituted with 19.2 mL water. Calculate the volume per dose in mL. (1 decimal place)"
   answer: 48.0
   solution: |
-    **Step 1: Dose** = \( 48 \times 50 = 2,400 \text{ mg.} \) <br />
-    **Step 2: Conc** = \( 1,000 / 20 = 50 \text{ mg/mL.} \) <br />
-    **Step 3: Vol** = \( 2,400 / 50 = 48.0 \text{ mL.} \) <br />
-    **Answer:** 48.0 mL.
+    **Step 1:** Dose = 48 x 50 = 2,400 mg. <br />
+    **Step 2:** Conc = 1,000 / 20 = 50 mg/mL. <br />
+    **Step 3:** Vol = 2,400 / 50 = 48.0 mL.
