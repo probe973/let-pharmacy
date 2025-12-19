@@ -1,0 +1,599 @@
+- id: 141
+  question: "A 52-year-old man weighing 65 kg is diagnosed with osteomyelitis and started on meropenem 20 mg/kg as an infusion every 8 hours. You have 1 g meropenem vials available which are reconstituted with 20 mL of water for injection and then further diluted to a 5 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres of 0.9% sodium chloride that should be added to the meropenem for each dose? Give your answer as a whole number."
+  answer: 234
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    65 kg x 20 mg/kg = 1,300 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1,300 \text{ mg}}{1,000 \text{ mg}} \times 20 \text{ mL} = 26 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1,300 \text{ mg}}{5 \text{ mg}} \times 1 \text{ mL} = 260 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    260 mL (Total) - 26 mL (Drug) = 234 mL <br />
+    <br />
+    **Answer:** 234
+
+- id: 142
+  question: "A 68-year-old woman weighing 58 kg is prescribed vancomycin 15 mg/kg for a severe MRSA infection. You have 1 g vials available which are reconstituted with 20 mL of water for injection and further diluted to a 4 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres of 0.9% sodium chloride that should be added to the vancomycin for each dose? Give your answer as a whole number."
+  answer: 200
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    58 kg x 15 mg/kg = 870 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{870 \text{ mg}}{1,000 \text{ mg}} \times 20 \text{ mL} = 17.4 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{870 \text{ mg}}{4 \text{ mg}} \times 1 \text{ mL} = 217.5 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    217.5 mL - 17.4 mL = 200.1 mL <br />
+    <br />
+    **Answer:** 200
+
+- id: 143
+  question: "A 45-year-old woman weighing 50 kg is prescribed flucloxacillin 50 mg/kg for a bone infection. 1 g vials are available, reconstituted with 20 mL of water for injection and then further diluted to a 10 mg/mL infusion with 0.9% sodium chloride. What is the total volume of 0.9% sodium chloride that should be added to the flucloxacillin for each dose? Give your answer as a whole number."
+  answer: 200
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    50 kg x 50 mg/kg = 2,500 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{2,500 \text{ mg}}{1,000 \text{ mg}} \times 20 \text{ mL} = 50 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{2,500 \text{ mg}}{10 \text{ mg}} \times 1 \text{ mL} = 250 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    250 mL - 50 mL = 200 mL <br />
+    <br />
+    **Answer:** 200
+
+- id: 144
+  question: "An 82-year-old man weighing 85 kg is prescribed aciclovir 10 mg/kg for viral encephalitis. You have 500 mg aciclovir vials available which are reconstituted with 10 mL of water for injection and further diluted to 5 mg/mL with 0.9% sodium chloride. How many millilitres of 0.9% sodium chloride should be added for each dose? Give your answer as a whole number."
+  answer: 153
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    85 kg x 10 mg/kg = 850 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{850 \text{ mg}}{500 \text{ mg}} \times 10 \text{ mL} = 17 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{850 \text{ mg}}{5 \text{ mg}} \times 1 \text{ mL} = 170 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    170 mL - 17 mL = 153 mL <br />
+    <br />
+    **Answer:** 153
+
+- id: 145
+  question: "A 74-year-old woman weighing 48 kg is prescribed ganciclovir 5 mg/kg for CMV infection. You have 500 mg vials available which are reconstituted with 10 mL of water for injection and then diluted to a 2 mg/mL infusion with 0.9% sodium chloride. How many millilitres of 0.9% sodium chloride should be added to the drug? Give your answer as a whole number."
+  answer: 115
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    48 kg x 5 mg/kg = 240 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{240 \text{ mg}}{500 \text{ mg}} \times 10 \text{ mL} = 4.8 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{240 \text{ mg}}{2 \text{ mg}} \times 1 \text{ mL} = 120 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    120 mL - 4.8 mL = 115.2 mL <br />
+    <br />
+    **Answer:** 115
+
+- id: 146
+  question: "A 55-year-old man weighing 92 kg is prescribed amoxicillin 50 mg/kg for severe sepsis. You have 1 g vials available which are reconstituted with 20 mL of water for injection and then further diluted to a 15 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres of 0.9% sodium chloride that should be added? Give your answer as a whole number."
+  answer: 215
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    92 kg x 50 mg/kg = 4,600 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{4,600 \text{ mg}}{1,000 \text{ mg}} \times 20 \text{ mL} = 92 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{4,600 \text{ mg}}{15 \text{ mg}} \times 1 \text{ mL} = 306.67 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    306.67 mL - 92 mL = 214.67 mL <br />
+    <br />
+    **Answer:** 215
+
+- id: 147
+  question: "A 62-year-old woman weighing 64 kg is prescribed cefuroxime 25 mg/kg for a soft tissue infection. You have 750 mg vials available, reconstituted with 15 mL of water for injection and further diluted to a 5 mg/mL infusion with 0.9% sodium chloride. What is the total volume of 0.9% sodium chloride that should be added for each dose? Give your answer as a whole number."
+  answer: 288
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    64 kg x 25 mg/kg = 1,600 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1,600 \text{ mg}}{750 \text{ mg}} \times 15 \text{ mL} = 32 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1,600 \text{ mg}}{5 \text{ mg}} \times 1 \text{ mL} = 320 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    320 mL - 32 mL = 288 mL <br />
+    <br />
+    **Answer:** 288
+
+- id: 148
+  question: "A 71-year-old man weighing 80 kg is prescribed clarithromycin 7.5 mg/kg for severe pneumonia. You have 500 mg vials available, reconstituted with 10 mL of water for injection and further diluted to 2 mg/mL with 5% glucose. How many millilitres of 5% glucose should be added for each dose? Give your answer as a whole number."
+  answer: 288
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    80 kg x 7.5 mg/kg = 600 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{600 \text{ mg}}{500 \text{ mg}} \times 10 \text{ mL} = 12 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{600 \text{ mg}}{2 \text{ mg}} \times 1 \text{ mL} = 300 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 5% glucose to add** <br />
+    300 mL - 12 mL = 288 mL <br />
+    <br />
+    **Answer:** 288
+
+- id: 149
+  question: "A 38-year-old woman weighing 55 kg is prescribed teicoplanin 12 mg/kg for endocarditis. You have 400 mg vials available, reconstituted with 3 mL of water for injection and further diluted to 4 mg/mL with 0.9% sodium chloride. What is the total volume of 0.9% sodium chloride that should be added? Give your answer as a whole number."
+  answer: 160
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    55 kg x 12 mg/kg = 660 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{660 \text{ mg}}{400 \text{ mg}} \times 3 \text{ mL} = 4.95 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{660 \text{ mg}}{4 \text{ mg}} \times 1 \text{ mL} = 165 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    165 mL - 4.95 mL = 160.05 mL <br />
+    <br />
+    **Answer:** 160
+
+- id: 150
+  question: "A 65-year-old man weighing 75 kg is prescribed meropenem 10 mg/kg for a intra-abdominal infection. 500 mg vials are available, reconstituted with 10 mL of water for injection and further diluted to a 2.5 mg/mL infusion with 0.9% sodium chloride. How many millilitres of 0.9% sodium chloride should be added? Give your answer as a whole number."
+  answer: 285
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    75 kg x 10 mg/kg = 750 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{750 \text{ mg}}{500 \text{ mg}} \times 10 \text{ mL} = 15 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{750 \text{ mg}}{2.5 \text{ mg}} \times 1 \text{ mL} = 300 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    300 mL - 15 mL = 285 mL <br />
+    <br />
+    **Answer:** 285
+
+- id: 151
+  question: "A 69-year-old woman weighing 66 kg is prescribed vancomycin 10 mg/kg for osteomyelitis. 1 g vials are available, reconstituted with 20 mL of water for injection and further diluted to a 5 mg/mL infusion with 0.9% sodium chloride. What is the total volume of 0.9% sodium chloride that should be added? Give your answer as a whole number."
+  answer: 119
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    66 kg x 10 mg/kg = 660 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{660 \text{ mg}}{1,000 \text{ mg}} \times 20 \text{ mL} = 13.2 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{660 \text{ mg}}{5 \text{ mg}} \times 1 \text{ mL} = 132 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    132 mL - 13.2 mL = 118.8 mL <br />
+    <br />
+    **Answer:** 119
+
+- id: 152
+  question: "An 85-year-old man weighing 70 kg is prescribed aciclovir 5 mg/kg for a shingles infection. 250 mg vials are available, reconstituted with 10 mL of water for injection and further diluted to a 5 mg/mL infusion with 0.9% sodium chloride. How many millilitres of 0.9% sodium chloride should be added? Give your answer as a whole number."
+  answer: 56
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    70 kg x 5 mg/kg = 350 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{350 \text{ mg}}{250 \text{ mg}} \times 10 \text{ mL} = 14 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{350 \text{ mg}}{5 \text{ mg}} \times 1 \text{ mL} = 70 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    70 mL - 14 mL = 56 mL <br />
+    <br />
+    **Answer:** 56
+
+- id: 153
+  question: "A 44-year-old woman weighing 56 kg is prescribed flucloxacillin 25 mg/kg for cellulitis. You have 500 mg vials available, reconstituted with 10 mL of water for injection and then diluted to a 4 mg/mL infusion with 0.9% sodium chloride. What is the volume of 0.9% sodium chloride to be added? Give your answer as a whole number."
+  answer: 322
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    56 kg x 25 mg/kg = 1,400 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1,400 \text{ mg}}{500 \text{ mg}} \times 10 \text{ mL} = 28 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1,400 \text{ mg}}{4 \text{ mg}} \times 1 \text{ mL} = 350 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    350 mL - 28 mL = 322 mL <br />
+    <br />
+    **Answer:** 322
+
+- id: 154
+  question: "A 67-year-old man weighing 84 kg is prescribed cefotaxime 50 mg/kg for meningitis. You have 1 g vials available, reconstituted with 10 mL of water for injection and diluted further to 10 mg/mL with 0.9% sodium chloride. How many millilitres of 0.9% sodium chloride should be added? Give your answer as a whole number."
+  answer: 378
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    84 kg x 50 mg/kg = 4,200 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{4,200 \text{ mg}}{1,000 \text{ mg}} \times 10 \text{ mL} = 42 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{4,200 \text{ mg}}{10 \text{ mg}} \times 1 \text{ mL} = 420 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    420 mL - 42 mL = 378 mL <br />
+    <br />
+    **Answer:** 378
+
+- id: 155
+  question: "A 59-year-old woman weighing 68 kg is prescribed ceftazidime 30 mg/kg for a urinary tract infection. You have 1 g vials available, reconstituted with 10 mL of water for injection and further diluted to 5 mg/mL with 0.9% sodium chloride. Calculate the total volume of 0.9% sodium chloride that should be added. Give your answer as a whole number."
+  answer: 388
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    68 kg x 30 mg/kg = 2,040 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{2,040 \text{ mg}}{1,000 \text{ mg}} \times 10 \text{ mL} = 20.4 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{2,040 \text{ mg}}{5 \text{ mg}} \times 1 \text{ mL} = 408 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    408 mL - 20.4 mL = 387.6 mL <br />
+    <br />
+    **Answer:** 388
+
+- id: 156
+  question: "A 76-year-old man weighing 50 kg is prescribed daptomycin 6 mg/kg for bacteremia. 500 mg vials are available, reconstituted with 10 mL of 0.9% sodium chloride and further diluted to 3 mg/mL with 0.9% sodium chloride. How many millilitres of 0.9% sodium chloride should be added? Give your answer as a whole number."
+  answer: 94
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    50 kg x 6 mg/kg = 300 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{300 \text{ mg}}{500 \text{ mg}} \times 10 \text{ mL} = 6 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{300 \text{ mg}}{3 \text{ mg}} \times 1 \text{ mL} = 100 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    100 mL - 6 mL = 94 mL <br />
+    <br />
+    **Answer:** 94
+
+- id: 157
+  question: "A 41-year-old woman weighing 62 kg is prescribed teicoplanin 15 mg/kg for bone infection. 400 mg vials are available, reconstituted with 3 mL of water for injection and further diluted to 5 mg/mL with 0.9% sodium chloride. What is the total volume of 0.9% sodium chloride that should be added? Give your answer as a whole number."
+  answer: 179
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    62 kg x 15 mg/kg = 930 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{930 \text{ mg}}{400 \text{ mg}} \times 3 \text{ mL} = 6.975 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{930 \text{ mg}}{5 \text{ mg}} \times 1 \text{ mL} = 186 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    186 mL - 6.975 mL = 179.025 mL <br />
+    <br />
+    **Answer:** 179
+
+- id: 158
+  question: "An 80-year-old man weighing 74 kg is prescribed meropenem 20 mg/kg for sepsis. You have 1 g vials available, reconstituted with 20 mL of water for injection and further diluted to 4 mg/mL with 0.9% sodium chloride. How many millilitres of 0.9% sodium chloride should be added? Give your answer as a whole number."
+  answer: 340
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    74 kg x 20 mg/kg = 1,480 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1,480 \text{ mg}}{1,000 \text{ mg}} \times 20 \text{ mL} = 29.6 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1,480 \text{ mg}}{4 \text{ mg}} \times 1 \text{ mL} = 370 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    370 mL - 29.6 mL = 340.4 mL <br />
+    <br />
+    **Answer:** 340
+
+- id: 159
+  question: "A 69-year-old woman weighing 55 kg is prescribed flucloxacillin 50 mg/kg for severe cellulitis. You have 1 g vials available, reconstituted with 20 mL of water for injection and further diluted to 8 mg/mL with 0.9% sodium chloride. What is the volume of 0.9% sodium chloride to be added? Give your answer as a whole number."
+  answer: 289
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    55 kg x 50 mg/kg = 2,750 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{2,750 \text{ mg}}{1,000 \text{ mg}} \times 20 \text{ mL} = 55 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{2,750 \text{ mg}}{8 \text{ mg}} \times 1 \text{ mL} = 343.75 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    343.75 mL - 55 mL = 288.75 mL <br />
+    <br />
+    **Answer:** 289
+
+- id: 160
+  question: "A 54-year-old man weighing 82 kg is prescribed vancomycin 15 mg/kg for a complicated infection. You have 500 mg vials available, reconstituted with 10 mL of water for injection and further diluted to 4 mg/mL with 0.9% sodium chloride. How many millilitres of 0.9% sodium chloride should be added? Give your answer as a whole number."
+  answer: 283
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    82 kg x 15 mg/kg = 1,230 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1,230 \text{ mg}}{500 \text{ mg}} \times 10 \text{ mL} = 24.6 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1,230 \text{ mg}}{4 \text{ mg}} \times 1 \text{ mL} = 307.5 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    307.5 mL - 24.6 mL = 282.9 mL <br />
+    <br />
+    **Answer:** 283
+
+- id: 161
+  question: "A 70-year-old woman weighing 45 kg is prescribed ganciclovir 5 mg/kg for a CMV infection. You have 500 mg vials available, reconstituted with 10 mL of water for injection and further diluted to 2.5 mg/mL with 0.9% sodium chloride. What is the total volume of 0.9% sodium chloride that should be added? Give your answer as a whole number."
+  answer: 86
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    45 kg x 5 mg/kg = 225 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{225 \text{ mg}}{500 \text{ mg}} \times 10 \text{ mL} = 4.5 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{225 \text{ mg}}{2.5 \text{ mg}} \times 1 \text{ mL} = 90 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    90 mL - 4.5 mL = 85.5 mL <br />
+    <br />
+    **Answer:** 86
+
+- id: 162
+  question: "A 63-year-old man weighing 80 kg is prescribed teicoplanin 12 mg/kg for endocarditis. You have 400 mg vials available, reconstituted with 3 mL of water for injection and further diluted to 6 mg/mL with 0.9% sodium chloride. How many millilitres of 0.9% sodium chloride should be added? Give your answer as a whole number."
+  answer: 153
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    80 kg x 12 mg/kg = 960 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{960 \text{ mg}}{400 \text{ mg}} \times 3 \text{ mL} = 7.2 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{960 \text{ mg}}{6 \text{ mg}} \times 1 \text{ mL} = 160 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    160 mL - 7.2 mL = 152.8 mL <br />
+    <br />
+    **Answer:** 153
+
+- id: 163
+  question: "An 88-year-old woman weighing 42 kg is prescribed aciclovir 10 mg/kg for sepsis. You have 250 mg vials available, reconstituted with 10 mL of water for injection and further diluted to 4 mg/mL with 0.9% sodium chloride. What is the total volume of 0.9% sodium chloride that should be added? Give your answer as a whole number."
+  answer: 88
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    42 kg x 10 mg/kg = 420 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{420 \text{ mg}}{250 \text{ mg}} \times 10 \text{ mL} = 16.8 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{420 \text{ mg}}{4 \text{ mg}} \times 1 \text{ mL} = 105 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    105 mL - 16.8 mL = 88.2 mL <br />
+    <br />
+    **Answer:** 88
+
+- id: 164
+  question: "A 74-year-old man weighing 75 kg is prescribed amoxicillin 25 mg/kg for pneumonia. You have 500 mg vials available, reconstituted with 10 mL of water for injection and further diluted to 5 mg/mL with 0.9% sodium chloride. How many millilitres of 0.9% sodium chloride should be added? Give your answer as a whole number."
+  answer: 338
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    75 kg x 25 mg/kg = 1,875 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1,875 \text{ mg}}{500 \text{ mg}} \times 10 \text{ mL} = 37.5 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1,875 \text{ mg}}{5 \text{ mg}} \times 1 \text{ mL} = 375 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    375 mL - 37.5 mL = 337.5 mL <br />
+    <br />
+    **Answer:** 338
+
+- id: 165
+  question: "A 66-year-old woman weighing 63 kg is prescribed flucloxacillin 50 mg/kg for a complicated infection. 1 g vials are available, reconstituted with 20 mL of water for injection and further diluted to 12.5 mg/mL with 0.9% sodium chloride. What is the total volume of 0.9% sodium chloride that should be added? Give your answer as a whole number."
+  answer: 189
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    63 kg x 50 mg/kg = 3,150 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{3,150 \text{ mg}}{1,000 \text{ mg}} \times 20 \text{ mL} = 63 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{3,150 \text{ mg}}{12.5 \text{ mg}} \times 1 \text{ mL} = 252 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    252 mL - 63 mL = 189 mL <br />
+    <br />
+    **Answer:** 189
+
+- id: 166
+  question: "A 71-year-old man weighing 78 kg is prescribed vancomycin 15 mg/kg for severe sepsis. You have 1 g vials available, reconstituted with 20 mL of water for injection and further diluted to 5 mg/mL with 0.9% sodium chloride. How many millilitres of 0.9% sodium chloride should be added? Give your answer as a whole number."
+  answer: 211
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    78 kg x 15 mg/kg = 1,170 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1,170 \text{ mg}}{1,000 \text{ mg}} \times 20 \text{ mL} = 23.4 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1,170 \text{ mg}}{5 \text{ mg}} \times 1 \text{ mL} = 234 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    234 mL - 23.4 mL = 210.6 mL <br />
+    <br />
+    **Answer:** 211
+
+- id: 167
+  question: "A 48-year-old woman weighing 50 kg is prescribed meropenem 20 mg/kg for endocarditis. You have 500 mg vials available, reconstituted with 10 mL of water for injection and further diluted to 5 mg/mL with 0.9% sodium chloride. What is the volume of 0.9% sodium chloride to be added? Give your answer as a whole number."
+  answer: 180
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    50 kg x 20 mg/kg = 1,000 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1,000 \text{ mg}}{500 \text{ mg}} \times 10 \text{ mL} = 20 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1,000 \text{ mg}}{5 \text{ mg}} \times 1 \text{ mL} = 200 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    200 mL - 20 mL = 180 mL <br />
+    <br />
+    **Answer:** 180
+
+- id: 168
+  question: "A 62-year-old man weighing 88 kg is prescribed aciclovir 10 mg/kg for chronic meningitis. You have 500 mg vials available, reconstituted with 10 mL of water for injection and further diluted to 7.5 mg/mL with 0.9% sodium chloride. How many millilitres of 0.9% sodium chloride should be added? Give your answer as a whole number."
+  answer: 100
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    88 kg x 10 mg/kg = 880 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{880 \text{ mg}}{500 \text{ mg}} \times 10 \text{ mL} = 17.6 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{880 \text{ mg}}{7.5 \text{ mg}} \times 1 \text{ mL} = 117.33 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    117.33 mL - 17.6 mL = 99.73 mL <br />
+    <br />
+    **Answer:** 100
+
+- id: 169
+  question: "A 79-year-old woman weighing 56 kg is prescribed flucloxacillin 25 mg/kg for complicated skin infection. You have 1 g vials available, reconstituted with 20 mL of water for injection and further diluted to 4 mg/mL with 0.9% sodium chloride. What is the total volume of 0.9% sodium chloride that should be added? Give your answer as a whole number."
+  answer: 322
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    56 kg x 25 mg/kg = 1,400 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1,400 \text{ mg}}{1,000 \text{ mg}} \times 20 \text{ mL} = 28 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1,400 \text{ mg}}{4 \text{ mg}} \times 1 \text{ mL} = 350 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    350 mL - 28 mL = 322 mL <br />
+    <br />
+    **Answer:** 322
+
+- id: 170
+  question: "A 55-year-old man weighing 72 kg is prescribed vancomycin 10 mg/kg for severe sepsis. You have 500 mg vials available, reconstituted with 10 mL of water for injection and further diluted to 2.5 mg/mL with 0.9% sodium chloride. What is the total volume of 0.9% sodium chloride that should be added? Give your answer as a whole number."
+  answer: 274
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    72 kg x 10 mg/kg = 720 mg <br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{720 \text{ mg}}{500 \text{ mg}} \times 10 \text{ mL} = 14.4 \text{ mL} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{720 \text{ mg}}{2.5 \text{ mg}} \times 1 \text{ mL} = 288 \text{ mL} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    288 mL - 14.4 mL = 273.6 mL <br />
+    <br />
+    **Answer:** 274
