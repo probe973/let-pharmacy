@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }} - LET Pharmacy</title>
+    <!-- Corrected link using relative_url -->
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <link rel="icon" type="image/png" href="{{ "/assets/images/favicon.ico" | relative_url }}">
+
+    <!-- MathJax Script for LaTeX equations -->
+    <script>
+        MathJax = {
+            tex: {
+                inlineMath: [['$', '$'], ['\\(', '\\)']]
+            },
+            svg: {
+                fontCache: 'global'
+            }
+        };
+    </script>
+    <script type="text/javascript" id="MathJax-script" async
+        src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js">
+    </script>
+</head>
+<body>
+    <header>
+        <h1>{{ site.title | default: "Pharmacy Calculations" }}</h1>
+        <p>{{ site.description | default: "Questions to practice with calculations in pharmacy" }}</p>
+    </header>
+
+    <nav>
+        <ul>
+            <!-- CORRECTED: Navigation links now use relative_url to point to the right place -->
+            <li><a href="{{ "/" | relative_url }}">Home</a></li>
+            <li><a href="{{ "/3/" | relative_url }}">Foundation Year Home</a></li>
+            <li><a href="{{ "/4/" | relative_url }}">Year 1 Home</a></li>
+            <li><a href="{{ "/5/" | relative_url }}">Year 2 Home</a></li>
+            <li><a href="{{ "/6/" | relative_url }}">Year 3 Home</a></li>
+        </ul>
+    </nav>
+    
+    <main>
+        {{ content }}
+    </main>
+
+    <footer>
+        
+        <p>Built with <a href="https://jekyllrb.com/" target="_blank" rel="noopener noreferrer">Jekyll</a> and hosted on <a href="https://pages.github.com/" target="_blank" rel="noopener noreferrer">GitHub Pages</a>.</p>
+    </footer>
+  
+    <script src="{{ "/assets/js/scripts.js" | relative_url }}"></script>
+</body>
+</html>
