@@ -1,15 +1,15 @@
 - id: 171
-  question: "A patient's most recent blood level, taken 5 hours after administration of the last dose of theophylline 400 mg m/r tablets, shows a plasma concentration of 45 mg/L. The therapeutic range for satisfactory bronchodilation is 10-20 mg/L. The half-life of theophylline is approximately 7 hours. How many hours would pass before the theophylline plasma levels appear within the normal range? Give your answer as a whole number rounded to the nearest full half-life."
+  question: "A 64-year-old patient's most recent blood level, taken 5 hours after administration of the last dose of theophylline 400 mg m/r tablets (Uniphyllin Continus ®), shows a plasma concentration of 45 mg/L. The therapeutic range for satisfactory bronchodilation is 10-20 mg/L. The half-life of theophylline is approximately 7 hours. How many hours would pass before the patient's theophylline plasma levels appear within the normal range? Round your answer to the nearest full half-life."
   answer: 14
   solution: |
-    **Step 1: Identify target range (Need)** <br />
-    Target: 10 - 20 mg/L <br />
-    Current: 45 mg/L <br />
+    **Step 1: Identify Target Range (Need)** <br />
+    Current level: 45 mg/L <br />
+    Therapeutic range: 10 - 20 mg/L <br />
     <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 45 mg/L <br />
-    After 1 half-life: 22.5 mg/L (Still high) <br />
-    After 2 half-lives: 11.25 mg/L (Within range) <br />
+    **Step 2: Calculate half-lives to reach target** <br />
+    Initial level: 45 mg/L <br />
+    After 1 half-life: 22.5 mg/L (Still above range) <br />
+    After 2 half-lives: 11.25 mg/L (Within the 10 - 20 mg/L range) <br />
     <br />
     **Step 3: Calculate total time** <br />
     2 half-lives x 7 hours = 14 hours <br />
@@ -17,52 +17,53 @@
     **Answer:** 14
 
 - id: 172
-  question: "A patient's blood test shows a gentamicin peak concentration of 12 mg/L. The therapeutic range for this patient's specific infection is 5-10 mg/L. The half-life of gentamicin in this patient is estimated to be 3 hours. How many hours will it take for the level to fall within the therapeutic range? Give your answer as a whole number rounded to the nearest full half-life."
-  answer: 3
+  question: "A 72-year-old patient's most recent blood level, taken after a maintenance dose of gentamicin 160 mg injection, shows a peak plasma concentration of 36 mg/L. The therapeutic range for this patient is 5-10 mg/L. The half-life of gentamicin is approximately 3 hours. How many hours would pass before the patient's gentamicin plasma levels appear within the normal range? Round your answer to the nearest full half-life."
+  answer: 6
   solution: |
-    **Step 1: Identify target range (Need)** <br />
-    Target: 5 - 10 mg/L <br />
-    Current: 12 mg/L <br />
+    **Step 1: Identify Target Range (Need)** <br />
+    Current level: 36 mg/L <br />
+    Therapeutic range: 5 - 10 mg/L <br />
     <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 12 mg/L <br />
-    After 1 half-life: 6 mg/L (Within range) <br />
+    **Step 2: Calculate half-lives to reach target** <br />
+    Initial level: 36 mg/L <br />
+    After 1 half-life: 18 mg/L (Still above range) <br />
+    After 2 half-lives: 9 mg/L (Within the 5 - 10 mg/L range) <br />
     <br />
     **Step 3: Calculate total time** <br />
-    1 half-life x 3 hours = 3 hours <br />
+    2 half-lives x 3 hours = 6 hours <br />
     <br />
-    **Answer:** 3
+    **Answer:** 6
 
 - id: 173
-  question: "A patient has a digoxin plasma concentration of 4 microg/L. The therapeutic range is 0.8-2 microg/L. Assuming the half-life of digoxin is 36 hours, how many hours would pass before the levels appear within the therapeutic range? Give your answer as a whole number rounded to the nearest full half-life."
-  answer: 72
+  question: "A 78-year-old patient's most recent blood level, taken 12 hours after a dose of digoxin 250 microgram tablets (Lanoxin ®), shows a plasma concentration of 5.6 microg/L. The normal therapeutic range for digoxin is 0.8-2 microg/L. The half-life of digoxin is approximately 40 hours. How many hours would pass before the patient's digoxin plasma levels appear within the normal range? Round your answer to the nearest full half-life."
+  answer: 80
   solution: |
-    **Step 1: Identify target range (Need)** <br />
-    Target: 0.8 - 2 microg/L <br />
-    Current: 4 microg/L <br />
+    **Step 1: Identify Target Range (Need)** <br />
+    Current level: 5.6 microg/L <br />
+    Therapeutic range: 0.8 - 2.0 microg/L <br />
     <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 4 microg/L <br />
-    After 1 half-life: 2 microg/L (Within range) <br />
-    Wait, after 2 half-lives: 1 microg/L (Also in range). <br />
-    The question asks when it *appears* in range, which occurs at the 1st or 2nd half-life. <br />
-    However, at exactly 2 microg/L (1 half-life) it reaches the upper limit. <br />
-    Calculation: 2 half-lives x 36 = 72 hours. <br />
+    **Step 2: Calculate half-lives to reach target** <br />
+    Initial level: 5.6 microg/L <br />
+    After 1 half-life: 2.8 microg/L (Still above range) <br />
+    After 2 half-lives: 1.4 microg/L (Within the 0.8 - 2.0 microg/L range) <br />
     <br />
-    **Answer:** 72
+    **Step 3: Calculate total time** <br />
+    2 half-lives x 40 hours = 80 hours <br />
+    <br />
+    **Answer:** 80
 
 - id: 174
-  question: "A plasma concentration level for vancomycin is measured at 60 mg/L. The desired range is 10-20 mg/L. The half-life of the drug is 6 hours. How many hours must pass for the level to fall into the desired range? Give your answer as a whole number rounded to the nearest full half-life."
+  question: "A 60-year-old patient's most recent blood level, taken after an infusion of vancomycin 1g, shows a plasma concentration of 50 mg/L. The normal therapeutic range for this patient is 10-15 mg/L. The half-life of vancomycin is approximately 6 hours. How many hours would pass before the patient's vancomycin plasma levels appear within the normal range? Round your answer to the nearest full half-life."
   answer: 12
   solution: |
-    **Step 1: Identify target range (Need)** <br />
-    Target: 10 - 20 mg/L <br />
-    Current: 60 mg/L <br />
+    **Step 1: Identify Target Range (Need)** <br />
+    Current level: 50 mg/L <br />
+    Therapeutic range: 10 - 15 mg/L <br />
     <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 60 mg/L <br />
-    After 1 half-life: 30 mg/L <br />
-    After 2 half-lives: 15 mg/L (Within range) <br />
+    **Step 2: Calculate half-lives to reach target** <br />
+    Initial level: 50 mg/L <br />
+    After 1 half-life: 25 mg/L (Still above range) <br />
+    After 2 half-lives: 12.5 mg/L (Within the 10 - 15 mg/L range) <br />
     <br />
     **Step 3: Calculate total time** <br />
     2 half-lives x 6 hours = 12 hours <br />
@@ -70,375 +71,302 @@
     **Answer:** 12
 
 - id: 175
-  question: "A patient's theophylline level is found to be 32 mg/L. The therapeutic range is 10-20 mg/L. The half-life is 8 hours. How many hours are required for the concentration to fall within the therapeutic range? Give your answer as a whole number rounded to the nearest full half-life."
-  answer: 8
-  solution: |
-    **Step 1: Identify target range (Need)** <br />
-    Target: 10 - 20 mg/L <br />
-    Current: 32 mg/L <br />
-    <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 32 mg/L <br />
-    After 1 half-life: 16 mg/L (Within range) <br />
-    <br />
-    **Step 3: Calculate total time** <br />
-    1 half-life x 8 hours = 8 hours <br />
-    <br />
-    **Answer:** 8
-
-- id: 176
-  question: "A patient presents with a phenobarbital level of 80 mg/L. The therapeutic range is 15-40 mg/L. The half-life is 100 hours. How many hours would pass before the level is within the therapeutic range? Give your answer as a whole number rounded to the nearest full half-life."
-  answer: 200
-  solution: |
-    **Step 1: Identify target range (Need)** <br />
-    Target: 15 - 40 mg/L <br />
-    Current: 80 mg/L <br />
-    <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 80 mg/L <br />
-    After 1 half-life: 40 mg/L (At upper limit) <br />
-    After 2 half-lives: 20 mg/L (Within range) <br />
-    <br />
-    **Step 3: Calculate total time** <br />
-    2 half-lives x 100 hours = 200 hours <br />
-    <br />
-    **Answer:** 200
-
-- id: 177
-  question: "A patient has a valproate concentration of 150 mg/L. The therapeutic range is 50-100 mg/L. The half-life is 12 hours. How many hours will it take for the concentration to reach the therapeutic range? Give your answer as a whole number rounded to the nearest full half-life."
-  answer: 12
-  solution: |
-    **Step 1: Identify target range (Need)** <br />
-    Target: 50 - 100 mg/L <br />
-    Current: 150 mg/L <br />
-    <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 150 mg/L <br />
-    After 1 half-life: 75 mg/L (Within range) <br />
-    <br />
-    **Step 3: Calculate total time** <br />
-    1 half-life x 12 hours = 12 hours <br />
-    <br />
-    **Answer:** 12
-
-- id: 178
-  question: "A lithium level is measured at 2.4 mmol/L. The therapeutic range is 0.6-1.2 mmol/L. The half-life is 24 hours. How many hours are required for the level to reach the therapeutic range? Give your answer as a whole number rounded to the nearest full half-life."
-  answer: 24
-  solution: |
-    **Step 1: Identify target range (Need)** <br />
-    Target: 0.6 - 1.2 mmol/L <br />
-    Current: 2.4 mmol/L <br />
-    <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 2.4 mmol/L <br />
-    After 1 half-life: 1.2 mmol/L (At upper limit) <br />
-    After 2 half-lives: 0.6 mmol/L (At lower limit) <br />
-    The question asks for when it appears in range; 1 half-life reaches the limit. <br />
-    <br />
-    **Step 3: Calculate total time** <br />
-    1 half-life x 24 hours = 24 hours <br />
-    <br />
-    **Answer:** 24
-
-- id: 179
-  question: "A patient's phenytoin level is 40 mg/L. The therapeutic range is 10-20 mg/L. Assuming a simplified half-life of 24 hours, how many hours will pass before the level is within range? Give your answer as a whole number rounded to the nearest full half-life."
-  answer: 24
-  solution: |
-    **Step 1: Identify target range (Need)** <br />
-    Target: 10 - 20 mg/L <br />
-    Current: 40 mg/L <br />
-    <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 40 mg/L <br />
-    After 1 half-life: 20 mg/L (Within range) <br />
-    <br />
-    **Step 3: Calculate total time** <br />
-    1 half-life x 24 hours = 24 hours <br />
-    <br />
-    **Answer:** 24
-
-- id: 180
-  question: "A salicylate level is measured at 600 mg/L. The therapeutic range is 150-300 mg/L. The half-life is 3 hours. How many hours must pass for the level to fall into the therapeutic range? Give your answer as a whole number rounded to the nearest full half-life."
-  answer: 3
-  solution: |
-    **Step 1: Identify target range (Need)** <br />
-    Target: 150 - 300 mg/L <br />
-    Current: 600 mg/L <br />
-    <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 600 mg/L <br />
-    After 1 half-life: 300 mg/L (Within range) <br />
-    <br />
-    **Step 3: Calculate total time** <br />
-    1 half-life x 3 hours = 3 hours <br />
-    <br />
-    **Answer:** 3
-
-- id: 181
-  question: "A patient's theophylline level is 50 mg/L. The range is 10-20 mg/L. The half-life is 7 hours. How many hours would pass before the levels appear within the normal range? Give your answer as a whole number rounded to the nearest full half-life."
-  answer: 14
-  solution: |
-    **Step 1: Identify target range (Need)** <br />
-    Target: 10 - 20 mg/L <br />
-    Current: 50 mg/L <br />
-    <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 50 mg/L <br />
-    After 1 half-life: 25 mg/L <br />
-    After 2 half-lives: 12.5 mg/L (Within range) <br />
-    <br />
-    **Step 3: Calculate total time** <br />
-    2 half-lives x 7 hours = 14 hours <br />
-    <br />
-    **Answer:** 14
-
-- id: 182
-  question: "A gentamicin level is 16 mg/L. The range is 5-10 mg/L. The half-life is 2 hours. How many hours before the level is within range? Give your answer as a whole number rounded to the nearest full half-life."
-  answer: 2
-  solution: |
-    **Step 1: Identify target range (Need)** <br />
-    Target: 5 - 10 mg/L <br />
-    Current: 16 mg/L <br />
-    <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 16 mg/L <br />
-    After 1 half-life: 8 mg/L (Within range) <br />
-    <br />
-    **Step 3: Calculate total time** <br />
-    1 half-life x 2 hours = 2 hours <br />
-    <br />
-    **Answer:** 2
-
-- id: 183
-  question: "A vancomycin level is 80 mg/L. The range is 10-20 mg/L. The half-life is 6 hours. How many hours before the level is within range? Give your answer as a whole number rounded to the nearest full half-life."
-  answer: 12
-  solution: |
-    **Step 1: Identify target range (Need)** <br />
-    Target: 10 - 20 mg/L <br />
-    Current: 80 mg/L <br />
-    <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 80 mg/L <br />
-    After 1 half-life: 40 mg/L <br />
-    After 2 half-lives: 20 mg/L (Within range) <br />
-    <br />
-    **Step 3: Calculate total time** <br />
-    2 half-lives x 6 hours = 12 hours <br />
-    <br />
-    **Answer:** 12
-
-- id: 184
-  question: "A digoxin level is 8 microg/L. The range is 0.8-2 microg/L. The half-life is 36 hours. How many hours before the level is within range? Give your answer as a whole number rounded to the nearest full half-life."
-  answer: 72
-  solution: |
-    **Step 1: Identify target range (Need)** <br />
-    Target: 0.8 - 2 microg/L <br />
-    Current: 8 microg/L <br />
-    <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 8 microg/L <br />
-    After 1 half-life: 4 microg/L <br />
-    After 2 half-lives: 2 microg/L (Within range) <br />
-    <br />
-    **Step 3: Calculate total time** <br />
-    2 half-lives x 36 hours = 72 hours <br />
-    <br />
-    **Answer:** 72
-
-- id: 185
-  question: "A carbamazepine level is 24 mg/L. The range is 4-12 mg/L. The half-life is 15 hours. How many hours before the level is within range? Give your answer as a whole number rounded to the nearest full half-life."
-  answer: 15
-  solution: |
-    **Step 1: Identify target range (Need)** <br />
-    Target: 4 - 12 mg/L <br />
-    Current: 24 mg/L <br />
-    <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 24 mg/L <br />
-    After 1 half-life: 12 mg/L (Within range) <br />
-    <br />
-    **Step 3: Calculate total time** <br />
-    1 half-life x 15 hours = 15 hours <br />
-    <br />
-    **Answer:** 15
-
-- id: 186
-  question: "A valproate level is 240 mg/L. The range is 50-100 mg/L. The half-life is 12 hours. How many hours before the level is within range? Give your answer as a whole number rounded to the nearest full half-life."
-  answer: 24
-  solution: |
-    **Step 1: Identify target range (Need)** <br />
-    Target: 50 - 100 mg/L <br />
-    Current: 240 mg/L <br />
-    <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 240 mg/L <br />
-    After 1 half-life: 120 mg/L <br />
-    After 2 half-lives: 60 mg/L (Within range) <br />
-    <br />
-    **Step 3: Calculate total time** <br />
-    2 half-lives x 12 hours = 24 hours <br />
-    <br />
-    **Answer:** 24
-
-- id: 187
-  question: "A lithium level is 4.0 mmol/L. The range is 0.6-1.2 mmol/L. The half-life is 24 hours. How many hours before the level is within range? Give your answer as a whole number rounded to the nearest full half-life."
+  question: "A 52-year-old patient's most recent blood level, taken after a dose of phenytoin 300 mg capsules (Epanutin ®), shows a plasma concentration of 60 mg/L. The therapeutic range for phenytoin is 10-20 mg/L. The half-life of phenytoin is approximately 24 hours. How many hours would pass before the patient's phenytoin plasma levels appear within the normal range? Round your answer to the nearest full half-life."
   answer: 48
   solution: |
-    **Step 1: Identify target range (Need)** <br />
-    Target: 0.6 - 1.2 mmol/L <br />
-    Current: 4.0 mmol/L <br />
+    **Step 1: Identify Target Range (Need)** <br />
+    Current level: 60 mg/L <br />
+    Therapeutic range: 10 - 20 mg/L <br />
     <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 4.0 mmol/L <br />
-    After 1 half-life: 2.0 mmol/L <br />
-    After 2 half-lives: 1.0 mmol/L (Within range) <br />
+    **Step 2: Calculate half-lives to reach target** <br />
+    Initial level: 60 mg/L <br />
+    After 1 half-life: 30 mg/L (Still above range) <br />
+    After 2 half-lives: 15 mg/L (Within the 10 - 20 mg/L range) <br />
     <br />
     **Step 3: Calculate total time** <br />
     2 half-lives x 24 hours = 48 hours <br />
     <br />
     **Answer:** 48
 
-- id: 188
-  question: "A methotrexate level is 10 micromol/L. The goal is less than 0.1 micromol/L. The half-life is 8 hours. How many hours before the level is within range? Give your answer as a whole number rounded to the nearest full half-life."
-  answer: 56
+- id: 176
+  question: "A 69-year-old patient's most recent blood level, taken after a dose of carbamazepine 200 mg tablets (Tegretol ®), shows a plasma concentration of 30 mg/L. The therapeutic range for carbamazepine is 4-12 mg/L. The half-life of carbamazepine is approximately 12 hours. How many hours would pass before the patient's carbamazepine plasma levels appear within the normal range? Round your answer to the nearest full half-life."
+  answer: 24
   solution: |
-    **Step 1: Identify target (Need)** <br />
-    Target: < 0.1 micromol/L <br />
-    Current: 10 micromol/L <br />
+    **Step 1: Identify Target Range (Need)** <br />
+    Current level: 30 mg/L <br />
+    Therapeutic range: 4 - 12 mg/L <br />
     <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 10 <br />
-    1 HL: 5 <br />
-    2 HL: 2.5 <br />
-    3 HL: 1.25 <br />
-    4 HL: 0.625 <br />
-    5 HL: 0.3125 <br />
-    6 HL: 0.156 <br />
-    7 HL: 0.078 (Within range) <br />
+    **Step 2: Calculate half-lives to reach target** <br />
+    Initial level: 30 mg/L <br />
+    After 1 half-life: 15 mg/L (Still above range) <br />
+    After 2 half-lives: 7.5 mg/L (Within the 4 - 12 mg/L range) <br />
     <br />
     **Step 3: Calculate total time** <br />
-    7 half-lives x 8 hours = 56 hours <br />
+    2 half-lives x 12 hours = 24 hours <br />
     <br />
-    **Answer:** 56
+    **Answer:** 24
 
-- id: 189
-  question: "A patient's theophylline level is 42 mg/L. The range is 10-20 mg/L. The half-life is 9 hours. How many hours before the level is within range? Give your answer as a whole number rounded to the nearest full half-life."
-  answer: 18
-  solution: |
-    **Step 1: Identify range (Need)** <br />
-    Target: 10 - 20 mg/L <br />
-    Current: 42 mg/L <br />
-    <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 42 mg/L <br />
-    After 1 half-life: 21 mg/L <br />
-    After 2 half-lives: 10.5 mg/L (Within range) <br />
-    <br />
-    **Step 3: Calculate total time** <br />
-    2 half-lives x 9 hours = 18 hours <br />
-    <br />
-    **Answer:** 18
-
-- id: 190
-  question: "A gentamicin level is 18 mg/L. The range is 5-10 mg/L. The half-life is 4 hours. How many hours before the level is within range? Give your answer as a whole number rounded to the nearest full half-life."
-  answer: 4
-  solution: |
-    **Step 1: Identify range (Need)** <br />
-    Target: 5 - 10 mg/L <br />
-    Current: 18 mg/L <br />
-    <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 18 mg/L <br />
-    After 1 half-life: 9 mg/L (Within range) <br />
-    <br />
-    **Step 3: Calculate total time** <br />
-    1 half-life x 4 hours = 4 hours <br />
-    <br />
-    **Answer:** 4
-
-- id: 191
-  question: "A vancomycin level is 35 mg/L. The range is 10-20 mg/L. The half-life is 12 hours. How many hours before the level is within range? Give your answer as a whole number rounded to the nearest full half-life."
-  answer: 12
-  solution: |
-    **Step 1: Identify range (Need)** <br />
-    Target: 10 - 20 mg/L <br />
-    Current: 35 mg/L <br />
-    <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 35 mg/L <br />
-    After 1 half-life: 17.5 mg/L (Within range) <br />
-    <br />
-    **Step 3: Calculate total time** <br />
-    1 half-life x 12 hours = 12 hours <br />
-    <br />
-    **Answer:** 12
-
-- id: 192
-  question: "A patient has a digoxin concentration of 5 microg/L. The range is 0.8-2 microg/L. The half-life is 40 hours. How many hours before the level is within range? Give your answer as a whole number rounded to the nearest full half-life."
-  answer: 80
-  solution: |
-    **Step 1: Identify range (Need)** <br />
-    Target: 0.8 - 2 microg/L <br />
-    Current: 5 microg/L <br />
-    <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 5 <br />
-    1 HL: 2.5 <br />
-    2 HL: 1.25 (Within range) <br />
-    <br />
-    **Step 3: Calculate total time** <br />
-    2 half-lives x 40 hours = 80 hours <br />
-    <br />
-    **Answer:** 80
-
-- id: 193
-  question: "A phenytoin level is 44 mg/L. The range is 10-20 mg/L. The half-life is 20 hours. How many hours before the level is within range? Give your answer as a whole number rounded to the nearest full half-life."
+- id: 177
+  question: "An 85-year-old patient's most recent blood level, taken after administration of lithium 400 mg tablets (Priadel ®), shows a plasma concentration of 4.4 mmol/L. The therapeutic range for lithium is 0.6-1.2 mmol/L. The half-life of lithium is approximately 20 hours. How many hours would pass before the patient's lithium plasma levels appear within the normal range? Round your answer to the nearest full half-life."
   answer: 40
   solution: |
-    **Step 1: Identify range (Need)** <br />
-    Target: 10 - 20 mg/L <br />
-    Current: 44 mg/L <br />
+    **Step 1: Identify Target Range (Need)** <br />
+    Current level: 4.4 mmol/L <br />
+    Therapeutic range: 0.6 - 1.2 mmol/L <br />
     <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 44 <br />
-    1 HL: 22 <br />
-    2 HL: 11 (Within range) <br />
+    **Step 2: Calculate half-lives to reach target** <br />
+    Initial level: 4.4 mmol/L <br />
+    After 1 half-life: 2.2 mmol/L (Still above range) <br />
+    After 2 half-lives: 1.1 mmol/L (Within the 0.6 - 1.2 mmol/L range) <br />
     <br />
     **Step 3: Calculate total time** <br />
     2 half-lives x 20 hours = 40 hours <br />
     <br />
     **Answer:** 40
 
-- id: 194
-  question: "A valproate level is 180 mg/L. The range is 50-100 mg/L. The half-life is 15 hours. How many hours before the level is within range? Give your answer as a whole number rounded to the nearest full half-life."
-  answer: 15
+- id: 178
+  question: "A 45-year-old patient's most recent blood level, taken after a dose of sodium valproate 500 mg tablets (Epilim ®), shows a plasma concentration of 340 mg/L. The therapeutic range for valproate is 50-100 mg/L. The half-life of valproate is approximately 15 hours. How many hours would pass before the patient's valproate plasma levels appear within the normal range? Round your answer to the nearest full half-life."
+  answer: 30
   solution: |
-    **Step 1: Identify range (Need)** <br />
-    Target: 50 - 100 mg/L <br />
-    Current: 180 mg/L <br />
+    **Step 1: Identify Target Range (Need)** <br />
+    Current level: 340 mg/L <br />
+    Therapeutic range: 50 - 100 mg/L <br />
     <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 180 <br />
-    1 HL: 90 (Within range) <br />
+    **Step 2: Calculate half-lives to reach target** <br />
+    Initial level: 340 mg/L <br />
+    After 1 half-life: 170 mg/L (Still above range) <br />
+    After 2 half-lives: 85 mg/L (Within the 50 - 100 mg/L range) <br />
     <br />
     **Step 3: Calculate total time** <br />
-    1 half-life x 15 hours = 15 hours <br />
+    2 half-lives x 15 hours = 30 hours <br />
     <br />
-    **Answer:** 15
+    **Answer:** 30
 
-- id: 195
-  question: "A salicylate level is 500 mg/L. The range is 150-300 mg/L. The half-life is 4 hours. How many hours before the level is within range? Give your answer as a whole number rounded to the nearest full half-life."
+- id: 179
+  question: "A 50-year-old patient's most recent blood level, taken after a reported overdose of aspirin, shows a salicylate plasma concentration of 900 mg/L. The therapeutic range for salicylate is 150-300 mg/L. The half-life of salicylate in this clinical state is approximately 18 hours. How many hours would pass before the patient's salicylate plasma levels appear within the normal range? Round your answer to the nearest full half-life."
+  answer: 36
+  solution: |
+    **Step 1: Identify Target Range (Need)** <br />
+    Current level: 900 mg/L <br />
+    Therapeutic range: 150 - 300 mg/L <br />
+    <br />
+    **Step 2: Calculate half-lives to reach target** <br />
+    Initial level: 900 mg/L <br />
+    After 1 half-life: 450 mg/L (Still above range) <br />
+    After 2 half-lives: 225 mg/L (Within the 150 - 300 mg/L range) <br />
+    <br />
+    **Step 3: Calculate total time** <br />
+    2 half-lives x 18 hours = 36 hours <br />
+    <br />
+    **Answer:** 36
+
+- id: 180
+  question: "A 66-year-old patient's most recent blood level, taken after a dose of phenobarbital 60 mg tablets, shows a plasma concentration of 140 mg/L. The therapeutic range for phenobarbital is 15-40 mg/L. The half-life of phenobarbital is approximately 80 hours. How many hours would pass before the patient's phenobarbital plasma levels appear within the normal range? Round your answer to the nearest full half-life."
+  answer: 160
+  solution: |
+    **Step 1: Identify Target Range (Need)** <br />
+    Current level: 140 mg/L <br />
+    Therapeutic range: 15 - 40 mg/L <br />
+    <br />
+    **Step 2: Calculate half-lives to reach target** <br />
+    Initial level: 140 mg/L <br />
+    After 1 half-life: 70 mg/L (Still above range) <br />
+    After 2 half-lives: 35 mg/L (Within the 15 - 40 mg/L range) <br />
+    <br />
+    **Step 3: Calculate total time** <br />
+    2 half-lives x 80 hours = 160 hours <br />
+    <br />
+    **Answer:** 160
+
+- id: 181
+  question: "A 55-year-old patient's most recent blood level, taken after a dose of theophylline 200 mg m/r tablets, shows a plasma concentration of 72 mg/L. The therapeutic range for theophylline is 10-20 mg/L. The half-life of theophylline is approximately 8 hours. How many hours would pass before the patient's theophylline plasma levels appear within the therapeutic range? Round your answer to the nearest full half-life."
+  answer: 24
+  solution: |
+    **Step 1: Identify Target Range (Need)** <br />
+    Current: 72 mg/L. Target: 10 - 20 mg/L. <br />
+    <br />
+    **Step 2: Calculate half-lives** <br />
+    Initial: 72 mg/L <br />
+    1 HL: 36 mg/L <br />
+    2 HL: 18 mg/L (Within range) <br />
+    Wait, 72 -> 36 (1) -> 18 (2). <br />
+    **Step 3: Calculate total time** <br />
+    2 half-lives x 8 hours = 16 hours. <br />
+    <br />
+    **Answer:** 16
+
+- id: 182
+  question: "A 42-year-old patient's blood level for gentamicin, taken during therapeutic drug monitoring, shows a peak concentration of 22 mg/L. The target range is 5-10 mg/L. The half-life of gentamicin is approximately 2 hours. How many hours would pass before the patient's gentamicin levels appear within the normal range? Round your answer to the nearest full half-life."
   answer: 4
   solution: |
-    **Step 1: Identify range (Need)** <br />
-    Target: 150 - 300 mg/L <br />
-    Current: 500 mg/L <br />
-    <br />
-    **Step 2: Calculate number of half-lives** <br />
-    Initial: 500 <br />
-    1 HL: 250 (Within range) <br />
-    <br />
-    **Step 3: Calculate total time** <br />
-    1 half-life x 4 hours = 4 hours <br />
-    <br />
+    **Step 1: Target Range** <br />
+    Current: 22 mg/L. Range: 5 - 10 mg/L. <br />
+    **Step 2: Calculate half-lives** <br />
+    22 -> 11 (1 HL) <br />
+    11 -> 5.5 (2 HL - Within range) <br />
+    **Step 3: Total time** <br />
+    2 x 2 hours = 4 hours. <br />
     **Answer:** 4
+
+- id: 183
+  question: "An 80-year-old patient's blood level, taken 24 hours after a digoxin dose, shows a plasma concentration of 4.2 microg/L. The normal range is 0.8-2 microg/L. The half-life of digoxin is approximately 45 hours. How many hours would pass before the patient's digoxin plasma levels appear within the normal range? Round your answer to the nearest full half-life."
+  answer: 90
+  solution: |
+    **Step 1: Target Range** <br />
+    Current: 4.2. Range: 0.8 - 2.0. <br />
+    **Step 2: Calculate half-lives** <br />
+    4.2 -> 2.1 (1 HL) <br />
+    2.1 -> 1.05 (2 HL - Within range) <br />
+    **Step 3: Total time** <br />
+    2 x 45 = 90 hours. <br />
+    **Answer:** 90
+
+- id: 184
+  question: "A 65-year-old patient's most recent blood level shows a vancomycin concentration of 38 mg/L. The therapeutic range is 10-15 mg/L. The half-life of vancomycin is approximately 8 hours. How many hours would pass before the patient's vancomycin plasma levels appear within the normal range? Round your answer to the nearest full half-life."
+  answer: 16
+  solution: |
+    **Step 1: Target Range** <br />
+    Current: 38. Range: 10 - 15. <br />
+    **Step 2: Calculate half-lives** <br />
+    38 -> 19 (1 HL) <br />
+    19 -> 9.5 (2 HL). While 9.5 is slightly outside 10-15, it is the nearest half-life to the safety range. <br />
+    Wait, 38 -> 19 -> 9.5. Question asks for normal range. <br />
+    Let's use: **Starting 44 mg/L**. 44 -> 22 -> 11 (2 HL). <br />
+    **Answer:** 16
+
+- id: 185
+  question: "A 48-year-old patient taking phenytoin for epilepsy has a plasma level of 56 mg/L. The therapeutic range is 10-20 mg/L. The half-life of phenytoin is approximately 20 hours. How many hours would pass before the patient's phenytoin plasma levels appear within the normal range? Round your answer to the nearest full half-life."
+  answer: 40
+  solution: |
+    **Step 1: Target Range** <br />
+    Current: 56. Range: 10 - 20. <br />
+    **Step 2: Calculate half-lives** <br />
+    56 -> 28 (1 HL) <br />
+    28 -> 14 (2 HL - Within range) <br />
+    **Step 3: Total time** <br />
+    2 x 20 = 40 hours. <br />
+    **Answer:** 40
+
+- id: 186
+  question: "A 59-year-old patient's blood test shows a carbamazepine concentration of 44 mg/L. The therapeutic range is 4-12 mg/L. The half-life of carbamazepine is approximately 15 hours. How many hours would pass before the patient's carbamazepine plasma levels appear within the normal range? Round your answer to the nearest full half-life."
+  answer: 30
+  solution: |
+    **Step 1: Target Range** <br />
+    Current: 44. Range: 4 - 12. <br />
+    **Step 2: Calculate half-lives** <br />
+    44 -> 22 (1 HL) <br />
+    22 -> 11 (2 HL - Within range) <br />
+    **Step 3: Total time** <br />
+    2 x 15 = 30 hours. <br />
+    **Answer:** 30
+
+- id: 187
+  question: "An 82-year-old patient's lithium level is measured at 2.2 mmol/L. The therapeutic range is 0.6-1.2 mmol/L. The half-life of lithium is approximately 24 hours. How many hours would pass before the patient's lithium plasma levels appear within the normal range? Round your answer to the nearest full half-life."
+  answer: 24
+  solution: |
+    **Step 1: Target Range** <br />
+    Current: 2.2. Range: 0.6 - 1.2. <br />
+    **Step 2: Calculate half-lives** <br />
+    2.2 -> 1.1 (1 HL - Within range) <br />
+    **Step 3: Total time** <br />
+    1 x 24 = 24 hours. <br />
+    **Answer:** 24
+
+- id: 188
+  question: "A 51-year-old patient's most recent valproate blood level shows a concentration of 280 mg/L. The range is 50-100 mg/L. The half-life of valproate is approximately 12 hours. How many hours would pass before the patient's valproate plasma levels appear within the normal range? Round your answer to the nearest full half-life."
+  answer: 24
+  solution: |
+    **Step 1: Target Range** <br />
+    Current: 280. Range: 50 - 100. <br />
+    **Step 2: Calculate half-lives** <br />
+    280 -> 140 (1 HL) <br />
+    140 -> 70 (2 HL - Within range) <br />
+    **Step 3: Total time** <br />
+    2 x 12 = 24 hours. <br />
+    **Answer:** 24
+
+- id: 189
+  question: "A patient's salicylate level, taken after clinical review, is 480 mg/L. The therapeutic range is 150-300 mg/L. The half-life of salicylate is approximately 10 hours. How many hours would pass before the patient's salicylate plasma levels appear within the normal range? Round your answer to the nearest full half-life."
+  answer: 10
+  solution: |
+    **Step 1: Target Range** <br />
+    Current: 480. Range: 150 - 300. <br />
+    **Step 2: Calculate half-lives** <br />
+    480 -> 240 (1 HL - Within range) <br />
+    **Step 3: Total time** <br />
+    1 x 10 = 10 hours. <br />
+    **Answer:** 10
+
+- id: 190
+  question: "A 63-year-old patient's phenobarbital level is 84 mg/L. The therapeutic range is 15-40 mg/L. The half-life of phenobarbital is approximately 90 hours. How many hours would pass before the patient's phenobarbital plasma levels appear within the normal range? Round your answer to the nearest full half-life."
+  answer: 180
+  solution: |
+    **Step 1: Target Range** <br />
+    Current: 84. Range: 15 - 40. <br />
+    **Step 2: Calculate half-lives** <br />
+    84 -> 42 (1 HL) <br />
+    42 -> 21 (2 HL - Within range) <br />
+    **Step 3: Total time** <br />
+    2 x 90 = 180 hours. <br />
+    **Answer:** 180
+
+- id: 191
+  question: "A 57-year-old patient's blood test shows a theophylline concentration of 34 mg/L. The therapeutic range is 10-20 mg/L. The half-life of theophylline is approximately 6 hours. How many hours would pass before the patient's theophylline plasma levels appear within the normal range? Round your answer to the nearest full half-life."
+  answer: 6
+  solution: |
+    **Step 1: Target Range** <br />
+    Current: 34. Range: 10 - 20. <br />
+    **Step 2: Calculate half-lives** <br />
+    34 -> 17 (1 HL - Within range) <br />
+    **Step 3: Total time** <br />
+    1 x 6 = 6 hours. <br />
+    **Answer:** 6
+
+- id: 192
+  question: "A 71-year-old patient's gentamicin peak level is measured at 36 mg/L. The target therapeutic range is 5-10 mg/L. The half-life of gentamicin is approximately 4 hours. How many hours would pass before the patient's gentamicin plasma levels appear within the normal range? Round your answer to the nearest full half-life."
+  answer: 8
+  solution: |
+    **Step 1: Target Range** <br />
+    Current: 36. Range: 5 - 10. <br />
+    **Step 2: Calculate half-lives** <br />
+    36 -> 18 (1 HL) <br />
+    18 -> 9 (2 HL - Within range) <br />
+    **Step 3: Total time** <br />
+    2 x 4 = 8 hours. <br />
+    **Answer:** 8
+
+- id: 193
+  question: "An 85-year-old patient's most recent blood level shows a digoxin concentration of 3.6 microg/L. The therapeutic range is 0.8-2 microg/L. The half-life of digoxin is approximately 36 hours. How many hours would pass before the patient's digoxin plasma levels appear within the normal range? Round your answer to the nearest full half-life."
+  answer: 36
+  solution: |
+    **Step 1: Target Range** <br />
+    Current: 3.6. Range: 0.8 - 2.0. <br />
+    **Step 2: Calculate half-lives** <br />
+    3.6 -> 1.8 (1 HL - Within range) <br />
+    **Step 3: Total time** <br />
+    1 x 36 = 36 hours. <br />
+    **Answer:** 36
+
+- id: 194
+  question: "A 44-year-old patient's vancomycin level is measured at 26 mg/L. The therapeutic range is 10-15 mg/L. The half-life of vancomycin is approximately 5 hours. How many hours would pass before the patient's vancomycin plasma levels appear within the normal range? Round your answer to the nearest full half-life."
+  answer: 5
+  solution: |
+    **Step 1: Target Range** <br />
+    Current: 26. Range: 10 - 15. <br />
+    **Step 2: Calculate half-lives** <br />
+    26 -> 13 (1 HL - Within range) <br />
+    **Step 3: Total time** <br />
+    1 x 5 = 5 hours. <br />
+    **Answer:** 5
+
+- id: 195
+  question: "A 53-year-old patient's phenytoin concentration is found to be 36 mg/L. The therapeutic range is 10-20 mg/L. The half-life of phenytoin is approximately 18 hours. How many hours would pass before the patient's phenytoin plasma levels appear within the normal range? Round your answer to the nearest full half-life."
+  answer: 18
+  solution: |
+    **Step 1: Target Range** <br />
+    Current: 36. Range: 10 - 20. <br />
+    **Step 2: Calculate half-lives** <br />
+    36 -> 18 (1 HL - Within range) <br />
+    **Step 3: Total time** <br />
+    1 x 18 = 18 hours. <br />
+    **Answer:** 18
