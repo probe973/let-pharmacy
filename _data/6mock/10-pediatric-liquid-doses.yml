@@ -1,0 +1,300 @@
+- id: 246
+  question: "A 4-month-old baby weighing 6.8 kg is prescribed trimethoprim 2 mg/kg at night for prophylaxis against recurrent urinary tract infections. How many millilitres of trimethoprim suspension 50 mg/mL should this child be given for each dose? Give your answer to two decimal places."
+  answer: 0.27
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    6.8 kg x 2 mg/kg = 13.6 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{13.6 \text{ mg}}{50 \text{ mg}} \times 1 \text{ mL} = 0.272 \text{ mL} \) <br />
+    <br />
+    **Answer:** 0.27
+
+- id: 247
+  question: "A 2-year-old child weighing 12.5 kg is prescribed paracetamol 15 mg/kg every 6 hours for post-vaccination fever. The medication is available as a paracetamol 120 mg/5 mL oral suspension. How many millilitres should be administered for each dose? Give your answer to one decimal place."
+  answer: 7.8
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    12.5 kg x 15 mg/kg = 187.5 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{187.5 \text{ mg}}{120 \text{ mg}} \times 5 \text{ mL} = 7.8125 \text{ mL} \) <br />
+    <br />
+    **Answer:** 7.8
+
+- id: 248
+  question: "An 8-month-old baby weighing 8.4 kg is prescribed ibuprofen 10 mg/kg three times a day for inflammation. The ibuprofen suspension available is a concentration of 100 mg/5 mL. What volume in millilitres should be given to the baby for each dose? Give your answer to one decimal place."
+  answer: 4.2
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    8.4 kg x 10 mg/kg = 84 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{84 \text{ mg}}{100 \text{ mg}} \times 5 \text{ mL} = 4.2 \text{ mL} \) <br />
+    <br />
+    **Answer:** 4.2
+
+- id: 249
+  question: "A 5-year-old child weighing 18 kg is diagnosed with an ear infection and is prescribed amoxicillin 25 mg/kg three times a day. You have amoxicillin 250 mg/5 mL suspension in stock. How many millilitres of the suspension should be administered for each prescribed dose? Give your answer to one decimal place."
+  answer: 9.0
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    18 kg x 25 mg/kg = 450 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{450 \text{ mg}}{250 \text{ mg}} \times 5 \text{ mL} = 9.0 \text{ mL} \) <br />
+    <br />
+    **Answer:** 9.0
+
+- id: 250
+  question: "A 6-month-old baby weighing 7.5 kg is prescribed prednisolone 1 mg/kg once daily for the treatment of croup. The pharmacy stocks prednisolone 10 mg/mL oral solution. What is the volume of prednisolone in millilitres required for each daily dose? Give your answer to two decimal places."
+  answer: 0.75
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    7.5 kg x 1 mg/kg = 7.5 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{7.5 \text{ mg}}{10 \text{ mg}} \times 1 \text{ mL} = 0.75 \text{ mL} \) <br />
+    <br />
+    **Answer:** 0.75
+
+- id: 251
+  question: "A 3-year-old child weighing 14 kg is prescribed amoxicillin 40 mg/kg three times a day for high-dose treatment of otitis media. The pharmacy stocks amoxicillin 250 mg/5 mL oral suspension. How many millilitres of the suspension should the child be given for each dose? Give your answer to one decimal place."
+  answer: 11.2
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    14 kg x 40 mg/kg = 560 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{560 \text{ mg}}{250 \text{ mg}} \times 5 \text{ mL} = 11.2 \text{ mL} \) <br />
+    <br />
+    **Answer:** 11.2
+
+- id: 252
+  question: "A 2-month-old infant weighing 6.2 kg is prescribed phenobarbital 3 mg/kg twice daily for the management of seizures. The medication is available as a 50 mg/5 mL oral solution. What volume in millilitres should be administered for each individual dose? Give your answer to two decimal places."
+  answer: 1.86
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    6.2 kg x 3 mg/kg = 18.6 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{18.6 \text{ mg}}{50 \text{ mg}} \times 5 \text{ mL} = 1.86 \text{ mL} \) <br />
+    <br />
+    **Answer:** 1.86
+
+- id: 253
+  question: "A child weighing 9.5 kg is prescribed spironolactone 1 mg/kg twice daily for heart failure management. The pharmacy prepares a spironolactone 10 mg/5 mL oral suspension. Calculate the volume in millilitres required for each prescribed dose. Give your answer to one decimal place."
+  answer: 4.8
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    9.5 kg x 1 mg/kg = 9.5 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{9.5 \text{ mg}}{10 \text{ mg}} \times 5 \text{ mL} = 4.75 \text{ mL} \) <br />
+    <br />
+    **Answer:** 4.8 (Rounded to one decimal place)
+
+- id: 254
+  question: "A neonate weighing 4.8 kg is prescribed furosemide 0.5 mg/kg twice daily. The oral solution in stock has a concentration of 20 mg/5 mL. How many millilitres should be measured for each dose? Give your answer to two decimal places."
+  answer: 0.60
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    4.8 kg x 0.5 mg/kg = 2.4 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{2.4 \text{ mg}}{20 \text{ mg}} \times 5 \text{ mL} = 0.6 \text{ mL} \) <br />
+    <br />
+    **Answer:** 0.60
+
+- id: 255
+  question: "An 8-year-old child weighing 22 kg is prescribed erythromycin 12.5 mg/kg four times a day for a skin infection. The available suspension is erythromycin 250 mg/5 mL. What volume in millilitres is required for each dose? Give your answer to one decimal place."
+  answer: 5.5
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    22 kg x 12.5 mg/kg = 275 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{275 \text{ mg}}{250 \text{ mg}} \times 5 \text{ mL} = 5.5 \text{ mL} \) <br />
+    <br />
+    **Answer:** 5.5
+
+- id: 256
+  question: "A 4-year-old child weighing 16 kg is prescribed ibuprofen 10 mg/kg three times a day for the management of pain and inflammation. The available stock is ibuprofen 100 mg/5 mL oral suspension. How many millilitres should be administered for each dose? Give your answer to one decimal place."
+  answer: 8.0
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    16 kg x 10 mg/kg = 160 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{160 \text{ mg}}{100 \text{ mg}} \times 5 \text{ mL} = 8.0 \text{ mL} \) <br />
+    <br />
+    **Answer:** 8.0
+
+- id: 257
+  question: "A 10-month-old infant weighing 9.2 kg is prescribed omeprazole 1 mg/kg once daily for gastro-oesophageal reflux disease. The pharmacy provides an omeprazole 10 mg/5 mL oral suspension. Calculate the volume in millilitres required for each daily dose. Give your answer to one decimal place."
+  answer: 4.6
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    9.2 kg x 1 mg/kg = 9.2 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{9.2 \text{ mg}}{10 \text{ mg}} \times 5 \text{ mL} = 4.6 \text{ mL} \) <br />
+    <br />
+    **Answer:** 4.6
+
+- id: 258
+  question: "A 7-year-old child weighing 24 kg is prescribed flucloxacillin 25 mg/kg four times a day for a skin infection. The available suspension is flucloxacillin 125 mg/5 mL. What volume in millilitres is required for each individual dose? Give your answer to one decimal place."
+  answer: 24.0
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    24 kg x 25 mg/kg = 600 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{600 \text{ mg}}{125 \text{ mg}} \times 5 \text{ mL} = 24.0 \text{ mL} \) <br />
+    <br />
+    **Answer:** 24.0
+
+- id: 259
+  question: "A 5-month-old baby weighing 7.1 kg is prescribed morphine sulfate oral solution at a dose of 100 micrograms/kg for pain relief. The concentration of the morphine sulfate oral solution in stock is 10 mg/5 mL. How many millilitres should be given for each dose? Give your answer to two decimal places."
+  answer: 0.36
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    7.1 kg x 100 micrograms/kg = 710 micrograms per dose <br />
+    Convert micrograms to mg: 710 / 1,000 = 0.71 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{0.71 \text{ mg}}{10 \text{ mg}} \times 5 \text{ mL} = 0.355 \text{ mL} \) <br />
+    <br />
+    **Answer:** 0.36 (Rounded to two decimal places)
+
+- id: 260
+  question: "A 6-year-old child weighing 20.5 kg is prescribed chlorphenamine 0.1 mg/kg twice daily for the relief of allergic symptoms. The available solution has a concentration of 2 mg/5 mL. Calculate the volume in millilitres needed for each dose. Give your answer to one decimal place."
+  answer: 5.1
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    20.5 kg x 0.1 mg/kg = 2.05 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{2.05 \text{ mg}}{2 \text{ mg}} \times 5 \text{ mL} = 5.125 \text{ mL} \) <br />
+    <br />
+    **Answer:** 5.1 (Rounded to one decimal place)
+
+- id: 261
+  question: "A 4-year-old child weighing 15 kg is prescribed metronidazole suspension at a dose of 7.5 mg/kg three times a day for a dental infection. The suspension is available in a concentration of 200 mg/5 mL. How many millilitres should be given for each individual dose? Give your answer to two decimal places."
+  answer: 2.81
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    15 kg x 7.5 mg/kg = 112.5 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{112.5 \text{ mg}}{200 \text{ mg}} \times 5 \text{ mL} = 2.8125 \text{ mL} \) <br />
+    <br />
+    **Answer:** 2.81
+
+- id: 262
+  question: "A 3-month-old infant weighing 4.2 kg is prescribed digoxin 5 micrograms/kg twice daily for the management of a heart condition. The hospital stock is a digoxin 50 micrograms/mL oral solution. What volume in millilitres should be administered to the infant for each dose? Give your answer to two decimal places."
+  answer: 0.42
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    4.2 kg x 5 micrograms/kg = 21 micrograms per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{21 \text{ micrograms}}{50 \text{ micrograms}} \times 1 \text{ mL} = 0.42 \text{ mL} \) <br />
+    <br />
+    **Answer:** 0.42
+
+- id: 263
+  question: "A 1-year-old child weighing 11 kg is prescribed clarithromycin 7.5 mg/kg twice daily for a chest infection. The suspension available in the dispensary has a concentration of 125 mg/5 mL. Calculate the volume in millilitres required for each dose. Give your answer to one decimal place."
+  answer: 3.3
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    11 kg x 7.5 mg/kg = 82.5 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{82.5 \text{ mg}}{125 \text{ mg}} \times 5 \text{ mL} = 3.3 \text{ mL} \) <br />
+    <br />
+    **Answer:** 3.3
+
+- id: 264
+  question: "A child weighing 25 kg is prescribed diazepam 0.2 mg/kg for the relief of muscle spasms. The available diazepam oral solution has a concentration of 2 mg/5 mL. What volume in millilitres should be administered for each dose? Give your answer to one decimal place."
+  answer: 12.5
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    25 kg x 0.2 mg/kg = 5 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{5 \text{ mg}}{2 \text{ mg}} \times 5 \text{ mL} = 12.5 \text{ mL} \) <br />
+    <br />
+    **Answer:** 12.5
+
+- id: 265
+  question: "A child weighing 19 kg is prescribed cefalexin 12.5 mg/kg twice daily for a urinary tract infection. The suspension available in stock is cefalexin 250 mg/5 mL. How many millilitres should be given for each individual dose? Give your answer to two decimal places."
+  answer: 4.75
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    19 kg x 12.5 mg/kg = 237.5 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{237.5 \text{ mg}}{250 \text{ mg}} \times 5 \text{ mL} = 4.75 \text{ mL} \) <br />
+    <br />
+    **Answer:** 4.75
+
+- id: 266
+  question: "A 9-year-old child weighing 30 kg is prescribed carbamazepine 5 mg/kg twice daily for the management of epilepsy. The pharmacy stocks carbamazepine 100 mg/5 mL oral suspension. How many millilitres of the suspension should be administered for each individual dose? Give your answer to one decimal place."
+  answer: 7.5
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    30 kg x 5 mg/kg = 150 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{150 \text{ mg}}{100 \text{ mg}} \times 5 \text{ mL} = 7.5 \text{ mL} \) <br />
+    <br />
+    **Answer:** 7.5
+
+- id: 267
+  question: "A child weighing 14 kg is prescribed co-trimoxazole oral suspension at a dose of 24 mg/kg twice daily for the treatment of an infection. The suspension available has a concentration of 240 mg/5 mL. What volume in millilitres should be given for each prescribed dose? Give your answer to one decimal place."
+  answer: 7.0
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    14 kg x 24 mg/kg = 336 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{336 \text{ mg}}{240 \text{ mg}} \times 5 \text{ mL} = 7.0 \text{ mL} \) <br />
+    <br />
+    **Answer:** 7.0
+
+- id: 268
+  question: "A 6-year-old child weighing 20 kg is prescribed phenytoin 2.5 mg/kg twice daily. The available stock is phenytoin 30 mg/5 mL oral suspension. Calculate the volume in millilitres required for each individual dose. Give your answer to one decimal place."
+  answer: 8.3
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    20 kg x 2.5 mg/kg = 50 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{50 \text{ mg}}{30 \text{ mg}} \times 5 \text{ mL} = 8.333 \text{ mL} \) <br />
+    <br />
+    **Answer:** 8.3 (Rounded to one decimal place)
+
+- id: 269
+  question: "An 4-year-old child weighing 18 kg is prescribed ondansetron 0.15 mg/kg for the prevention of post-operative nausea. The pharmacy provides an ondansetron 4 mg/5 mL oral solution. How many millilitres should the child be given for the dose? Give your answer to two decimal places."
+  answer: 3.38
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    18 kg x 0.15 mg/kg = 2.7 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{2.7 \text{ mg}}{4 \text{ mg}} \times 5 \text{ mL} = 3.375 \text{ mL} \) <br />
+    <br />
+    **Answer:** 3.38 (Rounded to two decimal places)
+
+- id: 270
+  question: "A 3-month-old baby weighing 5.4 kg is prescribed ranitidine 2 mg/kg three times daily for gastric reflux. The available oral solution has a concentration of 75 mg/5 mL. What volume in millilitres should be administered for each individual dose? Give your answer to two decimal places."
+  answer: 0.72
+  solution: |
+    **Step 1: Dose (Need)** <br />
+    5.4 kg x 2 mg/kg = 10.8 mg per dose <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{10.8 \text{ mg}}{75 \text{ mg}} \times 5 \text{ mL} = 0.72 \text{ mL} \) <br />
+    <br />
+    **Answer:** 0.72
