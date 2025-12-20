@@ -1,0 +1,141 @@
+- id: 296
+  question: |
+    A 67-year-old male has an ideal body weight (IBW) of 61 kg. He is prescribed a drug which is principally renally excreted and is given by IV infusion. The dose recommendations are as follows: <br /><br />
+    <table style='width:100%; border:1px solid #ccc; border-collapse:collapse;'>
+      <tr><th style='border:1px solid #ccc; padding:8px;'>CrCl (mL/min)</th><th style='border:1px solid #ccc; padding:8px;'>Dosage</th></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>&gt;50</td><td style='border:1px solid #ccc; padding:8px;'>20 mg BD</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>25-50</td><td style='border:1px solid #ccc; padding:8px;'>20 mg OD</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>10-24</td><td style='border:1px solid #ccc; padding:8px;'>10 mg OD</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>&lt;10</td><td style='border:1px solid #ccc; padding:8px;'>5 mg OD</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>&lt;5</td><td style='border:1px solid #ccc; padding:8px;'>Avoid</td></tr>
+    </table><br />
+    $$\text{CrCl (ml/min)}=\frac{1.23 \times (140-\text{age}) \times \text{weight (kg)}}{\text{Serum creatinine (micromol/L)}}$$ <br />
+    What total daily dose (in milligrams) is most appropriate for him given that his creatinine level is 249 micromol/L? Give your answer as a whole number.
+  answer: 10
+  solution: |
+    **Step 1: Calculate the Creatinine Clearance (CrCl)** <br />
+    Using the formula provided for a male patient: <br />
+    \( \text{CrCl} = \frac{1.23 \times (140 - 67) \times 61}{249} \) <br />
+    \( \text{CrCl} = \frac{1.23 \times 73 \times 61}{249} = 21.997 \text{ mL/min} \) <br />
+    <br />
+    **Step 2: Compare to the dose recommendation table** <br />
+    A CrCl of 21.997 mL/min falls into the **10-24 mL/min** range. <br />
+    The table specifies a dose of **10 mg OD** (Once Daily). <br />
+    <br />
+    **Step 3: Calculate total daily dose** <br />
+    10 mg x 1 = 10 mg <br />
+    <br />
+    **Answer:** 10
+
+- id: 297
+  question: |
+    A 75-year-old female has an ideal body weight (IBW) of 55 kg. She is prescribed a drug which is principally renally excreted and is given by IV infusion. The dose recommendations are as follows: <br /><br />
+    <table style='width:100%; border:1px solid #ccc; border-collapse:collapse;'>
+      <tr><th style='border:1px solid #ccc; padding:8px;'>CrCl (mL/min)</th><th style='border:1px solid #ccc; padding:8px;'>Dosage</th></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>&gt;50</td><td style='border:1px solid #ccc; padding:8px;'>20 mg BD</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>25-50</td><td style='border:1px solid #ccc; padding:8px;'>20 mg OD</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>10-24</td><td style='border:1px solid #ccc; padding:8px;'>10 mg OD</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>&lt;10</td><td style='border:1px solid #ccc; padding:8px;'>5 mg OD</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>&lt;5</td><td style='border:1px solid #ccc; padding:8px;'>Avoid</td></tr>
+    </table><br />
+    $$\text{CrCl (ml/min)}=\frac{1.04 \times (140-\text{age}) \times \text{weight (kg)}}{\text{Serum creatinine (micromol/L)}}$$ <br />
+    What total daily dose (in milligrams) is most appropriate for her given that her creatinine level is 150 micromol/L? Give your answer as a whole number.
+  answer: 10
+  solution: |
+    **Step 1: Calculate the Creatinine Clearance (CrCl)** <br />
+    Using the formula provided for a female patient: <br />
+    \( \text{CrCl} = \frac{1.04 \times (140 - 75) \times 55}{150} \) <br />
+    \( \text{CrCl} = \frac{1.04 \times 65 \times 55}{150} = 24.787 \text{ mL/min} \) <br />
+    <br />
+    **Step 2: Compare to the dose recommendation table** <br />
+    A CrCl of 24.787 mL/min falls into the **10-24 mL/min** range. <br />
+    The table specifies a dose of **10 mg OD**. <br />
+    <br />
+    **Step 3: Calculate total daily dose** <br />
+    10 mg x 1 = 10 mg <br />
+    <br />
+    **Answer:** 10
+
+- id: 298
+  question: |
+    A 50-year-old male has an ideal body weight (IBW) of 85 kg. He is prescribed a drug which is principally renally excreted and is given by IV infusion. The dose recommendations are as follows: <br /><br />
+    <table style='width:100%; border:1px solid #ccc; border-collapse:collapse;'>
+      <tr><th style='border:1px solid #ccc; padding:8px;'>CrCl (mL/min)</th><th style='border:1px solid #ccc; padding:8px;'>Dosage</th></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>&gt;50</td><td style='border:1px solid #ccc; padding:8px;'>20 mg BD</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>25-50</td><td style='border:1px solid #ccc; padding:8px;'>20 mg OD</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>10-24</td><td style='border:1px solid #ccc; padding:8px;'>10 mg OD</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>&lt;10</td><td style='border:1px solid #ccc; padding:8px;'>5 mg OD</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>&lt;5</td><td style='border:1px solid #ccc; padding:8px;'>Avoid</td></tr>
+    </table><br />
+    $$\text{CrCl (ml/min)}=\frac{1.23 \times (140-\text{age}) \times \text{weight (kg)}}{\text{Serum creatinine (micromol/L)}}$$ <br />
+    What total daily dose (in milligrams) is most appropriate for him given that his creatinine level is 110 micromol/L? Give your answer as a whole number.
+  answer: 40
+  solution: |
+    **Step 1: Calculate the Creatinine Clearance (CrCl)** <br />
+    \( \text{CrCl} = \frac{1.23 \times (140 - 50) \times 85}{110} \) <br />
+    \( \text{CrCl} = \frac{1.23 \times 90 \times 85}{110} = 85.541 \text{ mL/min} \) <br />
+    <br />
+    **Step 2: Compare to the dose recommendation table** <br />
+    A CrCl of 85.541 mL/min falls into the **>50 mL/min** range. <br />
+    The table specifies a dose of **20 mg BD** (Twice Daily). <br />
+    <br />
+    **Step 3: Calculate total daily dose** <br />
+    20 mg x 2 = 40 mg <br />
+    <br />
+    **Answer:** 40
+
+- id: 299
+  question: |
+    An 82-year-old female has an ideal body weight (IBW) of 48 kg. She is prescribed a drug which is principally renally excreted and is given by IV infusion. The dose recommendations are as follows: <br /><br />
+    <table style='width:100%; border:1px solid #ccc; border-collapse:collapse;'>
+      <tr><th style='border:1px solid #ccc; padding:8px;'>CrCl (mL/min)</th><th style='border:1px solid #ccc; padding:8px;'>Dosage</th></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>&gt;50</td><td style='border:1px solid #ccc; padding:8px;'>20 mg BD</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>25-50</td><td style='border:1px solid #ccc; padding:8px;'>20 mg OD</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>10-24</td><td style='border:1px solid #ccc; padding:8px;'>10 mg OD</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>&lt;10</td><td style='border:1px solid #ccc; padding:8px;'>5 mg OD</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>&lt;5</td><td style='border:1px solid #ccc; padding:8px;'>Avoid</td></tr>
+    </table><br />
+    $$\text{CrCl (ml/min)}=\frac{1.04 \times (140-\text{age}) \times \text{weight (kg)}}{\text{Serum creatinine (micromol/L)}}$$ <br />
+    What total daily dose (in milligrams) is most appropriate for her given that her creatinine level is 90 micromol/L? Give your answer as a whole number.
+  answer: 20
+  solution: |
+    **Step 1: Calculate the Creatinine Clearance (CrCl)** <br />
+    \( \text{CrCl} = \frac{1.04 \times (140 - 82) \times 48}{90} \) <br />
+    \( \text{CrCl} = \frac{1.04 \times 58 \times 48}{90} = 32.17 \text{ mL/min} \) <br />
+    <br />
+    **Step 2: Compare to the dose recommendation table** <br />
+    A CrCl of 32.17 mL/min falls into the **25-50 mL/min** range. <br />
+    The table specifies a dose of **20 mg OD**. <br />
+    <br />
+    **Step 3: Calculate total daily dose** <br />
+    20 mg x 1 = 20 mg <br />
+    <br />
+    **Answer:** 20
+
+- id: 300
+  question: |
+    A 70-year-old male has an ideal body weight (IBW) of 92 kg. He is prescribed a drug which is principally renally excreted and is given by IV infusion. The dose recommendations are as follows: <br /><br />
+    <table style='width:100%; border:1px solid #ccc; border-collapse:collapse;'>
+      <tr><th style='border:1px solid #ccc; padding:8px;'>CrCl (mL/min)</th><th style='border:1px solid #ccc; padding:8px;'>Dosage</th></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>&gt;50</td><td style='border:1px solid #ccc; padding:8px;'>20 mg BD</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>25-50</td><td style='border:1px solid #ccc; padding:8px;'>20 mg OD</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>10-24</td><td style='border:1px solid #ccc; padding:8px;'>10 mg OD</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>&lt;10</td><td style='border:1px solid #ccc; padding:8px;'>5 mg OD</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>&lt;5</td><td style='border:1px solid #ccc; padding:8px;'>Avoid</td></tr>
+    </table><br />
+    $$\text{CrCl (ml/min)}=\frac{1.23 \times (140-\text{age}) \times \text{weight (kg)}}{\text{Serum creatinine (micromol/L)}}$$ <br />
+    What total daily dose (in milligrams) is most appropriate for him given that his creatinine level is 900 micromol/L? Give your answer as a whole number.
+  answer: 5
+  solution: |
+    **Step 1: Calculate the Creatinine Clearance (CrCl)** <br />
+    \( \text{CrCl} = \frac{1.23 \times (140 - 70) \times 92}{900} \) <br />
+    \( \text{CrCl} = \frac{1.23 \times 70 \times 92}{900} = 8.806 \text{ mL/min} \) <br />
+    <br />
+    **Step 2: Compare to the dose recommendation table** <br />
+    A CrCl of 8.806 mL/min falls into the **<10 mL/min** range. <br />
+    The table specifies a dose of **5 mg OD**. <br />
+    <br />
+    **Step 3: Calculate total daily dose** <br />
+    5 mg x 1 = 5 mg <br />
+    <br />
+    **Answer:** 5
