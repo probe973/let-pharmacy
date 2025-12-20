@@ -85,3 +85,338 @@
     \( \frac{150 \text{ mg}}{25 \text{ mg}} \times 1 \text{ tablet} = 6 \text{ tablets} \) <br />
     <br />
     **Answer:** 6
+
+- id: 361
+  question: "A pediatric patient is prescribed an oral corticosteroid at a dose of 60 mg/m² once daily for 5 days. The patient weighs 30 kg and is 120 cm tall. How many 20 mg tablets are required to complete the full 5-day course? Give your answer as a whole number."
+  answer: 15
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    \( \text{BSA} = \sqrt{\frac{30 \text{ kg} \times 120 \text{ cm}}{3600}} = \sqrt{\frac{3600}{3600}} = 1.0 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 60 \text{ mg/m}^2 \times 1.0 \text{ m}^2 = 60 \text{ mg} \) <br />
+    Total mg for the course: \( 60 \text{ mg} \times 5 \text{ days} = 300 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{300 \text{ mg}}{20 \text{ mg}} \times 1 \text{ tablet} = 15 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 15
+
+- id: 362
+  question: "A patient is prescribed an immunosuppressant drug at a dose of 150 mg/m² twice daily for day 1 of a treatment cycle. The patient weighs 72 kg and is 200 cm tall. How many 50 mg tablets are needed to provide the treatment for this cycle? Give your answer as a whole number."
+  answer: 12
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    \( \text{BSA} = \sqrt{\frac{72 \text{ kg} \times 200 \text{ cm}}{3600}} = \sqrt{\frac{14400}{3600}} = \sqrt{4} = 2.0 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 150 \text{ mg/m}^2 \times 2.0 \text{ m}^2 = 300 \text{ mg} \) <br />
+    Total mg for the cycle (2 doses on Day 1): \( 300 \text{ mg} \times 2 = 600 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{600 \text{ mg}}{50 \text{ mg}} \times 1 \text{ tablet} = 12 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 12
+
+- id: 363
+  question: "A child is prescribed a specialized antibiotic at a dose of 450 mg/m² once daily for a 3-day course. The child weighs 40 kg and is 90 cm tall. How many 150 mg tablets are needed to complete this 3-day course? Give your answer as a whole number."
+  answer: 9
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    \( \text{BSA} = \sqrt{\frac{40 \text{ kg} \times 90 \text{ cm}}{3600}} = \sqrt{\frac{3600}{3600}} = 1.0 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 450 \text{ mg/m}^2 \times 1.0 \text{ m}^2 = 450 \text{ mg} \) <br />
+    Total mg for the course: \( 450 \text{ mg} \times 3 \text{ days} = 1,350 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{1350 \text{ mg}}{150 \text{ mg}} \times 1 \text{ tablet} = 9 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 9
+
+- id: 364
+  question: "A patient is prescribed a chemotherapy drug at a dose of 120 mg/m² once daily for 2 days. The patient weighs 60 kg and is 135 cm tall. How many 40 mg tablets are required for this treatment cycle? Give your answer as a whole number."
+  answer: 9
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    \( \text{BSA} = \sqrt{\frac{60 \text{ kg} \times 135 \text{ cm}}{3600}} = \sqrt{\frac{8100}{3600}} = \sqrt{2.25} = 1.5 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 120 \text{ mg/m}^2 \times 1.5 \text{ m}^2 = 180 \text{ mg} \) <br />
+    Total mg for cycle (1 dose per day x 2 days): \( 180 \text{ mg} \times 2 = 360 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{360 \text{ mg}}{40 \text{ mg}} \times 1 \text{ tablet} = 9 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 9
+
+- id: 365
+  question: "A patient is prescribed an antiviral medication dosed by Body Surface Area. The dose is 500 mg/m² twice daily for 1 day. The patient weighs 45 kg and is 80 cm tall. How many 250 mg tablets are needed for this treatment? Give your answer as a whole number."
+  answer: 4
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    \( \text{BSA} = \sqrt{\frac{45 \text{ kg} \times 80 \text{ cm}}{3600}} = \sqrt{\frac{3600}{3600}} = 1.0 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 500 \text{ mg/m}^2 \times 1.0 \text{ m}^2 = 500 \text{ mg} \) <br />
+    Total mg for the day: \( 500 \text{ mg} \times 2 = 1,000 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{1000 \text{ mg}}{250 \text{ mg}} \times 1 \text{ tablet} = 4 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 4
+
+- id: 366
+  question: "A patient is prescribed a specialized medication at a dose of 150 mg/m² twice daily for 1 day of a treatment cycle. The patient weighs 48 kg and is 1.08 m tall. How many 40 mg tablets are needed to provide treatment for each cycle? Give your answer as a whole number."
+  answer: 9
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    Height = 108 cm. <br />
+    \( \text{BSA} = \sqrt{\frac{48 \text{ kg} \times 108 \text{ cm}}{3600}} = \sqrt{\frac{5184}{3600}} = \sqrt{1.44} = 1.2 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 150 \text{ mg/m}^2 \times 1.2 \text{ m}^2 = 180 \text{ mg} \) <br />
+    Total mg per cycle (2 doses on Day 1): \( 180 \text{ mg} \times 2 = 360 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{360 \text{ mg}}{40 \text{ mg}} \times 1 \text{ tablet} = 9 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 9
+
+- id: 367
+  question: "A patient is prescribed a chemotherapy drug at a dose of 75 mg/m² once daily on days 1 to 4 of a treatment cycle. The patient weighs 72 kg and is 1.28 m tall. How many 60 mg tablets are needed to provide treatment for each cycle? Give your answer as a whole number."
+  answer: 8
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    Height = 128 cm. <br />
+    \( \text{BSA} = \sqrt{\frac{72 \text{ kg} \times 128 \text{ cm}}{3600}} = \sqrt{\frac{9216}{3600}} = \sqrt{2.56} = 1.6 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 75 \text{ mg/m}^2 \times 1.6 \text{ m}^2 = 120 \text{ mg} \) <br />
+    Doses per cycle: 1 dose per day x 4 days = 4 doses <br />
+    Total mg per cycle: \( 120 \text{ mg} \times 4 = 480 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{480 \text{ mg}}{60 \text{ mg}} \times 1 \text{ tablet} = 8 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 8
+
+- id: 368
+  question: "A patient is prescribed an immunosuppressant at a dose of 200 mg/m² once daily on day 1 of a therapy course. The patient weighs 50 kg and is 1.62 m tall. How many 50 mg tablets are needed to provide the required treatment? Give your answer as a whole number."
+  answer: 6
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    Height = 162 cm. <br />
+    \( \text{BSA} = \sqrt{\frac{50 \text{ kg} \times 162 \text{ cm}}{3600}} = \sqrt{\frac{8100}{3600}} = \sqrt{2.25} = 1.5 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    Total mg needed: \( 200 \text{ mg/m}^2 \times 1.5 \text{ m}^2 = 300 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{300 \text{ mg}}{50 \text{ mg}} \times 1 \text{ tablet} = 6 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 6
+
+- id: 369
+  question: "A pediatric patient is prescribed a specialized medication at a dose of 10 mg/m² three times a day for a 7-day treatment course. The patient weighs 60 kg and is 1.35 m tall. How many 15 mg tablets are required to complete the full 7-day course? Give your answer as a whole number."
+  answer: 21
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    Height = 135 cm. <br />
+    \( \text{BSA} = \sqrt{\frac{60 \text{ kg} \times 135 \text{ cm}}{3600}} = \sqrt{\frac{8100}{3600}} = 1.5 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 10 \text{ mg/m}^2 \times 1.5 \text{ m}^2 = 15 \text{ mg} \) <br />
+    Doses per cycle: 3 doses per day x 7 days = 21 doses <br />
+    Total mg per course: \( 15 \text{ mg} \times 21 = 315 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{315 \text{ mg}}{15 \text{ mg}} \times 1 \text{ tablet} = 21 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 21
+
+- id: 370
+  question: "A patient is prescribed a chemotherapy drug at a dose of 300 mg/m² twice daily for day 1 of a 28-day cycle. The patient weighs 80 kg and is 1.80 m tall. How many 100 mg tablets are needed for each cycle? Give your answer as a whole number."
+  answer: 12
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    Height = 180 cm. <br />
+    \( \text{BSA} = \sqrt{\frac{80 \text{ kg} \times 180 \text{ cm}}{3600}} = \sqrt{\frac{14400}{3600}} = \sqrt{4} = 2.0 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 300 \text{ mg/m}^2 \times 2.0 \text{ m}^2 = 600 \text{ mg} \) <br />
+    Total mg per cycle (2 doses on Day 1): \( 600 \text{ mg} \times 2 = 1,200 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{1200 \text{ mg}}{100 \text{ mg}} \times 1 \text{ tablet} = 12 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 12
+
+- id: 371
+  question: "A pediatric patient weighing 36 kg with a height of 100 cm is prescribed a specialized medication at a dose of 120 mg/m² once daily for 3 days. How many 20 mg tablets are required to complete the full 3-day course? Give your answer as a whole number."
+  answer: 18
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    \( \text{BSA} = \sqrt{\frac{36 \text{ kg} \times 100 \text{ cm}}{3600}} = \sqrt{\frac{3600}{3600}} = 1.0 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 120 \text{ mg/m}^2 \times 1.0 \text{ m}^2 = 120 \text{ mg} \) <br />
+    Total mg for the course: \( 120 \text{ mg} \times 3 \text{ days} = 360 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{360 \text{ mg}}{20 \text{ mg}} \times 1 \text{ tablet} = 18 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 18
+
+- id: 372
+  question: "A patient weighing 50 kg and measuring 1.62 m in height is prescribed a drug at a dose of 40 mg/m² twice daily for 2 days of a treatment cycle. How many 10 mg tablets are needed to provide the treatment for this cycle? Give your answer as a whole number."
+  answer: 24
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    Height = 162 cm. <br />
+    \( \text{BSA} = \sqrt{\frac{50 \text{ kg} \times 162 \text{ cm}}{3600}} = \sqrt{\frac{8100}{3600}} = \sqrt{2.25} = 1.5 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 40 \text{ mg/m}^2 \times 1.5 \text{ m}^2 = 60 \text{ mg} \) <br />
+    Doses per cycle: 2 doses per day x 2 days = 4 doses <br />
+    Total mg needed: \( 60 \text{ mg} \times 4 = 240 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{240 \text{ mg}}{10 \text{ mg}} \times 1 \text{ tablet} = 24 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 24
+
+- id: 373
+  question: "A patient weighing 75 kg with a height of 1.92 m is prescribed a chemotherapy drug at a dose of 250 mg/m² as a single dose on day 1 of a cycle. How many 25 mg tablets are needed to provide treatment for this cycle? Give your answer as a whole number."
+  answer: 20
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    Height = 192 cm. <br />
+    \( \text{BSA} = \sqrt{\frac{75 \text{ kg} \times 192 \text{ cm}}{3600}} = \sqrt{\frac{14400}{3600}} = \sqrt{4} = 2.0 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    Total mg needed: \( 250 \text{ mg/m}^2 \times 2.0 \text{ m}^2 = 500 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{500 \text{ mg}}{25 \text{ mg}} \times 1 \text{ tablet} = 20 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 20
+
+- id: 374
+  question: "A patient weighing 81 kg and measuring 100 cm in height is prescribed a medication at a dose of 60 mg/m² once daily for 4 days. How many 30 mg tablets are required to complete the treatment course? Give your answer as a whole number."
+  answer: 12
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    \( \text{BSA} = \sqrt{\frac{81 \text{ kg} \times 100 \text{ cm}}{3600}} = \sqrt{\frac{8100}{3600}} = \sqrt{2.25} = 1.5 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 60 \text{ mg/m}^2 \times 1.5 \text{ m}^2 = 90 \text{ mg} \) <br />
+    Total mg for course: \( 90 \text{ mg} \times 4 \text{ days} = 360 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{360 \text{ mg}}{30 \text{ mg}} \times 1 \text{ tablet} = 12 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 12
+
+- id: 375
+  question: "A patient weighing 56 kg and measuring 1.26 m in height is prescribed a chemotherapy drug at a dose of 50 mg/m² twice daily for 2 days. How many 20 mg tablets are needed to complete this treatment course? Give your answer as a whole number."
+  answer: 14
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    Height = 126 cm. <br />
+    \( \text{BSA} = \sqrt{\frac{56 \text{ kg} \times 126 \text{ cm}}{3600}} = \sqrt{\frac{7056}{3600}} = \sqrt{1.96} = 1.4 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 50 \text{ mg/m}^2 \times 1.4 \text{ m}^2 = 70 \text{ mg} \) <br />
+    Doses per course: 2 doses per day x 2 days = 4 doses <br />
+    Total mg needed: \( 70 \text{ mg} \times 4 = 280 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{280 \text{ mg}}{20 \text{ mg}} \times 1 \text{ tablet} = 14 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 14
+
+- id: 376
+  question: "A patient is prescribed a chemotherapy drug at a dose of 50 mg/m² twice daily on day 1 of a 21-day cycle. The patient weighs 64 kg and is 1.44 m tall. How many 20 mg tablets are needed to provide treatment for each cycle? Give your answer as a whole number."
+  answer: 8
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    Height = 144 cm. <br />
+    \( \text{BSA} = \sqrt{\frac{64 \text{ kg} \times 144 \text{ cm}}{3600}} = \sqrt{\frac{9216}{3600}} = \sqrt{2.56} = 1.6 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 50 \text{ mg/m}^2 \times 1.6 \text{ m}^2 = 80 \text{ mg} \) <br />
+    Total mg per cycle (2 doses on Day 1): \( 80 \text{ mg} \times 2 = 160 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{160 \text{ mg}}{20 \text{ mg}} \times 1 \text{ tablet} = 8 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 8
+
+- id: 377
+  question: "A patient is prescribed a chemotherapy drug at a dose of 125 mg/m² as a single dose on day 1 of a 14-day cycle. The patient weighs 100 kg and is 1.44 m tall. How many 50 mg tablets are needed to provide treatment for each cycle? Give your answer as a whole number."
+  answer: 5
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    Height = 144 cm. <br />
+    \( \text{BSA} = \sqrt{\frac{100 \text{ kg} \times 144 \text{ cm}}{3600}} = \sqrt{\frac{14400}{3600}} = \sqrt{4} = 2.0 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    Total mg needed for cycle (single dose): \( 125 \text{ mg/m}^2 \times 2.0 \text{ m}^2 = 250 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{250 \text{ mg}}{50 \text{ mg}} \times 1 \text{ tablet} = 5 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 5
+
+- id: 378
+  question: "A patient is prescribed a chemotherapy drug at a dose of 20 mg/m² twice daily on day 1 of a 28-day cycle. The patient weighs 54 kg and is 1.50 m tall. How many 5 mg tablets are needed to provide treatment for each cycle? Give your answer as a whole number."
+  answer: 12
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    Height = 150 cm. <br />
+    \( \text{BSA} = \sqrt{\frac{54 \text{ kg} \times 150 \text{ cm}}{3600}} = \sqrt{\frac{8100}{3600}} = \sqrt{2.25} = 1.5 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 20 \text{ mg/m}^2 \times 1.5 \text{ m}^2 = 30 \text{ mg} \) <br />
+    Total mg per cycle (2 doses on Day 1): \( 30 \text{ mg} \times 2 = 60 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{60 \text{ mg}}{5 \text{ mg}} \times 1 \text{ tablet} = 12 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 12
+
+- id: 379
+  question: "A patient is prescribed a chemotherapy drug at a dose of 100 mg/m² once daily on days 1 and 2 of a 21-day cycle. The patient weighs 48 kg and is 1.08 m tall. How many 10 mg tablets are needed to provide treatment for each cycle? Give your answer as a whole number."
+  answer: 24
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    Height = 108 cm. <br />
+    \( \text{BSA} = \sqrt{\frac{48 \text{ kg} \times 108 \text{ cm}}{3600}} = \sqrt{\frac{5184}{3600}} = \sqrt{1.44} = 1.2 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 100 \text{ mg/m}^2 \times 1.2 \text{ m}^2 = 120 \text{ mg} \) <br />
+    Doses per cycle: 1 dose daily x 2 days = 2 doses <br />
+    Total mg per cycle: \( 120 \text{ mg} \times 2 = 240 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{240 \text{ mg}}{10 \text{ mg}} \times 1 \text{ tablet} = 24 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 24
+
+- id: 380
+  question: "A patient is prescribed a chemotherapy drug at a dose of 40 mg/m² twice daily on day 1 of a 14-day cycle. The patient weighs 81 kg and is 1.69 m tall. How many 13 mg tablets are needed to provide treatment for each cycle? Give your answer as a whole number."
+  answer: 12
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    Height = 169 cm. <br />
+    \( \text{BSA} = \sqrt{\frac{81 \text{ kg} \times 169 \text{ cm}}{3600}} = \frac{\sqrt{81} \times \sqrt{169}}{60} = \frac{9 \times 13}{60} = \frac{117}{60} = 1.95 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 40 \text{ mg/m}^2 \times 1.95 \text{ m}^2 = 78 \text{ mg} \) <br />
+    Total mg per cycle (2 doses on Day 1): \( 78 \text{ mg} \times 2 = 156 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{156 \text{ mg}}{13 \text{ mg}} \times 1 \text{ tablet} = 12 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 12
