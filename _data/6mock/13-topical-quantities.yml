@@ -369,3 +369,555 @@
     120 g x 0.5 = 60 g <br />
     <br />
     **Answer:** 60
+
+- id: 341
+  question: |
+    A 54-year-old patient is prescribed Propaderm® (beclometasone dipropionate) ointment to be applied to both arms and both hands twice daily for 3 weeks. With reference to the table below, calculate the maximum number of grams of ointment that should be supplied to complete the course. Give your answer as a whole number. <br /><br />
+    <table style='width:100%; border:1px solid #000; border-collapse:collapse;'>
+      <thead>
+        <tr>
+          <th colspan='2' style='border:1px solid #000; padding:8px; background-color:#f2f2f2; text-align:center;'>Suitable quantities of corticosteroid preparations to be prescribed for specific areas of the body</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style='border:1px solid #000; padding:8px;'>Face and neck</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both hands</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Scalp</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both arms</td><td style='border:1px solid #000; padding:8px; text-align:center;'>30 to 60 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both legs</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Trunk</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr>
+          <td colspan='2' style='border:1px solid #000; padding:8px; font-style:italic; text-align:center;'>These amounts are usually suitable for an adult for a single daily application for two weeks</td>
+        </tr>
+      </tbody>
+    </table>
+  answer: 270
+  solution: |
+    **Step 1: Identify maximum grams for specified areas (2 weeks, 1x daily)** <br />
+    - Both arms: 60 g <br />
+    - Both hands: 30 g <br />
+    Total base quantity = 90 g <br />
+    <br />
+    **Step 2: Adjust for Frequency (Twice Daily)** <br />
+    90 g x 2 = 180 g (Total for 2 weeks, applied twice daily) <br />
+    <br />
+    **Step 3: Adjust for Duration (3 weeks)** <br />
+    3 weeks is 1.5 times the duration of the 2-week standard: <br />
+    180 g x 1.5 = 270 g <br />
+    <br />
+    **Answer:** 270
+
+- id: 342
+  question: |
+    A 67-year-old patient is prescribed Diprosone® (betamethasone dipropionate) cream to be applied to the trunk and the scalp once daily for 2 weeks. With reference to the table provided, calculate the maximum number of grams that should be supplied. Give your answer as a whole number. <br /><br />
+    <table style='width:100%; border:1px solid #000; border-collapse:collapse;'>
+      <thead>
+        <tr>
+          <th colspan='2' style='border:1px solid #000; padding:8px; background-color:#f2f2f2; text-align:center;'>Suitable quantities of corticosteroid preparations to be prescribed for specific areas of the body</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style='border:1px solid #000; padding:8px;'>Face and neck</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both hands</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Scalp</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both arms</td><td style='border:1px solid #000; padding:8px; text-align:center;'>30 to 60 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both legs</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Trunk</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr>
+          <td colspan='2' style='border:1px solid #000; padding:8px; font-style:italic; text-align:center;'>These amounts are usually suitable for an adult for a single daily application for two weeks</td>
+        </tr>
+      </tbody>
+    </table>
+  answer: 130
+  solution: |
+    **Step 1: Identify maximum grams for specified areas (2 weeks, 1x daily)** <br />
+    - Trunk: 100 g <br />
+    - Scalp: 30 g <br />
+    Total base quantity = 130 g <br />
+    <br />
+    **Step 2: Adjust for Frequency (Once Daily)** <br />
+    130 g x 1 = 130 g <br />
+    <br />
+    **Step 3: Adjust for Duration (2 weeks)** <br />
+    Matches the 2-week standard exactly. <br />
+    <br />
+    **Answer:** 130
+
+- id: 343
+  question: |
+    A 45-year-old patient is prescribed Nerisone® (diflucortolone valerate) cream to be applied to both legs and both arms twice daily for 4 weeks. With reference to the table below, calculate the maximum number of grams of cream that should be supplied. Give your answer as a whole number. <br /><br />
+    <table style='width:100%; border:1px solid #000; border-collapse:collapse;'>
+      <thead>
+        <tr>
+          <th colspan='2' style='border:1px solid #000; padding:8px; background-color:#f2f2f2; text-align:center;'>Suitable quantities of corticosteroid preparations to be prescribed for specific areas of the body</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style='border:1px solid #000; padding:8px;'>Face and neck</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both hands</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Scalp</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both arms</td><td style='border:1px solid #000; padding:8px; text-align:center;'>30 to 60 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both legs</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Trunk</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr>
+          <td colspan='2' style='border:1px solid #000; padding:8px; font-style:italic; text-align:center;'>These amounts are usually suitable for an adult for a single daily application for two weeks</td>
+        </tr>
+      </tbody>
+    </table>
+  answer: 640
+  solution: |
+    **Step 1: Identify maximum grams for specified areas (2 weeks, 1x daily)** <br />
+    - Both legs: 100 g <br />
+    - Both arms: 60 g <br />
+    Total base quantity = 160 g <br />
+    <br />
+    **Step 2: Adjust for Frequency (Twice Daily)** <br />
+    160 g x 2 = 320 g (Total for 2 weeks) <br />
+    <br />
+    **Step 3: Adjust for Duration (4 weeks)** <br />
+    4 weeks is twice the duration of the 2-week standard: <br />
+    320 g x 2 = 640 g <br />
+    <br />
+    **Answer:** 640
+
+- id: 344
+  question: |
+    A 39-year-old patient is prescribed Modrasone® (alclometasone dipropionate) cream to be applied twice daily for 1 week to the face and neck, both hands, and the scalp. With reference to the table below, calculate the maximum number of grams of cream that should be supplied. Give your answer as a whole number. <br /><br />
+    <table style='width:100%; border:1px solid #000; border-collapse:collapse;'>
+      <thead>
+        <tr>
+          <th colspan='2' style='border:1px solid #000; padding:8px; background-color:#f2f2f2; text-align:center;'>Suitable quantities of corticosteroid preparations to be prescribed for specific areas of the body</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style='border:1px solid #000; padding:8px;'>Face and neck</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both hands</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Scalp</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both arms</td><td style='border:1px solid #000; padding:8px; text-align:center;'>30 to 60 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both legs</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Trunk</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr>
+          <td colspan='2' style='border:1px solid #000; padding:8px; font-style:italic; text-align:center;'>These amounts are usually suitable for an adult for a single daily application for two weeks</td>
+        </tr>
+      </tbody>
+    </table>
+  answer: 90
+  solution: |
+    **Step 1: Identify maximum grams for specified areas (2 weeks, 1x daily)** <br />
+    - Face and neck: 30 g <br />
+    - Both hands: 30 g <br />
+    - Scalp: 30 g <br />
+    Total base quantity = 90 g <br />
+    <br />
+    **Step 2: Adjust for Frequency (Twice Daily)** <br />
+    90 g x 2 = 180 g (Total for 2 weeks) <br />
+    <br />
+    **Step 3: Adjust for Duration (1 week)** <br />
+    1 week is half of the 2-week standard (0.5x): <br />
+    180 g x 0.5 = 90 g <br />
+    <br />
+    **Answer:** 90
+
+- id: 345
+  question: |
+    An 81-year-old patient is prescribed a 1% hydrocortisone cream to be applied to the trunk and both legs once daily for 8 weeks. With reference to the table provided, calculate the maximum number of grams of cream that should be supplied to complete the full course. Give your answer as a whole number. <br /><br />
+    <table style='width:100%; border:1px solid #000; border-collapse:collapse;'>
+      <thead>
+        <tr>
+          <th colspan='2' style='border:1px solid #000; padding:8px; background-color:#f2f2f2; text-align:center;'>Suitable quantities of corticosteroid preparations to be prescribed for specific areas of the body</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style='border:1px solid #000; padding:8px;'>Face and neck</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both hands</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Scalp</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both arms</td><td style='border:1px solid #000; padding:8px; text-align:center;'>30 to 60 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both legs</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Trunk</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr>
+          <td colspan='2' style='border:1px solid #000; padding:8px; font-style:italic; text-align:center;'>These amounts are usually suitable for an adult for a single daily application for two weeks</td>
+        </tr>
+      </tbody>
+    </table>
+  answer: 800
+  solution: |
+    **Step 1: Identify maximum grams for specified areas (2 weeks, 1x daily)** <br />
+    - Trunk: 100 g <br />
+    - Both legs: 100 g <br />
+    Total base quantity = 200 g <br />
+    <br />
+    **Step 2: Adjust for Frequency (Once Daily)** <br />
+    200 g x 1 = 200 g <br />
+    <br />
+    **Step 3: Adjust for Duration (8 weeks)** <br />
+    8 weeks is four times the duration of the 2-week standard (4x): <br />
+    200 g x 4 = 800 g <br />
+    <br />
+    **Answer:** 800
+
+- id: 346
+  question: |
+    A 55-year-old patient is prescribed Synalar® (fluocinolone acetonide) cream to be applied once daily for 6 weeks to the scalp and both arms. With reference to the table below, calculate the maximum number of grams of cream that should be supplied to complete the course. Give your answer as a whole number. <br /><br />
+    <table style='width:100%; border:1px solid #000; border-collapse:collapse;'>
+      <thead>
+        <tr>
+          <th colspan='2' style='border:1px solid #000; padding:8px; background-color:#f2f2f2; text-align:center;'>Suitable quantities of corticosteroid preparations to be prescribed for specific areas of the body</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style='border:1px solid #000; padding:8px;'>Face and neck</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both hands</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Scalp</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both arms</td><td style='border:1px solid #000; padding:8px; text-align:center;'>30 to 60 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both legs</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Trunk</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr>
+          <td colspan='2' style='border:1px solid #000; padding:8px; font-style:italic; text-align:center;'>These amounts are usually suitable for an adult for a single daily application for two weeks</td>
+        </tr>
+      </tbody>
+    </table>
+  answer: 270
+  solution: |
+    **Step 1: Identify maximum grams for specified areas (2 weeks, 1x daily)** <br />
+    - Scalp: 30 g <br />
+    - Both arms: 60 g <br />
+    Total base quantity = 90 g <br />
+    <br />
+    **Step 2: Adjust for Frequency (Once Daily)** <br />
+    90 g x 1 = 90 g <br />
+    <br />
+    **Step 3: Adjust for Duration (6 weeks)** <br />
+    6 weeks is three times the duration of the 2-week standard (3x): <br />
+    90 g x 3 = 270 g <br />
+    <br />
+    **Answer:** 270
+
+- id: 347
+  question: |
+    A 34-year-old patient is prescribed Elocon® (mometasone furoate) ointment to be applied to the trunk and both hands twice daily for 2 weeks. With reference to the table provided, calculate the maximum number of grams that should be supplied. Give your answer as a whole number. <br /><br />
+    <table style='width:100%; border:1px solid #000; border-collapse:collapse;'>
+      <thead>
+        <tr>
+          <th colspan='2' style='border:1px solid #000; padding:8px; background-color:#f2f2f2; text-align:center;'>Suitable quantities of corticosteroid preparations to be prescribed for specific areas of the body</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style='border:1px solid #000; padding:8px;'>Face and neck</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both hands</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Scalp</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both arms</td><td style='border:1px solid #000; padding:8px; text-align:center;'>30 to 60 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both legs</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Trunk</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr>
+          <td colspan='2' style='border:1px solid #000; padding:8px; font-style:italic; text-align:center;'>These amounts are usually suitable for an adult for a single daily application for two weeks</td>
+        </tr>
+      </tbody>
+    </table>
+  answer: 260
+  solution: |
+    **Step 1: Identify maximum grams for specified areas (2 weeks, 1x daily)** <br />
+    - Trunk: 100 g <br />
+    - Both hands: 30 g <br />
+    Total base quantity = 130 g <br />
+    <br />
+    **Step 2: Adjust for Frequency (Twice Daily)** <br />
+    130 g x 2 = 260 g <br />
+    <br />
+    **Step 3: Adjust for Duration (2 weeks)** <br />
+    Matches the 2-week standard exactly. <br />
+    <br />
+    **Answer:** 260
+
+- id: 348
+  question: |
+    A 60-year-old patient is prescribed Cutivate® (fluticasone propionate) cream for application to both legs and the face and neck twice daily for 4 weeks. With reference to the table provided, calculate the maximum number of grams of cream that should be supplied. Give your answer as a whole number. <br /><br />
+    <table style='width:100%; border:1px solid #000; border-collapse:collapse;'>
+      <thead>
+        <tr>
+          <th colspan='2' style='border:1px solid #000; padding:8px; background-color:#f2f2f2; text-align:center;'>Suitable quantities of corticosteroid preparations to be prescribed for specific areas of the body</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style='border:1px solid #000; padding:8px;'>Face and neck</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both hands</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Scalp</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both arms</td><td style='border:1px solid #000; padding:8px; text-align:center;'>30 to 60 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both legs</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Trunk</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr>
+          <td colspan='2' style='border:1px solid #000; padding:8px; font-style:italic; text-align:center;'>These amounts are usually suitable for an adult for a single daily application for two weeks</td>
+        </tr>
+      </tbody>
+    </table>
+  answer: 520
+  solution: |
+    **Step 1: Identify maximum grams for specified areas (2 weeks, 1x daily)** <br />
+    - Both legs: 100 g <br />
+    - Face and neck: 30 g <br />
+    Total base quantity = 130 g <br />
+    <br />
+    **Step 2: Adjust for Frequency (Twice Daily)** <br />
+    130 g x 2 = 260 g <br />
+    <br />
+    **Step 3: Adjust for Duration (4 weeks)** <br />
+    4 weeks is twice the duration of the 2-week standard (2x): <br />
+    260 g x 2 = 520 g <br />
+    <br />
+    **Answer:** 520
+
+- id: 349
+  question: |
+    A 42-year-old patient is prescribed Betnovate® (betamethasone valerate) ointment to be applied once daily for 1 week to both hands and both arms. With reference to the table below, calculate the maximum number of grams that should be supplied. Give your answer as a whole number. <br /><br />
+    <table style='width:100%; border:1px solid #000; border-collapse:collapse;'>
+      <thead>
+        <tr>
+          <th colspan='2' style='border:1px solid #000; padding:8px; background-color:#f2f2f2; text-align:center;'>Suitable quantities of corticosteroid preparations to be prescribed for specific areas of the body</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style='border:1px solid #000; padding:8px;'>Face and neck</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both hands</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Scalp</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both arms</td><td style='border:1px solid #000; padding:8px; text-align:center;'>30 to 60 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both legs</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Trunk</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr>
+          <td colspan='2' style='border:1px solid #000; padding:8px; font-style:italic; text-align:center;'>These amounts are usually suitable for an adult for a single daily application for two weeks</td>
+        </tr>
+      </tbody>
+    </table>
+  answer: 45
+  solution: |
+    **Step 1: Identify maximum grams for specified areas (2 weeks, 1x daily)** <br />
+    - Both hands: 30 g <br />
+    - Both arms: 60 g <br />
+    Total base quantity = 90 g <br />
+    <br />
+    **Step 2: Adjust for Frequency (Once Daily)** <br />
+    90 g x 1 = 90 g <br />
+    <br />
+    **Step 3: Adjust for Duration (1 week)** <br />
+    1 week is half of the 2-week standard (0.5x): <br />
+    90 g x 0.5 = 45 g <br />
+    <br />
+    **Answer:** 45
+
+- id: 350
+  question: |
+    A 24-year-old patient is prescribed Haelan® (fludroxycortide) cream to be applied twice daily for 3 weeks to the trunk and the scalp. With reference to the table provided, calculate the maximum number of grams of cream that should be supplied. Give your answer as a whole number. <br /><br />
+    <table style='width:100%; border:1px solid #000; border-collapse:collapse;'>
+      <thead>
+        <tr>
+          <th colspan='2' style='border:1px solid #000; padding:8px; background-color:#f2f2f2; text-align:center;'>Suitable quantities of corticosteroid preparations to be prescribed for specific areas of the body</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style='border:1px solid #000; padding:8px;'>Face and neck</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both hands</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Scalp</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both arms</td><td style='border:1px solid #000; padding:8px; text-align:center;'>30 to 60 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both legs</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Trunk</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr>
+          <td colspan='2' style='border:1px solid #000; padding:8px; font-style:italic; text-align:center;'>These amounts are usually suitable for an adult for a single daily application for two weeks</td>
+        </tr>
+      </tbody>
+    </table>
+  answer: 390
+  solution: |
+    **Step 1: Identify maximum grams for specified areas (2 weeks, 1x daily)** <br />
+    - Trunk: 100 g <br />
+    - Scalp: 30 g <br />
+    Total base quantity = 130 g <br />
+    <br />
+    **Step 2: Adjust for Frequency (Twice Daily)** <br />
+    130 g x 2 = 260 g (Total for 2 weeks) <br />
+    <br />
+    **Step 3: Adjust for Duration (3 weeks)** <br />
+    3 weeks is 1.5 times the duration of the 2-week standard: <br />
+    260 g x 1.5 = 390 g <br />
+    <br />
+    **Answer:** 390
+
+- id: 351
+  question: |
+    A 19-year-old patient is prescribed hydrocortisone 1% cream to be applied to both hands and both arms once daily for 2 weeks. With reference to the table below, calculate the maximum number of grams of cream that should be supplied to them to complete the course. Give your answer as a whole number. <br /><br />
+    <table style='width:100%; border:1px solid #000; border-collapse:collapse;'>
+      <thead>
+        <tr>
+          <th colspan='2' style='border:1px solid #000; padding:8px; background-color:#f2f2f2; text-align:center;'>Suitable quantities of corticosteroid preparations to be prescribed for specific areas of the body</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style='border:1px solid #000; padding:8px;'>Face and neck</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both hands</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Scalp</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both arms</td><td style='border:1px solid #000; padding:8px; text-align:center;'>30 to 60 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both legs</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Trunk</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr>
+          <td colspan='2' style='border:1px solid #000; padding:8px; font-style:italic; text-align:center;'>These amounts are usually suitable for an adult for a single daily application for two weeks</td>
+        </tr>
+      </tbody>
+    </table>
+  answer: 90
+  solution: |
+    **Step 1: Identify maximum grams for specified areas (2 weeks, 1x daily)** <br />
+    - Both hands: 30 g <br />
+    - Both arms: 60 g <br />
+    Total base quantity = 90 g <br />
+    <br />
+    **Step 2: Adjust for Frequency (Once Daily)** <br />
+    90 g x 1 = 90 g <br />
+    <br />
+    **Step 3: Adjust for Duration (2 weeks)** <br />
+    The duration matches the 2-week standard exactly. <br />
+    <br />
+    **Answer:** 90
+
+- id: 352
+  question: |
+    A 44-year-old patient is prescribed clobetasol propionate 0.05% ointment for a severe skin condition. The directions are to apply the ointment to the scalp and the face and neck twice daily for 1 week. With reference to the table provided, calculate the maximum number of grams that should be supplied. Give your answer as a whole number. <br /><br />
+    <table style='width:100%; border:1px solid #000; border-collapse:collapse;'>
+      <thead>
+        <tr>
+          <th colspan='2' style='border:1px solid #000; padding:8px; background-color:#f2f2f2; text-align:center;'>Suitable quantities of corticosteroid preparations to be prescribed for specific areas of the body</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style='border:1px solid #000; padding:8px;'>Face and neck</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both hands</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Scalp</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both arms</td><td style='border:1px solid #000; padding:8px; text-align:center;'>30 to 60 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both legs</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Trunk</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr>
+          <td colspan='2' style='border:1px solid #000; padding:8px; font-style:italic; text-align:center;'>These amounts are usually suitable for an adult for a single daily application for two weeks</td>
+        </tr>
+      </tbody>
+    </table>
+  answer: 60
+  solution: |
+    **Step 1: Identify maximum grams for specified areas (2 weeks, 1x daily)** <br />
+    - Scalp: 30 g <br />
+    - Face and neck: 30 g <br />
+    Total base quantity = 60 g <br />
+    <br />
+    **Step 2: Adjust for Frequency (Twice Daily)** <br />
+    60 g x 2 = 120 g (This is the maximum for 2 weeks) <br />
+    <br />
+    **Step 3: Adjust for Duration (1 week)** <br />
+    1 week is half of the 2-week standard: <br />
+    120 g x 0.5 = 60 g <br />
+    <br />
+    **Answer:** 60
+
+- id: 353
+  question: |
+    A 56-year-old patient is prescribed mometasone furoate 0.1% cream to be applied to both legs and the trunk once daily for 4 weeks. With reference to the table below, calculate the maximum number of grams of cream that should be supplied to complete the course. Give your answer as a whole number. <br /><br />
+    <table style='width:100%; border:1px solid #000; border-collapse:collapse;'>
+      <thead>
+        <tr>
+          <th colspan='2' style='border:1px solid #000; padding:8px; background-color:#f2f2f2; text-align:center;'>Suitable quantities of corticosteroid preparations to be prescribed for specific areas of the body</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style='border:1px solid #000; padding:8px;'>Face and neck</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both hands</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Scalp</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both arms</td><td style='border:1px solid #000; padding:8px; text-align:center;'>30 to 60 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both legs</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Trunk</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr>
+          <td colspan='2' style='border:1px solid #000; padding:8px; font-style:italic; text-align:center;'>These amounts are usually suitable for an adult for a single daily application for two weeks</td>
+        </tr>
+      </tbody>
+    </table>
+  answer: 400
+  solution: |
+    **Step 1: Identify maximum grams for specified areas (2 weeks, 1x daily)** <br />
+    - Both legs: 100 g <br />
+    - Trunk: 100 g <br />
+    Total base quantity = 200 g <br />
+    <br />
+    **Step 2: Adjust for Frequency (Once Daily)** <br />
+    200 g x 1 = 200 g <br />
+    <br />
+    **Step 3: Adjust for Duration (4 weeks)** <br />
+    4 weeks is twice the duration of the 2-week standard: <br />
+    200 g x 2 = 400 g <br />
+    <br />
+    **Answer:** 400
+
+- id: 354
+  question: |
+    A 30-year-old patient is prescribed betamethasone valerate 0.1% ointment to be applied twice daily for 4 weeks to both arms and both hands. With reference to the table below, calculate the maximum number of grams that should be supplied. Give your answer as a whole number. <br /><br />
+    <table style='width:100%; border:1px solid #000; border-collapse:collapse;'>
+      <thead>
+        <tr>
+          <th colspan='2' style='border:1px solid #000; padding:8px; background-color:#f2f2f2; text-align:center;'>Suitable quantities of corticosteroid preparations to be prescribed for specific areas of the body</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style='border:1px solid #000; padding:8px;'>Face and neck</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both hands</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Scalp</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both arms</td><td style='border:1px solid #000; padding:8px; text-align:center;'>30 to 60 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both legs</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Trunk</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr>
+          <td colspan='2' style='border:1px solid #000; padding:8px; font-style:italic; text-align:center;'>These amounts are usually suitable for an adult for a single daily application for two weeks</td>
+        </tr>
+      </tbody>
+    </table>
+  answer: 360
+  solution: |
+    **Step 1: Identify maximum grams for specified areas (2 weeks, 1x daily)** <br />
+    - Both arms: 60 g <br />
+    - Both hands: 30 g <br />
+    Total base quantity = 90 g <br />
+    <br />
+    **Step 2: Adjust for Frequency (Twice Daily)** <br />
+    90 g x 2 = 180 g (Total for 2 weeks) <br />
+    <br />
+    **Step 3: Adjust for Duration (4 weeks)** <br />
+    4 weeks is twice the duration of the 2-week standard (2x): <br />
+    180 g x 2 = 360 g <br />
+    <br />
+    **Answer:** 360
+
+- id: 355
+  question: |
+    A 65-year-old patient is prescribed hydrocortisone butyrate 0.1% cream to be applied twice daily for 2 weeks to the face and neck and the trunk. With reference to the table provided, calculate the maximum number of grams of cream that should be supplied. Give your answer as a whole number. <br /><br />
+    <table style='width:100%; border:1px solid #000; border-collapse:collapse;'>
+      <thead>
+        <tr>
+          <th colspan='2' style='border:1px solid #000; padding:8px; background-color:#f2f2f2; text-align:center;'>Suitable quantities of corticosteroid preparations to be prescribed for specific areas of the body</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td style='border:1px solid #000; padding:8px;'>Face and neck</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both hands</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Scalp</td><td style='border:1px solid #000; padding:8px; text-align:center;'>15 to 30 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both arms</td><td style='border:1px solid #000; padding:8px; text-align:center;'>30 to 60 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Both legs</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr><td style='border:1px solid #000; padding:8px;'>Trunk</td><td style='border:1px solid #000; padding:8px; text-align:center;'>100 g</td></tr>
+        <tr>
+          <td colspan='2' style='border:1px solid #000; padding:8px; font-style:italic; text-align:center;'>These amounts are usually suitable for an adult for a single daily application for two weeks</td>
+        </tr>
+      </tbody>
+    </table>
+  answer: 260
+  solution: |
+    **Step 1: Identify maximum grams for specified areas (2 weeks, 1x daily)** <br />
+    - Face and neck: 30 g <br />
+    - Trunk: 100 g <br />
+    Total base quantity = 130 g <br />
+    <br />
+    **Step 2: Adjust for Frequency (Twice Daily)** <br />
+    130 g x 2 = 260 g <br />
+    <br />
+    **Step 3: Adjust for Duration (2 weeks)** <br />
+    Duration matches the 2-week standard exactly. <br />
+    <br />
+    **Answer:** 260
