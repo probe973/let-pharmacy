@@ -1,0 +1,87 @@
+- id: 356
+  question: "A patient is prescribed a chemotherapy drug at a dose of 45 mg/m² twice daily on day 1 of a 14-day cycle. The patient weighs 80 kg and is 1.80 m tall. How many 15 mg tablets are needed to provide treatment for each cycle? Give your answer as a whole number."
+  answer: 12
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    Height = 180 cm. <br />
+    \( \text{BSA} = \sqrt{\frac{80 \text{ kg} \times 180 \text{ cm}}{3600}} = \sqrt{\frac{14400}{3600}} = \sqrt{4} = 2.0 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 45 \text{ mg/m}^2 \times 2.0 \text{ m}^2 = 90 \text{ mg} \) <br />
+    Total mg per cycle (2 doses on Day 1): \( 90 \text{ mg} \times 2 = 180 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{180 \text{ mg}}{15 \text{ mg}} \times 1 \text{ tablet} = 12 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 12
+
+- id: 357
+  question: "A patient is prescribed a chemotherapy drug at a dose of 100 mg/m² twice daily on days 1 and 2 of a 21-day cycle. The patient weighs 60 kg and is 135 cm tall. How many 25 mg tablets are needed to provide treatment for each cycle? Give your answer as a whole number."
+  answer: 24
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    \( \text{BSA} = \sqrt{\frac{60 \text{ kg} \times 135 \text{ cm}}{3600}} = \sqrt{\frac{8100}{3600}} = \sqrt{2.25} = 1.5 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 100 \text{ mg/m}^2 \times 1.5 \text{ m}^2 = 150 \text{ mg} \) <br />
+    Doses per cycle: 2 doses per day x 2 days = 4 doses <br />
+    Total mg per cycle: \( 150 \text{ mg} \times 4 = 600 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{600 \text{ mg}}{25 \text{ mg}} \times 1 \text{ tablet} = 24 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 24
+
+- id: 358
+  question: "A patient is prescribed a chemotherapy drug at a dose of 75 mg/m² once daily on days 1 to 3 of a 14-day cycle. The patient weighs 90 kg and is 1.60 m tall. How many 50 mg tablets are needed to provide treatment for each cycle? Give your answer as a whole number."
+  answer: 9
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    Height = 160 cm. <br />
+    \( \text{BSA} = \sqrt{\frac{90 \text{ kg} \times 160 \text{ cm}}{3600}} = \sqrt{\frac{14400}{3600}} = 2.0 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 75 \text{ mg/m}^2 \times 2.0 \text{ m}^2 = 150 \text{ mg} \) <br />
+    Doses per cycle: 1 dose per day x 3 days = 3 doses <br />
+    Total mg per cycle: \( 150 \text{ mg} \times 3 = 450 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{450 \text{ mg}}{50 \text{ mg}} \times 1 \text{ tablet} = 9 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 9
+
+- id: 359
+  question: "A patient is prescribed a chemotherapy drug at a dose of 200 mg/m² twice daily on day 1 of a cycle. The patient weighs 56 kg and is 1.26 m tall. How many 40 mg tablets are needed to provide treatment for each cycle? Give your answer as a whole number."
+  answer: 14
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    Height = 126 cm. <br />
+    \( \text{BSA} = \sqrt{\frac{56 \text{ kg} \times 126 \text{ cm}}{3600}} = \sqrt{\frac{7056}{3600}} = \sqrt{1.96} = 1.4 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 200 \text{ mg/m}^2 \times 1.4 \text{ m}^2 = 280 \text{ mg} \) <br />
+    Doses per cycle: 2 doses (twice daily on Day 1) <br />
+    Total mg per cycle: \( 280 \text{ mg} \times 2 = 560 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{560 \text{ mg}}{40 \text{ mg}} \times 1 \text{ tablet} = 14 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 14
+
+- id: 360
+  question: "A patient is prescribed a chemotherapy drug at a dose of 50 mg/m² twice daily on day 1 of a cycle. The patient weighs 75 kg and is 1.08 m tall. How many 25 mg tablets are needed to provide treatment for each cycle? Give your answer as a whole number."
+  answer: 6
+  solution: |
+    **Step 1: Calculate Body Surface Area (BSA)** <br />
+    Height = 108 cm. <br />
+    \( \text{BSA} = \sqrt{\frac{75 \text{ kg} \times 108 \text{ cm}}{3600}} = \sqrt{\frac{8100}{3600}} = \sqrt{2.25} = 1.5 \text{ m}^2 \) <br />
+    <br />
+    **Step 2: Calculate the Dose (Need)** <br />
+    mg per dose: \( 50 \text{ mg/m}^2 \times 1.5 \text{ m}^2 = 75 \text{ mg} \) <br />
+    Doses per cycle: 2 doses (twice daily on Day 1) <br />
+    Total mg per cycle: \( 75 \text{ mg} \times 2 = 150 \text{ mg} \) <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{150 \text{ mg}}{25 \text{ mg}} \times 1 \text{ tablet} = 6 \text{ tablets} \) <br />
+    <br />
+    **Answer:** 6
