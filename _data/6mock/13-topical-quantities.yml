@@ -1,0 +1,116 @@
+- id: 331
+  question: |
+    A patient is prescribed Betnovate® cream to be applied to the face and neck, both hands, and both arms twice daily for 4 weeks. With reference to the table below, calculate the maximum number of grams of cream that should be supplied to them. Give your answer as a whole number. <br /><br />
+    <table style='width:100%; border:1px solid #ccc; border-collapse:collapse;'>
+      <tr><th style='border:1px solid #ccc; padding:8px;'>Body Area</th><th style='border:1px solid #ccc; padding:8px;'>Quantity (2 weeks, 1x daily)</th></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>Face and neck</td><td style='border:1px solid #ccc; padding:8px;'>15 to 30 g</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>Both hands</td><td style='border:1px solid #ccc; padding:8px;'>15 to 30 g</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>Scalp</td><td style='border:1px solid #ccc; padding:8px;'>15 to 30 g</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>Both arms</td><td style='border:1px solid #ccc; padding:8px;'>30 to 60 g</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>Both legs</td><td style='border:1px solid #ccc; padding:8px;'>100 g</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>Trunk</td><td style='border:1px solid #ccc; padding:8px;'>100 g</td></tr>
+    </table>
+  answer: 480
+  solution: |
+    **Step 1: Identify maximum grams for 2 weeks (1x daily)** <br />
+    - Face and neck: 30 g <br />
+    - Both hands: 30 g <br />
+    - Both arms: 60 g <br />
+    Total for 2 weeks (1x daily) = \( 30 + 30 + 60 = 120 \text{ g} \) <br />
+    <br />
+    **Step 2: Adjust for Frequency (Twice Daily)** <br />
+    \( 120 \text{ g} \times 2 = 240 \text{ g} \) (Total for 2 weeks, 2x daily) <br />
+    <br />
+    **Step 3: Adjust for Duration (4 weeks)** <br />
+    The duration is 4 weeks, which is double the table's 2-week standard. <br />
+    \( 240 \text{ g} \times 2 = 480 \text{ g} \) <br />
+    <br />
+    **Answer:** 480
+
+- id: 332
+  question: |
+    A patient is prescribed a corticosteroid ointment for application to both legs and the trunk once daily for 2 weeks. Using the table provided below, calculate the maximum number of grams that should be supplied to complete this course. Give your answer as a whole number. <br /><br />
+    <table style='width:100%; border:1px solid #ccc; border-collapse:collapse;'>
+      <tr><th style='border:1px solid #ccc; padding:8px;'>Body Area</th><th style='border:1px solid #ccc; padding:8px;'>Quantity (2 weeks, 1x daily)</th></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>Both legs</td><td style='border:1px solid #ccc; padding:8px;'>100 g</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>Trunk</td><td style='border:1px solid #ccc; padding:8px;'>100 g</td></tr>
+    </table>
+  answer: 200
+  solution: |
+    **Step 1: Identify maximum grams for 2 weeks (1x daily)** <br />
+    - Both legs: 100 g <br />
+    - Trunk: 100 g <br />
+    Total = \( 100 + 100 = 200 \text{ g} \) <br />
+    <br />
+    **Step 2: Adjust for Frequency and Duration** <br />
+    Prescription is 1x daily for 2 weeks. This matches the table standard exactly. <br />
+    <br />
+    **Answer:** 200
+
+- id: 333
+  question: |
+    A patient is prescribed Eumovate® cream for the scalp, face, and neck, to be applied twice daily for 1 week. Based on the suitable quantities table, calculate the maximum number of grams that should be supplied. Give your answer as a whole number. <br /><br />
+    <table style='width:100%; border:1px solid #ccc; border-collapse:collapse;'>
+      <tr><th style='border:1px solid #ccc; padding:8px;'>Body Area</th><th style='border:1px solid #ccc; padding:8px;'>Quantity (2 weeks, 1x daily)</th></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>Scalp</td><td style='border:1px solid #ccc; padding:8px;'>15 to 30 g</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>Face and neck</td><td style='border:1px solid #ccc; padding:8px;'>15 to 30 g</td></tr>
+    </table>
+  answer: 60
+  solution: |
+    **Step 1: Identify maximum grams for 2 weeks (1x daily)** <br />
+    - Scalp: 30 g <br />
+    - Face and neck: 30 g <br />
+    Total = \( 30 + 30 = 60 \text{ g} \) <br />
+    <br />
+    **Step 2: Adjust for Frequency (Twice Daily)** <br />
+    \( 60 \text{ g} \times 2 = 120 \text{ g} \) (This would be for 2 weeks) <br />
+    <br />
+    **Step 3: Adjust for Duration (1 week)** <br />
+    1 week is half of the 2-week standard. <br />
+    \( 120 \text{ g} \times 0.5 = 60 \text{ g} \) <br />
+    <br />
+    **Answer:** 60
+
+- id: 334
+  question: |
+    A patient is prescribed a topical corticosteroid to be applied to both hands and both legs twice daily for 4 weeks. Calculate the maximum quantity in grams that should be supplied using the reference data provided. Give your answer as a whole number. <br /><br />
+    <table style='width:100%; border:1px solid #ccc; border-collapse:collapse;'>
+      <tr><th style='border:1px solid #ccc; padding:8px;'>Body Area</th><th style='border:1px solid #ccc; padding:8px;'>Quantity (2 weeks, 1x daily)</th></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>Both hands</td><td style='border:1px solid #ccc; padding:8px;'>15 to 30 g</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>Both legs</td><td style='border:1px solid #ccc; padding:8px;'>100 g</td></tr>
+    </table>
+  answer: 520
+  solution: |
+    **Step 1: Identify maximum grams for 2 weeks (1x daily)** <br />
+    - Both hands: 30 g <br />
+    - Both legs: 100 g <br />
+    Total = 130 g <br />
+    <br />
+    **Step 2: Adjust for Frequency (Twice Daily)** <br />
+    \( 130 \text{ g} \times 2 = 260 \text{ g} \) (Total for 2 weeks) <br />
+    <br />
+    **Step 3: Adjust for Duration (4 weeks)** <br />
+    \( 260 \text{ g} \times 2 = 520 \text{ g} \) <br />
+    <br />
+    **Answer:** 520
+
+- id: 335
+  question: |
+    A patient is prescribed a corticosteroid cream for the trunk and both arms to be applied once daily for 8 weeks. Calculate the maximum number of grams that should be supplied based on the table. Give your answer as a whole number. <br /><br />
+    <table style='width:100%; border:1px solid #ccc; border-collapse:collapse;'>
+      <tr><th style='border:1px solid #ccc; padding:8px;'>Body Area</th><th style='border:1px solid #ccc; padding:8px;'>Quantity (2 weeks, 1x daily)</th></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>Both arms</td><td style='border:1px solid #ccc; padding:8px;'>30 to 60 g</td></tr>
+      <tr><td style='border:1px solid #ccc; padding:8px;'>Trunk</td><td style='border:1px solid #ccc; padding:8px;'>100 g</td></tr>
+    </table>
+  answer: 640
+  solution: |
+    **Step 1: Identify maximum grams for 2 weeks (1x daily)** <br />
+    - Both arms: 60 g <br />
+    - Trunk: 100 g <br />
+    Total = 160 g <br />
+    <br />
+    **Step 2: Adjust for Duration (8 weeks)** <br />
+    8 weeks is four times the 2-week standard. <br />
+    \( 160 \text{ g} \times 4 = 640 \text{ g} \) <br />
+    <br />
+    **Answer:** 640
