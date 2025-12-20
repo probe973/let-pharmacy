@@ -1,0 +1,424 @@
+- id: 406
+  question: "A patient has been taking 60 mg of hydrocortisone daily by IM injection. Now that they are leaving hospital, they need to be transferred to an equivalent dose of oral prednisolone 5 mg tablets. Given that prednisolone 5 mg = hydrocortisone 20 mg, how many tablets should be supplied for 2 weeks of treatment? Give your answer as a whole number."
+  answer: 42
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of prednisolone: <br />
+    \( \frac{60 \text{ mg (Hydro)}}{20 \text{ mg (Hydro)}} \times 5 \text{ mg (Pred)} = 15 \text{ mg prednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \) for 5 mg tablets: <br />
+    \( \frac{15 \text{ mg}}{5 \text{ mg}} \times 1 \text{ tablet} = 3 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    3 tablets x 14 days (2 weeks) = 42 tablets <br />
+    <br />
+    **Answer:** 42
+
+- id: 407
+  question: "A patient has been receiving 80 mg of hydrocortisone daily by IM injection for an acute condition. Upon discharge, the patient is switched to oral prednisolone 5 mg tablets. Given that prednisolone 5 mg is equivalent to hydrocortisone 20 mg, how many tablets should be supplied for a 28-day course? Give your answer as a whole number."
+  answer: 112
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of prednisolone: <br />
+    \( \frac{80 \text{ mg (Hydro)}}{20 \text{ mg (Hydro)}} \times 5 \text{ mg (Pred)} = 20 \text{ mg prednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \) for 5 mg tablets: <br />
+    \( \frac{20 \text{ mg}}{5 \text{ mg}} \times 1 \text{ tablet} = 4 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    4 tablets x 28 days = 112 tablets <br />
+    <br />
+    **Answer:** 112
+
+- id: 408
+  question: "A patient stable on 40 mg of hydrocortisone daily via injection is transitioning to oral prednisolone 5 mg tablets for home management. Based on the equivalence of prednisolone 5 mg = hydrocortisone 20 mg, calculate the total number of tablets required for 7 days of treatment. Give your answer as a whole number."
+  answer: 14
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of prednisolone: <br />
+    \( \frac{40 \text{ mg (Hydro)}}{20 \text{ mg (Hydro)}} \times 5 \text{ mg (Pred)} = 10 \text{ mg prednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \) for 5 mg tablets: <br />
+    \( \frac{10 \text{ mg}}{5 \text{ mg}} \times 1 \text{ tablet} = 2 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    2 tablets x 7 days = 14 tablets <br />
+    <br />
+    **Answer:** 14
+
+- id: 409
+  question: "A patient is being transferred from a daily dose of 100 mg hydrocortisone injection to oral prednisolone 5 mg tablets. Given that prednisolone 5 mg = hydrocortisone 20 mg, how many tablets must be supplied to complete a 14-day course of treatment? Give your answer as a whole number."
+  answer: 70
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of prednisolone: <br />
+    \( \frac{100 \text{ mg (Hydro)}}{20 \text{ mg (Hydro)}} \times 5 \text{ mg (Pred)} = 25 \text{ mg prednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \) for 5 mg tablets: <br />
+    \( \frac{25 \text{ mg}}{5 \text{ mg}} \times 1 \text{ tablet} = 5 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    5 tablets x 14 days = 70 tablets <br />
+    <br />
+    **Answer:** 70
+
+- id: 410
+  question: "A patient requires 20 mg of hydrocortisone daily by injection. The clinical team chooses to switch the patient to oral prednisolone 5 mg tablets upon discharge. Given the equivalence of prednisolone 5 mg = hydrocortisone 20 mg, how many tablets are needed for a 21-day supply? Give your answer as a whole number."
+  answer: 21
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of prednisolone: <br />
+    \( \frac{20 \text{ mg (Hydro)}}{20 \text{ mg (Hydro)}} \times 5 \text{ mg (Pred)} = 5 \text{ mg prednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \) for 5 mg tablets: <br />
+    \( \frac{5 \text{ mg}}{5 \text{ mg}} \times 1 \text{ tablet} = 1 \text{ tablet daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    1 tablet x 21 days = 21 tablets <br />
+    <br />
+    **Answer:** 21
+
+- id: 411
+  question: "A patient has been receiving 120 mg of hydrocortisone daily by injection for a severe inflammatory condition. Upon discharge, they are switched to oral prednisolone 5 mg tablets. Given that prednisolone 5 mg is equivalent to hydrocortisone 20 mg, how many tablets should be supplied for 10 days of treatment? Give your answer as a whole number."
+  answer: 60
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of prednisolone: <br />
+    \( \frac{120 \text{ mg (Hydro)}}{20 \text{ mg (Hydro)}} \times 5 \text{ mg (Pred)} = 30 \text{ mg prednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count** <br />
+    Determine tablets needed per day using 5 mg tablets: <br />
+    \( \frac{30 \text{ mg}}{5 \text{ mg}} \times 1 \text{ tablet} = 6 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    6 tablets x 10 days = 60 tablets <br />
+    <br />
+    **Answer:** 60
+
+- id: 412
+  question: "A patient stable on 40 mg of oral prednisolone daily is being switched to methylprednisolone 4 mg tablets. Given that methylprednisolone 4 mg is equivalent to prednisolone 5 mg, how many tablets should be supplied for a 7-day course? Give your answer as a whole number."
+  answer: 56
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of methylprednisolone: <br />
+    \( \frac{40 \text{ mg (Pred)}}{5 \text{ mg (Pred)}} \times 4 \text{ mg (Methyl)} = 32 \text{ mg methylprednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count** <br />
+    Determine tablets needed per day using 4 mg tablets: <br />
+    \( \frac{32 \text{ mg}}{4 \text{ mg}} \times 1 \text{ tablet} = 8 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    8 tablets x 7 days = 56 tablets <br />
+    <br />
+    **Answer:** 56
+
+- id: 413
+  question: "A patient has been taking 80 mg of hydrocortisone daily by injection. They are to be switched to oral prednisolone 1 mg tablets. Given that prednisolone 5 mg is equivalent to hydrocortisone 20 mg, how many 1 mg tablets should be supplied for a 5-day course? Give your answer as a whole number."
+  answer: 100
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of prednisolone: <br />
+    \( \frac{80 \text{ mg (Hydro)}}{20 \text{ mg (Hydro)}} \times 5 \text{ mg (Pred)} = 20 \text{ mg prednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count** <br />
+    Determine tablets needed per day using 1 mg tablets: <br />
+    \( \frac{20 \text{ mg}}{1 \text{ mg}} \times 1 \text{ tablet} = 20 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    20 tablets x 5 days = 100 tablets <br />
+    <br />
+    **Answer:** 100
+
+- id: 414
+  question: "A patient is being transferred from a daily dose of 1.5 mg of dexamethasone to oral prednisolone 5 mg tablets. Given that prednisolone 5 mg is equivalent to dexamethasone 0.75 mg, how many tablets must be supplied to complete a 28-day course of treatment? Give your answer as a whole number."
+  answer: 56
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of prednisolone: <br />
+    \( \frac{1.5 \text{ mg (Dex)}}{0.75 \text{ mg (Dex)}} \times 5 \text{ mg (Pred)} = 10 \text{ mg prednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count** <br />
+    Determine tablets needed per day using 5 mg tablets: <br />
+    \( \frac{10 \text{ mg}}{5 \text{ mg}} \times 1 \text{ tablet} = 2 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    2 tablets x 28 days = 56 tablets <br />
+    <br />
+    **Answer:** 56
+
+- id: 415
+  question: "A patient is prescribed 30 mg of prednisolone daily. The doctor wishes to switch them to hydrocortisone 10 mg tablets. Given the equivalence of prednisolone 5 mg = hydrocortisone 20 mg, how many 10 mg hydrocortisone tablets are needed for a 14-day supply? Give your answer as a whole number."
+  answer: 168
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of hydrocortisone: <br />
+    \( \frac{30 \text{ mg (Pred)}}{5 \text{ mg (Pred)}} \times 20 \text{ mg (Hydro)} = 120 \text{ mg hydrocortisone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count** <br />
+    Determine tablets needed per day using 10 mg tablets: <br />
+    \( \frac{120 \text{ mg}}{10 \text{ mg}} \times 1 \text{ tablet} = 12 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    12 tablets x 14 days = 168 tablets <br />
+    <br />
+    **Answer:** 168
+
+- id: 416
+  question: "A 45-year-old patient is currently taking 3 mg of dexamethasone daily. The clinical team plans to switch the patient to oral prednisolone 5 mg tablets. Given that prednisolone 5 mg is equivalent to dexamethasone 0.75 mg, how many tablets should be supplied to the patient for a 7-day course of treatment? Give your answer as a whole number."
+  answer: 28
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of prednisolone: <br />
+    \( \frac{3 \text{ mg (Dex)}}{0.75 \text{ mg (Dex)}} \times 5 \text{ mg (Pred)} = 20 \text{ mg prednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count** <br />
+    Determine tablets needed per day using 5 mg tablets: <br />
+    \( \frac{20 \text{ mg}}{5 \text{ mg}} \times 1 \text{ tablet} = 4 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    4 tablets x 7 days = 28 tablets <br />
+    <br />
+    **Answer:** 28
+
+- id: 417
+  question: "A 60-year-old patient has been taking 10 mg of oral prednisolone daily. They are to be switched to hydrocortisone 10 mg tablets. Given that prednisolone 5 mg is equivalent to hydrocortisone 20 mg, how many 10 mg hydrocortisone tablets should be supplied for a 30-day course? Give your answer as a whole number."
+  answer: 120
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of hydrocortisone: <br />
+    \( \frac{10 \text{ mg (Pred)}}{5 \text{ mg (Pred)}} \times 20 \text{ mg (Hydro)} = 40 \text{ mg hydrocortisone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count** <br />
+    Determine tablets needed per day using 10 mg tablets: <br />
+    \( \frac{40 \text{ mg}}{10 \text{ mg}} \times 1 \text{ tablet} = 4 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    4 tablets x 30 days = 120 tablets <br />
+    <br />
+    **Answer:** 120
+
+- id: 418
+  question: "A 52-year-old patient has been taking 40 mg of hydrocortisone daily by injection. They are transitioning to oral prednisolone 1 mg tablets. Given that prednisolone 5 mg is equivalent to hydrocortisone 20 mg, calculate the total number of 1 mg tablets required for a 14-day supply. Give your answer as a whole number."
+  answer: 140
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of prednisolone: <br />
+    \( \frac{40 \text{ mg (Hydro)}}{20 \text{ mg (Hydro)}} \times 5 \text{ mg (Pred)} = 10 \text{ mg prednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count** <br />
+    Determine tablets needed per day using 1 mg tablets: <br />
+    \( \frac{10 \text{ mg}}{1 \text{ mg}} \times 1 \text{ tablet} = 10 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    10 tablets x 14 days = 140 tablets <br />
+    <br />
+    **Answer:** 140
+
+- id: 419
+  question: "A 33-year-old patient stable on 20 mg of oral prednisolone daily is being switched to methylprednisolone 4 mg tablets. Given that methylprednisolone 4 mg is equivalent to prednisolone 5 mg, how many tablets should be supplied for a 5-day course? Give your answer as a whole number."
+  answer: 20
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of methylprednisolone: <br />
+    \( \frac{20 \text{ mg (Pred)}}{5 \text{ mg (Pred)}} \times 4 \text{ mg (Methyl)} = 16 \text{ mg methylprednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count** <br />
+    Determine tablets needed per day using 4 mg tablets: <br />
+    \( \frac{16 \text{ mg}}{4 \text{ mg}} \times 1 \text{ tablet} = 4 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    4 tablets x 5 days = 20 tablets <br />
+    <br />
+    **Answer:** 20
+
+- id: 420
+  question: "An 80-year-old patient is being transferred from a daily dose of 0.75 mg of dexamethasone to oral hydrocortisone 20 mg tablets. Given that 0.75 mg of dexamethasone is equivalent to 20 mg of hydrocortisone, how many tablets must be supplied to complete a 21-day course of treatment? Give your answer as a whole number."
+  answer: 21
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of hydrocortisone: <br />
+    \( \frac{0.75 \text{ mg (Dex)}}{0.75 \text{ mg (Dex)}} \times 20 \text{ mg (Hydro)} = 20 \text{ mg hydrocortisone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count** <br />
+    Determine tablets needed per day using 20 mg tablets: <br />
+    \( \frac{20 \text{ mg}}{20 \text{ mg}} \times 1 \text{ tablet} = 1 \text{ tablet daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    1 tablet x 21 days = 21 tablets <br />
+    <br />
+    **Answer:** 21
+
+- id: 421
+  question: "A 55-year-old patient has been receiving 120 mg of hydrocortisone daily by IM injection. They are now being switched to oral prednisolone 5 mg tablets. Given that prednisolone 5 mg is equivalent to hydrocortisone 20 mg, how many tablets should be supplied for a 28-day course of treatment? Give your answer as a whole number."
+  answer: 168
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of prednisolone: <br />
+    \( \frac{120 \text{ mg (Hydro)}}{20 \text{ mg (Hydro)}} \times 5 \text{ mg (Pred)} = 30 \text{ mg prednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count** <br />
+    Determine tablets needed per day using 5 mg tablets: <br />
+    \( \frac{30 \text{ mg}}{5 \text{ mg}} \times 1 \text{ tablet} = 6 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    6 tablets x 28 days = 168 tablets <br />
+    <br />
+    **Answer:** 168
+
+- id: 422
+  question: "A 48-year-old patient is currently taking 6 mg of dexamethasone daily. The clinical team transitions the patient to oral prednisolone 5 mg tablets. Given that prednisolone 5 mg is equivalent to dexamethasone 0.75 mg, how many tablets should be supplied for a 14-day treatment course? Give your answer as a whole number."
+  answer: 112
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of prednisolone: <br />
+    \( \frac{6 \text{ mg (Dex)}}{0.75 \text{ mg (Dex)}} \times 5 \text{ mg (Pred)} = 40 \text{ mg prednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count** <br />
+    Determine tablets needed per day using 5 mg tablets: <br />
+    \( \frac{40 \text{ mg}}{5 \text{ mg}} \times 1 \text{ tablet} = 8 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    8 tablets x 14 days = 112 tablets <br />
+    <br />
+    **Answer:** 112
+
+- id: 423
+  question: "A patient stable on 10 mg of oral prednisolone daily is being switched to methylprednisolone 2 mg tablets. Given that methylprednisolone 4 mg is equivalent to prednisolone 5 mg, how many 2 mg tablets should be supplied for a 7-day course? Give your answer as a whole number."
+  answer: 28
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of methylprednisolone: <br />
+    \( \frac{10 \text{ mg (Pred)}}{5 \text{ mg (Pred)}} \times 4 \text{ mg (Methyl)} = 8 \text{ mg methylprednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count** <br />
+    Determine tablets needed per day using 2 mg tablets: <br />
+    \( \frac{8 \text{ mg}}{2 \text{ mg}} \times 1 \text{ tablet} = 4 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    4 tablets x 7 days = 28 tablets <br />
+    <br />
+    **Answer:** 28
+
+- id: 424
+  question: "A 66-year-old patient is being transferred from a daily dose of 100 mg hydrocortisone injection to oral prednisolone 5 mg tablets. Given that prednisolone 5 mg is equivalent to hydrocortisone 20 mg, how many tablets must be supplied to complete a 30-day course of treatment? Give your answer as a whole number."
+  answer: 150
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of prednisolone: <br />
+    \( \frac{100 \text{ mg (Hydro)}}{20 \text{ mg (Hydro)}} \times 5 \text{ mg (Pred)} = 25 \text{ mg prednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count** <br />
+    Determine tablets needed per day using 5 mg tablets: <br />
+    \( \frac{25 \text{ mg}}{5 \text{ mg}} \times 1 \text{ tablet} = 5 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    5 tablets x 30 days = 150 tablets <br />
+    <br />
+    **Answer:** 150
+
+- id: 425
+  question: "A patient is currently taking 1.5 mg of dexamethasone daily. They are being switched to oral prednisolone 1 mg tablets. Given that prednisolone 5 mg is equivalent to dexamethasone 0.75 mg, how many 1 mg tablets should be supplied for a 10-day course? Give your answer as a whole number."
+  answer: 100
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of prednisolone: <br />
+    \( \frac{1.5 \text{ mg (Dex)}}{0.75 \text{ mg (Dex)}} \times 5 \text{ mg (Pred)} = 10 \text{ mg prednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count** <br />
+    Determine tablets needed per day using 1 mg tablets: <br />
+    \( \frac{10 \text{ mg}}{1 \text{ mg}} \times 1 \text{ tablet} = 10 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    10 tablets x 10 days = 100 tablets <br />
+    <br />
+    **Answer:** 100
+
+- id: 426
+  question: "A 52-year-old patient has been receiving 60 mg of hydrocortisone daily by IM injection. Now that they are being discharged, they need to be transferred to an equivalent dose of oral prednisolone 5 mg tablets. Given that prednisolone 5 mg is equivalent to hydrocortisone 20 mg, how many tablets should be supplied for 14 days of treatment? Give your answer as a whole number."
+  answer: 42
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of prednisolone: <br />
+    \( \frac{60 \text{ mg (Hydro)}}{20 \text{ mg (Hydro)}} \times 5 \text{ mg (Pred)} = 15 \text{ mg prednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count (Supplied In)** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \) for 5 mg tablets: <br />
+    \( \frac{15 \text{ mg}}{5 \text{ mg}} \times 1 \text{ tablet} = 3 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    3 tablets x 14 days = 42 tablets <br />
+    <br />
+    **Answer:** 42
+
+- id: 427
+  question: "A 68-year-old patient is currently taking 3 mg of dexamethasone daily. The doctor wishes to switch the patient to oral prednisolone 1 mg tablets. Given that prednisolone 5 mg is equivalent to dexamethasone 0.75 mg, how many tablets should be supplied to the patient for a 10-day course of treatment? Give your answer as a whole number."
+  answer: 200
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of prednisolone: <br />
+    \( \frac{3 \text{ mg (Dex)}}{0.75 \text{ mg (Dex)}} \times 5 \text{ mg (Pred)} = 20 \text{ mg prednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count (Supplied In)** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \) for 1 mg tablets: <br />
+    \( \frac{20 \text{ mg}}{1 \text{ mg}} \times 1 \text{ tablet} = 20 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    20 tablets x 10 days = 200 tablets <br />
+    <br />
+    **Answer:** 200
+
+- id: 428
+  question: "A 41-year-old patient stable on 30 mg of oral prednisolone daily is being switched to methylprednisolone 4 mg tablets. Given that methylprednisolone 4 mg is equivalent to prednisolone 5 mg, how many tablets should be supplied for a 28-day course? Give your answer as a whole number."
+  answer: 168
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of methylprednisolone: <br />
+    \( \frac{30 \text{ mg (Pred)}}{5 \text{ mg (Pred)}} \times 4 \text{ mg (Methyl)} = 24 \text{ mg methylprednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count (Supplied In)** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \) for 4 mg tablets: <br />
+    \( \frac{24 \text{ mg}}{4 \text{ mg}} \times 1 \text{ tablet} = 6 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    6 tablets x 28 days = 168 tablets <br />
+    <br />
+    **Answer:** 168
+
+- id: 429
+  question: "A 70-year-old patient has been taking 160 mg of hydrocortisone daily by injection. Upon leaving the hospital, they are switched to oral prednisolone 5 mg tablets. Given that prednisolone 5 mg is equivalent to hydrocortisone 20 mg, how many tablets should be supplied for a 7-day course of treatment? Give your answer as a whole number."
+  answer: 56
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of prednisolone: <br />
+    \( \frac{160 \text{ mg (Hydro)}}{20 \text{ mg (Hydro)}} \times 5 \text{ mg (Pred)} = 40 \text{ mg prednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count (Supplied In)** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \) for 5 mg tablets: <br />
+    \( \frac{40 \text{ mg}}{5 \text{ mg}} \times 1 \text{ tablet} = 8 \text{ tablets daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    8 tablets x 7 days = 56 tablets <br />
+    <br />
+    **Answer:** 56
+
+- id: 430
+  question: "An 84-year-old patient is currently taking 0.75 mg of dexamethasone daily. They are being transferred to oral prednisolone 5 mg tablets for home care. Given that prednisolone 5 mg is equivalent to dexamethasone 0.75 mg, how many tablets must be supplied to complete a 56-day supply? Give your answer as a whole number."
+  answer: 56
+  solution: |
+    **Step 1: Daily Dose (Need)** <br />
+    Calculate the equivalent daily dose of prednisolone: <br />
+    \( \frac{0.75 \text{ mg (Dex)}}{0.75 \text{ mg (Dex)}} \times 5 \text{ mg (Pred)} = 5 \text{ mg prednisolone daily} \) <br />
+    <br />
+    **Step 2: Daily Tablet Count (Supplied In)** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \) for 5 mg tablets: <br />
+    \( \frac{5 \text{ mg}}{5 \text{ mg}} \times 1 \text{ tablet} = 1 \text{ tablet daily} \) <br />
+    <br />
+    **Step 3: Total Supply** <br />
+    1 tablet x 56 days = 56 tablets <br />
+    <br />
+    **Answer:** 56
