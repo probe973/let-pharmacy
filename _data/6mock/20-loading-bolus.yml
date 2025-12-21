@@ -1,0 +1,399 @@
+- id: 511
+  question: "A 68-year-old patient weighing 72 kg is admitted with a suspected acute ischaemic stroke. The prescribed dose of alteplase is 900 microg/kg, with the initial 15% of the dose to be given as an intravenous bolus and the remainder as an infusion. The pharmacy prepares a 1 mg/mL alteplase solution. How many millilitres should be administered for the initial intravenous bolus injection? Give your answer to one decimal place."
+  answer: 9.7
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 72 kg x 900 microg/kg = 64,800 microg <br />
+    Total mg = 64,800 / 1,000 = 64.8 mg <br />
+    <br />
+    **Step 2: Calculate the bolus dose (initial 15%)** <br />
+    Bolus mg = 64.8 mg x 0.15 = 9.72 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{9.72 \text{ mg}}{1 \text{ mg}} \times 1 \text{ mL} = 9.72 \text{ mL} \) <br />
+    <br />
+    **Answer:** 9.7
+
+- id: 512
+  question: "A 75-year-old patient weighing 82 kg is prescribed alteplase at a dose of 900 microg/kg for thrombolysis. The clinical protocol specifies that 10% of the total dose is given as an initial stat injection, with the rest given as an infusion. The nurses have a 2 mg/mL solution available. How many millilitres of alteplase are required for the initial injection? Give your answer to one decimal place."
+  answer: 3.7
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 82 kg x 900 microg/kg = 73,800 microg <br />
+    Total mg = 73,800 / 1,000 = 73.8 mg <br />
+    <br />
+    **Step 2: Calculate the bolus dose (initial 10%)** <br />
+    Bolus mg = 73.8 mg x 0.10 = 7.38 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{7.38 \text{ mg}}{2 \text{ mg}} \times 1 \text{ mL} = 3.69 \text{ mL} \) <br />
+    <br />
+    **Answer:** 3.7
+
+- id: 513
+  question: "A 54-year-old patient weighing 54 kg is admitted to A&E and prescribed a thrombolytic drug at a dose of 900 microg/kg. The directions state that the initial 20% of the dose must be given by intravenous injection. The drug is supplied in a concentration of 5 mg/mL. How many millilitres should be administered for the bolus injection? Give your answer to one decimal place."
+  answer: 1.9
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 54 kg x 900 microg/kg = 48,600 microg <br />
+    Total mg = 48,600 / 1,000 = 48.6 mg <br />
+    <br />
+    **Step 2: Calculate the bolus dose (initial 20%)** <br />
+    Bolus mg = 48.6 mg x 0.20 = 9.72 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{9.72 \text{ mg}}{5 \text{ mg}} \times 1 \text{ mL} = 1.944 \text{ mL} \) <br />
+    <br />
+    **Answer:** 1.9
+
+- id: 514
+  question: "A patient weighing 95 kg is prescribed alteplase 800 microg/kg for an acute clinical emergency. The protocol requires 10% of the total dose to be administered as an initial intravenous bolus. The solution available has a concentration of 2 mg/mL. What volume in millilitres should be given for this initial bolus? Give your answer to one decimal place."
+  answer: 3.8
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 95 kg x 800 microg/kg = 76,000 microg <br />
+    Total mg = 76,000 / 1,000 = 76 mg <br />
+    <br />
+    **Step 2: Calculate the bolus dose (initial 10%)** <br />
+    Bolus mg = 76 mg x 0.10 = 7.6 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{7.6 \text{ mg}}{2 \text{ mg}} \times 1 \text{ mL} = 3.8 \text{ mL} \) <br />
+    <br />
+    **Answer:** 3.8
+
+- id: 515
+  question: "A 48-year-old patient weighing 48 kg is prescribed a thrombolytic at 900 microg/kg. The initial 15% of the dose is administered by intravenous injection. If the nurses provide a 1 mg/mL solution, how many millilitres are administered in the initial bolus? Give your answer to one decimal place."
+  answer: 6.5
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 48 kg x 900 microg/kg = 43,200 microg <br />
+    Total mg = 43,200 / 1,000 = 43.2 mg <br />
+    <br />
+    **Step 2: Calculate the bolus dose (initial 15%)** <br />
+    Bolus mg = 43.2 mg x 0.15 = 6.48 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{6.48 \text{ mg}}{1 \text{ mg}} \times 1 \text{ mL} = 6.48 \text{ mL} \) <br />
+    <br />
+    **Answer:** 6.5
+
+- id: 516
+  question: "A 60-year-old patient weighing 60 kg is admitted with suspected acute ischaemic stroke. The prescribed dose of alteplase is 900 microg/kg, with the initial 10% of the dose to be given as an intravenous bolus and the remainder as an infusion. The pharmacy prepares a 2 mg/mL alteplase solution. How many millilitres should be administered for the initial intravenous bolus injection? Give your answer to one decimal place."
+  answer: 2.7
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 60 kg x 900 microg/kg = 54,000 microg <br />
+    Total mg = 54,000 / 1,000 = 54 mg <br />
+    <br />
+    **Step 2: Calculate the bolus dose (initial 10%)** <br />
+    Bolus mg = 54 mg x 0.10 = 5.4 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{5.4 \text{ mg}}{2 \text{ mg}} \times 1 \text{ mL} = 2.7 \text{ mL} \) <br />
+    <br />
+    **Answer:** 2.7
+
+- id: 517
+  question: "A 55-year-old patient weighing 88 kg is prescribed a thrombolytic at 900 microg/kg for an emergency procedure. The directions state that 15% of the total calculated dose must be given by initial intravenous injection. The available concentration is 1 mg/mL. How many millilitres should be given for the bolus injection? Give your answer to one decimal place."
+  answer: 11.9
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 88 kg x 900 microg/kg = 79,200 microg <br />
+    Total mg = 79,200 / 1,000 = 79.2 mg <br />
+    <br />
+    **Step 2: Calculate the bolus dose (initial 15%)** <br />
+    Bolus mg = 79.2 mg x 0.15 = 11.88 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{11.88 \text{ mg}}{1 \text{ mg}} \times 1 \text{ mL} = 11.88 \text{ mL} \) <br />
+    <br />
+    **Answer:** 11.9 (Rounded to one decimal place)
+
+- id: 518
+  question: "A 40-year-old patient weighing 50 kg is prescribed a weight-based dose of a thrombolytic drug at 800 microg/kg. The hospital protocol requires 10% of the dose to be given as a stat intravenous bolus. The drug is supplied at a concentration of 5 mg/mL. What volume in millilitres is required for the bolus injection? Give your answer to one decimal place."
+  answer: 0.8
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 50 kg x 800 microg/kg = 40,000 microg <br />
+    Total mg = 40,000 / 1,000 = 40 mg <br />
+    <br />
+    **Step 2: Calculate the bolus dose (initial 10%)** <br />
+    Bolus mg = 40 mg x 0.10 = 4 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{4 \text{ mg}}{5 \text{ mg}} \times 1 \text{ mL} = 0.8 \text{ mL} \) <br />
+    <br />
+    **Answer:** 0.8
+
+- id: 519
+  question: "A 66-year-old patient weighing 100 kg is admitted for thrombolysis. The prescribed dose is 900 microg/kg, with the initial 20% to be given as an intravenous bolus followed by the remainder as an infusion. The nurses prepare a 2 mg/mL solution. How many millilitres should be given for the initial intravenous injection? Give your answer to one decimal place."
+  answer: 9.0
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 100 kg x 900 microg/kg = 90,000 microg <br />
+    Total mg = 90,000 / 1,000 = 90 mg <br />
+    <br />
+    **Step 2: Calculate the bolus dose (initial 20%)** <br />
+    Bolus mg = 90 mg x 0.20 = 18 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{18 \text{ mg}}{2 \text{ mg}} \times 1 \text{ mL} = 9 \text{ mL} \) <br />
+    <br />
+    **Answer:** 9.0
+
+- id: 520
+  question: "A 71-year-old patient weighing 75 kg is prescribed alteplase 900 microg/kg. The clinical guidelines specify that the initial 10% of the dose is given as an intravenous bolus. The pharmacy provides a 1 mg/mL solution. What volume in millilitres should be administered for this initial injection? Give your answer to one decimal place."
+  answer: 6.8
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 75 kg x 900 microg/kg = 67,500 microg <br />
+    Total mg = 67,500 / 1,000 = 67.5 mg <br />
+    <br />
+    **Step 2: Calculate the bolus dose (initial 10%)** <br />
+    Bolus mg = 67.5 mg x 0.10 = 6.75 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{6.75 \text{ mg}}{1 \text{ mg}} \times 1 \text{ mL} = 6.75 \text{ mL} \) <br />
+    <br />
+    **Answer:** 6.8 (Rounded to one decimal place)
+
+- id: 521
+  question: "An 85-year-old patient weighing 62 kg is prescribed alteplase 900 microg/kg for an acute ischaemic stroke. The clinical protocol requires 10% of the calculated total dose to be given as an initial intravenous bolus. The solution available has a concentration of 2 mg/mL. Calculate the volume in millilitres required for the initial bolus injection. Give your answer to one decimal place."
+  answer: 2.8
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 62 kg x 900 microg/kg = 55,800 microg <br />
+    Total mg = 55,800 / 1,000 = 55.8 mg <br />
+    <br />
+    **Step 2: Calculate the bolus dose (initial 10%)** <br />
+    Bolus mg = 55.8 mg x 0.10 = 5.58 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{5.58 \text{ mg}}{2 \text{ mg}} \times 1 \text{ mL} = 2.79 \text{ mL} \) <br />
+    <br />
+    **Answer:** 2.8 (Rounded to one decimal place)
+
+- id: 522
+  question: "A 44-year-old patient weighing 56 kg is prescribed a thrombolytic at a dose of 900 microg/kg. The directions state that the initial 15% of the dose is to be administered as an intravenous bolus. If the pharmacy provides a 1 mg/mL solution, how many millilitres are administered in the initial bolus? Give your answer to one decimal place."
+  answer: 7.6
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 56 kg x 900 microg/kg = 50,400 microg <br />
+    Total mg = 50,400 / 1,000 = 50.4 mg <br />
+    <br />
+    **Step 2: Calculate the bolus dose (initial 15%)** <br />
+    Bolus mg = 50.4 mg x 0.15 = 7.56 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{7.56 \text{ mg}}{1 \text{ mg}} \times 1 \text{ mL} = 7.56 \text{ mL} \) <br />
+    <br />
+    **Answer:** 7.6 (Rounded to one decimal place)
+
+- id: 523
+  question: "A 67-year-old patient weighing 84 kg is prescribed a thrombolytic drug at a weight-based dose of 800 microg/kg. The hospital guidelines specify that 10% of the dose should be given as a stat intravenous bolus. The drug is supplied at a concentration of 5 mg/mL. What volume in millilitres is required for this initial bolus? Give your answer to one decimal place."
+  answer: 1.3
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 84 kg x 800 microg/kg = 67,200 microg <br />
+    Total mg = 67,200 / 1,000 = 67.2 mg <br />
+    <br />
+    **Step 2: Calculate the bolus dose (initial 10%)** <br />
+    Bolus mg = 67.2 mg x 0.10 = 6.72 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{6.72 \text{ mg}}{5 \text{ mg}} \times 1 \text{ mL} = 1.344 \text{ mL} \) <br />
+    <br />
+    **Answer:** 1.3 (Rounded to one decimal place)
+
+- id: 524
+  question: "A 59-year-old patient weighing 68 kg is prescribed alteplase 900 microg/kg for thrombolysis. The protocol requires that 20% of the total dose is administered as an initial intravenous bolus followed by the remainder as an infusion. The nurses prepare a 2 mg/mL solution. How many millilitres should be given for the initial bolus? Give your answer to one decimal place."
+  answer: 6.1
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 68 kg x 900 microg/kg = 61,200 microg <br />
+    Total mg = 61,200 / 1,000 = 61.2 mg <br />
+    <br />
+    **Step 2: Calculate the bolus dose (initial 20%)** <br />
+    Bolus mg = 61.2 mg x 0.20 = 12.24 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{12.24 \text{ mg}}{2 \text{ mg}} \times 1 \text{ mL} = 6.12 \text{ mL} \) <br />
+    <br />
+    **Answer:** 6.1 (Rounded to one decimal place)
+
+- id: 525
+  question: "An 80-year-old patient weighing 72 kg is admitted with a suspected stroke and prescribed alteplase 900 microg/kg. The clinical guidelines specify that the initial 10% of the dose is given as an intravenous bolus. If the pharmacy provides a 1 mg/mL solution, what volume in millilitres should be administered for this initial injection? Give your answer to one decimal place."
+  answer: 6.5
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 72 kg x 900 microg/kg = 64,800 microg <br />
+    Total mg = 64,800 / 1,000 = 64.8 mg <br />
+    <br />
+    **Step 2: Calculate the bolus dose (initial 10%)** <br />
+    Bolus mg = 64.8 mg x 0.10 = 6.48 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{6.48 \text{ mg}}{1 \text{ mg}} \times 1 \text{ mL} = 6.48 \text{ mL} \) <br />
+    <br />
+    **Answer:** 6.5 (Rounded to one decimal place)
+
+- id: 526
+  question: "An 81-year-old patient weighing 58 kg is admitted with a suspected acute stroke. The prescribed dose of alteplase is 900 microg/kg to be given over 60 minutes, with the initial 10% of the dose to be given by intravenous injection and the remainder by intravenous infusion. The nurses have prepared a 2 mg/mL alteplase solution. How many millilitres are given by intravenous injection? Give your answer to one decimal place."
+  answer: 2.6
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 58 kg x 900 microg/kg = 52,200 microg <br />
+    Total mg = 52,200 / 1,000 = 52.2 mg <br />
+    <br />
+    **Step 2: Calculate the dose for intravenous injection (initial 10%)** <br />
+    Injection mg = 52.2 mg x 0.10 = 5.22 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{5.22 \text{ mg}}{2 \text{ mg}} \times 1 \text{ mL} = 2.61 \text{ mL} \) <br />
+    <br />
+    **Answer:** 2.6
+
+- id: 527
+  question: "A 77-year-old patient weighing 64 kg is prescribed alteplase at a dose of 900 microg/kg for thrombolysis. The clinical guidelines specify that the initial 15% of the dose is given as an intravenous injection, with the rest given as an infusion. The available solution has a concentration of 1 mg/mL. How many millilitres should be administered for the initial injection? Give your answer to one decimal place."
+  answer: 8.6
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 64 kg x 900 microg/kg = 57,600 microg <br />
+    Total mg = 57,600 / 1,000 = 57.6 mg <br />
+    <br />
+    **Step 2: Calculate the dose for intravenous injection (initial 15%)** <br />
+    Injection mg = 57.6 mg x 0.15 = 8.64 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{8.64 \text{ mg}}{1 \text{ mg}} \times 1 \text{ mL} = 8.64 \text{ mL} \) <br />
+    <br />
+    **Answer:** 8.6
+
+- id: 528
+  question: "A 63-year-old patient weighing 80 kg is prescribed a thrombolytic at a dose of 800 microg/kg. The directions state that the initial 10% of the dose must be given by intravenous injection. The drug is supplied in a concentration of 4 mg/mL. How many millilitres should be administered for the initial injection? Give your answer to one decimal place."
+  answer: 1.6
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 80 kg x 800 microg/kg = 64,000 microg <br />
+    Total mg = 64,000 / 1,000 = 64 mg <br />
+    <br />
+    **Step 2: Calculate the dose for intravenous injection (initial 10%)** <br />
+    Injection mg = 64 mg x 0.10 = 6.4 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{6.4 \text{ mg}}{4 \text{ mg}} \times 1 \text{ mL} = 1.6 \text{ mL} \) <br />
+    <br />
+    **Answer:** 1.6
+
+- id: 529
+  question: "A 69-year-old patient weighing 74 kg is prescribed alteplase 900 microg/kg. The protocol requires that the initial 20% of the calculated dose is administered by intravenous injection. The nurses have prepared a 2 mg/mL solution. What volume in millilitres should be given for this initial injection? Give your answer to one decimal place."
+  answer: 6.7
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 74 kg x 900 microg/kg = 66,600 microg <br />
+    Total mg = 66,600 / 1,000 = 66.6 mg <br />
+    <br />
+    **Step 2: Calculate the dose for intravenous injection (initial 20%)** <br />
+    Injection mg = 66.6 mg x 0.20 = 13.32 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{13.32 \text{ mg}}{2 \text{ mg}} \times 1 \text{ mL} = 6.66 \text{ mL} \) <br />
+    <br />
+    **Answer:** 6.7
+
+- id: 530
+  question: "An 84-year-old patient weighing 46 kg is prescribed alteplase 900 microg/kg for an acute clinical emergency. 10% of the dose is to be given as a stat intravenous injection. If the pharmacy provides a 1 mg/mL solution, how many millilitres are administered in the initial injection? Give your answer to one decimal place."
+  answer: 4.1
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 46 kg x 900 microg/kg = 41,400 microg <br />
+    Total mg = 41,400 / 1,000 = 41.4 mg <br />
+    <br />
+    **Step 2: Calculate the dose for intravenous injection (initial 10%)** <br />
+    Injection mg = 41.4 mg x 0.10 = 4.14 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{4.14 \text{ mg}}{1 \text{ mg}} \times 1 \text{ mL} = 4.14 \text{ mL} \) <br />
+    <br />
+    **Answer:** 4.1
+
+- id: 531
+  question: "A 55-year-old patient weighing 80 kg is admitted for emergency thrombolysis and is prescribed alteplase at a dose of 900 microg/kg. The clinical trial protocol specifies that an initial 8% of the total dose should be given by intravenous injection, with the remainder given by infusion. The nurses prepare a 2 mg/mL alteplase solution. How many millilitres should be administered for the initial intravenous injection? Give your answer to one decimal place."
+  answer: 2.9
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 80 kg x 900 microg/kg = 72,000 microg <br />
+    Total mg = 72,000 / 1,000 = 72 mg <br />
+    <br />
+    **Step 2: Calculate the dose for intravenous injection (initial 8%)** <br />
+    Injection mg = 72 mg x 0.08 = 5.76 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{5.76 \text{ mg}}{2 \text{ mg}} \times 1 \text{ mL} = 2.88 \text{ mL} \) <br />
+    <br />
+    **Answer:** 2.9 (Rounded to one decimal place)
+
+- id: 532
+  question: "A 42-year-old patient weighing 55 kg is prescribed alteplase 900 microg/kg for an acute stroke. The consultant requests that the initial 12% of the dose is administered as an intravenous injection. If the pharmacy provides a 1 mg/mL solution, what volume in millilitres should be administered for the initial injection? Give your answer to one decimal place."
+  answer: 5.9
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 55 kg x 900 microg/kg = 49,500 microg <br />
+    Total mg = 49,500 / 1,000 = 49.5 mg <br />
+    <br />
+    **Step 2: Calculate the dose for intravenous injection (initial 12%)** <br />
+    Injection mg = 49.5 mg x 0.12 = 5.94 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{5.94 \text{ mg}}{1 \text{ mg}} \times 1 \text{ mL} = 5.94 \text{ mL} \) <br />
+    <br />
+    **Answer:** 5.9 (Rounded to one decimal place)
+
+- id: 533
+  question: "A 68-year-old patient weighing 68 kg is admitted for thrombolysis. The prescribed dose is 900 microg/kg, with 7.5% of the dose to be given by initial intravenous injection. The available solution has a concentration of 2 mg/mL. How many millilitres should be given for the initial injection? Give your answer to one decimal place."
+  answer: 2.3
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 68 kg x 900 microg/kg = 61,200 microg <br />
+    Total mg = 61,200 / 1,000 = 61.2 mg <br />
+    <br />
+    **Step 2: Calculate the dose for intravenous injection (initial 7.5%)** <br />
+    Injection mg = 61.2 mg x 0.075 = 4.59 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{4.59 \text{ mg}}{2 \text{ mg}} \times 1 \text{ mL} = 2.295 \text{ mL} \) <br />
+    <br />
+    **Answer:** 2.3 (Rounded to one decimal place)
+
+- id: 534
+  question: "A patient weighing 102 kg is prescribed a thrombolytic at a weight-based dose of 900 microg/kg. The clinical guidelines for this specific trial require 25% of the dose to be given by initial intravenous injection. The drug is supplied at a concentration of 5 mg/mL. What volume in millilitres is required for this initial injection? Give your answer to one decimal place."
+  answer: 4.6
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 102 kg x 900 microg/kg = 91,800 microg <br />
+    Total mg = 91,800 / 1,000 = 91.8 mg <br />
+    <br />
+    **Step 2: Calculate the dose for intravenous injection (initial 25%)** <br />
+    Injection mg = 91.8 mg x 0.25 = 22.95 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{22.95 \text{ mg}}{5 \text{ mg}} \times 1 \text{ mL} = 4.59 \text{ mL} \) <br />
+    <br />
+    **Answer:** 4.6 (Rounded to one decimal place)
+
+- id: 535
+  question: "A 50-year-old patient weighing 45 kg is prescribed a thrombolytic at 800 microg/kg. The directions state that 18% of the dose must be given by initial intravenous injection. If the nurses provide a 1 mg/mL solution, how many millilitres are administered in the initial injection? Give your answer to one decimal place."
+  answer: 6.5
+  solution: |
+    **Step 1: Calculate the total dose (Need)** <br />
+    Total microg = 45 kg x 800 microg/kg = 36,000 microg <br />
+    Total mg = 36,000 / 1,000 = 36 mg <br />
+    <br />
+    **Step 2: Calculate the dose for intravenous injection (initial 18%)** <br />
+    Injection mg = 36 mg x 0.18 = 6.48 mg <br />
+    <br />
+    **Step 3: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{6.48 \text{ mg}}{1 \text{ mg}} \times 1 \text{ mL} = 6.48 \text{ mL} \) <br />
+    <br />
+    **Answer:** 6.5 (Rounded to one decimal place)
