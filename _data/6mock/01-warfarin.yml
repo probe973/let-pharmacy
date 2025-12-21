@@ -144,7 +144,7 @@
 
 - id: 9
   question: "A 66-year-old patient has a prescription for warfarin tablets with the directions 'Take 8 mg and 9 mg on alternating days', but the quantity is missing. You have 1 mg and 3 mg warfarin tablets available to make up the required dose. Assuming that the patient's INR remains stable, what is the exact number of warfarin 1 mg tablets that would be required for a 28-day supply alongside the sufficient supply of 3 mg tablets? Give your answer as a whole number."
-  answer: 42
+  answer: 28
   solution: |
     **Step 1: Determine 1 mg tablets needed per dose** <br />
     To minimize the total tablet count, the 3 mg strength is used as the base. <br />
@@ -162,7 +162,7 @@
 
 - id: 10
   question: "A 50-year-old patient has a prescription for warfarin tablets with the directions 'Take 3 mg and 4 mg on alternating days', but the quantity is missing. You have 1 mg and 2 mg warfarin tablets available to make up the required dose. Assuming that the patient's INR remains stable, what is the exact number of warfarin 1 mg tablets that would be required for a 28-day supply alongside the sufficient supply of 2 mg tablets? Give your answer as a whole number."
-  answer: 28
+  answer: 14
   solution: |
     **Step 1: Determine 1 mg tablets needed per dose** <br />
     To minimize the total tablet count, the 2 mg strength is used as the base. <br />
@@ -300,7 +300,7 @@
 
 - id: 18
   question: "A 51-year-old patient has a prescription for warfarin tablets with the directions 'Take 10 mg and 11 mg on alternating days', but the quantity is missing. You have 1 mg and 3 mg warfarin tablets available to make up the required dose. Assuming that the patient's INR remains stable, what is the exact number of warfarin 1 mg tablets that would be required for a 28-day supply alongside the sufficient supply of 3 mg tablets? Give your answer as a whole number."
-  answer: 28
+  answer: 42
   solution: |
     **Step 1: Determine 1 mg tablets needed per dose** <br />
     - On 10 mg days: Three 3 mg tablets + One 1 mg tablet are required. <br />
@@ -312,7 +312,7 @@
     <br />
     **Step 3: Calculate total 1 mg tablets** <br />
     14 tablets + 28 tablets = 42 tablets. <br />
-    Wait, let me re-verify: 10mg = 3x3 + 1x1. 11mg = 3x3 + 2x1. Total = 42. <br />
+    <br />
     **Answer:** 42
 
 - id: 19
