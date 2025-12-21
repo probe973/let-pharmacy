@@ -1,0 +1,399 @@
+- id: 456
+  question: "A 45-year-old patient weighing 60 kg is admitted with an acute respiratory condition and started on IV aminophylline. The doctor prescribes a loading dose of 6 mg/kg followed by a continuous infusion at a rate of 700 microg/kg/hr for 12 hours. What is the total dose of aminophylline in milligrams that the patient will receive over this period? Give your answer as a whole number."
+  answer: 864
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    60 kg x 6 mg/kg = 360 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 700 microg/kg/hr x 60 kg x 12 hours = 504,000 microg <br />
+    Convert to mg: 504,000 / 1,000 = 504 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 360 mg (loading) + 504 mg (maintenance) = 864 mg <br />
+    <br />
+    **Answer:** 864
+
+- id: 457
+  question: "A 58-year-old patient weighing 85 kg is prescribed a loading dose of 5 mg/kg of aminophylline followed by a maintenance infusion of 500 microg/kg/hr for 24 hours. What is the total dose of aminophylline in milligrams that the patient will receive? Give your answer as a whole number."
+  answer: 1445
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    85 kg x 5 mg/kg = 425 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 500 microg/kg/hr x 85 kg x 24 hours = 1,020,000 microg <br />
+    Convert to mg: 1,020,000 / 1,000 = 1,020 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 425 mg + 1,020 mg = 1,445 mg <br />
+    <br />
+    **Answer:** 1,445
+
+- id: 458
+  question: "A 33-year-old patient weighing 55 kg requires a loading dose of 6 mg/kg of aminophylline injection. This is to be followed by a continuous maintenance infusion at a rate of 900 microg/kg/hr for 4 hours. What is the total dose of aminophylline in milligrams provided to the patient? Give your answer as a whole number."
+  answer: 528
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    55 kg x 6 mg/kg = 330 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 900 microg/kg/hr x 55 kg x 4 hours = 198,000 microg <br />
+    Convert to mg: 198,000 / 1,000 = 198 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 330 mg + 198 mg = 528 mg <br />
+    <br />
+    **Answer:** 528
+
+- id: 459
+  question: "A 66-year-old patient weighing 100 kg is prescribed a loading dose of 5 mg/kg of aminophylline followed by a maintenance infusion at a rate of 400 microg/kg/hr for 8 hours. What is the total dose of aminophylline in milligrams that the patient will receive? Give your answer as a whole number."
+  answer: 820
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    100 kg x 5 mg/kg = 500 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 400 microg/kg/hr x 100 kg x 8 hours = 320,000 microg <br />
+    Convert to mg: 320,000 / 1,000 = 320 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 500 mg + 320 mg = 820 mg <br />
+    <br />
+    **Answer:** 820
+
+- id: 460
+  question: "A 72-year-old patient weighing 72 kg is prescribed a loading dose of 7 mg/kg of aminophylline followed by a continuous infusion at a rate of 800 microg/kg/hr for 10 hours. What is the total dose of aminophylline in milligrams that the patient will receive? Give your answer as a whole number."
+  answer: 1080
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    72 kg x 7 mg/kg = 504 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 800 microg/kg/hr x 72 kg x 10 hours = 576,000 microg <br />
+    Convert to mg: 576,000 / 1,000 = 576 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 504 mg + 576 mg = 1,080 mg <br />
+    <br />
+    **Answer:** 1,080
+
+- id: 461
+  question: "A 65-year-old patient weighing 75 kg is admitted to the intensive care unit and started on an infusion of dobutamine. The clinical protocol requires a loading dose of 2.5 mg/kg followed by a continuous maintenance infusion at a rate of 600 microg/kg/hr for 6 hours. What is the total dose of dobutamine in milligrams that the patient will receive during this 6-hour period? Give your answer as a whole number."
+  answer: 458
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    75 kg x 2.5 mg/kg = 187.5 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 600 microg/kg/hr x 75 kg x 6 hours = 270,000 microg <br />
+    Convert to mg: 270,000 / 1,000 = 270 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 187.5 mg (loading) + 270 mg (maintenance) = 457.5 mg <br />
+    <br />
+    **Answer:** 458 (Rounded to the nearest whole number)
+
+- id: 462
+  question: "A 40-year-old patient weighing 80 kg is prescribed intravenous salbutamol for severe bronchospasm. The directions state to administer a loading dose of 0.1 mg/kg followed by a maintenance infusion at a rate of 300 microg/kg/hr for 4 hours. What is the total dose of salbutamol in milligrams that the patient will receive? Give your answer as a whole number."
+  answer: 104
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    80 kg x 0.1 mg/kg = 8 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 300 microg/kg/hr x 80 kg x 4 hours = 96,000 microg <br />
+    Convert to mg: 96,000 / 1,000 = 96 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 8 mg (loading) + 96 mg (maintenance) = 104 mg <br />
+    <br />
+    **Answer:** 104
+
+- id: 463
+  question: "A 70-year-old patient weighing 68 kg is prescribed a dopamine infusion to support blood pressure. The protocol requires a loading dose of 2 mg/kg followed by a continuous infusion at a rate of 600 microg/kg/hr for 12 hours. What is the total dose of dopamine in milligrams that the patient will receive? Give your answer as a whole number."
+  answer: 626
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    68 kg x 2 mg/kg = 136 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 600 microg/kg/hr x 68 kg x 12 hours = 489,600 microg <br />
+    Convert to mg: 489,600 / 1,000 = 489.6 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 136 mg + 489.6 mg = 625.6 mg <br />
+    <br />
+    **Answer:** 626 (Rounded to the nearest whole number)
+
+- id: 464
+  question: "A 50-year-old patient weighing 62 kg is started on IV aminophylline. The doctor prescribes a loading dose of 5 mg/kg followed by a maintenance infusion at a rate of 450 microg/kg/hr for 24 hours. What is the total dose of aminophylline in milligrams that the patient will receive? Give your answer as a whole number."
+  answer: 980
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    62 kg x 5 mg/kg = 310 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 450 microg/kg/hr x 62 kg x 24 hours = 669,600 microg <br />
+    Convert to mg: 669,600 / 1,000 = 669.6 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 310 mg + 669.6 mg = 979.6 mg <br />
+    <br />
+    **Answer:** 980 (Rounded to the nearest whole number)
+
+- id: 465
+  question: "A 55-year-old patient weighing 85 kg is prescribed a dobutamine infusion. The clinician requests a loading dose of 5 mg/kg followed by a maintenance infusion at a rate of 500 microg/kg/hr for 8 hours. What is the total dose of dobutamine in milligrams that the patient will receive? Give your answer as a whole number."
+  answer: 765
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    85 kg x 5 mg/kg = 425 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 500 microg/kg/hr x 85 kg x 8 hours = 340,000 microg <br />
+    Convert to mg: 340,000 / 1,000 = 340 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 425 mg + 340 mg = 765 mg <br />
+    <br />
+    **Answer:** 765
+
+- id: 466
+  question: "A 52-year-old patient weighing 72 kg is admitted with an acute respiratory condition and started on IV aminophylline. The doctor prescribes a loading dose of 6 mg/kg followed by a continuous maintenance infusion at a rate of 600 microg/kg/hr for 18 hours. What is the total dose of aminophylline in milligrams that the patient will receive over this period? Give your answer as a whole number."
+  answer: 1210
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    72 kg x 6 mg/kg = 432 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 600 microg/kg/hr x 72 kg x 18 hours = 777,600 microg <br />
+    Convert to mg: 777,600 / 1,000 = 777.6 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 432 mg (loading) + 777.6 mg (maintenance) = 1,209.6 mg <br />
+    <br />
+    **Answer:** 1210 (Rounded to the nearest whole number)
+
+- id: 467
+  question: "A 65-year-old patient weighing 80 kg is admitted to the intensive care unit and started on an infusion of dobutamine. The clinical protocol requires a loading dose of 2.5 mg/kg followed by a continuous maintenance infusion at a rate of 750 microg/kg/hr for 4 hours. What is the total dose of dobutamine in milligrams that the patient will receive during this 4-hour period? Give your answer as a whole number."
+  answer: 440
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    80 kg x 2.5 mg/kg = 200 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 750 microg/kg/hr x 80 kg x 4 hours = 240,000 microg <br />
+    Convert to mg: 240,000 / 1,000 = 240 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 200 mg + 240 mg = 440 mg <br />
+    <br />
+    **Answer:** 440
+
+- id: 468
+  question: "A 25-year-old patient weighing 54 kg is prescribed intravenous salbutamol for severe bronchospasm. The directions state to administer a loading dose of 0.25 mg/kg followed by a maintenance infusion at a rate of 150 microg/kg/hr for 2 hours. What is the total dose of salbutamol in milligrams that the patient will receive? Give your answer as a whole number."
+  answer: 30
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    54 kg x 0.25 mg/kg = 13.5 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 150 microg/kg/hr x 54 kg x 2 hours = 16,200 microg <br />
+    Convert to mg: 16,200 / 1,000 = 16.2 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 13.5 mg + 16.2 mg = 29.7 mg <br />
+    <br />
+    **Answer:** 30 (Rounded to the nearest whole number)
+
+- id: 469
+  question: "A 78-year-old patient weighing 64 kg is prescribed a dopamine infusion to support blood pressure. The protocol requires a loading dose of 5 mg/kg followed by a continuous infusion at a rate of 400 microg/kg/hr for 24 hours. What is the total dose of dopamine in milligrams that the patient will receive? Give your answer as a whole number."
+  answer: 934
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    64 kg x 5 mg/kg = 320 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 400 microg/kg/hr x 64 kg x 24 hours = 614,400 microg <br />
+    Convert to mg: 614,400 / 1,000 = 614.4 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 320 mg + 614.4 mg = 934.4 mg <br />
+    <br />
+    **Answer:** 934 (Rounded to the nearest whole number)
+
+- id: 470
+  question: "A 40-year-old patient weighing 85 kg is started on IV aminophylline. The clinician requests a loading dose of 5 mg/kg followed by a maintenance infusion at a rate of 500 microg/kg/hr for 10 hours. What is the total dose of aminophylline in milligrams that the patient will receive? Give your answer as a whole number."
+  answer: 850
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    85 kg x 5 mg/kg = 425 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 500 microg/kg/hr x 85 kg x 10 hours = 425,000 microg <br />
+    Convert to mg: 425,000 / 1,000 = 425 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 425 mg + 425 mg = 850 mg <br />
+    <br />
+    **Answer:** 850
+
+- id: 471
+  question: "A 50-year-old patient weighing 75 kg is admitted with an acute respiratory condition and started on IV aminophylline. The doctor prescribes a loading dose of 5 mg/kg followed by a continuous maintenance infusion at a rate of 500 microg/kg/hr for 6 hours. What is the total dose of aminophylline in milligrams that the patient will receive over this period? Give your answer as a whole number."
+  answer: 600
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    75 kg x 5 mg/kg = 375 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 500 microg/kg/hr x 75 kg x 6 hours = 225,000 microg <br />
+    Convert to mg: 225,000 / 1,000 = 225 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 375 mg (loading) + 225 mg (maintenance) = 600 mg <br />
+    <br />
+    **Answer:** 600
+
+- id: 472
+  question: "A 68-year-old patient weighing 62 kg is admitted to the cardiac unit and started on an infusion of dobutamine. The protocol requires a loading dose of 2.5 mg/kg followed by a continuous maintenance infusion at a rate of 400 microg/kg/hr for 12 hours. What is the total dose of dobutamine in milligrams that the patient will receive during this 12-hour period? Give your answer as a whole number."
+  answer: 453
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    62 kg x 2.5 mg/kg = 155 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 400 microg/kg/hr x 62 kg x 12 hours = 297,600 microg <br />
+    Convert to mg: 297,600 / 1,000 = 297.6 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 155 mg + 297.6 mg = 452.6 mg <br />
+    <br />
+    **Answer:** 453 (Rounded to the nearest whole number)
+
+- id: 473
+  question: "A 33-year-old patient weighing 58 kg is prescribed intravenous salbutamol for severe bronchospasm. The directions state to administer a loading dose of 0.1 mg/kg followed by a maintenance infusion at a rate of 200 microg/kg/hr for 8 hours. What is the total dose of salbutamol in milligrams that the patient will receive? Give your answer as a whole number."
+  answer: 99
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    58 kg x 0.1 mg/kg = 5.8 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 200 microg/kg/hr x 58 kg x 8 hours = 92,800 microg <br />
+    Convert to mg: 92,800 / 1,000 = 92.8 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 5.8 mg + 92.8 mg = 98.6 mg <br />
+    <br />
+    **Answer:** 99 (Rounded to the nearest whole number)
+
+- id: 474
+  question: "A 45-year-old patient weighing 100 kg is prescribed a dopamine infusion to support blood pressure. The protocol requires a loading dose of 5 mg/kg followed by a continuous infusion at a rate of 500 microg/kg/hr for 24 hours. What is the total dose of dopamine in milligrams that the patient will receive? Give your answer as a whole number."
+  answer: 1700
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    100 kg x 5 mg/kg = 500 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 500 microg/kg/hr x 100 kg x 24 hours = 1,200,000 microg <br />
+    Convert to mg: 1,200,000 / 1,000 = 1,200 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 500 mg + 1,200 mg = 1,700 mg <br />
+    <br />
+    **Answer:** 1,700
+
+- id: 475
+  question: "A 72-year-old patient weighing 80 kg is started on IV aminophylline. The clinician requests a loading dose of 6 mg/kg followed by a maintenance infusion at a rate of 750 microg/kg/hr for 12 hours. What is the total dose of aminophylline in milligrams that the patient will receive? Give your answer as a whole number."
+  answer: 1200
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    80 kg x 6 mg/kg = 480 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 750 microg/kg/hr x 80 kg x 12 hours = 720,000 microg <br />
+    Convert to mg: 720,000 / 1,000 = 720 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 480 mg + 720 mg = 1,200 mg <br />
+    <br />
+    **Answer:** 1,200
+
+- id: 476
+  question: "A 62-year-old patient weighing 88 kg is admitted with a severe respiratory flare-up and is prescribed IV aminophylline. The protocol requires a loading dose of 5 mg/kg followed by a continuous maintenance infusion at a rate of 500 microg/kg/hr for 6 hours. What is the total dose of aminophylline in milligrams that the patient will receive during this 6-hour period? Give your answer as a whole number."
+  answer: 704
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    88 kg x 5 mg/kg = 440 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 500 microg/kg/hr x 88 kg x 6 hours = 264,000 microg <br />
+    Convert to mg: 264,000 / 1,000 = 264 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 440 mg (loading) + 264 mg (maintenance) = 704 mg <br />
+    <br />
+    **Answer:** 704
+
+- id: 477
+  question: "A 41-year-old patient weighing 65 kg is admitted following cardiac surgery and started on a dobutamine infusion. The clinician prescribes a loading dose of 2.5 mg/kg followed by a continuous maintenance infusion at a rate of 600 microg/kg/hr for 8 hours. What is the total dose of dobutamine in milligrams that the patient will receive? Give your answer as a whole number."
+  answer: 475
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    65 kg x 2.5 mg/kg = 162.5 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 600 microg/kg/hr x 65 kg x 8 hours = 312,000 microg <br />
+    Convert to mg: 312,000 / 1,000 = 312 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 162.5 mg + 312 mg = 474.5 mg <br />
+    <br />
+    **Answer:** 475 (Rounded to the nearest whole number)
+
+- id: 478
+  question: "A 59-year-old patient weighing 74 kg is prescribed intravenous salbutamol for an acute condition. The directions state to administer a loading dose of 0.1 mg/kg followed by a maintenance infusion at a rate of 250 microg/kg/hr for 4 hours. What is the total dose of salbutamol in milligrams that the patient will receive? Give your answer as a whole number."
+  answer: 81
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    74 kg x 0.1 mg/kg = 7.4 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 250 microg/kg/hr x 74 kg x 4 hours = 74,000 microg <br />
+    Convert to mg: 74,000 / 1,000 = 74 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 7.4 mg + 74 mg = 81.4 mg <br />
+    <br />
+    **Answer:** 81 (Rounded to the nearest whole number)
+
+- id: 479
+  question: "A 33-year-old patient weighing 52 kg is prescribed a dopamine infusion to manage low blood pressure. The protocol requires a loading dose of 5 mg/kg followed by a continuous infusion at a rate of 400 microg/kg/hr for 12 hours. What is the total dose of dopamine in milligrams that the patient will receive? Give your answer as a whole number."
+  answer: 510
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    52 kg x 5 mg/kg = 260 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 400 microg/kg/hr x 52 kg x 12 hours = 249,600 microg <br />
+    Convert to mg: 249,600 / 1,000 = 249.6 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 260 mg + 249.6 mg = 509.6 mg <br />
+    <br />
+    **Answer:** 510 (Rounded to the nearest whole number)
+
+- id: 480
+  question: "An 82-year-old patient weighing 60 kg is started on IV aminophylline therapy. The clinician requests a loading dose of 6 mg/kg followed by a maintenance infusion at a rate of 800 microg/kg/hr for 24 hours. What is the total dose of aminophylline in milligrams that the patient will receive over this 24-hour period? Give your answer as a whole number."
+  answer: 1512
+  solution: |
+    **Step 1: Calculate the loading dose (Need)** <br />
+    60 kg x 6 mg/kg = 360 mg <br />
+    <br />
+    **Step 2: Calculate the maintenance infusion dose (Need)** <br />
+    Total microg: 800 microg/kg/hr x 60 kg x 24 hours = 1,152,000 microg <br />
+    Convert to mg: 1,152,000 / 1,000 = 1,152 mg <br />
+    <br />
+    **Step 3: Calculate the total dose** <br />
+    Total = 360 mg + 1,152 mg = 1,512 mg <br />
+    <br />
+    **Answer:** 1512
