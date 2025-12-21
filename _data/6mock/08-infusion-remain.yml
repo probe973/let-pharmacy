@@ -25,7 +25,7 @@
 
 - id: 197
   question: "A 62-year-old man weighing 80 kg is prescribed an infusion of Immunoglobulin 5% at a dose of 0.3 g/kg. The infusion rate is set at 1.0 mL/kg/hr for 30 mins, then 2.0 mL/kg/hr for 15 mins, then 3.0 mL/kg/hr for 60 minutes, and finally 5.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 133
+  answer: 129
   solution: |
     **Step 1: Dose (Need)** <br />
     Total drug needed: 80 kg x 0.3 g/kg = 24 g <br />
@@ -50,7 +50,7 @@
 
 - id: 198
   question: "A 55-year-old man weighing 90 kg is prescribed an infusion of Immunoglobulin 10% at a dose of 0.5 g/kg. The infusion rate is set at 0.5 mL/kg/hr for 45 mins, then 1.0 mL/kg/hr for 60 mins, then 2.0 mL/kg/hr for 30 minutes, and finally 6.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 154
+  answer: 162
   solution: |
     **Step 1: Dose (Need)** <br />
     90 kg x 0.5 g/kg = 45 g <br />
@@ -74,7 +74,7 @@
 
 - id: 199
   question: "A 32-year-old woman weighing 65 kg is prescribed an infusion of Immunoglobulin 10% at a dose of 0.4 g/kg. The infusion rate is set at 1.0 mL/kg/hr for 15 mins, then 2.0 mL/kg/hr for 45 mins, then 4.0 mL/kg/hr for 30 minutes, and finally 10.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 96
+  answer: 92
   solution: |
     **Step 1: Dose (Need)** <br />
     65 kg x 0.4 g/kg = 26 g <br />
@@ -98,7 +98,7 @@
 
 - id: 200
   question: "A 50-year-old lady weighing 84 kg is prescribed an infusion of Immunoglobulin 5% at a dose of 0.2 g/kg. The infusion rate is set at 0.5 mL/kg/hr for 60 mins, then 1.0 mL/kg/hr for 30 mins, and finally 2.5 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 171
+  answer: 162
   solution: |
     **Step 1: Dose (Need)** <br />
     84 kg x 0.2 g/kg = 16.8 g <br />
@@ -121,7 +121,7 @@
 
 - id: 201
   question: "A 44-year-old man weighing 72 kg is prescribed an infusion of Immunoglobulin 10% at a dose of 0.5 g/kg. The rate is set at 1.2 mL/kg/hr for 15 mins, then 2.4 mL/kg/hr for 15 mins, then 4.8 mL/kg/hr for 45 minutes, and finally 8.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 104
+  answer: 79
   solution: |
     **Step 1: Dose (Need)** <br />
     72 kg x 0.5 g/kg = 36 g <br />
@@ -145,7 +145,7 @@
 
 - id: 202
   question: "An 80-year-old man weighing 75 kg is prescribed an infusion of Immunoglobulin 10% at a dose of 0.35 g/kg. The rate is set at 0.5 mL/kg/hr for 30 mins, then 1.0 mL/kg/hr for 60 mins, then 2.0 mL/kg/hr for 15 minutes, and finally 5.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 133
+  answer: 126
   solution: |
     **Step 1: Dose (Need)** <br />
     75 kg x 0.35 g/kg = 26.25 g <br />
@@ -169,7 +169,7 @@
 
 - id: 203
   question: "A 38-year-old woman weighing 55 kg is prescribed Immunoglobulin 10%, 0.6 g/kg. Rate: 0.8 mL/kg/hr for 30 mins, then 1.6 mL/kg/hr for 30 mins, then 3.2 mL/kg/hr for 30 minutes, then 8.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 129
+  answer: 114
   solution: |
     **Step 1: Dose (Need)** <br />
     55 kg x 0.6 g/kg = 33 g <br />
@@ -193,7 +193,7 @@
 
 - id: 204
   question: "A 66-year-old man weighing 82 kg is prescribed Immunoglobulin 10%, 0.3 g/kg. Rate: 1.0 mL/kg/hr for 60 mins, and finally 4.0 mL/kg/hr for the remainder of the infusion. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 99
+  answer: 90
   solution: |
     **Step 1: Dose (Need)** <br />
     82 kg x 0.3 g/kg = 24.6 g <br />
@@ -215,7 +215,7 @@
 
 - id: 205
   question: "A 48-year-old woman weighing 50 kg is prescribed Immunoglobulin 10%, 0.45 g/kg. Rate: 1.5 mL/kg/hr for 15 mins, then 3.0 mL/kg/hr for 15 mins, then 6.0 mL/kg/hr for 15 minutes, and finally 10.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 72
+  answer: 57
   solution: |
     **Step 1: Dose** = 22.5 g. **Step 2: Vol** = 225 mL. <br />
     <br />
@@ -235,7 +235,7 @@
 
 - id: 206
   question: "A 74-year-old man weighing 75 kg is prescribed Immunoglobulin 10%, 0.4 g/kg. Rate: 0.5 mL/kg/hr for 30 mins, then 1.0 mL/kg/hr for 30 mins, then 2.0 mL/kg/hr for 30 minutes, and finally 5.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 114
+  answer: 117
   solution: |
     **Step 1: Dose (Need)** <br />
     75 kg x 0.4 g/kg = 30 g <br />
@@ -259,7 +259,7 @@
 
 - id: 207
   question: "A 42-year-old lady weighing 62 kg is prescribed Immunoglobulin 10%, 0.35 g/kg. Rate: 1.2 mL/kg/hr for 60 mins, and finally 8.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 104
+  answer: 78
   solution: |
     **Step 1: Dose (Need)** <br />
     62 kg x 0.35 g/kg = 21.7 g <br />
@@ -281,7 +281,7 @@
 
 - id: 208
   question: "An 82-year-old man weighing 75 kg is prescribed Immunoglobulin 5%, 0.5 g/kg. Rate: 0.5 mL/kg/hr for 30 mins, then 1.0 mL/kg/hr for 30 mins, then 2.0 mL/kg/hr for 30 minutes, and finally 4.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 265
+  answer: 214
   solution: |
     **Step 1: Dose (Need)** <br />
     75 kg x 0.5 g/kg = 37.5 g <br />
@@ -305,7 +305,7 @@
 
 - id: 209
   question: "A 51-year-old woman weighing 88 kg is prescribed Immunoglobulin 10%, 0.3 g/kg. Rate: 0.8 mL/kg/hr for 15 mins, then 1.6 mL/kg/hr for 45 mins, then 3.2 mL/kg/hr for 30 minutes, and finally 5.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 100
+  answer: 90
   solution: |
     **Step 1: Dose (Need)** <br />
     88 kg x 0.3 g/kg = 26.4 g <br />
@@ -328,7 +328,7 @@
 
 - id: 210
   question: "A 60-year-old man weighing 80 kg is prescribed Immunoglobulin 5%, 0.4 g/kg. Rate: 0.5 mL/kg/hr for 45 mins, then 1.0 mL/kg/hr for 15 mins, then 2.5 mL/kg/hr for 30 minutes, and finally 5.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 135
+  answer: 164
   solution: |
     **Step 1: Dose (Need)** <br />
     80 kg x 0.4 g/kg = 32 g <br />
@@ -352,7 +352,7 @@
 
 - id: 211
   question: "A 47-year-old man weighing 84 kg is prescribed Immunoglobulin 10%, 0.5 g/kg. Rate: 1.2 mL/kg/hr for 30 mins, then 2.4 mL/kg/hr for 30 mins, then 4.8 mL/kg/hr for 30 minutes, and finally 8.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 122
+  answer: 96
   solution: |
     **Step 1: Dose (Need)** <br />
     84 kg x 0.5 g/kg = 42 g <br />
@@ -376,7 +376,7 @@
 
 - id: 212
   question: "A 58-year-old lady weighing 70 kg is prescribed Immunoglobulin 10%, 0.45 g/kg. Rate: 0.6 mL/kg/hr for 15 mins, then 1.2 mL/kg/hr for 45 mins, then 2.4 mL/kg/hr for 60 minutes, and finally 6.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 133
+  answer: 131
   solution: |
     **Step 1: Dose (Need)** <br />
     70 kg x 0.45 g/kg = 31.5 g <br />
@@ -400,7 +400,7 @@
 
 - id: 213
   question: "A 65-year-old man weighing 75 kg is prescribed Immunoglobulin 5%, 0.25 g/kg. Rate: 1.0 mL/kg/hr for 30 mins, then 2.0 mL/kg/hr for 30 mins, then 3.0 mL/kg/hr for 30 minutes, and finally 5.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 112
+  answer: 114
   solution: |
     **Step 1: Dose (Need)** <br />
     75 kg x 0.25 g/kg = 18.75 g <br />
@@ -424,7 +424,7 @@
 
 - id: 214
   question: "A 44-year-old woman weighing 56 kg is prescribed Immunoglobulin 10%, 0.5 g/kg. Rate: 0.8 mL/kg/hr for 15 mins, then 1.6 mL/kg/hr for 30 mins, then 3.2 mL/kg/hr for 60 minutes, and finally 6.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 135
+  answer: 113
   solution: |
     **Step 1: Dose (Need)** <br />
     56 kg x 0.5 g/kg = 28 g <br />
@@ -448,7 +448,7 @@
 
 - id: 215
   question: "An 82-year-old man weighing 85 kg is prescribed Immunoglobulin 10%, 0.4 g/kg. Rate: 1.0 mL/kg/hr for 30 mins, then 2.0 mL/kg/hr for 45 mins, then 4.0 mL/kg/hr for 15 minutes, and finally 8.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 110
+  answer: 98
   solution: |
     **Step 1: Dose (Need)** <br />
     85 kg x 0.4 g/kg = 34 g <br />
@@ -472,7 +472,7 @@
 
 - id: 216
   question: "A 51-year-old woman weighing 88 kg is prescribed Immunoglobulin 10%, 0.55 g/kg. Rate: 0.5 mL/kg/hr for 60 mins, then 1.0 mL/kg/hr for 60 mins, then 2.0 mL/kg/hr for 60 minutes, and finally 4.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 125
+  answer: 210
   solution: |
     **Step 1: Dose (Need)** <br />
     88 kg x 0.55 g/kg = 48.4 g <br />
@@ -496,7 +496,7 @@
 
 - id: 217
   question: "A 38-year-old woman weighing 65 kg is prescribed Immunoglobulin 10%, 0.3 g/kg. Rate: 1.2 mL/kg/hr for 30 mins, then 2.4 mL/kg/hr for 15 mins, and finally 5.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 130
+  answer: 67
   solution: |
     **Step 1: Dose (Need)** <br />
     65 kg x 0.3 g/kg = 19.5 g <br />
@@ -519,7 +519,7 @@
 
 - id: 218
   question: "A 88-year-old woman weighing 42 kg is prescribed Immunoglobulin 10%, 0.35 g/kg. Rate: 0.5 mL/kg/hr for 15 mins, then 1.0 mL/kg/hr for 30 mins, then 2.0 mL/kg/hr for 45 minutes, and finally 4.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 110
+  answer: 111
   solution: |
     **Step 1: Dose (Need)** <br />
     42 kg x 0.35 g/kg = 14.7 g <br />
@@ -543,7 +543,7 @@
 
 - id: 219
   question: "A 74-year-old man weighing 75 kg is prescribed Immunoglobulin 10%, 0.45 g/kg. Rate: 1.0 mL/kg/hr for 45 mins, then 2.0 mL/kg/hr for 45 mins, then 4.0 mL/kg/hr for 45 minutes, and finally 8.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 165
+  answer: 124
   solution: |
     **Step 1: Dose (Need)** <br />
     75 kg x 0.45 g/kg = 33.75 g <br />
@@ -569,7 +569,7 @@
 
 - id: 220
   question: "A 48-year-old woman weighing 50 kg is prescribed Immunoglobulin 10%, 0.55 g/kg. Rate: 0.8 mL/kg/hr for 60 mins, then 1.6 mL/kg/hr for 60 mins, then 3.2 mL/kg/hr for 60 minutes, and finally 6.0 mL/kg/hr for the remainder. What is the total infusion duration in minutes? Round your answer up to the nearest whole minute."
-  answer: 218
+  answer: 179
   solution: |
     **Step 1: Dose (Need)** <br />
     50 kg x 0.55 g/kg = 27.5 g <br />
