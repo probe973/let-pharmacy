@@ -225,7 +225,7 @@
 
 - id: 96
   question: "A patient is prescribed 30 mg of morphine every 8 hours for 7 days. You hold a 0.4% w/v mixture in stock. How many millilitres should you supply in total? Give your answer as a whole number."
-  answer: 157.5
+  answer: 158
   solution: |
     **Step 1: Dose (Need)** <br />
     Doses per day: 3 doses <br />
