@@ -200,652 +200,652 @@
     **Answer:** 48.0 mL
 
 - id: 1001
-  question: A 11-year-old patient weighing 13 kg has been prescribed amoxicillin 50
-    mg/kg OD for a suspected severe infection. The displacement volume for the 500
-    mg amoxicillin vial is 1.1 mL. Each vial must be reconstituted with 10 mL of water
+  question: A 15-year-old patient weighing 75 kg has been prescribed amoxicillin 20
+    mg/kg BD for a suspected severe infection. The displacement volume for the 1000
+    mg amoxicillin vial is 1.7 mL. Each vial must be reconstituted with 5 mL of water
     for injection. How many millilitres of amoxicillin injection should be administered
     for each prescribed dose? Give your answer to one decimal place.
-  answer: 14.4
+  answer: 10.1
   solution: |-
-    **Step 1: Dose (Need)** <br /> 13 kg × 50 mg/kg = 650 mg <br />
+    **Step 1: Dose (Need)** <br /> 75 kg × 20 mg/kg = 1,500 mg <br />
     **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 10 mL + 1.1 mL = 11.1 mL <br />
-    \( \frac{650 \text{ mg}}{500 \text{ mg}} \times 11.1 \text{ mL} = 14.43 \text{ mL} \) <br />
-    **Answer:** 14.4 mL
+    Total volume = 5 mL + 1.7 mL = 6.7 mL <br />
+    \( \frac{1,500 \text{ mg}}{1,000 \text{ mg}} \times 6.7 \text{ mL} = 10.05 \text{ mL} \) <br />
+    **Answer:** 10.1 mL
 - id: 1002
-  question: A 9-year-old patient weighing 31 kg has been prescribed amoxicillin 60
-    mg/kg BD for a suspected severe infection. The displacement volume for the 250
-    mg amoxicillin vial is 0.6 mL. Each vial must be reconstituted with 5 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 41.7
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 31 kg × 60 mg/kg = 1,860 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 5 mL + 0.6 mL = 5.6 mL <br />
-    \( \frac{1,860 \text{ mg}}{250 \text{ mg}} \times 5.6 \text{ mL} = 41.66 \text{ mL} \) <br />
-    **Answer:** 41.7 mL
-- id: 1003
-  question: A 14-year-old patient weighing 59 kg has been prescribed amoxicillin 60
-    mg/kg QDS for a suspected severe infection. The displacement volume for the 500
-    mg amoxicillin vial is 1.6 mL. Each vial must be reconstituted with 15 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 117.5
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 59 kg × 60 mg/kg = 3,540 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 15 mL + 1.6 mL = 16.6 mL <br />
-    \( \frac{3,540 \text{ mg}}{500 \text{ mg}} \times 16.6 \text{ mL} = 117.53 \text{ mL} \) <br />
-    **Answer:** 117.5 mL
-- id: 1004
-  question: A 4-year-old patient weighing 28 kg has been prescribed amoxicillin 60
+  question: A 16-year-old patient weighing 60 kg has been prescribed amoxicillin 20
     mg/kg BD for a suspected severe infection. The displacement volume for the 500
-    mg amoxicillin vial is 1.7 mL. Each vial must be reconstituted with 20 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 72.9
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 28 kg × 60 mg/kg = 1,680 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 20 mL + 1.7 mL = 21.7 mL <br />
-    \( \frac{1,680 \text{ mg}}{500 \text{ mg}} \times 21.7 \text{ mL} = 72.91 \text{ mL} \) <br />
-    **Answer:** 72.9 mL
-- id: 1005
-  question: A 4-year-old patient weighing 56 kg has been prescribed amoxicillin 5
-    mg/kg BD for a suspected severe infection. The displacement volume for the 500
-    mg amoxicillin vial is 1.5 mL. Each vial must be reconstituted with 10 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 6.4
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 56 kg × 5 mg/kg = 280 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 10 mL + 1.5 mL = 11.5 mL <br />
-    \( \frac{280 \text{ mg}}{500 \text{ mg}} \times 11.5 \text{ mL} = 6.44 \text{ mL} \) <br />
-    **Answer:** 6.4 mL
-- id: 1006
-  question: A 16-year-old patient weighing 87 kg has been prescribed amoxicillin 25
-    mg/kg OD for a suspected severe infection. The displacement volume for the 250
-    mg amoxicillin vial is 0.9 mL. Each vial must be reconstituted with 20 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 181.8
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 87 kg × 25 mg/kg = 2,175 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 20 mL + 0.9 mL = 20.9 mL <br />
-    \( \frac{2,175 \text{ mg}}{250 \text{ mg}} \times 20.9 \text{ mL} = 181.83 \text{ mL} \) <br />
-    **Answer:** 181.8 mL
-- id: 1007
-  question: A 6-year-old patient weighing 70 kg has been prescribed amoxicillin 25
-    mg/kg BD for a suspected severe infection. The displacement volume for the 1000
-    mg amoxicillin vial is 0.8 mL. Each vial must be reconstituted with 5 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 10.2
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 70 kg × 25 mg/kg = 1,750 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 5 mL + 0.8 mL = 5.8 mL <br />
-    \( \frac{1,750 \text{ mg}}{1,000 \text{ mg}} \times 5.8 \text{ mL} = 10.15 \text{ mL} \) <br />
-    **Answer:** 10.2 mL
-- id: 1008
-  question: A 17-year-old patient weighing 22 kg has been prescribed amoxicillin 50
-    mg/kg QDS for a suspected severe infection. The displacement volume for the 1000
-    mg amoxicillin vial is 1.6 mL. Each vial must be reconstituted with 10 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 12.8
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 22 kg × 50 mg/kg = 1,100 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 10 mL + 1.6 mL = 11.6 mL <br />
-    \( \frac{1,100 \text{ mg}}{1,000 \text{ mg}} \times 11.6 \text{ mL} = 12.76 \text{ mL} \) <br />
-    **Answer:** 12.8 mL
-- id: 1009
-  question: A 1-year-old patient weighing 47 kg has been prescribed amoxicillin 5
-    mg/kg OD for a suspected severe infection. The displacement volume for the 1000
-    mg amoxicillin vial is 0.8 mL. Each vial must be reconstituted with 10 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 2.5
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 47 kg × 5 mg/kg = 235 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 10 mL + 0.8 mL = 10.8 mL <br />
-    \( \frac{235 \text{ mg}}{1,000 \text{ mg}} \times 10.8 \text{ mL} = 2.54 \text{ mL} \) <br />
-    **Answer:** 2.5 mL
-- id: 1010
-  question: A 17-year-old patient weighing 39 kg has been prescribed amoxicillin 10
-    mg/kg OD for a suspected severe infection. The displacement volume for the 500
-    mg amoxicillin vial is 0.7 mL. Each vial must be reconstituted with 10 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 8.3
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 39 kg × 10 mg/kg = 390 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 10 mL + 0.7 mL = 10.7 mL <br />
-    \( \frac{390 \text{ mg}}{500 \text{ mg}} \times 10.7 \text{ mL} = 8.35 \text{ mL} \) <br />
-    **Answer:** 8.3 mL
-- id: 1011
-  question: A 18-year-old patient weighing 50 kg has been prescribed amoxicillin 20
-    mg/kg OD for a suspected severe infection. The displacement volume for the 1000
-    mg amoxicillin vial is 0.7 mL. Each vial must be reconstituted with 5 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 5.7
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 50 kg × 20 mg/kg = 1,000 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 5 mL + 0.7 mL = 5.7 mL <br />
-    \( \frac{1,000 \text{ mg}}{1,000 \text{ mg}} \times 5.7 \text{ mL} = 5.70 \text{ mL} \) <br />
-    **Answer:** 5.7 mL
-- id: 1012
-  question: A 8-year-old patient weighing 81 kg has been prescribed amoxicillin 15
-    mg/kg TDS for a suspected severe infection. The displacement volume for the 1000
-    mg amoxicillin vial is 1.7 mL. Each vial must be reconstituted with 15 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 20.3
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 81 kg × 15 mg/kg = 1,215 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 15 mL + 1.7 mL = 16.7 mL <br />
-    \( \frac{1,215 \text{ mg}}{1,000 \text{ mg}} \times 16.7 \text{ mL} = 20.29 \text{ mL} \) <br />
-    **Answer:** 20.3 mL
-- id: 1013
-  question: A 12-year-old patient weighing 29 kg has been prescribed amoxicillin 5
-    mg/kg QDS for a suspected severe infection. The displacement volume for the 1000
-    mg amoxicillin vial is 1.0 mL. Each vial must be reconstituted with 20 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 3.0
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 29 kg × 5 mg/kg = 145 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 20 mL + 1.0 mL = 21.0 mL <br />
-    \( \frac{145 \text{ mg}}{1,000 \text{ mg}} \times 21.0 \text{ mL} = 3.04 \text{ mL} \) <br />
-    **Answer:** 3.0 mL
-- id: 1014
-  question: A 16-year-old patient weighing 33 kg has been prescribed amoxicillin 25
-    mg/kg BD for a suspected severe infection. The displacement volume for the 1000
-    mg amoxicillin vial is 2.0 mL. Each vial must be reconstituted with 20 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 18.1
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 33 kg × 25 mg/kg = 825 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 20 mL + 2.0 mL = 22.0 mL <br />
-    \( \frac{825 \text{ mg}}{1,000 \text{ mg}} \times 22.0 \text{ mL} = 18.15 \text{ mL} \) <br />
-    **Answer:** 18.1 mL
-- id: 1015
-  question: A 16-year-old patient weighing 56 kg has been prescribed amoxicillin 80
-    mg/kg TDS for a suspected severe infection. The displacement volume for the 500
-    mg amoxicillin vial is 1.4 mL. Each vial must be reconstituted with 10 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 102.1
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 56 kg × 80 mg/kg = 4,480 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 10 mL + 1.4 mL = 11.4 mL <br />
-    \( \frac{4,480 \text{ mg}}{500 \text{ mg}} \times 11.4 \text{ mL} = 102.14 \text{ mL} \) <br />
-    **Answer:** 102.1 mL
-- id: 1016
-  question: A 12-year-old patient weighing 18 kg has been prescribed amoxicillin 40
-    mg/kg BD for a suspected severe infection. The displacement volume for the 250
     mg amoxicillin vial is 0.6 mL. Each vial must be reconstituted with 10 mL of water
     for injection. How many millilitres of amoxicillin injection should be administered
     for each prescribed dose? Give your answer to one decimal place.
-  answer: 30.5
+  answer: 25.4
   solution: |-
-    **Step 1: Dose (Need)** <br /> 18 kg × 40 mg/kg = 720 mg <br />
+    **Step 1: Dose (Need)** <br /> 60 kg × 20 mg/kg = 1,200 mg <br />
     **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
     Total volume = 10 mL + 0.6 mL = 10.6 mL <br />
-    \( \frac{720 \text{ mg}}{250 \text{ mg}} \times 10.6 \text{ mL} = 30.53 \text{ mL} \) <br />
-    **Answer:** 30.5 mL
-- id: 1017
-  question: A 13-year-old patient weighing 57 kg has been prescribed amoxicillin 50
-    mg/kg QDS for a suspected severe infection. The displacement volume for the 1000
-    mg amoxicillin vial is 0.4 mL. Each vial must be reconstituted with 20 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 58.1
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 57 kg × 50 mg/kg = 2,850 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 20 mL + 0.4 mL = 20.4 mL <br />
-    \( \frac{2,850 \text{ mg}}{1,000 \text{ mg}} \times 20.4 \text{ mL} = 58.14 \text{ mL} \) <br />
-    **Answer:** 58.1 mL
-- id: 1018
-  question: A 16-year-old patient weighing 46 kg has been prescribed amoxicillin 40
-    mg/kg OD for a suspected severe infection. The displacement volume for the 500
-    mg amoxicillin vial is 1.9 mL. Each vial must be reconstituted with 15 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 62.2
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 46 kg × 40 mg/kg = 1,840 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 15 mL + 1.9 mL = 16.9 mL <br />
-    \( \frac{1,840 \text{ mg}}{500 \text{ mg}} \times 16.9 \text{ mL} = 62.19 \text{ mL} \) <br />
-    **Answer:** 62.2 mL
-- id: 1019
-  question: A 5-year-old patient weighing 56 kg has been prescribed amoxicillin 40
-    mg/kg BD for a suspected severe infection. The displacement volume for the 1000
-    mg amoxicillin vial is 1.1 mL. Each vial must be reconstituted with 20 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 47.3
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 56 kg × 40 mg/kg = 2,240 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 20 mL + 1.1 mL = 21.1 mL <br />
-    \( \frac{2,240 \text{ mg}}{1,000 \text{ mg}} \times 21.1 \text{ mL} = 47.26 \text{ mL} \) <br />
-    **Answer:** 47.3 mL
-- id: 1020
-  question: A 8-year-old patient weighing 56 kg has been prescribed amoxicillin 20
-    mg/kg QDS for a suspected severe infection. The displacement volume for the 500
-    mg amoxicillin vial is 1.9 mL. Each vial must be reconstituted with 10 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 26.7
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 56 kg × 20 mg/kg = 1,120 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 10 mL + 1.9 mL = 11.9 mL <br />
-    \( \frac{1,120 \text{ mg}}{500 \text{ mg}} \times 11.9 \text{ mL} = 26.66 \text{ mL} \) <br />
-    **Answer:** 26.7 mL
-- id: 1021
-  question: A 7-year-old patient weighing 22 kg has been prescribed amoxicillin 20
-    mg/kg BD for a suspected severe infection. The displacement volume for the 250
-    mg amoxicillin vial is 1.4 mL. Each vial must be reconstituted with 20 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 37.7
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 22 kg × 20 mg/kg = 440 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 20 mL + 1.4 mL = 21.4 mL <br />
-    \( \frac{440 \text{ mg}}{250 \text{ mg}} \times 21.4 \text{ mL} = 37.66 \text{ mL} \) <br />
-    **Answer:** 37.7 mL
-- id: 1022
-  question: A 3-year-old patient weighing 74 kg has been prescribed amoxicillin 5
-    mg/kg OD for a suspected severe infection. The displacement volume for the 500
-    mg amoxicillin vial is 1.4 mL. Each vial must be reconstituted with 15 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 12.1
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 74 kg × 5 mg/kg = 370 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 15 mL + 1.4 mL = 16.4 mL <br />
-    \( \frac{370 \text{ mg}}{500 \text{ mg}} \times 16.4 \text{ mL} = 12.14 \text{ mL} \) <br />
-    **Answer:** 12.1 mL
-- id: 1023
-  question: A 7-year-old patient weighing 39 kg has been prescribed amoxicillin 80
-    mg/kg TDS for a suspected severe infection. The displacement volume for the 1000
-    mg amoxicillin vial is 0.3 mL. Each vial must be reconstituted with 20 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 63.3
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 39 kg × 80 mg/kg = 3,120 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 20 mL + 0.3 mL = 20.3 mL <br />
-    \( \frac{3,120 \text{ mg}}{1,000 \text{ mg}} \times 20.3 \text{ mL} = 63.34 \text{ mL} \) <br />
-    **Answer:** 63.3 mL
-- id: 1024
-  question: A 1-year-old patient weighing 48 kg has been prescribed amoxicillin 60
-    mg/kg OD for a suspected severe infection. The displacement volume for the 500
-    mg amoxicillin vial is 0.8 mL. Each vial must be reconstituted with 5 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 33.4
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 48 kg × 60 mg/kg = 2,880 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 5 mL + 0.8 mL = 5.8 mL <br />
-    \( \frac{2,880 \text{ mg}}{500 \text{ mg}} \times 5.8 \text{ mL} = 33.41 \text{ mL} \) <br />
-    **Answer:** 33.4 mL
-- id: 1025
-  question: A 17-year-old patient weighing 17 kg has been prescribed amoxicillin 10
-    mg/kg QDS for a suspected severe infection. The displacement volume for the 1000
-    mg amoxicillin vial is 1.5 mL. Each vial must be reconstituted with 15 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 2.8
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 17 kg × 10 mg/kg = 170 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 15 mL + 1.5 mL = 16.5 mL <br />
-    \( \frac{170 \text{ mg}}{1,000 \text{ mg}} \times 16.5 \text{ mL} = 2.81 \text{ mL} \) <br />
-    **Answer:** 2.8 mL
-- id: 1026
-  question: A 13-year-old patient weighing 31 kg has been prescribed amoxicillin 80
-    mg/kg BD for a suspected severe infection. The displacement volume for the 1000
-    mg amoxicillin vial is 1.2 mL. Each vial must be reconstituted with 20 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 52.6
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 31 kg × 80 mg/kg = 2,480 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 20 mL + 1.2 mL = 21.2 mL <br />
-    \( \frac{2,480 \text{ mg}}{1,000 \text{ mg}} \times 21.2 \text{ mL} = 52.58 \text{ mL} \) <br />
-    **Answer:** 52.6 mL
-- id: 1027
-  question: A 18-year-old patient weighing 47 kg has been prescribed amoxicillin 40
-    mg/kg BD for a suspected severe infection. The displacement volume for the 250
+    \( \frac{1,200 \text{ mg}}{500 \text{ mg}} \times 10.6 \text{ mL} = 25.44 \text{ mL} \) <br />
+    **Answer:** 25.4 mL
+- id: 1003
+  question: A 11-year-old patient weighing 42 kg has been prescribed amoxicillin 60
+    mg/kg BD for a suspected severe infection. The displacement volume for the 500
     mg amoxicillin vial is 1.1 mL. Each vial must be reconstituted with 5 mL of water
     for injection. How many millilitres of amoxicillin injection should be administered
     for each prescribed dose? Give your answer to one decimal place.
-  answer: 45.9
+  answer: 30.7
   solution: |-
-    **Step 1: Dose (Need)** <br /> 47 kg × 40 mg/kg = 1,880 mg <br />
+    **Step 1: Dose (Need)** <br /> 42 kg × 60 mg/kg = 2,520 mg <br />
     **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
     Total volume = 5 mL + 1.1 mL = 6.1 mL <br />
-    \( \frac{1,880 \text{ mg}}{250 \text{ mg}} \times 6.1 \text{ mL} = 45.87 \text{ mL} \) <br />
-    **Answer:** 45.9 mL
-- id: 1028
-  question: A 12-year-old patient weighing 38 kg has been prescribed amoxicillin 5
-    mg/kg QDS for a suspected severe infection. The displacement volume for the 250
-    mg amoxicillin vial is 0.3 mL. Each vial must be reconstituted with 10 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 7.8
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 38 kg × 5 mg/kg = 190 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 10 mL + 0.3 mL = 10.3 mL <br />
-    \( \frac{190 \text{ mg}}{250 \text{ mg}} \times 10.3 \text{ mL} = 7.83 \text{ mL} \) <br />
-    **Answer:** 7.8 mL
-- id: 1029
-  question: A 7-year-old patient weighing 53 kg has been prescribed amoxicillin 20
-    mg/kg BD for a suspected severe infection. The displacement volume for the 1000
-    mg amoxicillin vial is 0.8 mL. Each vial must be reconstituted with 10 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 11.4
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 53 kg × 20 mg/kg = 1,060 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 10 mL + 0.8 mL = 10.8 mL <br />
-    \( \frac{1,060 \text{ mg}}{1,000 \text{ mg}} \times 10.8 \text{ mL} = 11.45 \text{ mL} \) <br />
-    **Answer:** 11.4 mL
-- id: 1030
-  question: A 8-year-old patient weighing 11 kg has been prescribed amoxicillin 80
-    mg/kg QDS for a suspected severe infection. The displacement volume for the 250
-    mg amoxicillin vial is 0.2 mL. Each vial must be reconstituted with 10 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 35.9
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 11 kg × 80 mg/kg = 880 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 10 mL + 0.2 mL = 10.2 mL <br />
-    \( \frac{880 \text{ mg}}{250 \text{ mg}} \times 10.2 \text{ mL} = 35.90 \text{ mL} \) <br />
-    **Answer:** 35.9 mL
-- id: 1031
-  question: A 6-year-old patient weighing 16 kg has been prescribed amoxicillin 40
-    mg/kg BD for a suspected severe infection. The displacement volume for the 250
-    mg amoxicillin vial is 0.8 mL. Each vial must be reconstituted with 10 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 27.6
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 16 kg × 40 mg/kg = 640 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 10 mL + 0.8 mL = 10.8 mL <br />
-    \( \frac{640 \text{ mg}}{250 \text{ mg}} \times 10.8 \text{ mL} = 27.65 \text{ mL} \) <br />
-    **Answer:** 27.6 mL
-- id: 1032
-  question: A 14-year-old patient weighing 46 kg has been prescribed amoxicillin 30
-    mg/kg QDS for a suspected severe infection. The displacement volume for the 500
-    mg amoxicillin vial is 2.0 mL. Each vial must be reconstituted with 20 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 60.7
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 46 kg × 30 mg/kg = 1,380 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 20 mL + 2.0 mL = 22.0 mL <br />
-    \( \frac{1,380 \text{ mg}}{500 \text{ mg}} \times 22.0 \text{ mL} = 60.72 \text{ mL} \) <br />
-    **Answer:** 60.7 mL
-- id: 1033
-  question: A 7-year-old patient weighing 44 kg has been prescribed amoxicillin 30
+    \( \frac{2,520 \text{ mg}}{500 \text{ mg}} \times 6.1 \text{ mL} = 30.74 \text{ mL} \) <br />
+    **Answer:** 30.7 mL
+- id: 1004
+  question: A 2-year-old patient weighing 13 kg has been prescribed amoxicillin 25
     mg/kg TDS for a suspected severe infection. The displacement volume for the 1000
-    mg amoxicillin vial is 0.5 mL. Each vial must be reconstituted with 15 mL of water
+    mg amoxicillin vial is 1.0 mL. Each vial must be reconstituted with 10 mL of water
     for injection. How many millilitres of amoxicillin injection should be administered
     for each prescribed dose? Give your answer to one decimal place.
-  answer: 20.5
+  answer: 3.6
   solution: |-
-    **Step 1: Dose (Need)** <br /> 44 kg × 30 mg/kg = 1,320 mg <br />
+    **Step 1: Dose (Need)** <br /> 13 kg × 25 mg/kg = 325 mg <br />
     **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 15 mL + 0.5 mL = 15.5 mL <br />
-    \( \frac{1,320 \text{ mg}}{1,000 \text{ mg}} \times 15.5 \text{ mL} = 20.46 \text{ mL} \) <br />
-    **Answer:** 20.5 mL
-- id: 1034
-  question: A 17-year-old patient weighing 34 kg has been prescribed amoxicillin 80
-    mg/kg BD for a suspected severe infection. The displacement volume for the 500
-    mg amoxicillin vial is 1.3 mL. Each vial must be reconstituted with 10 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 61.5
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 34 kg × 80 mg/kg = 2,720 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 10 mL + 1.3 mL = 11.3 mL <br />
-    \( \frac{2,720 \text{ mg}}{500 \text{ mg}} \times 11.3 \text{ mL} = 61.47 \text{ mL} \) <br />
-    **Answer:** 61.5 mL
-- id: 1035
-  question: A 17-year-old patient weighing 62 kg has been prescribed amoxicillin 5
-    mg/kg OD for a suspected severe infection. The displacement volume for the 500
-    mg amoxicillin vial is 1.7 mL. Each vial must be reconstituted with 15 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 10.4
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 62 kg × 5 mg/kg = 310 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 15 mL + 1.7 mL = 16.7 mL <br />
-    \( \frac{310 \text{ mg}}{500 \text{ mg}} \times 16.7 \text{ mL} = 10.35 \text{ mL} \) <br />
-    **Answer:** 10.4 mL
-- id: 1036
-  question: A 12-year-old patient weighing 22 kg has been prescribed amoxicillin 20
-    mg/kg OD for a suspected severe infection. The displacement volume for the 250
-    mg amoxicillin vial is 0.4 mL. Each vial must be reconstituted with 15 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 27.1
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 22 kg × 20 mg/kg = 440 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 15 mL + 0.4 mL = 15.4 mL <br />
-    \( \frac{440 \text{ mg}}{250 \text{ mg}} \times 15.4 \text{ mL} = 27.10 \text{ mL} \) <br />
-    **Answer:** 27.1 mL
-- id: 1037
-  question: A 18-year-old patient weighing 61 kg has been prescribed amoxicillin 80
+    Total volume = 10 mL + 1.0 mL = 11.0 mL <br />
+    \( \frac{325 \text{ mg}}{1,000 \text{ mg}} \times 11.0 \text{ mL} = 3.58 \text{ mL} \) <br />
+    **Answer:** 3.6 mL
+- id: 1005
+  question: A 3-year-old patient weighing 16 kg has been prescribed amoxicillin 25
     mg/kg OD for a suspected severe infection. The displacement volume for the 1000
     mg amoxicillin vial is 0.5 mL. Each vial must be reconstituted with 20 mL of water
     for injection. How many millilitres of amoxicillin injection should be administered
     for each prescribed dose? Give your answer to one decimal place.
-  answer: 100.0
+  answer: 8.2
   solution: |-
-    **Step 1: Dose (Need)** <br /> 61 kg × 80 mg/kg = 4,880 mg <br />
+    **Step 1: Dose (Need)** <br /> 16 kg × 25 mg/kg = 400 mg <br />
     **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
     Total volume = 20 mL + 0.5 mL = 20.5 mL <br />
-    \( \frac{4,880 \text{ mg}}{1,000 \text{ mg}} \times 20.5 \text{ mL} = 100.04 \text{ mL} \) <br />
-    **Answer:** 100.0 mL
-- id: 1038
-  question: A 17-year-old patient weighing 72 kg has been prescribed amoxicillin 80
-    mg/kg QDS for a suspected severe infection. The displacement volume for the 500
-    mg amoxicillin vial is 0.7 mL. Each vial must be reconstituted with 20 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 238.5
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 72 kg × 80 mg/kg = 5,760 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 20 mL + 0.7 mL = 20.7 mL <br />
-    \( \frac{5,760 \text{ mg}}{500 \text{ mg}} \times 20.7 \text{ mL} = 238.46 \text{ mL} \) <br />
-    **Answer:** 238.5 mL
-- id: 1039
-  question: A 17-year-old patient weighing 50 kg has been prescribed amoxicillin 25
+    \( \frac{400 \text{ mg}}{1,000 \text{ mg}} \times 20.5 \text{ mL} = 8.20 \text{ mL} \) <br />
+    **Answer:** 8.2 mL
+- id: 1006
+  question: A 13-year-old patient weighing 58 kg has been prescribed amoxicillin 10
     mg/kg BD for a suspected severe infection. The displacement volume for the 250
-    mg amoxicillin vial is 1.4 mL. Each vial must be reconstituted with 20 mL of water
+    mg amoxicillin vial is 1.5 mL. Each vial must be reconstituted with 10 mL of water
     for injection. How many millilitres of amoxicillin injection should be administered
     for each prescribed dose? Give your answer to one decimal place.
-  answer: 107.0
+  answer: 26.7
   solution: |-
-    **Step 1: Dose (Need)** <br /> 50 kg × 25 mg/kg = 1,250 mg <br />
+    **Step 1: Dose (Need)** <br /> 58 kg × 10 mg/kg = 580 mg <br />
     **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 20 mL + 1.4 mL = 21.4 mL <br />
-    \( \frac{1,250 \text{ mg}}{250 \text{ mg}} \times 21.4 \text{ mL} = 107.00 \text{ mL} \) <br />
-    **Answer:** 107.0 mL
-- id: 1040
-  question: A 8-year-old patient weighing 15 kg has been prescribed amoxicillin 80
-    mg/kg TDS for a suspected severe infection. The displacement volume for the 500
-    mg amoxicillin vial is 1.5 mL. Each vial must be reconstituted with 15 mL of water
+    Total volume = 10 mL + 1.5 mL = 11.5 mL <br />
+    \( \frac{580 \text{ mg}}{250 \text{ mg}} \times 11.5 \text{ mL} = 26.68 \text{ mL} \) <br />
+    **Answer:** 26.7 mL
+- id: 1007
+  question: A 1-year-old patient weighing 10 kg has been prescribed amoxicillin 50
+    mg/kg QDS for a suspected severe infection. The displacement volume for the 500
+    mg amoxicillin vial is 0.7 mL. Each vial must be reconstituted with 15 mL of water
     for injection. How many millilitres of amoxicillin injection should be administered
     for each prescribed dose? Give your answer to one decimal place.
-  answer: 39.6
+  answer: 15.7
   solution: |-
-    **Step 1: Dose (Need)** <br /> 15 kg × 80 mg/kg = 1,200 mg <br />
+    **Step 1: Dose (Need)** <br /> 10 kg × 50 mg/kg = 500 mg <br />
     **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 15 mL + 1.5 mL = 16.5 mL <br />
-    \( \frac{1,200 \text{ mg}}{500 \text{ mg}} \times 16.5 \text{ mL} = 39.60 \text{ mL} \) <br />
-    **Answer:** 39.6 mL
-- id: 1041
-  question: A 9-year-old patient weighing 38 kg has been prescribed amoxicillin 40
-    mg/kg TDS for a suspected severe infection. The displacement volume for the 500
-    mg amoxicillin vial is 0.9 mL. Each vial must be reconstituted with 10 mL of water
+    Total volume = 15 mL + 0.7 mL = 15.7 mL <br />
+    \( \frac{500 \text{ mg}}{500 \text{ mg}} \times 15.7 \text{ mL} = 15.70 \text{ mL} \) <br />
+    **Answer:** 15.7 mL
+- id: 1008
+  question: A 1-year-old patient weighing 10 kg has been prescribed amoxicillin 10
+    mg/kg TDS for a suspected severe infection. The displacement volume for the 250
+    mg amoxicillin vial is 1.3 mL. Each vial must be reconstituted with 15 mL of water
     for injection. How many millilitres of amoxicillin injection should be administered
     for each prescribed dose? Give your answer to one decimal place.
-  answer: 33.1
+  answer: 6.5
   solution: |-
-    **Step 1: Dose (Need)** <br /> 38 kg × 40 mg/kg = 1,520 mg <br />
+    **Step 1: Dose (Need)** <br /> 10 kg × 10 mg/kg = 100 mg <br />
     **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 10 mL + 0.9 mL = 10.9 mL <br />
-    \( \frac{1,520 \text{ mg}}{500 \text{ mg}} \times 10.9 \text{ mL} = 33.14 \text{ mL} \) <br />
-    **Answer:** 33.1 mL
-- id: 1042
-  question: A 16-year-old patient weighing 22 kg has been prescribed amoxicillin 10
+    Total volume = 15 mL + 1.3 mL = 16.3 mL <br />
+    \( \frac{100 \text{ mg}}{250 \text{ mg}} \times 16.3 \text{ mL} = 6.52 \text{ mL} \) <br />
+    **Answer:** 6.5 mL
+- id: 1009
+  question: A 15-year-old patient weighing 49 kg has been prescribed amoxicillin 40
+    mg/kg OD for a suspected severe infection. The displacement volume for the 1000
+    mg amoxicillin vial is 1.1 mL. Each vial must be reconstituted with 15 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 31.6
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 49 kg × 40 mg/kg = 1,960 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 15 mL + 1.1 mL = 16.1 mL <br />
+    \( \frac{1,960 \text{ mg}}{1,000 \text{ mg}} \times 16.1 \text{ mL} = 31.56 \text{ mL} \) <br />
+    **Answer:** 31.6 mL
+- id: 1010
+  question: A 6-year-old patient weighing 23 kg has been prescribed amoxicillin 50
     mg/kg TDS for a suspected severe infection. The displacement volume for the 1000
-    mg amoxicillin vial is 0.7 mL. Each vial must be reconstituted with 10 mL of water
+    mg amoxicillin vial is 1.5 mL. Each vial must be reconstituted with 5 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 7.5
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 23 kg × 50 mg/kg = 1,150 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 5 mL + 1.5 mL = 6.5 mL <br />
+    \( \frac{1,150 \text{ mg}}{1,000 \text{ mg}} \times 6.5 \text{ mL} = 7.47 \text{ mL} \) <br />
+    **Answer:** 7.5 mL
+- id: 1011
+  question: A 18-year-old patient weighing 52 kg has been prescribed amoxicillin 20
+    mg/kg QDS for a suspected severe infection. The displacement volume for the 250
+    mg amoxicillin vial is 1.6 mL. Each vial must be reconstituted with 20 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 89.9
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 52 kg × 20 mg/kg = 1,040 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 20 mL + 1.6 mL = 21.6 mL <br />
+    \( \frac{1,040 \text{ mg}}{250 \text{ mg}} \times 21.6 \text{ mL} = 89.86 \text{ mL} \) <br />
+    **Answer:** 89.9 mL
+- id: 1012
+  question: A 6-year-old patient weighing 28 kg has been prescribed amoxicillin 5
+    mg/kg QDS for a suspected severe infection. The displacement volume for the 500
+    mg amoxicillin vial is 2.0 mL. Each vial must be reconstituted with 10 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 3.4
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 28 kg × 5 mg/kg = 140 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 10 mL + 2.0 mL = 12.0 mL <br />
+    \( \frac{140 \text{ mg}}{500 \text{ mg}} \times 12.0 \text{ mL} = 3.36 \text{ mL} \) <br />
+    **Answer:** 3.4 mL
+- id: 1013
+  question: A 2-year-old patient weighing 10 kg has been prescribed amoxicillin 50
+    mg/kg OD for a suspected severe infection. The displacement volume for the 250
+    mg amoxicillin vial is 1.8 mL. Each vial must be reconstituted with 15 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 33.6
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 10 kg × 50 mg/kg = 500 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 15 mL + 1.8 mL = 16.8 mL <br />
+    \( \frac{500 \text{ mg}}{250 \text{ mg}} \times 16.8 \text{ mL} = 33.60 \text{ mL} \) <br />
+    **Answer:** 33.6 mL
+- id: 1014
+  question: A 1-year-old patient weighing 11 kg has been prescribed amoxicillin 20
+    mg/kg OD for a suspected severe infection. The displacement volume for the 1000
+    mg amoxicillin vial is 0.8 mL. Each vial must be reconstituted with 10 mL of water
     for injection. How many millilitres of amoxicillin injection should be administered
     for each prescribed dose? Give your answer to one decimal place.
   answer: 2.4
   solution: |-
-    **Step 1: Dose (Need)** <br /> 22 kg × 10 mg/kg = 220 mg <br />
+    **Step 1: Dose (Need)** <br /> 11 kg × 20 mg/kg = 220 mg <br />
     **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 10 mL + 0.7 mL = 10.7 mL <br />
-    \( \frac{220 \text{ mg}}{1,000 \text{ mg}} \times 10.7 \text{ mL} = 2.35 \text{ mL} \) <br />
+    Total volume = 10 mL + 0.8 mL = 10.8 mL <br />
+    \( \frac{220 \text{ mg}}{1,000 \text{ mg}} \times 10.8 \text{ mL} = 2.38 \text{ mL} \) <br />
     **Answer:** 2.4 mL
-- id: 1043
-  question: A 2-year-old patient weighing 65 kg has been prescribed amoxicillin 80
-    mg/kg QDS for a suspected severe infection. The displacement volume for the 250
-    mg amoxicillin vial is 0.4 mL. Each vial must be reconstituted with 15 mL of water
+- id: 1015
+  question: A 12-year-old patient weighing 45 kg has been prescribed amoxicillin 15
+    mg/kg TDS for a suspected severe infection. The displacement volume for the 250
+    mg amoxicillin vial is 1.4 mL. Each vial must be reconstituted with 10 mL of water
     for injection. How many millilitres of amoxicillin injection should be administered
     for each prescribed dose? Give your answer to one decimal place.
-  answer: 320.3
+  answer: 30.8
   solution: |-
-    **Step 1: Dose (Need)** <br /> 65 kg × 80 mg/kg = 5,200 mg <br />
+    **Step 1: Dose (Need)** <br /> 45 kg × 15 mg/kg = 675 mg <br />
     **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 15 mL + 0.4 mL = 15.4 mL <br />
-    \( \frac{5,200 \text{ mg}}{250 \text{ mg}} \times 15.4 \text{ mL} = 320.32 \text{ mL} \) <br />
-    **Answer:** 320.3 mL
-- id: 1044
-  question: A 14-year-old patient weighing 59 kg has been prescribed amoxicillin 15
-    mg/kg OD for a suspected severe infection. The displacement volume for the 250
-    mg amoxicillin vial is 1.7 mL. Each vial must be reconstituted with 15 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 59.1
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 59 kg × 15 mg/kg = 885 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 15 mL + 1.7 mL = 16.7 mL <br />
-    \( \frac{885 \text{ mg}}{250 \text{ mg}} \times 16.7 \text{ mL} = 59.12 \text{ mL} \) <br />
-    **Answer:** 59.1 mL
-- id: 1045
-  question: A 14-year-old patient weighing 49 kg has been prescribed amoxicillin 50
-    mg/kg OD for a suspected severe infection. The displacement volume for the 500
+    Total volume = 10 mL + 1.4 mL = 11.4 mL <br />
+    \( \frac{675 \text{ mg}}{250 \text{ mg}} \times 11.4 \text{ mL} = 30.78 \text{ mL} \) <br />
+    **Answer:** 30.8 mL
+- id: 1016
+  question: A 16-year-old patient weighing 72 kg has been prescribed amoxicillin 80
+    mg/kg BD for a suspected severe infection. The displacement volume for the 1000
     mg amoxicillin vial is 1.4 mL. Each vial must be reconstituted with 5 mL of water
     for injection. How many millilitres of amoxicillin injection should be administered
     for each prescribed dose? Give your answer to one decimal place.
-  answer: 31.4
+  answer: 36.9
   solution: |-
-    **Step 1: Dose (Need)** <br /> 49 kg × 50 mg/kg = 2,450 mg <br />
+    **Step 1: Dose (Need)** <br /> 72 kg × 80 mg/kg = 5,760 mg <br />
     **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
     Total volume = 5 mL + 1.4 mL = 6.4 mL <br />
-    \( \frac{2,450 \text{ mg}}{500 \text{ mg}} \times 6.4 \text{ mL} = 31.36 \text{ mL} \) <br />
-    **Answer:** 31.4 mL
-- id: 1046
-  question: A 4-year-old patient weighing 58 kg has been prescribed amoxicillin 20
+    \( \frac{5,760 \text{ mg}}{1,000 \text{ mg}} \times 6.4 \text{ mL} = 36.86 \text{ mL} \) <br />
+    **Answer:** 36.9 mL
+- id: 1017
+  question: A 10-year-old patient weighing 38 kg has been prescribed amoxicillin 10
     mg/kg BD for a suspected severe infection. The displacement volume for the 500
-    mg amoxicillin vial is 1.0 mL. Each vial must be reconstituted with 5 mL of water
+    mg amoxicillin vial is 1.7 mL. Each vial must be reconstituted with 5 mL of water
     for injection. How many millilitres of amoxicillin injection should be administered
     for each prescribed dose? Give your answer to one decimal place.
-  answer: 13.9
+  answer: 5.1
   solution: |-
-    **Step 1: Dose (Need)** <br /> 58 kg × 20 mg/kg = 1,160 mg <br />
+    **Step 1: Dose (Need)** <br /> 38 kg × 10 mg/kg = 380 mg <br />
     **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 5 mL + 1.0 mL = 6.0 mL <br />
-    \( \frac{1,160 \text{ mg}}{500 \text{ mg}} \times 6.0 \text{ mL} = 13.92 \text{ mL} \) <br />
-    **Answer:** 13.9 mL
-- id: 1047
-  question: A 13-year-old patient weighing 58 kg has been prescribed amoxicillin 30
-    mg/kg OD for a suspected severe infection. The displacement volume for the 250
-    mg amoxicillin vial is 1.4 mL. Each vial must be reconstituted with 15 mL of water
-    for injection. How many millilitres of amoxicillin injection should be administered
-    for each prescribed dose? Give your answer to one decimal place.
-  answer: 114.1
-  solution: |-
-    **Step 1: Dose (Need)** <br /> 58 kg × 30 mg/kg = 1,740 mg <br />
-    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 15 mL + 1.4 mL = 16.4 mL <br />
-    \( \frac{1,740 \text{ mg}}{250 \text{ mg}} \times 16.4 \text{ mL} = 114.14 \text{ mL} \) <br />
-    **Answer:** 114.1 mL
-- id: 1048
-  question: A 12-year-old patient weighing 58 kg has been prescribed amoxicillin 15
+    Total volume = 5 mL + 1.7 mL = 6.7 mL <br />
+    \( \frac{380 \text{ mg}}{500 \text{ mg}} \times 6.7 \text{ mL} = 5.09 \text{ mL} \) <br />
+    **Answer:** 5.1 mL
+- id: 1018
+  question: A 10-year-old patient weighing 33 kg has been prescribed amoxicillin 5
     mg/kg BD for a suspected severe infection. The displacement volume for the 250
+    mg amoxicillin vial is 1.1 mL. Each vial must be reconstituted with 5 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 4.0
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 33 kg × 5 mg/kg = 165 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 5 mL + 1.1 mL = 6.1 mL <br />
+    \( \frac{165 \text{ mg}}{250 \text{ mg}} \times 6.1 \text{ mL} = 4.03 \text{ mL} \) <br />
+    **Answer:** 4.0 mL
+- id: 1019
+  question: A 9-year-old patient weighing 30 kg has been prescribed amoxicillin 80
+    mg/kg QDS for a suspected severe infection. The displacement volume for the 1000
+    mg amoxicillin vial is 1.2 mL. Each vial must be reconstituted with 5 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 14.9
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 30 kg × 80 mg/kg = 2,400 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 5 mL + 1.2 mL = 6.2 mL <br />
+    \( \frac{2,400 \text{ mg}}{1,000 \text{ mg}} \times 6.2 \text{ mL} = 14.88 \text{ mL} \) <br />
+    **Answer:** 14.9 mL
+- id: 1020
+  question: A 11-year-old patient weighing 42 kg has been prescribed amoxicillin 40
+    mg/kg TDS for a suspected severe infection. The displacement volume for the 1000
+    mg amoxicillin vial is 0.5 mL. Each vial must be reconstituted with 20 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 34.4
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 42 kg × 40 mg/kg = 1,680 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 20 mL + 0.5 mL = 20.5 mL <br />
+    \( \frac{1,680 \text{ mg}}{1,000 \text{ mg}} \times 20.5 \text{ mL} = 34.44 \text{ mL} \) <br />
+    **Answer:** 34.4 mL
+- id: 1021
+  question: A 15-year-old patient weighing 74 kg has been prescribed amoxicillin 40
+    mg/kg TDS for a suspected severe infection. The displacement volume for the 500
+    mg amoxicillin vial is 0.8 mL. Each vial must be reconstituted with 5 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 34.3
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 74 kg × 40 mg/kg = 2,960 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 5 mL + 0.8 mL = 5.8 mL <br />
+    \( \frac{2,960 \text{ mg}}{500 \text{ mg}} \times 5.8 \text{ mL} = 34.34 \text{ mL} \) <br />
+    **Answer:** 34.3 mL
+- id: 1022
+  question: A 3-year-old patient weighing 16 kg has been prescribed amoxicillin 15
+    mg/kg BD for a suspected severe infection. The displacement volume for the 500
+    mg amoxicillin vial is 1.7 mL. Each vial must be reconstituted with 15 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 8.0
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 16 kg × 15 mg/kg = 240 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 15 mL + 1.7 mL = 16.7 mL <br />
+    \( \frac{240 \text{ mg}}{500 \text{ mg}} \times 16.7 \text{ mL} = 8.02 \text{ mL} \) <br />
+    **Answer:** 8.0 mL
+- id: 1023
+  question: A 6-year-old patient weighing 25 kg has been prescribed amoxicillin 80
+    mg/kg BD for a suspected severe infection. The displacement volume for the 500
+    mg amoxicillin vial is 0.8 mL. Each vial must be reconstituted with 20 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 83.2
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 25 kg × 80 mg/kg = 2,000 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 20 mL + 0.8 mL = 20.8 mL <br />
+    \( \frac{2,000 \text{ mg}}{500 \text{ mg}} \times 20.8 \text{ mL} = 83.20 \text{ mL} \) <br />
+    **Answer:** 83.2 mL
+- id: 1024
+  question: A 12-year-old patient weighing 40 kg has been prescribed amoxicillin 20
+    mg/kg TDS for a suspected severe infection. The displacement volume for the 1000
+    mg amoxicillin vial is 1.2 mL. Each vial must be reconstituted with 5 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 5.0
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 40 kg × 20 mg/kg = 800 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 5 mL + 1.2 mL = 6.2 mL <br />
+    \( \frac{800 \text{ mg}}{1,000 \text{ mg}} \times 6.2 \text{ mL} = 4.96 \text{ mL} \) <br />
+    **Answer:** 5.0 mL
+- id: 1025
+  question: A 13-year-old patient weighing 64 kg has been prescribed amoxicillin 10
+    mg/kg TDS for a suspected severe infection. The displacement volume for the 500
+    mg amoxicillin vial is 1.5 mL. Each vial must be reconstituted with 15 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 21.1
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 64 kg × 10 mg/kg = 640 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 15 mL + 1.5 mL = 16.5 mL <br />
+    \( \frac{640 \text{ mg}}{500 \text{ mg}} \times 16.5 \text{ mL} = 21.12 \text{ mL} \) <br />
+    **Answer:** 21.1 mL
+- id: 1026
+  question: A 3-year-old patient weighing 16 kg has been prescribed amoxicillin 10
+    mg/kg QDS for a suspected severe infection. The displacement volume for the 1000
+    mg amoxicillin vial is 1.2 mL. Each vial must be reconstituted with 5 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 1.0
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 16 kg × 10 mg/kg = 160 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 5 mL + 1.2 mL = 6.2 mL <br />
+    \( \frac{160 \text{ mg}}{1,000 \text{ mg}} \times 6.2 \text{ mL} = 0.99 \text{ mL} \) <br />
+    **Answer:** 1.0 mL
+- id: 1027
+  question: A 3-year-old patient weighing 13 kg has been prescribed amoxicillin 10
+    mg/kg TDS for a suspected severe infection. The displacement volume for the 500
+    mg amoxicillin vial is 0.2 mL. Each vial must be reconstituted with 5 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 1.4
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 13 kg × 10 mg/kg = 130 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 5 mL + 0.2 mL = 5.2 mL <br />
+    \( \frac{130 \text{ mg}}{500 \text{ mg}} \times 5.2 \text{ mL} = 1.35 \text{ mL} \) <br />
+    **Answer:** 1.4 mL
+- id: 1028
+  question: A 15-year-old patient weighing 51 kg has been prescribed amoxicillin 60
+    mg/kg BD for a suspected severe infection. The displacement volume for the 250
+    mg amoxicillin vial is 1.1 mL. Each vial must be reconstituted with 5 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 74.7
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 51 kg × 60 mg/kg = 3,060 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 5 mL + 1.1 mL = 6.1 mL <br />
+    \( \frac{3,060 \text{ mg}}{250 \text{ mg}} \times 6.1 \text{ mL} = 74.66 \text{ mL} \) <br />
+    **Answer:** 74.7 mL
+- id: 1029
+  question: A 17-year-old patient weighing 57 kg has been prescribed amoxicillin 30
+    mg/kg BD for a suspected severe infection. The displacement volume for the 500
+    mg amoxicillin vial is 0.8 mL. Each vial must be reconstituted with 15 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 54.0
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 57 kg × 30 mg/kg = 1,710 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 15 mL + 0.8 mL = 15.8 mL <br />
+    \( \frac{1,710 \text{ mg}}{500 \text{ mg}} \times 15.8 \text{ mL} = 54.04 \text{ mL} \) <br />
+    **Answer:** 54.0 mL
+- id: 1030
+  question: A 12-year-old patient weighing 43 kg has been prescribed amoxicillin 80
+    mg/kg QDS for a suspected severe infection. The displacement volume for the 1000
+    mg amoxicillin vial is 1.6 mL. Each vial must be reconstituted with 5 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 22.7
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 43 kg × 80 mg/kg = 3,440 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 5 mL + 1.6 mL = 6.6 mL <br />
+    \( \frac{3,440 \text{ mg}}{1,000 \text{ mg}} \times 6.6 \text{ mL} = 22.70 \text{ mL} \) <br />
+    **Answer:** 22.7 mL
+- id: 1031
+  question: A 7-year-old patient weighing 26 kg has been prescribed amoxicillin 50
+    mg/kg TDS for a suspected severe infection. The displacement volume for the 500
+    mg amoxicillin vial is 0.3 mL. Each vial must be reconstituted with 15 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 39.8
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 26 kg × 50 mg/kg = 1,300 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 15 mL + 0.3 mL = 15.3 mL <br />
+    \( \frac{1,300 \text{ mg}}{500 \text{ mg}} \times 15.3 \text{ mL} = 39.78 \text{ mL} \) <br />
+    **Answer:** 39.8 mL
+- id: 1032
+  question: A 12-year-old patient weighing 38 kg has been prescribed amoxicillin 40
+    mg/kg TDS for a suspected severe infection. The displacement volume for the 500
+    mg amoxicillin vial is 1.9 mL. Each vial must be reconstituted with 5 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 21.0
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 38 kg × 40 mg/kg = 1,520 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 5 mL + 1.9 mL = 6.9 mL <br />
+    \( \frac{1,520 \text{ mg}}{500 \text{ mg}} \times 6.9 \text{ mL} = 20.98 \text{ mL} \) <br />
+    **Answer:** 21.0 mL
+- id: 1033
+  question: A 11-year-old patient weighing 46 kg has been prescribed amoxicillin 40
+    mg/kg QDS for a suspected severe infection. The displacement volume for the 1000
+    mg amoxicillin vial is 0.4 mL. Each vial must be reconstituted with 5 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 9.9
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 46 kg × 40 mg/kg = 1,840 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 5 mL + 0.4 mL = 5.4 mL <br />
+    \( \frac{1,840 \text{ mg}}{1,000 \text{ mg}} \times 5.4 \text{ mL} = 9.94 \text{ mL} \) <br />
+    **Answer:** 9.9 mL
+- id: 1034
+  question: A 2-year-old patient weighing 12 kg has been prescribed amoxicillin 5
+    mg/kg BD for a suspected severe infection. The displacement volume for the 250
+    mg amoxicillin vial is 1.7 mL. Each vial must be reconstituted with 5 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 1.6
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 12 kg × 5 mg/kg = 60 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 5 mL + 1.7 mL = 6.7 mL <br />
+    \( \frac{60 \text{ mg}}{250 \text{ mg}} \times 6.7 \text{ mL} = 1.61 \text{ mL} \) <br />
+    **Answer:** 1.6 mL
+- id: 1035
+  question: A 13-year-old patient weighing 87 kg has been prescribed amoxicillin 10
+    mg/kg OD for a suspected severe infection. The displacement volume for the 500
     mg amoxicillin vial is 1.8 mL. Each vial must be reconstituted with 5 mL of water
     for injection. How many millilitres of amoxicillin injection should be administered
     for each prescribed dose? Give your answer to one decimal place.
-  answer: 23.7
+  answer: 11.8
   solution: |-
-    **Step 1: Dose (Need)** <br /> 58 kg × 15 mg/kg = 870 mg <br />
+    **Step 1: Dose (Need)** <br /> 87 kg × 10 mg/kg = 870 mg <br />
     **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
     Total volume = 5 mL + 1.8 mL = 6.8 mL <br />
-    \( \frac{870 \text{ mg}}{250 \text{ mg}} \times 6.8 \text{ mL} = 23.66 \text{ mL} \) <br />
-    **Answer:** 23.7 mL
-- id: 1049
-  question: A 13-year-old patient weighing 12 kg has been prescribed amoxicillin 15
+    \( \frac{870 \text{ mg}}{500 \text{ mg}} \times 6.8 \text{ mL} = 11.83 \text{ mL} \) <br />
+    **Answer:** 11.8 mL
+- id: 1036
+  question: A 17-year-old patient weighing 61 kg has been prescribed amoxicillin 40
+    mg/kg BD for a suspected severe infection. The displacement volume for the 250
+    mg amoxicillin vial is 1.6 mL. Each vial must be reconstituted with 10 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 113.2
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 61 kg × 40 mg/kg = 2,440 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 10 mL + 1.6 mL = 11.6 mL <br />
+    \( \frac{2,440 \text{ mg}}{250 \text{ mg}} \times 11.6 \text{ mL} = 113.22 \text{ mL} \) <br />
+    **Answer:** 113.2 mL
+- id: 1037
+  question: A 9-year-old patient weighing 34 kg has been prescribed amoxicillin 20
     mg/kg OD for a suspected severe infection. The displacement volume for the 500
-    mg amoxicillin vial is 0.5 mL. Each vial must be reconstituted with 15 mL of water
+    mg amoxicillin vial is 0.5 mL. Each vial must be reconstituted with 20 mL of water
     for injection. How many millilitres of amoxicillin injection should be administered
     for each prescribed dose? Give your answer to one decimal place.
-  answer: 5.6
+  answer: 27.9
   solution: |-
-    **Step 1: Dose (Need)** <br /> 12 kg × 15 mg/kg = 180 mg <br />
+    **Step 1: Dose (Need)** <br /> 34 kg × 20 mg/kg = 680 mg <br />
     **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 15 mL + 0.5 mL = 15.5 mL <br />
-    \( \frac{180 \text{ mg}}{500 \text{ mg}} \times 15.5 \text{ mL} = 5.58 \text{ mL} \) <br />
-    **Answer:** 5.6 mL
-- id: 1050
-  question: A 18-year-old patient weighing 31 kg has been prescribed amoxicillin 10
+    Total volume = 20 mL + 0.5 mL = 20.5 mL <br />
+    \( \frac{680 \text{ mg}}{500 \text{ mg}} \times 20.5 \text{ mL} = 27.88 \text{ mL} \) <br />
+    **Answer:** 27.9 mL
+- id: 1038
+  question: A 6-year-old patient weighing 27 kg has been prescribed amoxicillin 25
+    mg/kg BD for a suspected severe infection. The displacement volume for the 1000
+    mg amoxicillin vial is 0.9 mL. Each vial must be reconstituted with 15 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 10.7
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 27 kg × 25 mg/kg = 675 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 15 mL + 0.9 mL = 15.9 mL <br />
+    \( \frac{675 \text{ mg}}{1,000 \text{ mg}} \times 15.9 \text{ mL} = 10.73 \text{ mL} \) <br />
+    **Answer:** 10.7 mL
+- id: 1039
+  question: A 9-year-old patient weighing 33 kg has been prescribed amoxicillin 5
     mg/kg TDS for a suspected severe infection. The displacement volume for the 500
-    mg amoxicillin vial is 2.0 mL. Each vial must be reconstituted with 10 mL of water
+    mg amoxicillin vial is 0.9 mL. Each vial must be reconstituted with 15 mL of water
     for injection. How many millilitres of amoxicillin injection should be administered
     for each prescribed dose? Give your answer to one decimal place.
-  answer: 7.4
+  answer: 5.2
   solution: |-
-    **Step 1: Dose (Need)** <br /> 31 kg × 10 mg/kg = 310 mg <br />
+    **Step 1: Dose (Need)** <br /> 33 kg × 5 mg/kg = 165 mg <br />
     **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
-    Total volume = 10 mL + 2.0 mL = 12.0 mL <br />
-    \( \frac{310 \text{ mg}}{500 \text{ mg}} \times 12.0 \text{ mL} = 7.44 \text{ mL} \) <br />
-    **Answer:** 7.4 mL
+    Total volume = 15 mL + 0.9 mL = 15.9 mL <br />
+    \( \frac{165 \text{ mg}}{500 \text{ mg}} \times 15.9 \text{ mL} = 5.25 \text{ mL} \) <br />
+    **Answer:** 5.2 mL
+- id: 1040
+  question: A 17-year-old patient weighing 76 kg has been prescribed amoxicillin 30
+    mg/kg TDS for a suspected severe infection. The displacement volume for the 250
+    mg amoxicillin vial is 0.2 mL. Each vial must be reconstituted with 15 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 138.6
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 76 kg × 30 mg/kg = 2,280 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 15 mL + 0.2 mL = 15.2 mL <br />
+    \( \frac{2,280 \text{ mg}}{250 \text{ mg}} \times 15.2 \text{ mL} = 138.62 \text{ mL} \) <br />
+    **Answer:** 138.6 mL
+- id: 1041
+  question: A 11-year-old patient weighing 39 kg has been prescribed amoxicillin 80
+    mg/kg TDS for a suspected severe infection. The displacement volume for the 250
+    mg amoxicillin vial is 0.7 mL. Each vial must be reconstituted with 20 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 258.3
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 39 kg × 80 mg/kg = 3,120 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 20 mL + 0.7 mL = 20.7 mL <br />
+    \( \frac{3,120 \text{ mg}}{250 \text{ mg}} \times 20.7 \text{ mL} = 258.34 \text{ mL} \) <br />
+    **Answer:** 258.3 mL
+- id: 1042
+  question: A 14-year-old patient weighing 77 kg has been prescribed amoxicillin 25
+    mg/kg TDS for a suspected severe infection. The displacement volume for the 250
+    mg amoxicillin vial is 0.9 mL. Each vial must be reconstituted with 15 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 122.4
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 77 kg × 25 mg/kg = 1,925 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 15 mL + 0.9 mL = 15.9 mL <br />
+    \( \frac{1,925 \text{ mg}}{250 \text{ mg}} \times 15.9 \text{ mL} = 122.43 \text{ mL} \) <br />
+    **Answer:** 122.4 mL
+- id: 1043
+  question: A 14-year-old patient weighing 47 kg has been prescribed amoxicillin 25
+    mg/kg BD for a suspected severe infection. The displacement volume for the 500
+    mg amoxicillin vial is 1.9 mL. Each vial must be reconstituted with 5 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 16.2
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 47 kg × 25 mg/kg = 1,175 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 5 mL + 1.9 mL = 6.9 mL <br />
+    \( \frac{1,175 \text{ mg}}{500 \text{ mg}} \times 6.9 \text{ mL} = 16.21 \text{ mL} \) <br />
+    **Answer:** 16.2 mL
+- id: 1044
+  question: A 9-year-old patient weighing 37 kg has been prescribed amoxicillin 30
+    mg/kg BD for a suspected severe infection. The displacement volume for the 1000
+    mg amoxicillin vial is 1.5 mL. Each vial must be reconstituted with 15 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 18.3
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 37 kg × 30 mg/kg = 1,110 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 15 mL + 1.5 mL = 16.5 mL <br />
+    \( \frac{1,110 \text{ mg}}{1,000 \text{ mg}} \times 16.5 \text{ mL} = 18.32 \text{ mL} \) <br />
+    **Answer:** 18.3 mL
+- id: 1045
+  question: A 8-year-old patient weighing 28 kg has been prescribed amoxicillin 10
+    mg/kg BD for a suspected severe infection. The displacement volume for the 1000
+    mg amoxicillin vial is 1.8 mL. Each vial must be reconstituted with 5 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 1.9
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 28 kg × 10 mg/kg = 280 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 5 mL + 1.8 mL = 6.8 mL <br />
+    \( \frac{280 \text{ mg}}{1,000 \text{ mg}} \times 6.8 \text{ mL} = 1.90 \text{ mL} \) <br />
+    **Answer:** 1.9 mL
+- id: 1046
+  question: A 11-year-old patient weighing 36 kg has been prescribed amoxicillin 30
+    mg/kg OD for a suspected severe infection. The displacement volume for the 500
+    mg amoxicillin vial is 0.4 mL. Each vial must be reconstituted with 20 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 44.1
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 36 kg × 30 mg/kg = 1,080 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 20 mL + 0.4 mL = 20.4 mL <br />
+    \( \frac{1,080 \text{ mg}}{500 \text{ mg}} \times 20.4 \text{ mL} = 44.06 \text{ mL} \) <br />
+    **Answer:** 44.1 mL
+- id: 1047
+  question: A 11-year-old patient weighing 37 kg has been prescribed amoxicillin 10
+    mg/kg OD for a suspected severe infection. The displacement volume for the 1000
+    mg amoxicillin vial is 0.8 mL. Each vial must be reconstituted with 15 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 5.8
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 37 kg × 10 mg/kg = 370 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 15 mL + 0.8 mL = 15.8 mL <br />
+    \( \frac{370 \text{ mg}}{1,000 \text{ mg}} \times 15.8 \text{ mL} = 5.85 \text{ mL} \) <br />
+    **Answer:** 5.8 mL
+- id: 1048
+  question: A 13-year-old patient weighing 75 kg has been prescribed amoxicillin 30
+    mg/kg BD for a suspected severe infection. The displacement volume for the 500
+    mg amoxicillin vial is 0.6 mL. Each vial must be reconstituted with 20 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 92.7
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 75 kg × 30 mg/kg = 2,250 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 20 mL + 0.6 mL = 20.6 mL <br />
+    \( \frac{2,250 \text{ mg}}{500 \text{ mg}} \times 20.6 \text{ mL} = 92.70 \text{ mL} \) <br />
+    **Answer:** 92.7 mL
+- id: 1049
+  question: A 2-year-old patient weighing 12 kg has been prescribed amoxicillin 60
+    mg/kg OD for a suspected severe infection. The displacement volume for the 1000
+    mg amoxicillin vial is 1.5 mL. Each vial must be reconstituted with 20 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 15.5
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 12 kg × 60 mg/kg = 720 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 20 mL + 1.5 mL = 21.5 mL <br />
+    \( \frac{720 \text{ mg}}{1,000 \text{ mg}} \times 21.5 \text{ mL} = 15.48 \text{ mL} \) <br />
+    **Answer:** 15.5 mL
+- id: 1050
+  question: A 6-year-old patient weighing 22 kg has been prescribed amoxicillin 25
+    mg/kg TDS for a suspected severe infection. The displacement volume for the 250
+    mg amoxicillin vial is 1.7 mL. Each vial must be reconstituted with 10 mL of water
+    for injection. How many millilitres of amoxicillin injection should be administered
+    for each prescribed dose? Give your answer to one decimal place.
+  answer: 25.7
+  solution: |-
+    **Step 1: Dose (Need)** <br /> 22 kg × 25 mg/kg = 550 mg <br />
+    **Step 2: Volume required** <br /> Using \( \frac{\text{Need}}{\text{Have}} \times \text{Volume} \): <br />
+    Total volume = 10 mL + 1.7 mL = 11.7 mL <br />
+    \( \frac{550 \text{ mg}}{250 \text{ mg}} \times 11.7 \text{ mL} = 25.74 \text{ mL} \) <br />
+    **Answer:** 25.7 mL
