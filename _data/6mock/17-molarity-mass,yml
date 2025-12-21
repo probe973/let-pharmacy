@@ -1,0 +1,344 @@
+- id: 431
+  question: "A formula for a magnesium sulfate oral solution requires a concentration of 0.2 moles/L. How many grams of magnesium sulfate are required to prepare a 500 mL batch, given that the molecular weight (MW) of magnesium sulfate is 120? Give your answer as a whole number."
+  answer: 12
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Convert volume to Litres: 500 mL / 1,000 = 0.5 L <br />
+    Total moles = 0.2 moles/L x 0.5 L = 0.1 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.1 \text{ moles} \times 120 = 12 \text{ g} \) <br />
+    <br />
+    **Answer:** 12
+
+- id: 432
+  question: "A production log for a sodium carbonate buffer solution requires a concentration of 0.5 moles/L. How many grams of sodium carbonate are needed to prepare a 1.2 L batch, given that the MW of sodium carbonate is 106? Give your answer to one decimal place."
+  answer: 63.6
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Total moles = 0.5 moles/L x 1.2 L = 0.6 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.6 \text{ moles} \times 106 = 63.6 \text{ g} \) <br />
+    <br />
+    **Answer:** 63.6
+
+- id: 433
+  question: "A pharmacy own-label cough linctus requires the addition of potassium bicarbonate at a concentration of 0.15 moles/L. How many grams of potassium bicarbonate are required for a 400 mL batch, given that the MW of potassium bicarbonate is 100? Give your answer to one decimal place."
+  answer: 6.0
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Convert volume to Litres: 400 mL / 1,000 = 0.4 L <br />
+    Total moles = 0.15 moles/L x 0.4 L = 0.06 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.06 \text{ moles} \times 100 = 6 \text{ g} \) <br />
+    <br />
+    **Answer:** 6.0
+
+- id: 434
+  question: "A technician is preparing an ammonium chloride solution at a concentration of 0.3 moles/L. How many grams of ammonium chloride are required to prepare a 250 mL batch, given that the MW of ammonium chloride is 53.5? Give your answer to two decimal places."
+  answer: 4.01
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Convert volume to Litres: 250 mL / 1,000 = 0.25 L <br />
+    Total moles = 0.3 moles/L x 0.25 L = 0.075 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.075 \text{ moles} \times 53.5 = 4.0125 \text{ g} \) <br />
+    <br />
+    **Answer:** 4.01 (Rounded to two decimal places)
+
+- id: 435
+  question: "An electrolyte replacement formula requires sodium phosphate at a concentration of 0.05 moles/L. How many grams of sodium phosphate are required to prepare a 2 L batch, given that the MW of sodium phosphate is 142? Give your answer to one decimal place."
+  answer: 14.2
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Total moles = 0.05 moles/L x 2.0 L = 0.1 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.1 \text{ moles} \times 142 = 14.2 \text{ g} \) <br />
+    <br />
+    **Answer:** 14.2
+
+- id: 436
+  question: "A laboratory formulation for a lithium carbonate oral solution requires a concentration of 0.1 moles/L. How many grams of lithium carbonate are required to prepare a 1 L batch, given that the molecular weight (MW) of lithium carbonate is 73.9? Give your answer to one decimal place."
+  answer: 7.4
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Total moles = 0.1 moles/L x 1.0 L = 0.1 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.1 \text{ moles} \times 73.9 = 7.39 \text{ g} \) <br />
+    <br />
+    **Answer:** 7.4 (Rounded to one decimal place)
+
+- id: 437
+  question: "A pharmacy is preparing a batch of ferrous sulfate solution for clinical use. The formula requires a concentration of 0.4 moles/L. How many grams of ferrous sulfate are required to prepare a 200 mL batch, given that the MW of ferrous sulfate is 152? Give your answer to one decimal place."
+  answer: 12.2
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Convert volume to Litres: 200 mL / 1,000 = 0.2 L <br />
+    Total moles = 0.4 moles/L x 0.2 L = 0.08 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.08 \text{ moles} \times 152 = 12.16 \text{ g} \) <br />
+    <br />
+    **Answer:** 12.2 (Rounded to one decimal place)
+
+- id: 438
+  question: "A formulation for a potassium iodide oral solution requires a concentration of 0.25 moles/L. How many grams of potassium iodide are needed to prepare a 750 mL batch, given that the MW of potassium iodide is 166? Give your answer to one decimal place."
+  answer: 31.1
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Convert volume to Litres: 750 mL / 1,000 = 0.75 L <br />
+    Total moles = 0.25 moles/L x 0.75 L = 0.1875 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.1875 \text{ moles} \times 166 = 31.125 \text{ g} \) <br />
+    <br />
+    **Answer:** 31.1 (Rounded to one decimal place)
+
+- id: 439
+  question: "A technician needs to prepare a zinc sulfate solution at a concentration of 0.05 moles/L. How many grams of zinc sulfate are required for a 250 mL batch, given that the MW of zinc sulfate is 161? Give your answer to two decimal places."
+  answer: 2.01
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Convert volume to Litres: 250 mL / 1,000 = 0.25 L <br />
+    Total moles = 0.05 moles/L x 0.25 L = 0.0125 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.0125 \text{ moles} \times 161 = 2.0125 \text{ g} \) <br />
+    <br />
+    **Answer:** 2.01 (Rounded to two decimal places)
+
+- id: 440
+  question: "An acidification solution requires citric acid at a concentration of 0.12 moles/L. How many grams of citric acid are required to prepare a 100 mL batch, given that the MW of citric acid is 192? Give your answer to two decimal places."
+  answer: 2.30
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Convert volume to Litres: 100 mL / 1,000 = 0.1 L <br />
+    Total moles = 0.12 moles/L x 0.1 L = 0.012 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.012 \text{ moles} \times 192 = 2.304 \text{ g} \) <br />
+    <br />
+    **Answer:** 2.30 (Rounded to two decimal places)
+
+- id: 441
+  question: "A pharmacy production unit requires a calcium gluconate solution at a concentration of 0.1 moles/L. How many grams of calcium gluconate are required to prepare a 500 mL batch, given that the molecular weight (MW) of calcium gluconate is 430? Give your answer to one decimal place."
+  answer: 21.5
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Convert volume to Litres: 500 mL / 1,000 = 0.5 L <br />
+    Total moles = 0.1 moles/L x 0.5 L = 0.05 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.05 \text{ moles} \times 430 = 21.5 \text{ g} \) <br />
+    <br />
+    **Answer:** 21.5
+
+- id: 442
+  question: "A formula for a sodium thiosulfate solution requires a concentration of 0.25 moles/L. How many grams of sodium thiosulfate are needed to prepare a 100 mL batch, given that the MW of sodium thiosulfate is 158? Give your answer to two decimal places."
+  answer: 3.95
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Convert volume to Litres: 100 mL / 1,000 = 0.1 L <br />
+    Total moles = 0.25 moles/L x 0.1 L = 0.025 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.025 \text{ moles} \times 158 = 3.95 \text{ g} \) <br />
+    <br />
+    **Answer:** 3.95
+
+- id: 443
+  question: "A technician is preparing a potassium dihydrogen phosphate solution at a concentration of 0.2 moles/L. How many grams of potassium dihydrogen phosphate are required for a 250 mL batch, given that the MW is 136? Give your answer as a whole number."
+  answer: 6.8
+  # Adjusted answer to whole number as requested: 7
+  answer: 7
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Convert volume to Litres: 250 mL / 1,000 = 0.25 L <br />
+    Total moles = 0.2 moles/L x 0.25 L = 0.05 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.05 \text{ moles} \times 136 = 6.8 \text{ g} \) <br />
+    <br />
+    **Answer:** 7 (Rounded to the nearest whole number)
+
+- id: 444
+  question: "An ascorbic acid solution for laboratory use requires a concentration of 0.05 moles/L. How many grams of ascorbic acid are required to prepare a 400 mL batch, given that the MW of ascorbic acid is 176? Give your answer to two decimal places."
+  answer: 3.52
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Convert volume to Litres: 400 mL / 1,000 = 0.4 L <br />
+    Total moles = 0.05 moles/L x 0.4 L = 0.02 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.02 \text{ moles} \times 176 = 3.52 \text{ g} \) <br />
+    <br />
+    **Answer:** 3.52
+
+- id: 445
+  question: "A large batch of sodium metabisulphite solution is required at a concentration of 0.15 moles/L. How many grams of sodium metabisulphite are required to prepare a 2 L batch, given that the MW of sodium metabisulphite is 190? Give your answer as a whole number."
+  answer: 57
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Total moles = 0.15 moles/L x 2.0 L = 0.3 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.3 \text{ moles} \times 190 = 57 \text{ g} \) <br />
+    <br />
+    **Answer:** 57
+
+- id: 446
+  question: "A technician is required to prepare a batch of magnesium chloride solution at a concentration of 0.08 moles/L. How many grams of magnesium chloride are required to prepare a 300 mL batch, given that the molecular weight (MW) of magnesium chloride is 95? Give your answer to one decimal place."
+  answer: 2.3
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Convert volume to Litres: 300 mL / 1,000 = 0.3 L <br />
+    Total moles = 0.08 moles/L x 0.3 L = 0.024 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.024 \text{ moles} \times 95 = 2.28 \text{ g} \) <br />
+    <br />
+    **Answer:** 2.3 (Rounded to one decimal place)
+
+- id: 447
+  question: "A production formula for a potassium nitrate solution requires a concentration of 0.2 moles/L. How many grams of potassium nitrate are required to prepare a 1.5 L batch, given that the MW of potassium nitrate is 101? Give your answer as a whole number."
+  answer: 30
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Total moles = 0.2 moles/L x 1.5 L = 0.3 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.3 \text{ moles} \times 101 = 30.3 \text{ g} \) <br />
+    <br />
+    **Answer:** 30 (Rounded to the nearest whole number)
+
+- id: 448
+  question: "A laboratory assistant needs to prepare a sodium acetate solution at a concentration of 0.1 moles/L. How many grams of sodium acetate are required for a 450 mL batch, given that the MW of sodium acetate is 82? Give your answer to two decimal places."
+  answer: 3.69
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Convert volume to Litres: 450 mL / 1,000 = 0.45 L <br />
+    Total moles = 0.1 moles/L x 0.45 L = 0.045 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.045 \text{ moles} \times 82 = 3.69 \text{ g} \) <br />
+    <br />
+    **Answer:** 3.69
+
+- id: 449
+  question: "A formula for a calcium chloride solution requires a concentration of 0.05 moles/L. How many grams of calcium chloride are required to prepare a 2 L batch, given that the MW of calcium chloride is 111? Give your answer as a whole number."
+  answer: 11
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Total moles = 0.05 moles/L x 2.0 L = 0.1 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.1 \text{ moles} \times 111 = 11.1 \text{ g} \) <br />
+    <br />
+    **Answer:** 11 (Rounded to the nearest whole number)
+
+- id: 450
+  question: "A pharmacy own-label preparation requires a sodium bromide solution at a concentration of 0.35 moles/L. How many grams of sodium bromide are required for a 150 mL batch, given that the MW of sodium bromide is 103? Give your answer to one decimal place."
+  answer: 5.4
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Convert volume to Litres: 150 mL / 1,000 = 0.15 L <br />
+    Total moles = 0.35 moles/L x 0.15 L = 0.0525 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.0525 \text{ moles} \times 103 = 5.4075 \text{ g} \) <br />
+    <br />
+    **Answer:** 5.4 (Rounded to one decimal place)
+
+- id: 451
+  question: "A pharmacy production unit is preparing a batch of potassium chloride solution with a concentration of 0.15 moles/L. How many grams of potassium chloride are required to prepare an 800 mL batch, given that the molecular weight (MW) of potassium chloride is 74.5? Give your answer to one decimal place."
+  answer: 8.9
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Convert volume to Litres: 800 mL / 1,000 = 0.8 L <br />
+    Total moles = 0.15 moles/L x 0.8 L = 0.12 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.12 \text{ moles} \times 74.5 = 8.94 \text{ g} \) <br />
+    <br />
+    **Answer:** 8.9 (Rounded to one decimal place)
+
+- id: 452
+  question: "A formula for a sodium bicarbonate oral solution requires a concentration of 0.2 moles/L. How many grams of sodium bicarbonate are required to prepare a 250 mL batch, given that the MW of sodium bicarbonate is 84? Give your answer as a whole number."
+  answer: 4
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Convert volume to Litres: 250 mL / 1,000 = 0.25 L <br />
+    Total moles = 0.2 moles/L x 0.25 L = 0.05 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.05 \text{ moles} \times 84 = 4.2 \text{ g} \) <br />
+    <br />
+    **Answer:** 4 (Rounded to the nearest whole number)
+
+- id: 453
+  question: "A large-scale preparation of magnesium sulfate solution requires a concentration of 0.05 moles/L. How many grams of magnesium sulfate are required to prepare a 4 L batch, given that the MW of magnesium sulfate is 120? Give your answer as a whole number."
+  answer: 24
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Total moles = 0.05 moles/L x 4.0 L = 0.2 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.2 \text{ moles} \times 120 = 24 \text{ g} \) <br />
+    <br />
+    **Answer:** 24
+
+- id: 454
+  question: "A technician needs to prepare a calcium gluconate solution at a concentration of 0.02 moles/L. How many grams of calcium gluconate are required to prepare a 500 mL batch, given that the MW of calcium gluconate is 430? Give your answer to two decimal places."
+  answer: 4.30
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Convert volume to Litres: 500 mL / 1,000 = 0.5 L <br />
+    Total moles = 0.02 moles/L x 0.5 L = 0.01 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.01 \text{ moles} \times 430 = 4.3 \text{ g} \) <br />
+    <br />
+    **Answer:** 4.30
+
+- id: 455
+  question: "A formula for a sodium chloride infusion requires a concentration of 0.154 moles/L. How many grams of sodium chloride are required to prepare a 250 mL batch, given that the MW of sodium chloride is 58.5? Give your answer to one decimal place."
+  answer: 2.3
+  solution: |
+    **Step 1: Calculate the total moles (Need)** <br />
+    Convert volume to Litres: 250 mL / 1,000 = 0.25 L <br />
+    Total moles = 0.154 moles/L x 0.25 L = 0.0385 moles <br />
+    <br />
+    **Step 2: Convert moles to mass (grams)** <br />
+    Using \( \text{Mass} = \text{Moles} \times \text{MW} \): <br />
+    \( 0.0385 \text{ moles} \times 58.5 = 2.25225 \text{ g} \) <br />
+    <br />
+    **Answer:** 2.3 (Rounded to one decimal place)
