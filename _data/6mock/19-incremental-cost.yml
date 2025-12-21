@@ -1,0 +1,480 @@
+- id: 481
+  question: "A new drug to treat children with cystic fibrosis has been released (Drug B). The existing drug (Drug A) increases the predicted forced expiratory volume (FEV1) by an average of 2.0% compared to placebo, at an annual cost of £48,000. Drug B increases the FEV1 by an average of 3.5% compared to placebo and costs £63,000 per year. What is the cost (in pounds) of each additional 1% FEV1 with Drug B compared to Drug A? Give your answer as a whole number."
+  answer: 10000
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £63,000 (Drug B) - £48,000 (Drug A) = £15,000 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    3.5% (Drug B) - 2.0% (Drug A) = 1.5% <br />
+    <br />
+    **Step 3: Calculate cost per additional 1% benefit** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£15,000}{1.5} = £10,000 \) <br />
+    <br />
+    **Answer:** 10000
+
+- id: 482
+  question: "A new treatment for chronic obstructive pulmonary disease (COPD) has been introduced (Treatment B). The standard treatment (Treatment A) improves lung function by 4% at an annual cost of £12,000. Treatment B improves lung function by 7% and costs £21,000 per year. What is the cost (in pounds) of each additional 1% improvement with Treatment B compared to Treatment A? Give your answer as a whole number."
+  answer: 3000
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £21,000 - £12,000 = £9,000 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    7% - 4% = 3% <br />
+    <br />
+    **Step 3: Calculate cost per additional 1% benefit** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£9,000}{3} = £3,000 \) <br />
+    <br />
+    **Answer:** 3000
+
+- id: 483
+  question: "A new biological therapy for rheumatoid arthritis (Drug B) is compared to the current standard (Drug A). Drug A provides a 25% reduction in symptoms at a cost of £15,000 per annum. Drug B provides a 40% reduction in symptoms at a cost of £24,000 per annum. What is the cost (in pounds) of each additional 1% symptom reduction provided by Drug B? Give your answer as a whole number."
+  answer: 600
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £24,000 - £15,000 = £9,000 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    40% - 25% = 15% <br />
+    <br />
+    **Step 3: Calculate cost per additional 1% benefit** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£9,000}{15} = £600 \) <br />
+    <br />
+    **Answer:** 600
+
+- id: 484
+  question: "A health board is reviewing two drugs for diabetes management. Drug A reduces HbA1c levels by 0.8% and costs £400 per year. Drug B reduces HbA1c by 1.2% and costs £1,000 per year. What is the cost (in pounds) for each additional 0.1% reduction in HbA1c achieved by using Drug B instead of Drug A? Give your answer as a whole number."
+  answer: 150
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £1,000 - £400 = £600 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    1.2% - 0.8% = 0.4% total reduction. <br />
+    Since the question asks for each additional 0.1%, we must note there are four 0.1% units in a 0.4% increase. <br />
+    <br />
+    **Step 3: Calculate cost per additional 0.1% unit** <br />
+    \( \frac{£600}{4 \text{ units}} = £150 \) <br />
+    <br />
+    **Answer:** 150
+
+- id: 485
+  question: "Two inhaled medications are available for asthma. Medication A increases the peak flow rate by 12% at an annual cost of £500. Medication B increases the peak flow rate by 20% and costs £1,300 per year. What is the cost (in pounds) of each additional 1% peak flow increase with Medication B compared to Medication A? Give your answer as a whole number."
+  answer: 100
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £1,300 - £500 = £800 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    20% - 12% = 8% <br />
+    <br />
+    **Step 3: Calculate cost per additional 1% benefit** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£800}{8} = £100 \) <br />
+    <br />
+    **Answer:** 100
+
+- id: 486
+  question: "A new growth hormone treatment (Drug B) has been approved for children with a specific deficiency. The standard treatment (Drug A) results in an average growth increase of 5 cm per year at an annual cost of £12,000. Drug B results in an average growth increase of 7.5 cm per year at an annual cost of £21,000. What is the incremental cost (in pounds) for each additional 1 cm of growth achieved by using Drug B instead of Drug A? Give your answer as a whole number."
+  answer: 3600
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £21,000 (Drug B) - £12,000 (Drug A) = £9,000 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    7.5 cm (Drug B) - 5.0 cm (Drug A) = 2.5 cm <br />
+    <br />
+    **Step 3: Calculate cost per additional 1 cm of growth** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£9,000}{2.5 \text{ cm}} = £3,600 \) <br />
+    <br />
+    **Answer:** 3600
+
+- id: 487
+  question: "A clinic is comparing two weight-management medications. Medication A results in an average weight loss of 6 kg over a 6-month period at a cost of £450. Medication B results in an average weight loss of 11 kg over the same period at a cost of £1,200. What is the cost (in pounds) for each additional 1 kg of weight loss achieved with Medication B compared to Medication A? Give your answer as a whole number."
+  answer: 150
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £1,200 - £450 = £750 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    11 kg - 6 kg = 5 kg <br />
+    <br />
+    **Step 3: Calculate cost per additional 1 kg of weight loss** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£750}{5 \text{ kg}} = £150 \) <br />
+    <br />
+    **Answer:** 150
+
+- id: 488
+  question: "A new antihypertensive drug (Drug B) is being evaluated. The current standard (Drug A) reduces systolic blood pressure by an average of 12 mmHg at a cost of £80 per year. Drug B reduces systolic blood pressure by 20 mmHg at a cost of £320 per year. What is the cost (in pounds) for each additional 1 mmHg reduction in blood pressure with Drug B compared to Drug A? Give your answer as a whole number."
+  answer: 30
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £320 - £80 = £240 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    20 mmHg - 12 mmHg = 8 mmHg <br />
+    <br />
+    **Step 3: Calculate cost per additional 1 mmHg reduction** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£240}{8 \text{ mmHg}} = £30 \) <br />
+    <br />
+    **Answer:** 30
+
+- id: 489
+  question: "A pharmaceutical company has developed a drug to reduce the duration of hospital stays following a specific surgery (Drug B). The current standard care (A) reduces the stay by 2 days at a cost of £1,500. Drug B reduces the stay by 6 days at a cost of £6,500. What is the cost (in pounds) for each additional day of hospital stay reduction achieved by using Drug B? Give your answer as a whole number."
+  answer: 1250
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £6,500 - £1,500 = £5,000 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    6 days - 2 days = 4 days <br />
+    <br />
+    **Step 3: Calculate cost per additional 1 day reduction** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£5,000}{4 \text{ days}} = £1,250 \) <br />
+    <br />
+    **Answer:** 1250
+
+- id: 490
+  question: "A new hay fever medication (Medication B) is being compared to a generic alternative (Medication A). Medication A provides an average of 15 symptom-free days per month at a cost of £10. Medication B provides an average of 25 symptom-free days per month at a cost of £60. What is the cost (in pounds) for each additional symptom-free day provided by Medication B? Give your answer as a whole number."
+  answer: 5
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £60 - £10 = £50 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    25 days - 15 days = 10 days <br />
+    <br />
+    **Step 3: Calculate cost per additional symptom-free day** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£50}{10 \text{ days}} = £5 \) <br />
+    <br />
+    **Answer:** 5
+
+- id: 491
+  question: "A new analgesic (Drug B) is being compared to the current standard (Drug A) for chronic pain management. On a 10-point pain scale, Drug A reduces pain by an average of 3 points at an annual cost of £1,200. Drug B reduces pain by an average of 5 points at an annual cost of £2,000. What is the cost (in pounds) for each additional 1-point reduction in pain achieved by using Drug B instead of Drug A? Give your answer as a whole number."
+  answer: 400
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £2,000 (Drug B) - £1,200 (Drug A) = £800 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    5 points (Drug B) - 3 points (Drug A) = 2 points <br />
+    <br />
+    **Step 3: Calculate cost per additional 1 point of benefit** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£800}{2 \text{ points}} = £400 \) <br />
+    <br />
+    **Answer:** 400
+
+- id: 492
+  question: "A specialist renal clinic is evaluating a new treatment to improve kidney function (Treatment B). The existing treatment (Treatment A) increases the Glomerular Filtration Rate (GFR) by an average of 5 mL/min at an annual cost of £5,000. Treatment B increases GFR by an average of 10 mL/min and costs £8,500 per year. What is the cost (in pounds) of each additional 1 mL/min increase in GFR with Treatment B compared to Treatment A? Give your answer as a whole number."
+  answer: 700
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £8,500 - £5,000 = £3,500 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    10 mL/min - 5 mL/min = 5 mL/min <br />
+    <br />
+    **Step 3: Calculate cost per additional 1 mL/min benefit** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£3,500}{5 \text{ mL/min}} = £700 \) <br />
+    <br />
+    **Answer:** 700
+
+- id: 493
+  question: "A new topical steroid (Cream B) is being reviewed for the treatment of plaque psoriasis. The standard cream (Cream A) achieve an average of 20% skin clearance at a cost of £40 per course. Cream B achieves 50% skin clearance at a cost of £100 per course. What is the cost (in pounds) of each additional 1% of skin clearance provided by Cream B compared to Cream A? Give your answer as a whole number."
+  answer: 2
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £100 - £40 = £60 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    50% - 20% = 30% clearance <br />
+    <br />
+    **Step 3: Calculate cost per additional 1% benefit** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£60}{30\%} = £2 \) <br />
+    <br />
+    **Answer:** 2
+
+- id: 494
+  question: "A health authority is assessing a new oncology drug (Drug B) versus the standard care (Drug A). Drug A is known to extend life expectancy by an average of 4 months at a total cost of £25,000. Drug B extends life expectancy by an average of 10 months at a total cost of £55,000. What is the cost (in pounds) for each additional month of survival achieved by using Drug B? Give your answer as a whole number."
+  answer: 5000
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £55,000 - £25,000 = £30,000 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    10 months - 4 months = 6 months <br />
+    <br />
+    **Step 3: Calculate cost per additional 1 month benefit** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£30,000}{6 \text{ months}} = £5,000 \) <br />
+    <br />
+    **Answer:** 5000
+
+- id: 495
+  question: "A new beta-blocker (Drug B) is compared to an older generic version (Drug A) for heart rate control. Drug A reduces resting heart rate by 10 beats per minute (bpm) at a cost of £200 per year. Drug B reduces heart rate by 25 bpm at a cost of £800 per year. What is the cost (in pounds) for each additional 1 bpm reduction achieved by using Drug B? Give your answer as a whole number."
+  answer: 40
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £800 - £200 = £600 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    25 bpm - 10 bpm = 15 bpm <br />
+    <br />
+    **Step 3: Calculate cost per additional 1 bpm reduction** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£600}{15 \text{ bpm}} = £40 \) <br />
+    <br />
+    **Answer:** 40
+
+- id: 496
+  question: "A new treatment for Multiple Sclerosis (Drug B) is being compared to the existing standard care (Drug A). Drug A reduces the average number of relapses per year by 0.4 at a cost of £8,000. Drug B reduces the average number of relapses by 0.9 per year at a cost of £17,000. What is the cost (in pounds) for each additional 0.1 reduction in the annual relapse rate achieved by using Drug B instead of Drug A? Give your answer as a whole number."
+  answer: 1800
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £17,000 (Drug B) - £8,000 (Drug A) = £9,000 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    0.9 reduction - 0.4 reduction = 0.5 total reduction. <br />
+    Since the question asks for each additional 0.1, we note there are five 0.1 units in a 0.5 reduction. <br />
+    <br />
+    **Step 3: Calculate cost per additional 0.1 unit** <br />
+    Using \( \frac{£9,000}{5 \text{ units}} \): <br />
+    £9,000 / 5 = £1,800 <br />
+    <br />
+    **Answer:** 1800
+
+- id: 497
+  question: "A growth hormone study compares two treatments for height increase over a 2-year period. Treatment A results in an average height increase of 12 cm at a total cost of £6,000. Treatment B results in an average height increase of 20 cm at a total cost of £12,000. What is the cost (in pounds) for each additional 1 cm of growth achieved by using Treatment B instead of Treatment A? Give your answer as a whole number."
+  answer: 750
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £12,000 - £6,000 = £6,000 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    20 cm - 12 cm = 8 cm <br />
+    <br />
+    **Step 3: Calculate cost per additional 1 cm benefit** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£6,000}{8 \text{ cm}} = £750 \) <br />
+    <br />
+    **Answer:** 750
+
+- id: 498
+  question: "A new anti-emetic drug (Drug B) is used to reduce vomiting episodes during chemotherapy. The current drug (Drug A) reduces the number of episodes by 12 per cycle at a cost of £150. Drug B reduces the number of episodes by 20 per cycle at a cost of £550. What is the cost (in pounds) for each additional vomiting episode prevented by using Drug B? Give your answer as a whole number."
+  answer: 50
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £550 - £150 = £400 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    20 episodes - 12 episodes = 8 episodes <br />
+    <br />
+    **Step 3: Calculate cost per additional prevented episode** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£400}{8 \text{ episodes}} = £50 \) <br />
+    <br />
+    **Answer:** 50
+
+- id: 499
+  question: "A clinical trial evaluates two statins for LDL cholesterol reduction. Statin A reduces LDL by an average of 20% at an annual cost of £120. Statin B reduces LDL by an average of 45% at an annual cost of £620. What is the cost (in pounds) of each additional 1% reduction in LDL provided by Statin B compared to Statin A? Give your answer as a whole number."
+  answer: 20
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £620 - £120 = £500 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    45% - 20% = 25% <br />
+    <br />
+    **Step 3: Calculate cost per additional 1% reduction** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£500}{25} = £20 \) <br />
+    <br />
+    **Answer:** 20
+
+- id: 500
+  question: "A new antidepressant (Treatment B) is compared to an existing therapy (Treatment A). On a standardized depression scale, Treatment A improves scores by an average of 6 points at a monthly cost of £40. Treatment B improves scores by an average of 14 points at a monthly cost of £200. What is the cost (in pounds) for each additional 1-point improvement achieved by using Treatment B? Give your answer as a whole number."
+  answer: 20
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £200 - £40 = £160 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    14 points - 6 points = 8 points <br />
+    <br />
+    **Step 3: Calculate cost per additional 1 point improvement** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£160}{8 \text{ points}} = £20 \) <br />
+    <br />
+    **Answer:** 20
+
+- id: 501
+  question: "A new respiratory medication (Drug B) has been launched for the treatment of severe asthma. The existing standard treatment (Drug A) increases the predicted forced expiratory volume (FEV1) by an average of 3% at an annual cost of £4,500. Drug B increases the FEV1 by an average of 8% and costs £12,000 per year. What is the cost (in pounds) of each additional 1% FEV1 increase with Drug B compared to Drug A? Give your answer as a whole number."
+  answer: 1500
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £12,000 (Drug B) - £4,500 (Drug A) = £7,500 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    8% (Drug B) - 3% (Drug A) = 5% <br />
+    <br />
+    **Step 3: Calculate cost per additional 1% benefit** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£7,500}{5} = £1,500 \) <br />
+    <br />
+    **Answer:** 1500
+
+- id: 502
+  question: "A paediatric clinic is evaluating two growth hormone therapies. Therapy A results in an average height increase of 4 cm per year at a cost of £8,000. Therapy B results in an average height increase of 10 cm per year at a cost of £23,000. What is the cost (in pounds) for each additional 1 cm of growth achieved by using Therapy B instead of Therapy A? Give your answer as a whole number."
+  answer: 2500
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £23,000 - £8,000 = £15,000 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    10 cm - 4 cm = 6 cm <br />
+    <br />
+    **Step 3: Calculate cost per additional 1 cm benefit** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£15,000}{6 \text{ cm}} = £2,500 \) <br />
+    <br />
+    **Answer:** 2500
+
+- id: 503
+  question: "An obesity specialist is comparing two weight-loss medications. Medication A achieves an average weight loss of 5 kg over 12 months at a cost of £600. Medication B achieves an average weight loss of 12 kg over 12 months at a cost of £1,650. What is the cost (in pounds) for each additional 1 kg of weight loss achieved with Medication B compared to Medication A? Give your answer as a whole number."
+  answer: 150
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £1,650 - £600 = £1,050 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    12 kg - 5 kg = 7 kg <br />
+    <br />
+    **Step 3: Calculate cost per additional 1 kg benefit** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£1,050}{7 \text{ kg}} = £150 \) <br />
+    <br />
+    **Answer:** 150
+
+- id: 504
+  question: "A new oncology treatment (Drug B) is being compared to the current standard of care (Drug A). Drug A provides an average progression-free survival of 6 months at a total treatment cost of £15,000. Drug B provides an average progression-free survival of 14 months at a total treatment cost of £55,000. What is the cost (in pounds) for each additional month of survival achieved by using Drug B? Give your answer as a whole number."
+  answer: 5000
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £55,000 - £15,000 = £40,000 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    14 months - 6 months = 8 months <br />
+    <br />
+    **Step 3: Calculate cost per additional 1 month benefit** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£40,000}{8 \text{ months}} = £5,000 \) <br />
+    <br />
+    **Answer:** 5000
+
+- id: 505
+  question: "Two antihypertensive agents are being reviewed by a formulary committee. Agent A reduces diastolic blood pressure by an average of 8 mmHg at an annual cost of £100. Agent B reduces diastolic blood pressure by an average of 18 mmHg at an annual cost of £400. What is the cost (in pounds) for each additional 1 mmHg reduction achieved by using Agent B instead of Agent A? Give your answer as a whole number."
+  answer: 30
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £400 - £100 = £300 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    18 mmHg - 8 mmHg = 10 mmHg <br />
+    <br />
+    **Step 3: Calculate cost per additional 1 mmHg benefit** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£300}{10 \text{ mmHg}} = £30 \) <br />
+    <br />
+    **Answer:** 30
+
+- id: 506
+  question: "A new lipid-lowering medication (Drug B) is compared to the current standard (Drug A). Drug A reduces LDL cholesterol by an average of 15% at an annual cost of £200. Drug B reduces LDL cholesterol by an average of 35% at an annual cost of £1,200. What is the cost (in pounds) of each additional 1% reduction in LDL cholesterol achieved by using Drug B instead of Drug A? Give your answer as a whole number."
+  answer: 50
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £1,200 (Drug B) - £200 (Drug A) = £1,000 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    35% (Drug B) - 15% (Drug A) = 20% <br />
+    <br />
+    **Step 3: Calculate cost per additional 1% benefit** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£1,000}{20} = £50 \) <br />
+    <br />
+    **Answer:** 50
+
+- id: 507
+  question: "A new analgesic for chronic lower back pain (Drug B) is evaluated against a generic standard (Drug A). On a 10-point pain scale, Drug A provides an average reduction of 2 points at a cost of £500 per year. Drug B provides an average reduction of 6 points at a cost of £2,500 per year. What is the cost (in pounds) for each additional 1-point reduction in pain achieved with Drug B? Give your answer as a whole number."
+  answer: 500
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £2,500 - £500 = £2,000 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    6 points - 2 points = 4 points <br />
+    <br />
+    **Step 3: Calculate cost per additional 1 point reduction** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£2,000}{4 \text{ points}} = £500 \) <br />
+    <br />
+    **Answer:** 500
+
+- id: 508
+  question: "A new antihistamine (Drug B) is compared to an existing treatment (Drug A) for the management of seasonal allergies. Drug A provides an average of 10 symptom-free days per month at a cost of £100 per course. Drug B provides an average of 20 symptom-free days per month at a cost of £400 per course. What is the cost (in pounds) for each additional symptom-free day provided by Drug B? Give your answer as a whole number."
+  answer: 30
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £400 - £100 = £300 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    20 days - 10 days = 10 days <br />
+    <br />
+    **Step 3: Calculate cost per additional symptom-free day** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£300}{10 \text{ days}} = £30 \) <br />
+    <br />
+    **Answer:** 30
+
+- id: 509
+  question: "A new medication for osteoporosis (Drug B) is launched. The existing drug (Drug A) increases bone mineral density by an average of 5% over two years at a cost of £1,000. Drug B increases bone mineral density by an average of 15% over the same period at a cost of £6,000. What is the cost (in pounds) of each additional 1% increase in bone mineral density achieved with Drug B? Give your answer as a whole number."
+  answer: 500
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £6,000 - £1,000 = £5,000 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    15% - 5% = 10% <br />
+    <br />
+    **Step 3: Calculate cost per additional 1% benefit** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£5,000}{10} = £500 \) <br />
+    <br />
+    **Answer:** 500
+
+- id: 510
+  question: "A clinical study compares two asthma management plans. Plan A reduces the number of severe exacerbations by 1 per year at a cost of £300. Plan B reduces the number of severe exacerbations by 4 per year at a cost of £2,100. What is the cost (in pounds) for each additional exacerbation prevented by using Plan B? Give your answer as a whole number."
+  answer: 600
+  solution: |
+    **Step 1: Calculate the incremental cost** <br />
+    £2,100 - £300 = £1,800 <br />
+    <br />
+    **Step 2: Calculate the incremental benefit** <br />
+    4 exacerbations - 1 exacerbation = 3 exacerbations <br />
+    <br />
+    **Step 3: Calculate cost per additional exacerbation prevented** <br />
+    Using \( \frac{\text{Incremental Cost}}{\text{Incremental Benefit}} \): <br />
+    \( \frac{£1,800}{3 \text{ episodes}} = £600 \) <br />
+    <br />
+    **Answer:** 600
