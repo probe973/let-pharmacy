@@ -358,3 +358,704 @@
     **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
     \( \frac{13.8 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 13.8 \text{ ml/hr} \) <br />
     **Answer:** 13.8
+
+- id: 3001
+  question: A patient is a 61-year-old male, weighing 52 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 6.5 microg/kg/min
+    IV for 7 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 18 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 1.1
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 52 \text{ kg} \times 6.5 \text{ microg/kg/min} \times 60 \text{ min} = 20280.0 \text{ microg/hr} \) <br />
+    \( 20280.0 \div 1000 = 20.28 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{20.28 \text{ mg}}{18 \text{ mg}} \times 1 \text{ ml} = 1.1 \text{ ml/hr} \) <br />
+    **Answer:** 1.1
+- id: 3002
+  question: A patient is a 77-year-old male, weighing 67 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 5.2 microg/kg/min
+    IV for 6 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 8 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 2.6
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 67 \text{ kg} \times 5.2 \text{ microg/kg/min} \times 60 \text{ min} = 20904.0 \text{ microg/hr} \) <br />
+    \( 20904.0 \div 1000 = 20.904 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{20.904 \text{ mg}}{8 \text{ mg}} \times 1 \text{ ml} = 2.6 \text{ ml/hr} \) <br />
+    **Answer:** 2.6
+- id: 3003
+  question: A patient is a 77-year-old male, weighing 60 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 1.9 microg/kg/min
+    IV for 24 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 9 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 0.8
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 60 \text{ kg} \times 1.9 \text{ microg/kg/min} \times 60 \text{ min} = 6840.0 \text{ microg/hr} \) <br />
+    \( 6840.0 \div 1000 = 6.84 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{6.84 \text{ mg}}{9 \text{ mg}} \times 1 \text{ ml} = 0.8 \text{ ml/hr} \) <br />
+    **Answer:** 0.8
+- id: 3004
+  question: A patient is a 80-year-old male, weighing 67 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 8.4 microg/kg/min
+    IV for 9 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 20 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 1.7
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 67 \text{ kg} \times 8.4 \text{ microg/kg/min} \times 60 \text{ min} = 33768.0 \text{ microg/hr} \) <br />
+    \( 33768.0 \div 1000 = 33.768 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{33.768 \text{ mg}}{20 \text{ mg}} \times 1 \text{ ml} = 1.7 \text{ ml/hr} \) <br />
+    **Answer:** 1.7
+- id: 3005
+  question: A patient is a 84-year-old male, weighing 67 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 9.7 microg/kg/min
+    IV for 23 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 17 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 2.3
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 67 \text{ kg} \times 9.7 \text{ microg/kg/min} \times 60 \text{ min} = 38994.0 \text{ microg/hr} \) <br />
+    \( 38994.0 \div 1000 = 38.994 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{38.994 \text{ mg}}{17 \text{ mg}} \times 1 \text{ ml} = 2.3 \text{ ml/hr} \) <br />
+    **Answer:** 2.3
+- id: 3006
+  question: A patient is a 84-year-old female, weighing 66 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 6.5 microg/kg/min
+    IV for 20 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 17 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 1.5
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 66 \text{ kg} \times 6.5 \text{ microg/kg/min} \times 60 \text{ min} = 25740.0 \text{ microg/hr} \) <br />
+    \( 25740.0 \div 1000 = 25.74 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{25.74 \text{ mg}}{17 \text{ mg}} \times 1 \text{ ml} = 1.5 \text{ ml/hr} \) <br />
+    **Answer:** 1.5
+- id: 3007
+  question: A patient is a 74-year-old male, weighing 59 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 2.6 microg/kg/min
+    IV for 19 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 8 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 1.2
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 59 \text{ kg} \times 2.6 \text{ microg/kg/min} \times 60 \text{ min} = 9204.0 \text{ microg/hr} \) <br />
+    \( 9204.0 \div 1000 = 9.204 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{9.204 \text{ mg}}{8 \text{ mg}} \times 1 \text{ ml} = 1.2 \text{ ml/hr} \) <br />
+    **Answer:** 1.2
+- id: 3008
+  question: A patient is a 78-year-old female, weighing 54 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 8.9 microg/kg/min
+    IV for 24 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 10 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 2.9
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 54 \text{ kg} \times 8.9 \text{ microg/kg/min} \times 60 \text{ min} = 28836.0 \text{ microg/hr} \) <br />
+    \( 28836.0 \div 1000 = 28.836 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{28.836 \text{ mg}}{10 \text{ mg}} \times 1 \text{ ml} = 2.9 \text{ ml/hr} \) <br />
+    **Answer:** 2.9
+- id: 3009
+  question: A patient is a 70-year-old female, weighing 50 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 2.0 microg/kg/min
+    IV for 22 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 6 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 1.0
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 50 \text{ kg} \times 2.0 \text{ microg/kg/min} \times 60 \text{ min} = 6000.0 \text{ microg/hr} \) <br />
+    \( 6000.0 \div 1000 = 6.0 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{6.0 \text{ mg}}{6 \text{ mg}} \times 1 \text{ ml} = 1.0 \text{ ml/hr} \) <br />
+    **Answer:** 1.0
+- id: 3010
+  question: A patient is a 82-year-old male, weighing 51 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 4.6 microg/kg/min
+    IV for 15 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 14 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 1.0
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 51 \text{ kg} \times 4.6 \text{ microg/kg/min} \times 60 \text{ min} = 14076.0 \text{ microg/hr} \) <br />
+    \( 14076.0 \div 1000 = 14.076 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{14.076 \text{ mg}}{14 \text{ mg}} \times 1 \text{ ml} = 1.0 \text{ ml/hr} \) <br />
+    **Answer:** 1.0
+- id: 3011
+  question: A patient is a 73-year-old female, weighing 63 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 9.4 microg/kg/min
+    IV for 24 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 6 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 5.9
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 63 \text{ kg} \times 9.4 \text{ microg/kg/min} \times 60 \text{ min} = 35532.0 \text{ microg/hr} \) <br />
+    \( 35532.0 \div 1000 = 35.532 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{35.532 \text{ mg}}{6 \text{ mg}} \times 1 \text{ ml} = 5.9 \text{ ml/hr} \) <br />
+    **Answer:** 5.9
+- id: 3012
+  question: A patient is a 69-year-old male, weighing 62 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 4.7 microg/kg/min
+    IV for 6 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 7 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 2.5
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 62 \text{ kg} \times 4.7 \text{ microg/kg/min} \times 60 \text{ min} = 17484.0 \text{ microg/hr} \) <br />
+    \( 17484.0 \div 1000 = 17.484 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{17.484 \text{ mg}}{7 \text{ mg}} \times 1 \text{ ml} = 2.5 \text{ ml/hr} \) <br />
+    **Answer:** 2.5
+- id: 3013
+  question: A patient is a 77-year-old female, weighing 66 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 3.2 microg/kg/min
+    IV for 9 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 12 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 1.1
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 66 \text{ kg} \times 3.2 \text{ microg/kg/min} \times 60 \text{ min} = 12672.0 \text{ microg/hr} \) <br />
+    \( 12672.0 \div 1000 = 12.672 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{12.672 \text{ mg}}{12 \text{ mg}} \times 1 \text{ ml} = 1.1 \text{ ml/hr} \) <br />
+    **Answer:** 1.1
+- id: 3014
+  question: A patient is a 62-year-old female, weighing 57 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 6.1 microg/kg/min
+    IV for 17 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 11 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 1.9
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 57 \text{ kg} \times 6.1 \text{ microg/kg/min} \times 60 \text{ min} = 20862.0 \text{ microg/hr} \) <br />
+    \( 20862.0 \div 1000 = 20.862 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{20.862 \text{ mg}}{11 \text{ mg}} \times 1 \text{ ml} = 1.9 \text{ ml/hr} \) <br />
+    **Answer:** 1.9
+- id: 3015
+  question: A patient is a 80-year-old male, weighing 70 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 3.6 microg/kg/min
+    IV for 16 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 19 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 0.8
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 70 \text{ kg} \times 3.6 \text{ microg/kg/min} \times 60 \text{ min} = 15120.0 \text{ microg/hr} \) <br />
+    \( 15120.0 \div 1000 = 15.12 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{15.12 \text{ mg}}{19 \text{ mg}} \times 1 \text{ ml} = 0.8 \text{ ml/hr} \) <br />
+    **Answer:** 0.8
+- id: 3016
+  question: A patient is a 64-year-old male, weighing 50 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 8.8 microg/kg/min
+    IV for 14 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 9 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 2.9
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 50 \text{ kg} \times 8.8 \text{ microg/kg/min} \times 60 \text{ min} = 26400.0 \text{ microg/hr} \) <br />
+    \( 26400.0 \div 1000 = 26.4 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{26.4 \text{ mg}}{9 \text{ mg}} \times 1 \text{ ml} = 2.9 \text{ ml/hr} \) <br />
+    **Answer:** 2.9
+- id: 3017
+  question: A patient is a 69-year-old female, weighing 51 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 7.1 microg/kg/min
+    IV for 15 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 10 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 2.2
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 51 \text{ kg} \times 7.1 \text{ microg/kg/min} \times 60 \text{ min} = 21726.0 \text{ microg/hr} \) <br />
+    \( 21726.0 \div 1000 = 21.726 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{21.726 \text{ mg}}{10 \text{ mg}} \times 1 \text{ ml} = 2.2 \text{ ml/hr} \) <br />
+    **Answer:** 2.2
+- id: 3018
+  question: A patient is a 65-year-old male, weighing 50 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 2.5 microg/kg/min
+    IV for 19 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 13 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 0.6
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 50 \text{ kg} \times 2.5 \text{ microg/kg/min} \times 60 \text{ min} = 7500.0 \text{ microg/hr} \) <br />
+    \( 7500.0 \div 1000 = 7.5 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{7.5 \text{ mg}}{13 \text{ mg}} \times 1 \text{ ml} = 0.6 \text{ ml/hr} \) <br />
+    **Answer:** 0.6
+- id: 3019
+  question: A patient is a 76-year-old male, weighing 69 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 8.6 microg/kg/min
+    IV for 14 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 13 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 2.7
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 69 \text{ kg} \times 8.6 \text{ microg/kg/min} \times 60 \text{ min} = 35604.0 \text{ microg/hr} \) <br />
+    \( 35604.0 \div 1000 = 35.604 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{35.604 \text{ mg}}{13 \text{ mg}} \times 1 \text{ ml} = 2.7 \text{ ml/hr} \) <br />
+    **Answer:** 2.7
+- id: 3020
+  question: A patient is a 85-year-old female, weighing 60 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 1.9 microg/kg/min
+    IV for 16 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 11 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 0.6
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 60 \text{ kg} \times 1.9 \text{ microg/kg/min} \times 60 \text{ min} = 6840.0 \text{ microg/hr} \) <br />
+    \( 6840.0 \div 1000 = 6.84 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{6.84 \text{ mg}}{11 \text{ mg}} \times 1 \text{ ml} = 0.6 \text{ ml/hr} \) <br />
+    **Answer:** 0.6
+- id: 3021
+  question: A patient is a 67-year-old male, weighing 53 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 5.4 microg/kg/min
+    IV for 13 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 4 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 4.3
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 53 \text{ kg} \times 5.4 \text{ microg/kg/min} \times 60 \text{ min} = 17172.0 \text{ microg/hr} \) <br />
+    \( 17172.0 \div 1000 = 17.172 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{17.172 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 4.3 \text{ ml/hr} \) <br />
+    **Answer:** 4.3
+- id: 3022
+  question: A patient is a 63-year-old female, weighing 54 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 2.3 microg/kg/min
+    IV for 19 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 17 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 0.4
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 54 \text{ kg} \times 2.3 \text{ microg/kg/min} \times 60 \text{ min} = 7452.0 \text{ microg/hr} \) <br />
+    \( 7452.0 \div 1000 = 7.452 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{7.452 \text{ mg}}{17 \text{ mg}} \times 1 \text{ ml} = 0.4 \text{ ml/hr} \) <br />
+    **Answer:** 0.4
+- id: 3023
+  question: A patient is a 84-year-old male, weighing 62 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 4.9 microg/kg/min
+    IV for 19 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 13 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 1.4
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 62 \text{ kg} \times 4.9 \text{ microg/kg/min} \times 60 \text{ min} = 18228.0 \text{ microg/hr} \) <br />
+    \( 18228.0 \div 1000 = 18.228 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{18.228 \text{ mg}}{13 \text{ mg}} \times 1 \text{ ml} = 1.4 \text{ ml/hr} \) <br />
+    **Answer:** 1.4
+- id: 3024
+  question: A patient is a 64-year-old male, weighing 62 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 3.4 microg/kg/min
+    IV for 9 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 10 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 1.3
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 62 \text{ kg} \times 3.4 \text{ microg/kg/min} \times 60 \text{ min} = 12648.0 \text{ microg/hr} \) <br />
+    \( 12648.0 \div 1000 = 12.648 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{12.648 \text{ mg}}{10 \text{ mg}} \times 1 \text{ ml} = 1.3 \text{ ml/hr} \) <br />
+    **Answer:** 1.3
+- id: 3025
+  question: A patient is a 75-year-old female, weighing 59 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 2.3 microg/kg/min
+    IV for 18 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 9 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 0.9
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 59 \text{ kg} \times 2.3 \text{ microg/kg/min} \times 60 \text{ min} = 8142.0 \text{ microg/hr} \) <br />
+    \( 8142.0 \div 1000 = 8.142 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{8.142 \text{ mg}}{9 \text{ mg}} \times 1 \text{ ml} = 0.9 \text{ ml/hr} \) <br />
+    **Answer:** 0.9
+- id: 3026
+  question: A patient is a 75-year-old male, weighing 54 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 8.5 microg/kg/min
+    IV for 8 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 8 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 3.4
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 54 \text{ kg} \times 8.5 \text{ microg/kg/min} \times 60 \text{ min} = 27540.0 \text{ microg/hr} \) <br />
+    \( 27540.0 \div 1000 = 27.54 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{27.54 \text{ mg}}{8 \text{ mg}} \times 1 \text{ ml} = 3.4 \text{ ml/hr} \) <br />
+    **Answer:** 3.4
+- id: 3027
+  question: A patient is a 79-year-old female, weighing 55 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 9.4 microg/kg/min
+    IV for 17 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 15 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 2.1
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 55 \text{ kg} \times 9.4 \text{ microg/kg/min} \times 60 \text{ min} = 31020.0 \text{ microg/hr} \) <br />
+    \( 31020.0 \div 1000 = 31.02 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{31.02 \text{ mg}}{15 \text{ mg}} \times 1 \text{ ml} = 2.1 \text{ ml/hr} \) <br />
+    **Answer:** 2.1
+- id: 3028
+  question: A patient is a 77-year-old female, weighing 58 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 8.8 microg/kg/min
+    IV for 24 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 10 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 3.1
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 58 \text{ kg} \times 8.8 \text{ microg/kg/min} \times 60 \text{ min} = 30624.0 \text{ microg/hr} \) <br />
+    \( 30624.0 \div 1000 = 30.624 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{30.624 \text{ mg}}{10 \text{ mg}} \times 1 \text{ ml} = 3.1 \text{ ml/hr} \) <br />
+    **Answer:** 3.1
+- id: 3029
+  question: A patient is a 70-year-old female, weighing 62 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 5.3 microg/kg/min
+    IV for 17 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 11 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 1.8
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 62 \text{ kg} \times 5.3 \text{ microg/kg/min} \times 60 \text{ min} = 19716.0 \text{ microg/hr} \) <br />
+    \( 19716.0 \div 1000 = 19.716 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{19.716 \text{ mg}}{11 \text{ mg}} \times 1 \text{ ml} = 1.8 \text{ ml/hr} \) <br />
+    **Answer:** 1.8
+- id: 3030
+  question: A patient is a 78-year-old female, weighing 65 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 3.5 microg/kg/min
+    IV for 14 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 12 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 1.1
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 65 \text{ kg} \times 3.5 \text{ microg/kg/min} \times 60 \text{ min} = 13650.0 \text{ microg/hr} \) <br />
+    \( 13650.0 \div 1000 = 13.65 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{13.65 \text{ mg}}{12 \text{ mg}} \times 1 \text{ ml} = 1.1 \text{ ml/hr} \) <br />
+    **Answer:** 1.1
+- id: 3031
+  question: A patient is a 66-year-old male, weighing 57 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 6.3 microg/kg/min
+    IV for 16 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 10 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 2.2
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 57 \text{ kg} \times 6.3 \text{ microg/kg/min} \times 60 \text{ min} = 21546.0 \text{ microg/hr} \) <br />
+    \( 21546.0 \div 1000 = 21.546 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{21.546 \text{ mg}}{10 \text{ mg}} \times 1 \text{ ml} = 2.2 \text{ ml/hr} \) <br />
+    **Answer:** 2.2
+- id: 3032
+  question: A patient is a 84-year-old male, weighing 63 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 4.3 microg/kg/min
+    IV for 19 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 4 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 4.1
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 63 \text{ kg} \times 4.3 \text{ microg/kg/min} \times 60 \text{ min} = 16254.0 \text{ microg/hr} \) <br />
+    \( 16254.0 \div 1000 = 16.254 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{16.254 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 4.1 \text{ ml/hr} \) <br />
+    **Answer:** 4.1
+- id: 3033
+  question: A patient is a 77-year-old male, weighing 55 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 6.6 microg/kg/min
+    IV for 20 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 12 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 1.8
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 55 \text{ kg} \times 6.6 \text{ microg/kg/min} \times 60 \text{ min} = 21780.0 \text{ microg/hr} \) <br />
+    \( 21780.0 \div 1000 = 21.78 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{21.78 \text{ mg}}{12 \text{ mg}} \times 1 \text{ ml} = 1.8 \text{ ml/hr} \) <br />
+    **Answer:** 1.8
+- id: 3034
+  question: A patient is a 69-year-old female, weighing 70 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 5.3 microg/kg/min
+    IV for 11 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 20 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 1.1
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 70 \text{ kg} \times 5.3 \text{ microg/kg/min} \times 60 \text{ min} = 22260.0 \text{ microg/hr} \) <br />
+    \( 22260.0 \div 1000 = 22.26 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{22.26 \text{ mg}}{20 \text{ mg}} \times 1 \text{ ml} = 1.1 \text{ ml/hr} \) <br />
+    **Answer:** 1.1
+- id: 3035
+  question: A patient is a 78-year-old male, weighing 67 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 6.4 microg/kg/min
+    IV for 13 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 19 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 1.4
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 67 \text{ kg} \times 6.4 \text{ microg/kg/min} \times 60 \text{ min} = 25728.0 \text{ microg/hr} \) <br />
+    \( 25728.0 \div 1000 = 25.728 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{25.728 \text{ mg}}{19 \text{ mg}} \times 1 \text{ ml} = 1.4 \text{ ml/hr} \) <br />
+    **Answer:** 1.4
+- id: 3036
+  question: A patient is a 69-year-old male, weighing 59 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 4.2 microg/kg/min
+    IV for 21 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 7 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 2.1
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 59 \text{ kg} \times 4.2 \text{ microg/kg/min} \times 60 \text{ min} = 14868.0 \text{ microg/hr} \) <br />
+    \( 14868.0 \div 1000 = 14.868 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{14.868 \text{ mg}}{7 \text{ mg}} \times 1 \text{ ml} = 2.1 \text{ ml/hr} \) <br />
+    **Answer:** 2.1
+- id: 3037
+  question: A patient is a 85-year-old male, weighing 60 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 10.0 microg/kg/min
+    IV for 9 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 9 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 4.0
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 60 \text{ kg} \times 10.0 \text{ microg/kg/min} \times 60 \text{ min} = 36000.0 \text{ microg/hr} \) <br />
+    \( 36000.0 \div 1000 = 36.0 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{36.0 \text{ mg}}{9 \text{ mg}} \times 1 \text{ ml} = 4.0 \text{ ml/hr} \) <br />
+    **Answer:** 4.0
+- id: 3038
+  question: A patient is a 65-year-old male, weighing 51 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 6.5 microg/kg/min
+    IV for 19 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 7 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 2.8
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 51 \text{ kg} \times 6.5 \text{ microg/kg/min} \times 60 \text{ min} = 19890.0 \text{ microg/hr} \) <br />
+    \( 19890.0 \div 1000 = 19.89 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{19.89 \text{ mg}}{7 \text{ mg}} \times 1 \text{ ml} = 2.8 \text{ ml/hr} \) <br />
+    **Answer:** 2.8
+- id: 3039
+  question: A patient is a 69-year-old male, weighing 54 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 3.5 microg/kg/min
+    IV for 19 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 11 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 1.0
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 54 \text{ kg} \times 3.5 \text{ microg/kg/min} \times 60 \text{ min} = 11340.0 \text{ microg/hr} \) <br />
+    \( 11340.0 \div 1000 = 11.34 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{11.34 \text{ mg}}{11 \text{ mg}} \times 1 \text{ ml} = 1.0 \text{ ml/hr} \) <br />
+    **Answer:** 1.0
+- id: 3040
+  question: A patient is a 84-year-old male, weighing 59 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 5.7 microg/kg/min
+    IV for 9 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 13 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 1.6
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 59 \text{ kg} \times 5.7 \text{ microg/kg/min} \times 60 \text{ min} = 20178.0 \text{ microg/hr} \) <br />
+    \( 20178.0 \div 1000 = 20.178 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{20.178 \text{ mg}}{13 \text{ mg}} \times 1 \text{ ml} = 1.6 \text{ ml/hr} \) <br />
+    **Answer:** 1.6
+- id: 3041
+  question: A patient is a 82-year-old female, weighing 56 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 2.1 microg/kg/min
+    IV for 12 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 13 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 0.5
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 56 \text{ kg} \times 2.1 \text{ microg/kg/min} \times 60 \text{ min} = 7056.0 \text{ microg/hr} \) <br />
+    \( 7056.0 \div 1000 = 7.056 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{7.056 \text{ mg}}{13 \text{ mg}} \times 1 \text{ ml} = 0.5 \text{ ml/hr} \) <br />
+    **Answer:** 0.5
+- id: 3042
+  question: A patient is a 76-year-old female, weighing 52 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 7.7 microg/kg/min
+    IV for 13 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 11 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 2.2
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 52 \text{ kg} \times 7.7 \text{ microg/kg/min} \times 60 \text{ min} = 24024.0 \text{ microg/hr} \) <br />
+    \( 24024.0 \div 1000 = 24.024 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{24.024 \text{ mg}}{11 \text{ mg}} \times 1 \text{ ml} = 2.2 \text{ ml/hr} \) <br />
+    **Answer:** 2.2
+- id: 3043
+  question: A patient is a 66-year-old male, weighing 51 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 2.1 microg/kg/min
+    IV for 19 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 13 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 0.5
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 51 \text{ kg} \times 2.1 \text{ microg/kg/min} \times 60 \text{ min} = 6426.0 \text{ microg/hr} \) <br />
+    \( 6426.0 \div 1000 = 6.426 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{6.426 \text{ mg}}{13 \text{ mg}} \times 1 \text{ ml} = 0.5 \text{ ml/hr} \) <br />
+    **Answer:** 0.5
+- id: 3044
+  question: A patient is a 84-year-old female, weighing 69 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 7.7 microg/kg/min
+    IV for 8 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 19 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 1.7
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 69 \text{ kg} \times 7.7 \text{ microg/kg/min} \times 60 \text{ min} = 31878.0 \text{ microg/hr} \) <br />
+    \( 31878.0 \div 1000 = 31.878 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{31.878 \text{ mg}}{19 \text{ mg}} \times 1 \text{ ml} = 1.7 \text{ ml/hr} \) <br />
+    **Answer:** 1.7
+- id: 3045
+  question: A patient is a 61-year-old female, weighing 61 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 8.3 microg/kg/min
+    IV for 10 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 20 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 1.5
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 61 \text{ kg} \times 8.3 \text{ microg/kg/min} \times 60 \text{ min} = 30378.0 \text{ microg/hr} \) <br />
+    \( 30378.0 \div 1000 = 30.378 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{30.378 \text{ mg}}{20 \text{ mg}} \times 1 \text{ ml} = 1.5 \text{ ml/hr} \) <br />
+    **Answer:** 1.5
+- id: 3046
+  question: A patient is a 60-year-old female, weighing 54 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 6.8 microg/kg/min
+    IV for 16 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 15 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 1.5
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 54 \text{ kg} \times 6.8 \text{ microg/kg/min} \times 60 \text{ min} = 22032.0 \text{ microg/hr} \) <br />
+    \( 22032.0 \div 1000 = 22.032 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{22.032 \text{ mg}}{15 \text{ mg}} \times 1 \text{ ml} = 1.5 \text{ ml/hr} \) <br />
+    **Answer:** 1.5
+- id: 3047
+  question: A patient is a 67-year-old female, weighing 64 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 7.4 microg/kg/min
+    IV for 20 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 11 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 2.6
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 64 \text{ kg} \times 7.4 \text{ microg/kg/min} \times 60 \text{ min} = 28416.0 \text{ microg/hr} \) <br />
+    \( 28416.0 \div 1000 = 28.416 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{28.416 \text{ mg}}{11 \text{ mg}} \times 1 \text{ ml} = 2.6 \text{ ml/hr} \) <br />
+    **Answer:** 2.6
+- id: 3048
+  question: A patient is a 71-year-old male, weighing 63 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 4.7 microg/kg/min
+    IV for 15 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 5 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 3.6
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 63 \text{ kg} \times 4.7 \text{ microg/kg/min} \times 60 \text{ min} = 17766.0 \text{ microg/hr} \) <br />
+    \( 17766.0 \div 1000 = 17.766 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{17.766 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 3.6 \text{ ml/hr} \) <br />
+    **Answer:** 3.6
+- id: 3049
+  question: A patient is a 64-year-old female, weighing 69 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 3.7 microg/kg/min
+    IV for 14 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 4 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 3.8
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 69 \text{ kg} \times 3.7 \text{ microg/kg/min} \times 60 \text{ min} = 15318.0 \text{ microg/hr} \) <br />
+    \( 15318.0 \div 1000 = 15.318 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{15.318 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 3.8 \text{ ml/hr} \) <br />
+    **Answer:** 3.8
+- id: 3050
+  question: A patient is a 81-year-old female, weighing 58 kg. They are admitted to
+    ITU following a coronary artery bypass graft and is prescribed dopamine 4.5 microg/kg/min
+    IV for 23 hours. Calculate the rate in ml/hr at which a solution of dopamine must
+    be infused to provide this dose if dopamine is administered as a 18 mg/ml solution.
+    Give you answer correct to 1 decimal place
+  answer: 0.9
+  solution: |-
+    **Step 1: Dose (Need)** <br /> \( 58 \text{ kg} \times 4.5 \text{ microg/kg/min} \times 60 \text{ min} = 15660.0 \text{ microg/hr} \) <br />
+    \( 15660.0 \div 1000 = 15.66 \text{ mg}\) <br />
+    <br />
+    **Step 2: Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \)** <br />
+    \( \frac{15.66 \text{ mg}}{18 \text{ mg}} \times 1 \text{ ml} = 0.9 \text{ ml/hr} \) <br />
+    **Answer:** 0.9
