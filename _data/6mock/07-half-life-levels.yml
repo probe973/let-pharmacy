@@ -180,7 +180,7 @@
 
 - id: 181
   question: "A 55-year-old patient's most recent blood level, taken after a dose of theophylline 200 mg m/r tablets, shows a plasma concentration of 72 mg/L. The therapeutic range for theophylline is 10-20 mg/L. The half-life of theophylline is approximately 8 hours. How many hours would pass before the patient's theophylline plasma levels appear within the therapeutic range? Round your answer to the nearest full half-life."
-  answer: 24
+  answer: 16
   solution: |
     **Step 1: Identify Target Range (Need)** <br />
     Current: 72 mg/L. Target: 10 - 20 mg/L. <br />
