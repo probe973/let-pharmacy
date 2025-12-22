@@ -590,1494 +590,1496 @@
     **Answer:** 179
 
 - id: 8001
-  question: "The following hospital prescription was written for a patient, a 64-year-old\
-    \ man weighing 71 kg. Infusion of drug: Strength 6 % w/v, 0.4 g/kg. <br />\n Infusion\
-    \ rate: <br />\n2.0 mL/kg/hr for 90 mins, <br />\nthen 1.1 mL/kg/hr for 15 mins,\
-    \ <br />\nthen 1.2 mL/kg/hr for 45 mins, <br />\nthen 1.0 mL/kg/hr for the remainder\
-    \ of the infusion. <br />\nWhat is the total infusion duration in minutes, if\
-    \ it is infused at the given rate? Round your answer to the nearest whole minute."
-  answer: 294
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 71 \text{ kg} \times 0.4 \text{ g\kg} =  28 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{28 \text{ g}}{6 \text{ g}} \times 100 \text{ ml} = 466.67 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (90 mins): \(2.0 \text{ mL/kg/hr} \times 71 \text{ kg} \times 1.5 \text{ hr} = 213.0 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(1.1 \text{ mL/kg/hr} \times 71 \text{ kg} \times 0.25 \text{ hr} = 19.53 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(1.2 \text{ mL/kg/hr} \times 71 \text{ kg} \times 0.75 \text{ hr} = 63.9 \text{ mL} \) <br />
-    Total volume delivered in phases = 296.43 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 466.67-296.43 = 170.24 \text{ mL}  \) <br />
-    Final rate: \( 1.0 \text{ mL/kg/hr} \times 71 \text{ kg} = 71.0 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{170.24 \text{ mL}}{71.0 \text{ mL/hr}} \times 60 \text{ mins} = 143.865 \text{ mins} \) <br />
-    Total duration: \(90 + 15 + 45 + 143.865 = 293.865 \text{ mins} \) <br />
-    <br />
-    **Answer: 294 min (nearest whole minute)**
-- id: 8002
-  question: "The following hospital prescription was written for a patient, a 51-year-old\
-    \ woman weighing 65 kg. Infusion of drug: Strength 20 % w/v, 1.4 g/kg. <br />\n\
-    \ Infusion rate: <br />\n1.5 mL/kg/hr for 45 mins, <br />\nthen 1.9 mL/kg/hr for\
-    \ 30 mins, <br />\nthen 0.5 mL/kg/hr for 60 mins, <br />\nthen 2.2 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 256
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 65 \text{ kg} \times 1.4 \text{ g\kg} =  91 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{91 \text{ g}}{20 \text{ g}} \times 100 \text{ ml} = 455.0 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (45 mins): \(1.5 \text{ mL/kg/hr} \times 65 \text{ kg} \times 0.75 \text{ hr} = 73.12 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(1.9 \text{ mL/kg/hr} \times 65 \text{ kg} \times 0.5 \text{ hr} = 61.75 \text{ mL} \) <br />
-    Phase 1 (60 mins): \(0.5 \text{ mL/kg/hr} \times 65 \text{ kg} \times 1.0 \text{ hr} = 32.5 \text{ mL} \) <br />
-    Total volume delivered in phases = 167.37 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 455.0-167.37 = 287.63 \text{ mL}  \) <br />
-    Final rate: \( 2.2 \text{ mL/kg/hr} \times 65 \text{ kg} = 143.0 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{287.63 \text{ mL}}{143.0 \text{ mL/hr}} \times 60 \text{ mins} = 120.684 \text{ mins} \) <br />
-    Total duration: \(45 + 30 + 60 + 120.684 = 255.684 \text{ mins} \) <br />
-    <br />
-    **Answer: 256 min (nearest whole minute)**
-- id: 8003
-  question: "The following hospital prescription was written for a patient, a 68-year-old\
-    \ woman weighing 65 kg. Infusion of drug: Strength 8 % w/v, 0.4 g/kg. <br />\n\
-    \ Infusion rate: <br />\n1.2 mL/kg/hr for 15 mins, <br />\nthen 1.2 mL/kg/hr for\
-    \ 45 mins, <br />\nthen 1.0 mL/kg/hr for 15 mins, <br />\nthen 0.7 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 379
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 65 \text{ kg} \times 0.4 \text{ g\kg} =  26 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{26 \text{ g}}{8 \text{ g}} \times 100 \text{ ml} = 325.0 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (15 mins): \(1.2 \text{ mL/kg/hr} \times 65 \text{ kg} \times 0.25 \text{ hr} = 19.5 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(1.2 \text{ mL/kg/hr} \times 65 \text{ kg} \times 0.75 \text{ hr} = 58.5 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(1.0 \text{ mL/kg/hr} \times 65 \text{ kg} \times 0.25 \text{ hr} = 16.25 \text{ mL} \) <br />
-    Total volume delivered in phases = 94.25 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 325.0-94.25 = 230.75 \text{ mL}  \) <br />
-    Final rate: \( 0.7 \text{ mL/kg/hr} \times 65 \text{ kg} = 45.5 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{230.75 \text{ mL}}{45.5 \text{ mL/hr}} \times 60 \text{ mins} = 304.286 \text{ mins} \) <br />
-    Total duration: \(15 + 45 + 15 + 304.286 = 379.286 \text{ mins} \) <br />
-    <br />
-    **Answer: 379 min (nearest whole minute)**
-- id: 8004
-  question: "The following hospital prescription was written for a patient, a 65-year-old\
-    \ woman weighing 66 kg. Infusion of drug: Strength 6 % w/v, 1.0 g/kg. <br />\n\
-    \ Infusion rate: <br />\n2.3 mL/kg/hr for 30 mins, <br />\nthen 2.0 mL/kg/hr for\
-    \ 60 mins, <br />\nthen 1.8 mL/kg/hr for 60 mins, <br />\nthen 2.2 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 470
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 66 \text{ kg} \times 1.0 \text{ g\kg} =  66 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{66 \text{ g}}{6 \text{ g}} \times 100 \text{ ml} = 1100.0 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (30 mins): \(2.3 \text{ mL/kg/hr} \times 66 \text{ kg} \times 0.5 \text{ hr} = 75.9 \text{ mL} \) <br />
-    Phase 1 (60 mins): \(2.0 \text{ mL/kg/hr} \times 66 \text{ kg} \times 1.0 \text{ hr} = 132.0 \text{ mL} \) <br />
-    Phase 1 (60 mins): \(1.8 \text{ mL/kg/hr} \times 66 \text{ kg} \times 1.0 \text{ hr} = 118.8 \text{ mL} \) <br />
-    Total volume delivered in phases = 326.7 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 1100.0-326.7 = 773.3 \text{ mL}  \) <br />
-    Final rate: \( 2.2 \text{ mL/kg/hr} \times 66 \text{ kg} = 145.2 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{773.3 \text{ mL}}{145.2 \text{ mL/hr}} \times 60 \text{ mins} = 319.545 \text{ mins} \) <br />
-    Total duration: \(30 + 60 + 60 + 319.545 = 469.545 \text{ mins} \) <br />
-    <br />
-    **Answer: 470 min (nearest whole minute)**
-- id: 8005
-  question: "The following hospital prescription was written for a patient, a 61-year-old\
-    \ woman weighing 50 kg. Infusion of drug: Strength 18 % w/v, 1.3 g/kg. <br />\n\
-    \ Infusion rate: <br />\n2.5 mL/kg/hr for 15 mins, <br />\nthen 2.2 mL/kg/hr for\
-    \ 60 mins, <br />\nthen 1.0 mL/kg/hr for 30 mins, <br />\nthen 1.7 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 243
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 50 \text{ kg} \times 1.3 \text{ g\kg} =  65 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{65 \text{ g}}{18 \text{ g}} \times 100 \text{ ml} = 361.11 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (15 mins): \(2.5 \text{ mL/kg/hr} \times 50 \text{ kg} \times 0.25 \text{ hr} = 31.25 \text{ mL} \) <br />
-    Phase 1 (60 mins): \(2.2 \text{ mL/kg/hr} \times 50 \text{ kg} \times 1.0 \text{ hr} = 110.0 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(1.0 \text{ mL/kg/hr} \times 50 \text{ kg} \times 0.5 \text{ hr} = 25.0 \text{ mL} \) <br />
-    Total volume delivered in phases = 166.25 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 361.11-166.25 = 194.86 \text{ mL}  \) <br />
-    Final rate: \( 1.7 \text{ mL/kg/hr} \times 50 \text{ kg} = 85.0 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{194.86 \text{ mL}}{85.0 \text{ mL/hr}} \times 60 \text{ mins} = 137.548 \text{ mins} \) <br />
-    Total duration: \(15 + 60 + 30 + 137.548 = 242.548 \text{ mins} \) <br />
-    <br />
-    **Answer: 243 min (nearest whole minute)**
-- id: 8006
-  question: "The following hospital prescription was written for a patient, a 76-year-old\
-    \ man weighing 74 kg. Infusion of drug: Strength 5 % w/v, 0.5 g/kg. <br />\n Infusion\
-    \ rate: <br />\n2.3 mL/kg/hr for 15 mins, <br />\nthen 0.7 mL/kg/hr for 15 mins,\
-    \ <br />\nthen 0.9 mL/kg/hr for 60 mins, <br />\nthen 2.4 mL/kg/hr for the remainder\
-    \ of the infusion. <br />\nWhat is the total infusion duration in minutes, if\
-    \ it is infused at the given rate? Round your answer to the nearest whole minute."
-  answer: 299
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 74 \text{ kg} \times 0.5 \text{ g\kg} =  37 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{37 \text{ g}}{5 \text{ g}} \times 100 \text{ ml} = 740.0 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (15 mins): \(2.3 \text{ mL/kg/hr} \times 74 \text{ kg} \times 0.25 \text{ hr} = 42.55 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(0.7 \text{ mL/kg/hr} \times 74 \text{ kg} \times 0.25 \text{ hr} = 12.95 \text{ mL} \) <br />
-    Phase 1 (60 mins): \(0.9 \text{ mL/kg/hr} \times 74 \text{ kg} \times 1.0 \text{ hr} = 66.6 \text{ mL} \) <br />
-    Total volume delivered in phases = 122.1 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 740.0-122.1 = 617.9 \text{ mL}  \) <br />
-    Final rate: \( 2.4 \text{ mL/kg/hr} \times 74 \text{ kg} = 177.6 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{617.9 \text{ mL}}{177.6 \text{ mL/hr}} \times 60 \text{ mins} = 208.75 \text{ mins} \) <br />
-    Total duration: \(15 + 15 + 60 + 208.75 = 298.75 \text{ mins} \) <br />
-    <br />
-    **Answer: 299 min (nearest whole minute)**
-- id: 8007
-  question: "The following hospital prescription was written for a patient, a 77-year-old\
-    \ woman weighing 75 kg. Infusion of drug: Strength 18 % w/v, 0.6 g/kg. <br />\n\
-    \ Infusion rate: <br />\n1.7 mL/kg/hr for 45 mins, <br />\nthen 1.0 mL/kg/hr for\
-    \ 15 mins, <br />\nthen 2.0 mL/kg/hr for 15 mins, <br />\nthen 1.1 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 146
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 75 \text{ kg} \times 0.6 \text{ g\kg} =  45 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{45 \text{ g}}{18 \text{ g}} \times 100 \text{ ml} = 250.0 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (45 mins): \(1.7 \text{ mL/kg/hr} \times 75 \text{ kg} \times 0.75 \text{ hr} = 95.62 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(1.0 \text{ mL/kg/hr} \times 75 \text{ kg} \times 0.25 \text{ hr} = 18.75 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(2.0 \text{ mL/kg/hr} \times 75 \text{ kg} \times 0.25 \text{ hr} = 37.5 \text{ mL} \) <br />
-    Total volume delivered in phases = 151.87 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 250.0-151.87 = 98.13 \text{ mL}  \) <br />
-    Final rate: \( 1.1 \text{ mL/kg/hr} \times 75 \text{ kg} = 82.5 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{98.13 \text{ mL}}{82.5 \text{ mL/hr}} \times 60 \text{ mins} = 71.367 \text{ mins} \) <br />
-    Total duration: \(45 + 15 + 15 + 71.367 = 146.36700000000002 \text{ mins} \) <br />
-    <br />
-    **Answer: 146 min (nearest whole minute)**
-- id: 8008
-  question: "The following hospital prescription was written for a patient, a 66-year-old\
-    \ woman weighing 64 kg. Infusion of drug: Strength 8 % w/v, 0.7 g/kg. <br />\n\
-    \ Infusion rate: <br />\n1.8 mL/kg/hr for 90 mins, <br />\nthen 1.0 mL/kg/hr for\
-    \ 90 mins, <br />\nthen 1.0 mL/kg/hr for 15 mins, <br />\nthen 0.9 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 484
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 64 \text{ kg} \times 0.7 \text{ g\kg} =  45 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{45 \text{ g}}{8 \text{ g}} \times 100 \text{ ml} = 562.5 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (90 mins): \(1.8 \text{ mL/kg/hr} \times 64 \text{ kg} \times 1.5 \text{ hr} = 172.8 \text{ mL} \) <br />
-    Phase 1 (90 mins): \(1.0 \text{ mL/kg/hr} \times 64 \text{ kg} \times 1.5 \text{ hr} = 96.0 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(1.0 \text{ mL/kg/hr} \times 64 \text{ kg} \times 0.25 \text{ hr} = 16.0 \text{ mL} \) <br />
-    Total volume delivered in phases = 284.8 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 562.5-284.8 = 277.7 \text{ mL}  \) <br />
-    Final rate: \( 0.9 \text{ mL/kg/hr} \times 64 \text{ kg} = 57.6 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{277.7 \text{ mL}}{57.6 \text{ mL/hr}} \times 60 \text{ mins} = 289.271 \text{ mins} \) <br />
-    Total duration: \(90 + 90 + 15 + 289.271 = 484.271 \text{ mins} \) <br />
-    <br />
-    **Answer: 484 min (nearest whole minute)**
-- id: 8009
-  question: "The following hospital prescription was written for a patient, a 65-year-old\
-    \ woman weighing 51 kg. Infusion of drug: Strength 5 % w/v, 0.9 g/kg. <br />\n\
-    \ Infusion rate: <br />\n1.1 mL/kg/hr for 90 mins, <br />\nthen 2.5 mL/kg/hr for\
-    \ 30 mins, <br />\nthen 2.5 mL/kg/hr for 30 mins, <br />\nthen 2.2 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 529
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 51 \text{ kg} \times 0.9 \text{ g\kg} =  46 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{46 \text{ g}}{5 \text{ g}} \times 100 \text{ ml} = 920.0 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (90 mins): \(1.1 \text{ mL/kg/hr} \times 51 \text{ kg} \times 1.5 \text{ hr} = 84.15 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(2.5 \text{ mL/kg/hr} \times 51 \text{ kg} \times 0.5 \text{ hr} = 63.75 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(2.5 \text{ mL/kg/hr} \times 51 \text{ kg} \times 0.5 \text{ hr} = 63.75 \text{ mL} \) <br />
-    Total volume delivered in phases = 211.65 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 920.0-211.65 = 708.35 \text{ mL}  \) <br />
-    Final rate: \( 2.2 \text{ mL/kg/hr} \times 51 \text{ kg} = 112.2 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{708.35 \text{ mL}}{112.2 \text{ mL/hr}} \times 60 \text{ mins} = 378.797 \text{ mins} \) <br />
-    Total duration: \(90 + 30 + 30 + 378.797 = 528.797 \text{ mins} \) <br />
-    <br />
-    **Answer: 529 min (nearest whole minute)**
-- id: 8010
-  question: "The following hospital prescription was written for a patient, a 74-year-old\
-    \ woman weighing 74 kg. Infusion of drug: Strength 14 % w/v, 1.4 g/kg. <br />\n\
-    \ Infusion rate: <br />\n1.4 mL/kg/hr for 30 mins, <br />\nthen 1.4 mL/kg/hr for\
-    \ 60 mins, <br />\nthen 0.9 mL/kg/hr for 90 mins, <br />\nthen 2.5 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 338
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 74 \text{ kg} \times 1.4 \text{ g\kg} =  104 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{104 \text{ g}}{14 \text{ g}} \times 100 \text{ ml} = 742.86 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (30 mins): \(1.4 \text{ mL/kg/hr} \times 74 \text{ kg} \times 0.5 \text{ hr} = 51.8 \text{ mL} \) <br />
-    Phase 1 (60 mins): \(1.4 \text{ mL/kg/hr} \times 74 \text{ kg} \times 1.0 \text{ hr} = 103.6 \text{ mL} \) <br />
-    Phase 1 (90 mins): \(0.9 \text{ mL/kg/hr} \times 74 \text{ kg} \times 1.5 \text{ hr} = 99.9 \text{ mL} \) <br />
-    Total volume delivered in phases = 255.3 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 742.86-255.3 = 487.56 \text{ mL}  \) <br />
-    Final rate: \( 2.5 \text{ mL/kg/hr} \times 74 \text{ kg} = 185.0 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{487.56 \text{ mL}}{185.0 \text{ mL/hr}} \times 60 \text{ mins} = 158.128 \text{ mins} \) <br />
-    Total duration: \(30 + 60 + 90 + 158.128 = 338.128 \text{ mins} \) <br />
-    <br />
-    **Answer: 338 min (nearest whole minute)**
-- id: 8011
-  question: "The following hospital prescription was written for a patient, a 69-year-old\
-    \ woman weighing 72 kg. Infusion of drug: Strength 11 % w/v, 1.1 g/kg. <br />\n\
-    \ Infusion rate: <br />\n2.0 mL/kg/hr for 15 mins, <br />\nthen 2.1 mL/kg/hr for\
-    \ 30 mins, <br />\nthen 2.0 mL/kg/hr for 60 mins, <br />\nthen 2.1 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 289
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 72 \text{ kg} \times 1.1 \text{ g\kg} =  79 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{79 \text{ g}}{11 \text{ g}} \times 100 \text{ ml} = 718.18 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (15 mins): \(2.0 \text{ mL/kg/hr} \times 72 \text{ kg} \times 0.25 \text{ hr} = 36.0 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(2.1 \text{ mL/kg/hr} \times 72 \text{ kg} \times 0.5 \text{ hr} = 75.6 \text{ mL} \) <br />
-    Phase 1 (60 mins): \(2.0 \text{ mL/kg/hr} \times 72 \text{ kg} \times 1.0 \text{ hr} = 144.0 \text{ mL} \) <br />
-    Total volume delivered in phases = 255.6 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 718.18-255.6 = 462.58 \text{ mL}  \) <br />
-    Final rate: \( 2.1 \text{ mL/kg/hr} \times 72 \text{ kg} = 151.2 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{462.58 \text{ mL}}{151.2 \text{ mL/hr}} \times 60 \text{ mins} = 183.563 \text{ mins} \) <br />
-    Total duration: \(15 + 30 + 60 + 183.563 = 288.563 \text{ mins} \) <br />
-    <br />
-    **Answer: 289 min (nearest whole minute)**
-- id: 8012
-  question: "The following hospital prescription was written for a patient, a 81-year-old\
-    \ man weighing 69 kg. Infusion of drug: Strength 19 % w/v, 0.9 g/kg. <br />\n\
-    \ Infusion rate: <br />\n1.5 mL/kg/hr for 45 mins, <br />\nthen 0.9 mL/kg/hr for\
-    \ 45 mins, <br />\nthen 1.5 mL/kg/hr for 90 mins, <br />\nthen 0.9 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 225
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 69 \text{ kg} \times 0.9 \text{ g\kg} =  62 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{62 \text{ g}}{19 \text{ g}} \times 100 \text{ ml} = 326.32 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (45 mins): \(1.5 \text{ mL/kg/hr} \times 69 \text{ kg} \times 0.75 \text{ hr} = 77.62 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(0.9 \text{ mL/kg/hr} \times 69 \text{ kg} \times 0.75 \text{ hr} = 46.58 \text{ mL} \) <br />
-    Phase 1 (90 mins): \(1.5 \text{ mL/kg/hr} \times 69 \text{ kg} \times 1.5 \text{ hr} = 155.25 \text{ mL} \) <br />
-    Total volume delivered in phases = 279.45 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 326.32-279.45 = 46.87 \text{ mL}  \) <br />
-    Final rate: \( 0.9 \text{ mL/kg/hr} \times 69 \text{ kg} = 62.1 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{46.87 \text{ mL}}{62.1 \text{ mL/hr}} \times 60 \text{ mins} = 45.285 \text{ mins} \) <br />
-    Total duration: \(45 + 45 + 90 + 45.285 = 225.285 \text{ mins} \) <br />
-    <br />
-    **Answer: 225 min (nearest whole minute)**
-- id: 8013
-  question: "The following hospital prescription was written for a patient, a 52-year-old\
-    \ man weighing 50 kg. Infusion of drug: Strength 18 % w/v, 1.0 g/kg. <br />\n\
-    \ Infusion rate: <br />\n2.0 mL/kg/hr for 15 mins, <br />\nthen 1.3 mL/kg/hr for\
-    \ 45 mins, <br />\nthen 1.2 mL/kg/hr for 30 mins, <br />\nthen 0.9 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 322
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 50 \text{ kg} \times 1.0 \text{ g\kg} =  50 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{50 \text{ g}}{18 \text{ g}} \times 100 \text{ ml} = 277.78 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (15 mins): \(2.0 \text{ mL/kg/hr} \times 50 \text{ kg} \times 0.25 \text{ hr} = 25.0 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(1.3 \text{ mL/kg/hr} \times 50 \text{ kg} \times 0.75 \text{ hr} = 48.75 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(1.2 \text{ mL/kg/hr} \times 50 \text{ kg} \times 0.5 \text{ hr} = 30.0 \text{ mL} \) <br />
-    Total volume delivered in phases = 103.75 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 277.78-103.75 = 174.03 \text{ mL}  \) <br />
-    Final rate: \( 0.9 \text{ mL/kg/hr} \times 50 \text{ kg} = 45.0 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{174.03 \text{ mL}}{45.0 \text{ mL/hr}} \times 60 \text{ mins} = 232.04 \text{ mins} \) <br />
-    Total duration: \(15 + 45 + 30 + 232.04 = 322.03999999999996 \text{ mins} \) <br />
-    <br />
-    **Answer: 322 min (nearest whole minute)**
-- id: 8014
-  question: "The following hospital prescription was written for a patient, a 74-year-old\
-    \ man weighing 63 kg. Infusion of drug: Strength 12 % w/v, 0.5 g/kg. <br />\n\
-    \ Infusion rate: <br />\n2.5 mL/kg/hr for 15 mins, <br />\nthen 2.4 mL/kg/hr for\
-    \ 45 mins, <br />\nthen 1.1 mL/kg/hr for 45 mins, <br />\nthen 1.6 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 142
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 63 \text{ kg} \times 0.5 \text{ g\kg} =  32 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{32 \text{ g}}{12 \text{ g}} \times 100 \text{ ml} = 266.67 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (15 mins): \(2.5 \text{ mL/kg/hr} \times 63 \text{ kg} \times 0.25 \text{ hr} = 39.38 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(2.4 \text{ mL/kg/hr} \times 63 \text{ kg} \times 0.75 \text{ hr} = 113.4 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(1.1 \text{ mL/kg/hr} \times 63 \text{ kg} \times 0.75 \text{ hr} = 51.98 \text{ mL} \) <br />
-    Total volume delivered in phases = 204.76 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 266.67-204.76 = 61.91 \text{ mL}  \) <br />
-    Final rate: \( 1.6 \text{ mL/kg/hr} \times 63 \text{ kg} = 100.8 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{61.91 \text{ mL}}{100.8 \text{ mL/hr}} \times 60 \text{ mins} = 36.851 \text{ mins} \) <br />
-    Total duration: \(15 + 45 + 45 + 36.851 = 141.851 \text{ mins} \) <br />
-    <br />
-    **Answer: 142 min (nearest whole minute)**
-- id: 8015
-  question: "The following hospital prescription was written for a patient, a 58-year-old\
-    \ man weighing 60 kg. Infusion of drug: Strength 11 % w/v, 0.9 g/kg. <br />\n\
-    \ Infusion rate: <br />\n1.9 mL/kg/hr for 60 mins, <br />\nthen 0.9 mL/kg/hr for\
-    \ 30 mins, <br />\nthen 0.8 mL/kg/hr for 30 mins, <br />\nthen 2.2 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 268
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 60 \text{ kg} \times 0.9 \text{ g\kg} =  54 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{54 \text{ g}}{11 \text{ g}} \times 100 \text{ ml} = 490.91 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (60 mins): \(1.9 \text{ mL/kg/hr} \times 60 \text{ kg} \times 1.0 \text{ hr} = 114.0 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(0.9 \text{ mL/kg/hr} \times 60 \text{ kg} \times 0.5 \text{ hr} = 27.0 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(0.8 \text{ mL/kg/hr} \times 60 \text{ kg} \times 0.5 \text{ hr} = 24.0 \text{ mL} \) <br />
-    Total volume delivered in phases = 165.0 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 490.91-165.0 = 325.91 \text{ mL}  \) <br />
-    Final rate: \( 2.2 \text{ mL/kg/hr} \times 60 \text{ kg} = 132.0 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{325.91 \text{ mL}}{132.0 \text{ mL/hr}} \times 60 \text{ mins} = 148.141 \text{ mins} \) <br />
-    Total duration: \(60 + 30 + 30 + 148.141 = 268.14099999999996 \text{ mins} \) <br />
-    <br />
-    **Answer: 268 min (nearest whole minute)**
-- id: 8016
   question: "The following hospital prescription was written for a patient, a 57-year-old\
-    \ woman weighing 64 kg. Infusion of drug: Strength 18 % w/v, 1.2 g/kg. <br />\n\
-    \ Infusion rate: <br />\n2.1 mL/kg/hr for 45 mins, <br />\nthen 0.7 mL/kg/hr for\
-    \ 45 mins, <br />\nthen 1.5 mL/kg/hr for 90 mins, <br />\nthen 0.5 mL/kg/hr for\
+    \ man weighing 65 kg. Infusion of drug: Strength 10 % w/v, 1.1 g/kg. <br />\n\
+    \ Infusion rate: <br />\n0.6 mL/kg/hr for 60 mins, <br />\nthen 0.6 mL/kg/hr for\
+    \ 60 mins, <br />\nthen 1.7 mL/kg/hr for 45 mins, <br />\nthen 2.4 mL/kg/hr for\
     \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
     \ minutes, if it is infused at the given rate? Round your answer to the nearest\
     \ whole minute."
-  answer: 460
+  answer: 380
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 64 \text{ kg} \times 1.2 \text{ g\kg} =  77 \text{ g} \)<br />
+    \( 65 \text{ kg} \times 1.1 \text{ g/kg} =  72 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{77 \text{ g}}{18 \text{ g}} \times 100 \text{ ml} = 427.78 \text{ ml} \) <br />
+    \( \frac{72 \text{ g}}{10 \text{ g}} \times 100 \text{ ml} = 720.0 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (45 mins): \(2.1 \text{ mL/kg/hr} \times 64 \text{ kg} \times 0.75 \text{ hr} = 100.8 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(0.7 \text{ mL/kg/hr} \times 64 \text{ kg} \times 0.75 \text{ hr} = 33.6 \text{ mL} \) <br />
-    Phase 1 (90 mins): \(1.5 \text{ mL/kg/hr} \times 64 \text{ kg} \times 1.5 \text{ hr} = 144.0 \text{ mL} \) <br />
-    Total volume delivered in phases = 278.4 mL <br />
+    Phase 1 (60 mins): \(0.6 \text{ mL/kg/hr} \times 65 \text{ kg} \times 1.0 \text{ hr} = 39.0 \text{ mL} \) <br />
+    Phase 1 (60 mins): \(0.6 \text{ mL/kg/hr} \times 65 \text{ kg} \times 1.0 \text{ hr} = 39.0 \text{ mL} \) <br />
+    Phase 1 (45 mins): \(1.7 \text{ mL/kg/hr} \times 65 \text{ kg} \times 0.75 \text{ hr} = 82.88 \text{ mL} \) <br />
+    Total volume delivered in phases = 160.88 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 427.78-278.4 = 149.38 \text{ mL}  \) <br />
-    Final rate: \( 0.5 \text{ mL/kg/hr} \times 64 \text{ kg} = 32.0 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{149.38 \text{ mL}}{32.0 \text{ mL/hr}} \times 60 \text{ mins} = 280.087 \text{ mins} \) <br />
-    Total duration: \(45 + 45 + 90 + 280.087 = 460.087 \text{ mins} \) <br />
+    Remaining volume: \( 720.0-160.88 = 559.12 \text{ mL}  \) <br />
+    Final rate: \( 2.4 \text{ mL/kg/hr} \times 65 \text{ kg} = 156.0 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{559.12 \text{ mL}}{156.0 \text{ mL/hr}} \times 60 \text{ mins} = 215.046 \text{ mins} \) <br />
+    Total duration: \(60 + 60 + 45 + 215.046 = 380.046 \text{ mins} \) <br />
     <br />
-    **Answer: 460 min (nearest whole minute)**
-- id: 8017
-  question: "The following hospital prescription was written for a patient, a 68-year-old\
-    \ woman weighing 63 kg. Infusion of drug: Strength 14 % w/v, 0.9 g/kg. <br />\n\
-    \ Infusion rate: <br />\n2.1 mL/kg/hr for 45 mins, <br />\nthen 1.0 mL/kg/hr for\
-    \ 15 mins, <br />\nthen 1.5 mL/kg/hr for 15 mins, <br />\nthen 1.3 mL/kg/hr for\
+    **Answer: 380 min (nearest whole minute)**
+- id: 8002
+  question: "The following hospital prescription was written for a patient, a 84-year-old\
+    \ man weighing 67 kg. Infusion of drug: Strength 3 % w/v, 0.3 g/kg. <br />\n Infusion\
+    \ rate: <br />\n0.6 mL/kg/hr for 45 mins, <br />\nthen 2.4 mL/kg/hr for 60 mins,\
+    \ <br />\nthen 1.9 mL/kg/hr for 30 mins, <br />\nthen 1.2 mL/kg/hr for the remainder\
+    \ of the infusion. <br />\nWhat is the total infusion duration in minutes, if\
+    \ it is infused at the given rate? Round your answer to the nearest whole minute."
+  answer: 443
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 67 \text{ kg} \times 0.3 \text{ g/kg} =  20 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{20 \text{ g}}{3 \text{ g}} \times 100 \text{ ml} = 666.67 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (45 mins): \(0.6 \text{ mL/kg/hr} \times 67 \text{ kg} \times 0.75 \text{ hr} = 30.15 \text{ mL} \) <br />
+    Phase 1 (60 mins): \(2.4 \text{ mL/kg/hr} \times 67 \text{ kg} \times 1.0 \text{ hr} = 160.8 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(1.9 \text{ mL/kg/hr} \times 67 \text{ kg} \times 0.5 \text{ hr} = 63.65 \text{ mL} \) <br />
+    Total volume delivered in phases = 254.6 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 666.67-254.6 = 412.07 \text{ mL}  \) <br />
+    Final rate: \( 1.2 \text{ mL/kg/hr} \times 67 \text{ kg} = 80.4 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{412.07 \text{ mL}}{80.4 \text{ mL/hr}} \times 60 \text{ mins} = 307.515 \text{ mins} \) <br />
+    Total duration: \(45 + 60 + 30 + 307.515 = 442.515 \text{ mins} \) <br />
+    <br />
+    **Answer: 443 min (nearest whole minute)**
+- id: 8003
+  question: "The following hospital prescription was written for a patient, a 55-year-old\
+    \ woman weighing 62 kg. Infusion of drug: Strength 13 % w/v, 1.0 g/kg. <br />\n\
+    \ Infusion rate: <br />\n2.3 mL/kg/hr for 60 mins, <br />\nthen 0.5 mL/kg/hr for\
+    \ 30 mins, <br />\nthen 1.7 mL/kg/hr for 30 mins, <br />\nthen 0.7 mL/kg/hr for\
     \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
     \ minutes, if it is infused at the given rate? Round your answer to the nearest\
     \ whole minute."
-  answer: 272
+  answer: 488
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 63 \text{ kg} \times 0.9 \text{ g\kg} =  57 \text{ g} \)<br />
+    \( 62 \text{ kg} \times 1.0 \text{ g/kg} =  62 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{57 \text{ g}}{14 \text{ g}} \times 100 \text{ ml} = 407.14 \text{ ml} \) <br />
+    \( \frac{62 \text{ g}}{13 \text{ g}} \times 100 \text{ ml} = 476.92 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (45 mins): \(2.1 \text{ mL/kg/hr} \times 63 \text{ kg} \times 0.75 \text{ hr} = 99.23 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(1.0 \text{ mL/kg/hr} \times 63 \text{ kg} \times 0.25 \text{ hr} = 15.75 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(1.5 \text{ mL/kg/hr} \times 63 \text{ kg} \times 0.25 \text{ hr} = 23.62 \text{ mL} \) <br />
-    Total volume delivered in phases = 138.6 mL <br />
+    Phase 1 (60 mins): \(2.3 \text{ mL/kg/hr} \times 62 \text{ kg} \times 1.0 \text{ hr} = 142.6 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(0.5 \text{ mL/kg/hr} \times 62 \text{ kg} \times 0.5 \text{ hr} = 15.5 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(1.7 \text{ mL/kg/hr} \times 62 \text{ kg} \times 0.5 \text{ hr} = 52.7 \text{ mL} \) <br />
+    Total volume delivered in phases = 210.8 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 407.14-138.6 = 268.54 \text{ mL}  \) <br />
-    Final rate: \( 1.3 \text{ mL/kg/hr} \times 63 \text{ kg} = 81.9 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{268.54 \text{ mL}}{81.9 \text{ mL/hr}} \times 60 \text{ mins} = 196.733 \text{ mins} \) <br />
-    Total duration: \(45 + 15 + 15 + 196.733 = 271.733 \text{ mins} \) <br />
+    Remaining volume: \( 476.92-210.8 = 266.12 \text{ mL}  \) <br />
+    Final rate: \( 0.7 \text{ mL/kg/hr} \times 62 \text{ kg} = 43.4 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{266.12 \text{ mL}}{43.4 \text{ mL/hr}} \times 60 \text{ mins} = 367.908 \text{ mins} \) <br />
+    Total duration: \(60 + 30 + 30 + 367.908 = 487.908 \text{ mins} \) <br />
     <br />
-    **Answer: 272 min (nearest whole minute)**
-- id: 8018
-  question: "The following hospital prescription was written for a patient, a 64-year-old\
-    \ woman weighing 65 kg. Infusion of drug: Strength 17 % w/v, 1.4 g/kg. <br />\n\
-    \ Infusion rate: <br />\n2.4 mL/kg/hr for 60 mins, <br />\nthen 1.8 mL/kg/hr for\
-    \ 15 mins, <br />\nthen 2.4 mL/kg/hr for 15 mins, <br />\nthen 1.6 mL/kg/hr for\
+    **Answer: 488 min (nearest whole minute)**
+- id: 8004
+  question: "The following hospital prescription was written for a patient, a 77-year-old\
+    \ woman weighing 57 kg. Infusion of drug: Strength 10 % w/v, 0.7 g/kg. <br />\n\
+    \ Infusion rate: <br />\n2.2 mL/kg/hr for 45 mins, <br />\nthen 0.6 mL/kg/hr for\
+    \ 60 mins, <br />\nthen 1.3 mL/kg/hr for 15 mins, <br />\nthen 1.2 mL/kg/hr for\
     \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
     \ minutes, if it is infused at the given rate? Round your answer to the nearest\
     \ whole minute."
-  answer: 269
+  answer: 342
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 65 \text{ kg} \times 1.4 \text{ g\kg} =  91 \text{ g} \)<br />
+    \( 57 \text{ kg} \times 0.7 \text{ g/kg} =  40 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{91 \text{ g}}{17 \text{ g}} \times 100 \text{ ml} = 535.29 \text{ ml} \) <br />
+    \( \frac{40 \text{ g}}{10 \text{ g}} \times 100 \text{ ml} = 400.0 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (60 mins): \(2.4 \text{ mL/kg/hr} \times 65 \text{ kg} \times 1.0 \text{ hr} = 156.0 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(1.8 \text{ mL/kg/hr} \times 65 \text{ kg} \times 0.25 \text{ hr} = 29.25 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(2.4 \text{ mL/kg/hr} \times 65 \text{ kg} \times 0.25 \text{ hr} = 39.0 \text{ mL} \) <br />
-    Total volume delivered in phases = 224.25 mL <br />
+    Phase 1 (45 mins): \(2.2 \text{ mL/kg/hr} \times 57 \text{ kg} \times 0.75 \text{ hr} = 94.05 \text{ mL} \) <br />
+    Phase 1 (60 mins): \(0.6 \text{ mL/kg/hr} \times 57 \text{ kg} \times 1.0 \text{ hr} = 34.2 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(1.3 \text{ mL/kg/hr} \times 57 \text{ kg} \times 0.25 \text{ hr} = 18.53 \text{ mL} \) <br />
+    Total volume delivered in phases = 146.78 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 535.29-224.25 = 311.04 \text{ mL}  \) <br />
-    Final rate: \( 1.6 \text{ mL/kg/hr} \times 65 \text{ kg} = 104.0 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{311.04 \text{ mL}}{104.0 \text{ mL/hr}} \times 60 \text{ mins} = 179.446 \text{ mins} \) <br />
-    Total duration: \(60 + 15 + 15 + 179.446 = 269.446 \text{ mins} \) <br />
+    Remaining volume: \( 400.0-146.78 = 253.22 \text{ mL}  \) <br />
+    Final rate: \( 1.2 \text{ mL/kg/hr} \times 57 \text{ kg} = 68.4 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{253.22 \text{ mL}}{68.4 \text{ mL/hr}} \times 60 \text{ mins} = 222.123 \text{ mins} \) <br />
+    Total duration: \(45 + 60 + 15 + 222.123 = 342.123 \text{ mins} \) <br />
     <br />
-    **Answer: 269 min (nearest whole minute)**
-- id: 8019
-  question: "The following hospital prescription was written for a patient, a 54-year-old\
-    \ woman weighing 59 kg. Infusion of drug: Strength 10 % w/v, 1.1 g/kg. <br />\n\
-    \ Infusion rate: <br />\n1.1 mL/kg/hr for 45 mins, <br />\nthen 1.9 mL/kg/hr for\
-    \ 15 mins, <br />\nthen 2.3 mL/kg/hr for 45 mins, <br />\nthen 1.6 mL/kg/hr for\
+    **Answer: 342 min (nearest whole minute)**
+- id: 8005
+  question: "The following hospital prescription was written for a patient, a 56-year-old\
+    \ man weighing 62 kg. Infusion of drug: Strength 18 % w/v, 1.4 g/kg. <br />\n\
+    \ Infusion rate: <br />\n2.0 mL/kg/hr for 15 mins, <br />\nthen 1.6 mL/kg/hr for\
+    \ 30 mins, <br />\nthen 1.6 mL/kg/hr for 60 mins, <br />\nthen 1.3 mL/kg/hr for\
     \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
     \ minutes, if it is infused at the given rate? Round your answer to the nearest\
     \ whole minute."
-  answer: 405
+  answer: 331
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 59 \text{ kg} \times 1.1 \text{ g\kg} =  65 \text{ g} \)<br />
+    \( 62 \text{ kg} \times 1.4 \text{ g/kg} =  87 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{65 \text{ g}}{10 \text{ g}} \times 100 \text{ ml} = 650.0 \text{ ml} \) <br />
+    \( \frac{87 \text{ g}}{18 \text{ g}} \times 100 \text{ ml} = 483.33 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (45 mins): \(1.1 \text{ mL/kg/hr} \times 59 \text{ kg} \times 0.75 \text{ hr} = 48.68 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(1.9 \text{ mL/kg/hr} \times 59 \text{ kg} \times 0.25 \text{ hr} = 28.02 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(2.3 \text{ mL/kg/hr} \times 59 \text{ kg} \times 0.75 \text{ hr} = 101.77 \text{ mL} \) <br />
-    Total volume delivered in phases = 178.47 mL <br />
+    Phase 1 (15 mins): \(2.0 \text{ mL/kg/hr} \times 62 \text{ kg} \times 0.25 \text{ hr} = 31.0 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(1.6 \text{ mL/kg/hr} \times 62 \text{ kg} \times 0.5 \text{ hr} = 49.6 \text{ mL} \) <br />
+    Phase 1 (60 mins): \(1.6 \text{ mL/kg/hr} \times 62 \text{ kg} \times 1.0 \text{ hr} = 99.2 \text{ mL} \) <br />
+    Total volume delivered in phases = 179.8 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 650.0-178.47 = 471.53 \text{ mL}  \) <br />
-    Final rate: \( 1.6 \text{ mL/kg/hr} \times 59 \text{ kg} = 94.4 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{471.53 \text{ mL}}{94.4 \text{ mL/hr}} \times 60 \text{ mins} = 299.701 \text{ mins} \) <br />
-    Total duration: \(45 + 15 + 45 + 299.701 = 404.701 \text{ mins} \) <br />
+    Remaining volume: \( 483.33-179.8 = 303.53 \text{ mL}  \) <br />
+    Final rate: \( 1.3 \text{ mL/kg/hr} \times 62 \text{ kg} = 80.6 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{303.53 \text{ mL}}{80.6 \text{ mL/hr}} \times 60 \text{ mins} = 225.953 \text{ mins} \) <br />
+    Total duration: \(15 + 30 + 60 + 225.953 = 330.953 \text{ mins} \) <br />
     <br />
-    **Answer: 405 min (nearest whole minute)**
-- id: 8020
+    **Answer: 331 min (nearest whole minute)**
+- id: 8006
+  question: "The following hospital prescription was written for a patient, a 51-year-old\
+    \ woman weighing 62 kg. Infusion of drug: Strength 4 % w/v, 0.6 g/kg. <br />\n\
+    \ Infusion rate: <br />\n1.8 mL/kg/hr for 90 mins, <br />\nthen 2.2 mL/kg/hr for\
+    \ 60 mins, <br />\nthen 1.3 mL/kg/hr for 60 mins, <br />\nthen 1.6 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 537
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 62 \text{ kg} \times 0.6 \text{ g/kg} =  37 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{37 \text{ g}}{4 \text{ g}} \times 100 \text{ ml} = 925.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (90 mins): \(1.8 \text{ mL/kg/hr} \times 62 \text{ kg} \times 1.5 \text{ hr} = 167.4 \text{ mL} \) <br />
+    Phase 1 (60 mins): \(2.2 \text{ mL/kg/hr} \times 62 \text{ kg} \times 1.0 \text{ hr} = 136.4 \text{ mL} \) <br />
+    Phase 1 (60 mins): \(1.3 \text{ mL/kg/hr} \times 62 \text{ kg} \times 1.0 \text{ hr} = 80.6 \text{ mL} \) <br />
+    Total volume delivered in phases = 384.4 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 925.0-384.4 = 540.6 \text{ mL}  \) <br />
+    Final rate: \( 1.6 \text{ mL/kg/hr} \times 62 \text{ kg} = 99.2 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{540.6 \text{ mL}}{99.2 \text{ mL/hr}} \times 60 \text{ mins} = 326.976 \text{ mins} \) <br />
+    Total duration: \(90 + 60 + 60 + 326.976 = 536.976 \text{ mins} \) <br />
+    <br />
+    **Answer: 537 min (nearest whole minute)**
+- id: 8007
+  question: "The following hospital prescription was written for a patient, a 52-year-old\
+    \ man weighing 59 kg. Infusion of drug: Strength 10 % w/v, 1.5 g/kg. <br />\n\
+    \ Infusion rate: <br />\n1.9 mL/kg/hr for 45 mins, <br />\nthen 1.7 mL/kg/hr for\
+    \ 90 mins, <br />\nthen 0.6 mL/kg/hr for 15 mins, <br />\nthen 2.3 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 431
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 59 \text{ kg} \times 1.5 \text{ g/kg} =  88 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{88 \text{ g}}{10 \text{ g}} \times 100 \text{ ml} = 880.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (45 mins): \(1.9 \text{ mL/kg/hr} \times 59 \text{ kg} \times 0.75 \text{ hr} = 84.07 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(1.7 \text{ mL/kg/hr} \times 59 \text{ kg} \times 1.5 \text{ hr} = 150.45 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(0.6 \text{ mL/kg/hr} \times 59 \text{ kg} \times 0.25 \text{ hr} = 8.85 \text{ mL} \) <br />
+    Total volume delivered in phases = 243.37 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 880.0-243.37 = 636.63 \text{ mL}  \) <br />
+    Final rate: \( 2.3 \text{ mL/kg/hr} \times 59 \text{ kg} = 135.7 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{636.63 \text{ mL}}{135.7 \text{ mL/hr}} \times 60 \text{ mins} = 281.487 \text{ mins} \) <br />
+    Total duration: \(45 + 90 + 15 + 281.487 = 431.487 \text{ mins} \) <br />
+    <br />
+    **Answer: 431 min (nearest whole minute)**
+- id: 8008
   question: "The following hospital prescription was written for a patient, a 80-year-old\
-    \ man weighing 53 kg. Infusion of drug: Strength 18 % w/v, 1.5 g/kg. <br />\n\
-    \ Infusion rate: <br />\n1.3 mL/kg/hr for 45 mins, <br />\nthen 1.2 mL/kg/hr for\
-    \ 90 mins, <br />\nthen 2.3 mL/kg/hr for 45 mins, <br />\nthen 1.3 mL/kg/hr for\
+    \ man weighing 51 kg. Infusion of drug: Strength 15 % w/v, 1.1 g/kg. <br />\n\
+    \ Infusion rate: <br />\n2.5 mL/kg/hr for 90 mins, <br />\nthen 1.8 mL/kg/hr for\
+    \ 15 mins, <br />\nthen 1.0 mL/kg/hr for 45 mins, <br />\nthen 0.6 mL/kg/hr for\
     \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
     \ minutes, if it is infused at the given rate? Round your answer to the nearest\
     \ whole minute."
-  answer: 359
+  answer: 387
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 53 \text{ kg} \times 1.5 \text{ g\kg} =  80 \text{ g} \)<br />
+    \( 51 \text{ kg} \times 1.1 \text{ g/kg} =  56 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{80 \text{ g}}{18 \text{ g}} \times 100 \text{ ml} = 444.44 \text{ ml} \) <br />
+    \( \frac{56 \text{ g}}{15 \text{ g}} \times 100 \text{ ml} = 373.33 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (45 mins): \(1.3 \text{ mL/kg/hr} \times 53 \text{ kg} \times 0.75 \text{ hr} = 51.68 \text{ mL} \) <br />
-    Phase 1 (90 mins): \(1.2 \text{ mL/kg/hr} \times 53 \text{ kg} \times 1.5 \text{ hr} = 95.4 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(2.3 \text{ mL/kg/hr} \times 53 \text{ kg} \times 0.75 \text{ hr} = 91.42 \text{ mL} \) <br />
-    Total volume delivered in phases = 238.5 mL <br />
+    Phase 1 (90 mins): \(2.5 \text{ mL/kg/hr} \times 51 \text{ kg} \times 1.5 \text{ hr} = 191.25 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(1.8 \text{ mL/kg/hr} \times 51 \text{ kg} \times 0.25 \text{ hr} = 22.95 \text{ mL} \) <br />
+    Phase 1 (45 mins): \(1.0 \text{ mL/kg/hr} \times 51 \text{ kg} \times 0.75 \text{ hr} = 38.25 \text{ mL} \) <br />
+    Total volume delivered in phases = 252.45 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 444.44-238.5 = 205.94 \text{ mL}  \) <br />
-    Final rate: \( 1.3 \text{ mL/kg/hr} \times 53 \text{ kg} = 68.9 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{205.94 \text{ mL}}{68.9 \text{ mL/hr}} \times 60 \text{ mins} = 179.338 \text{ mins} \) <br />
-    Total duration: \(45 + 90 + 45 + 179.338 = 359.33799999999997 \text{ mins} \) <br />
+    Remaining volume: \( 373.33-252.45 = 120.88 \text{ mL}  \) <br />
+    Final rate: \( 0.6 \text{ mL/kg/hr} \times 51 \text{ kg} = 30.6 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{120.88 \text{ mL}}{30.6 \text{ mL/hr}} \times 60 \text{ mins} = 237.02 \text{ mins} \) <br />
+    Total duration: \(90 + 15 + 45 + 237.02 = 387.02 \text{ mins} \) <br />
     <br />
-    **Answer: 359 min (nearest whole minute)**
-- id: 8021
-  question: "The following hospital prescription was written for a patient, a 72-year-old\
-    \ man weighing 67 kg. Infusion of drug: Strength 12 % w/v, 0.8 g/kg. <br />\n\
-    \ Infusion rate: <br />\n2.1 mL/kg/hr for 30 mins, <br />\nthen 2.3 mL/kg/hr for\
-    \ 30 mins, <br />\nthen 1.4 mL/kg/hr for 45 mins, <br />\nthen 2.2 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 200
+    **Answer: 387 min (nearest whole minute)**
+- id: 8009
+  question: "The following hospital prescription was written for a patient, a 58-year-old\
+    \ man weighing 57 kg. Infusion of drug: Strength 3 % w/v, 0.2 g/kg. <br />\n Infusion\
+    \ rate: <br />\n2.5 mL/kg/hr for 60 mins, <br />\nthen 1.3 mL/kg/hr for 30 mins,\
+    \ <br />\nthen 1.0 mL/kg/hr for 45 mins, <br />\nthen 2.4 mL/kg/hr for the remainder\
+    \ of the infusion. <br />\nWhat is the total infusion duration in minutes, if\
+    \ it is infused at the given rate? Round your answer to the nearest whole minute."
+  answer: 198
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 67 \text{ kg} \times 0.8 \text{ g\kg} =  54 \text{ g} \)<br />
+    \( 57 \text{ kg} \times 0.2 \text{ g/kg} =  11 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{54 \text{ g}}{12 \text{ g}} \times 100 \text{ ml} = 450.0 \text{ ml} \) <br />
+    \( \frac{11 \text{ g}}{3 \text{ g}} \times 100 \text{ ml} = 366.67 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (30 mins): \(2.1 \text{ mL/kg/hr} \times 67 \text{ kg} \times 0.5 \text{ hr} = 70.35 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(2.3 \text{ mL/kg/hr} \times 67 \text{ kg} \times 0.5 \text{ hr} = 77.05 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(1.4 \text{ mL/kg/hr} \times 67 \text{ kg} \times 0.75 \text{ hr} = 70.35 \text{ mL} \) <br />
-    Total volume delivered in phases = 217.75 mL <br />
+    Phase 1 (60 mins): \(2.5 \text{ mL/kg/hr} \times 57 \text{ kg} \times 1.0 \text{ hr} = 142.5 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(1.3 \text{ mL/kg/hr} \times 57 \text{ kg} \times 0.5 \text{ hr} = 37.05 \text{ mL} \) <br />
+    Phase 1 (45 mins): \(1.0 \text{ mL/kg/hr} \times 57 \text{ kg} \times 0.75 \text{ hr} = 42.75 \text{ mL} \) <br />
+    Total volume delivered in phases = 222.3 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 450.0-217.75 = 232.25 \text{ mL}  \) <br />
-    Final rate: \( 2.2 \text{ mL/kg/hr} \times 67 \text{ kg} = 147.4 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{232.25 \text{ mL}}{147.4 \text{ mL/hr}} \times 60 \text{ mins} = 94.539 \text{ mins} \) <br />
-    Total duration: \(30 + 30 + 45 + 94.539 = 199.539 \text{ mins} \) <br />
+    Remaining volume: \( 366.67-222.3 = 144.37 \text{ mL}  \) <br />
+    Final rate: \( 2.4 \text{ mL/kg/hr} \times 57 \text{ kg} = 136.8 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{144.37 \text{ mL}}{136.8 \text{ mL/hr}} \times 60 \text{ mins} = 63.32 \text{ mins} \) <br />
+    Total duration: \(60 + 30 + 45 + 63.32 = 198.32 \text{ mins} \) <br />
     <br />
-    **Answer: 200 min (nearest whole minute)**
-- id: 8022
-  question: "The following hospital prescription was written for a patient, a 66-year-old\
-    \ man weighing 66 kg. Infusion of drug: Strength 13 % w/v, 1.1 g/kg. <br />\n\
-    \ Infusion rate: <br />\n1.7 mL/kg/hr for 90 mins, <br />\nthen 0.9 mL/kg/hr for\
-    \ 45 mins, <br />\nthen 1.4 mL/kg/hr for 15 mins, <br />\nthen 1.5 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 347
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 66 \text{ kg} \times 1.1 \text{ g\kg} =  73 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{73 \text{ g}}{13 \text{ g}} \times 100 \text{ ml} = 561.54 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (90 mins): \(1.7 \text{ mL/kg/hr} \times 66 \text{ kg} \times 1.5 \text{ hr} = 168.3 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(0.9 \text{ mL/kg/hr} \times 66 \text{ kg} \times 0.75 \text{ hr} = 44.55 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(1.4 \text{ mL/kg/hr} \times 66 \text{ kg} \times 0.25 \text{ hr} = 23.1 \text{ mL} \) <br />
-    Total volume delivered in phases = 235.95 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 561.54-235.95 = 325.59 \text{ mL}  \) <br />
-    Final rate: \( 1.5 \text{ mL/kg/hr} \times 66 \text{ kg} = 99.0 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{325.59 \text{ mL}}{99.0 \text{ mL/hr}} \times 60 \text{ mins} = 197.327 \text{ mins} \) <br />
-    Total duration: \(90 + 45 + 15 + 197.327 = 347.327 \text{ mins} \) <br />
-    <br />
-    **Answer: 347 min (nearest whole minute)**
-- id: 8023
-  question: "The following hospital prescription was written for a patient, a 63-year-old\
-    \ man weighing 57 kg. Infusion of drug: Strength 19 % w/v, 0.9 g/kg. <br />\n\
-    \ Infusion rate: <br />\n2.1 mL/kg/hr for 45 mins, <br />\nthen 0.9 mL/kg/hr for\
-    \ 45 mins, <br />\nthen 1.4 mL/kg/hr for 90 mins, <br />\nthen 1.3 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 197
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 57 \text{ kg} \times 0.9 \text{ g\kg} =  51 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{51 \text{ g}}{19 \text{ g}} \times 100 \text{ ml} = 268.42 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (45 mins): \(2.1 \text{ mL/kg/hr} \times 57 \text{ kg} \times 0.75 \text{ hr} = 89.78 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(0.9 \text{ mL/kg/hr} \times 57 \text{ kg} \times 0.75 \text{ hr} = 38.48 \text{ mL} \) <br />
-    Phase 1 (90 mins): \(1.4 \text{ mL/kg/hr} \times 57 \text{ kg} \times 1.5 \text{ hr} = 119.7 \text{ mL} \) <br />
-    Total volume delivered in phases = 247.96 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 268.42-247.96 = 20.46 \text{ mL}  \) <br />
-    Final rate: \( 1.3 \text{ mL/kg/hr} \times 57 \text{ kg} = 74.1 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{20.46 \text{ mL}}{74.1 \text{ mL/hr}} \times 60 \text{ mins} = 16.567 \text{ mins} \) <br />
-    Total duration: \(45 + 45 + 90 + 16.567 = 196.567 \text{ mins} \) <br />
-    <br />
-    **Answer: 197 min (nearest whole minute)**
-- id: 8024
-  question: "The following hospital prescription was written for a patient, a 82-year-old\
-    \ man weighing 71 kg. Infusion of drug: Strength 20 % w/v, 0.7 g/kg. <br />\n\
-    \ Infusion rate: <br />\n1.2 mL/kg/hr for 60 mins, <br />\nthen 0.9 mL/kg/hr for\
-    \ 15 mins, <br />\nthen 0.8 mL/kg/hr for 45 mins, <br />\nthen 1.1 mL/kg/hr for\
+    **Answer: 198 min (nearest whole minute)**
+- id: 8010
+  question: "The following hospital prescription was written for a patient, a 75-year-old\
+    \ man weighing 66 kg. Infusion of drug: Strength 18 % w/v, 1.0 g/kg. <br />\n\
+    \ Infusion rate: <br />\n1.0 mL/kg/hr for 30 mins, <br />\nthen 1.1 mL/kg/hr for\
+    \ 45 mins, <br />\nthen 2.0 mL/kg/hr for 45 mins, <br />\nthen 2.0 mL/kg/hr for\
     \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
     \ minutes, if it is infused at the given rate? Round your answer to the nearest\
     \ whole minute."
   answer: 202
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 71 \text{ kg} \times 0.7 \text{ g\kg} =  50 \text{ g} \)<br />
+    \( 66 \text{ kg} \times 1.0 \text{ g/kg} =  66 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{50 \text{ g}}{20 \text{ g}} \times 100 \text{ ml} = 250.0 \text{ ml} \) <br />
+    \( \frac{66 \text{ g}}{18 \text{ g}} \times 100 \text{ ml} = 366.67 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (60 mins): \(1.2 \text{ mL/kg/hr} \times 71 \text{ kg} \times 1.0 \text{ hr} = 85.2 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(0.9 \text{ mL/kg/hr} \times 71 \text{ kg} \times 0.25 \text{ hr} = 15.97 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(0.8 \text{ mL/kg/hr} \times 71 \text{ kg} \times 0.75 \text{ hr} = 42.6 \text{ mL} \) <br />
-    Total volume delivered in phases = 143.77 mL <br />
+    Phase 1 (30 mins): \(1.0 \text{ mL/kg/hr} \times 66 \text{ kg} \times 0.5 \text{ hr} = 33.0 \text{ mL} \) <br />
+    Phase 1 (45 mins): \(1.1 \text{ mL/kg/hr} \times 66 \text{ kg} \times 0.75 \text{ hr} = 54.45 \text{ mL} \) <br />
+    Phase 1 (45 mins): \(2.0 \text{ mL/kg/hr} \times 66 \text{ kg} \times 0.75 \text{ hr} = 99.0 \text{ mL} \) <br />
+    Total volume delivered in phases = 186.45 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 250.0-143.77 = 106.23 \text{ mL}  \) <br />
-    Final rate: \( 1.1 \text{ mL/kg/hr} \times 71 \text{ kg} = 78.1 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{106.23 \text{ mL}}{78.1 \text{ mL/hr}} \times 60 \text{ mins} = 81.611 \text{ mins} \) <br />
-    Total duration: \(60 + 15 + 45 + 81.611 = 201.611 \text{ mins} \) <br />
+    Remaining volume: \( 366.67-186.45 = 180.22 \text{ mL}  \) <br />
+    Final rate: \( 2.0 \text{ mL/kg/hr} \times 66 \text{ kg} = 132.0 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{180.22 \text{ mL}}{132.0 \text{ mL/hr}} \times 60 \text{ mins} = 81.918 \text{ mins} \) <br />
+    Total duration: \(30 + 45 + 45 + 81.918 = 201.918 \text{ mins} \) <br />
     <br />
     **Answer: 202 min (nearest whole minute)**
-- id: 8025
-  question: "The following hospital prescription was written for a patient, a 85-year-old\
-    \ woman weighing 63 kg. Infusion of drug: Strength 2 % w/v, 0.2 g/kg. <br />\n\
-    \ Infusion rate: <br />\n1.7 mL/kg/hr for 90 mins, <br />\nthen 2.0 mL/kg/hr for\
-    \ 30 mins, <br />\nthen 2.3 mL/kg/hr for 45 mins, <br />\nthen 1.2 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 417
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 63 \text{ kg} \times 0.2 \text{ g\kg} =  13 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{13 \text{ g}}{2 \text{ g}} \times 100 \text{ ml} = 650.0 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (90 mins): \(1.7 \text{ mL/kg/hr} \times 63 \text{ kg} \times 1.5 \text{ hr} = 160.65 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(2.0 \text{ mL/kg/hr} \times 63 \text{ kg} \times 0.5 \text{ hr} = 63.0 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(2.3 \text{ mL/kg/hr} \times 63 \text{ kg} \times 0.75 \text{ hr} = 108.67 \text{ mL} \) <br />
-    Total volume delivered in phases = 332.32 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 650.0-332.32 = 317.68 \text{ mL}  \) <br />
-    Final rate: \( 1.2 \text{ mL/kg/hr} \times 63 \text{ kg} = 75.6 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{317.68 \text{ mL}}{75.6 \text{ mL/hr}} \times 60 \text{ mins} = 252.127 \text{ mins} \) <br />
-    Total duration: \(90 + 30 + 45 + 252.127 = 417.127 \text{ mins} \) <br />
-    <br />
-    **Answer: 417 min (nearest whole minute)**
-- id: 8026
-  question: "The following hospital prescription was written for a patient, a 77-year-old\
-    \ woman weighing 67 kg. Infusion of drug: Strength 6 % w/v, 0.4 g/kg. <br />\n\
-    \ Infusion rate: <br />\n0.7 mL/kg/hr for 60 mins, <br />\nthen 2.1 mL/kg/hr for\
-    \ 15 mins, <br />\nthen 2.5 mL/kg/hr for 45 mins, <br />\nthen 0.8 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 391
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 67 \text{ kg} \times 0.4 \text{ g\kg} =  27 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{27 \text{ g}}{6 \text{ g}} \times 100 \text{ ml} = 450.0 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (60 mins): \(0.7 \text{ mL/kg/hr} \times 67 \text{ kg} \times 1.0 \text{ hr} = 46.9 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(2.1 \text{ mL/kg/hr} \times 67 \text{ kg} \times 0.25 \text{ hr} = 35.18 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(2.5 \text{ mL/kg/hr} \times 67 \text{ kg} \times 0.75 \text{ hr} = 125.62 \text{ mL} \) <br />
-    Total volume delivered in phases = 207.7 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 450.0-207.7 = 242.3 \text{ mL}  \) <br />
-    Final rate: \( 0.8 \text{ mL/kg/hr} \times 67 \text{ kg} = 53.6 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{242.3 \text{ mL}}{53.6 \text{ mL/hr}} \times 60 \text{ mins} = 271.231 \text{ mins} \) <br />
-    Total duration: \(60 + 15 + 45 + 271.231 = 391.231 \text{ mins} \) <br />
-    <br />
-    **Answer: 391 min (nearest whole minute)**
-- id: 8027
-  question: "The following hospital prescription was written for a patient, a 78-year-old\
-    \ man weighing 64 kg. Infusion of drug: Strength 12 % w/v, 1.2 g/kg. <br />\n\
-    \ Infusion rate: <br />\n2.2 mL/kg/hr for 60 mins, <br />\nthen 1.7 mL/kg/hr for\
-    \ 60 mins, <br />\nthen 1.1 mL/kg/hr for 90 mins, <br />\nthen 1.6 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 378
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 64 \text{ kg} \times 1.2 \text{ g\kg} =  77 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{77 \text{ g}}{12 \text{ g}} \times 100 \text{ ml} = 641.67 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (60 mins): \(2.2 \text{ mL/kg/hr} \times 64 \text{ kg} \times 1.0 \text{ hr} = 140.8 \text{ mL} \) <br />
-    Phase 1 (60 mins): \(1.7 \text{ mL/kg/hr} \times 64 \text{ kg} \times 1.0 \text{ hr} = 108.8 \text{ mL} \) <br />
-    Phase 1 (90 mins): \(1.1 \text{ mL/kg/hr} \times 64 \text{ kg} \times 1.5 \text{ hr} = 105.6 \text{ mL} \) <br />
-    Total volume delivered in phases = 355.2 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 641.67-355.2 = 286.47 \text{ mL}  \) <br />
-    Final rate: \( 1.6 \text{ mL/kg/hr} \times 64 \text{ kg} = 102.4 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{286.47 \text{ mL}}{102.4 \text{ mL/hr}} \times 60 \text{ mins} = 167.854 \text{ mins} \) <br />
-    Total duration: \(60 + 60 + 90 + 167.854 = 377.85400000000004 \text{ mins} \) <br />
-    <br />
-    **Answer: 378 min (nearest whole minute)**
-- id: 8028
-  question: "The following hospital prescription was written for a patient, a 59-year-old\
-    \ woman weighing 75 kg. Infusion of drug: Strength 16 % w/v, 1.1 g/kg. <br />\n\
-    \ Infusion rate: <br />\n0.6 mL/kg/hr for 30 mins, <br />\nthen 2.3 mL/kg/hr for\
-    \ 30 mins, <br />\nthen 1.1 mL/kg/hr for 30 mins, <br />\nthen 2.3 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 216
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 75 \text{ kg} \times 1.1 \text{ g\kg} =  82 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{82 \text{ g}}{16 \text{ g}} \times 100 \text{ ml} = 512.5 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (30 mins): \(0.6 \text{ mL/kg/hr} \times 75 \text{ kg} \times 0.5 \text{ hr} = 22.5 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(2.3 \text{ mL/kg/hr} \times 75 \text{ kg} \times 0.5 \text{ hr} = 86.25 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(1.1 \text{ mL/kg/hr} \times 75 \text{ kg} \times 0.5 \text{ hr} = 41.25 \text{ mL} \) <br />
-    Total volume delivered in phases = 150.0 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 512.5-150.0 = 362.5 \text{ mL}  \) <br />
-    Final rate: \( 2.3 \text{ mL/kg/hr} \times 75 \text{ kg} = 172.5 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{362.5 \text{ mL}}{172.5 \text{ mL/hr}} \times 60 \text{ mins} = 126.087 \text{ mins} \) <br />
-    Total duration: \(30 + 30 + 30 + 126.087 = 216.087 \text{ mins} \) <br />
-    <br />
-    **Answer: 216 min (nearest whole minute)**
-- id: 8029
-  question: "The following hospital prescription was written for a patient, a 73-year-old\
-    \ man weighing 64 kg. Infusion of drug: Strength 8 % w/v, 0.5 g/kg. <br />\n Infusion\
-    \ rate: <br />\n1.7 mL/kg/hr for 15 mins, <br />\nthen 2.1 mL/kg/hr for 30 mins,\
-    \ <br />\nthen 0.9 mL/kg/hr for 60 mins, <br />\nthen 1.1 mL/kg/hr for the remainder\
+- id: 8011
+  question: "The following hospital prescription was written for a patient, a 61-year-old\
+    \ man weighing 52 kg. Infusion of drug: Strength 4 % w/v, 0.8 g/kg. <br />\n Infusion\
+    \ rate: <br />\n0.6 mL/kg/hr for 45 mins, <br />\nthen 1.8 mL/kg/hr for 90 mins,\
+    \ <br />\nthen 1.4 mL/kg/hr for 30 mins, <br />\nthen 2.5 mL/kg/hr for the remainder\
     \ of the infusion. <br />\nWhat is the total infusion duration in minutes, if\
     \ it is infused at the given rate? Round your answer to the nearest whole minute."
-  answer: 316
+  answer: 557
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 64 \text{ kg} \times 0.5 \text{ g\kg} =  32 \text{ g} \)<br />
+    \( 52 \text{ kg} \times 0.8 \text{ g/kg} =  42 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{32 \text{ g}}{8 \text{ g}} \times 100 \text{ ml} = 400.0 \text{ ml} \) <br />
+    \( \frac{42 \text{ g}}{4 \text{ g}} \times 100 \text{ ml} = 1050.0 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (15 mins): \(1.7 \text{ mL/kg/hr} \times 64 \text{ kg} \times 0.25 \text{ hr} = 27.2 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(2.1 \text{ mL/kg/hr} \times 64 \text{ kg} \times 0.5 \text{ hr} = 67.2 \text{ mL} \) <br />
-    Phase 1 (60 mins): \(0.9 \text{ mL/kg/hr} \times 64 \text{ kg} \times 1.0 \text{ hr} = 57.6 \text{ mL} \) <br />
-    Total volume delivered in phases = 152.0 mL <br />
+    Phase 1 (45 mins): \(0.6 \text{ mL/kg/hr} \times 52 \text{ kg} \times 0.75 \text{ hr} = 23.4 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(1.8 \text{ mL/kg/hr} \times 52 \text{ kg} \times 1.5 \text{ hr} = 140.4 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(1.4 \text{ mL/kg/hr} \times 52 \text{ kg} \times 0.5 \text{ hr} = 36.4 \text{ mL} \) <br />
+    Total volume delivered in phases = 200.2 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 400.0-152.0 = 248.0 \text{ mL}  \) <br />
-    Final rate: \( 1.1 \text{ mL/kg/hr} \times 64 \text{ kg} = 70.4 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{248.0 \text{ mL}}{70.4 \text{ mL/hr}} \times 60 \text{ mins} = 211.364 \text{ mins} \) <br />
-    Total duration: \(15 + 30 + 60 + 211.364 = 316.36400000000003 \text{ mins} \) <br />
+    Remaining volume: \( 1050.0-200.2 = 849.8 \text{ mL}  \) <br />
+    Final rate: \( 2.5 \text{ mL/kg/hr} \times 52 \text{ kg} = 130.0 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{849.8 \text{ mL}}{130.0 \text{ mL/hr}} \times 60 \text{ mins} = 392.215 \text{ mins} \) <br />
+    Total duration: \(45 + 90 + 30 + 392.215 = 557.2149999999999 \text{ mins} \) <br />
     <br />
-    **Answer: 316 min (nearest whole minute)**
-- id: 8030
-  question: "The following hospital prescription was written for a patient, a 64-year-old\
-    \ man weighing 50 kg. Infusion of drug: Strength 17 % w/v, 1.4 g/kg. <br />\n\
-    \ Infusion rate: <br />\n2.2 mL/kg/hr for 30 mins, <br />\nthen 1.0 mL/kg/hr for\
-    \ 90 mins, <br />\nthen 0.8 mL/kg/hr for 60 mins, <br />\nthen 1.3 mL/kg/hr for\
+    **Answer: 557 min (nearest whole minute)**
+- id: 8012
+  question: "The following hospital prescription was written for a patient, a 63-year-old\
+    \ woman weighing 66 kg. Infusion of drug: Strength 19 % w/v, 1.1 g/kg. <br />\n\
+    \ Infusion rate: <br />\n2.0 mL/kg/hr for 15 mins, <br />\nthen 2.2 mL/kg/hr for\
+    \ 90 mins, <br />\nthen 1.8 mL/kg/hr for 30 mins, <br />\nthen 1.2 mL/kg/hr for\
     \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
     \ minutes, if it is infused at the given rate? Round your answer to the nearest\
     \ whole minute."
-  answer: 403
+  answer: 191
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 50 \text{ kg} \times 1.4 \text{ g\kg} =  70 \text{ g} \)<br />
+    \( 66 \text{ kg} \times 1.1 \text{ g/kg} =  73 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{70 \text{ g}}{17 \text{ g}} \times 100 \text{ ml} = 411.76 \text{ ml} \) <br />
+    \( \frac{73 \text{ g}}{19 \text{ g}} \times 100 \text{ ml} = 384.21 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (30 mins): \(2.2 \text{ mL/kg/hr} \times 50 \text{ kg} \times 0.5 \text{ hr} = 55.0 \text{ mL} \) <br />
-    Phase 1 (90 mins): \(1.0 \text{ mL/kg/hr} \times 50 \text{ kg} \times 1.5 \text{ hr} = 75.0 \text{ mL} \) <br />
-    Phase 1 (60 mins): \(0.8 \text{ mL/kg/hr} \times 50 \text{ kg} \times 1.0 \text{ hr} = 40.0 \text{ mL} \) <br />
-    Total volume delivered in phases = 170.0 mL <br />
+    Phase 1 (15 mins): \(2.0 \text{ mL/kg/hr} \times 66 \text{ kg} \times 0.25 \text{ hr} = 33.0 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(2.2 \text{ mL/kg/hr} \times 66 \text{ kg} \times 1.5 \text{ hr} = 217.8 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(1.8 \text{ mL/kg/hr} \times 66 \text{ kg} \times 0.5 \text{ hr} = 59.4 \text{ mL} \) <br />
+    Total volume delivered in phases = 310.2 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 411.76-170.0 = 241.76 \text{ mL}  \) <br />
-    Final rate: \( 1.3 \text{ mL/kg/hr} \times 50 \text{ kg} = 65.0 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{241.76 \text{ mL}}{65.0 \text{ mL/hr}} \times 60 \text{ mins} = 223.163 \text{ mins} \) <br />
-    Total duration: \(30 + 90 + 60 + 223.163 = 403.163 \text{ mins} \) <br />
+    Remaining volume: \( 384.21-310.2 = 74.01 \text{ mL}  \) <br />
+    Final rate: \( 1.2 \text{ mL/kg/hr} \times 66 \text{ kg} = 79.2 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{74.01 \text{ mL}}{79.2 \text{ mL/hr}} \times 60 \text{ mins} = 56.068 \text{ mins} \) <br />
+    Total duration: \(15 + 90 + 30 + 56.068 = 191.06799999999998 \text{ mins} \) <br />
     <br />
-    **Answer: 403 min (nearest whole minute)**
-- id: 8031
-  question: "The following hospital prescription was written for a patient, a 53-year-old\
-    \ woman weighing 69 kg. Infusion of drug: Strength 18 % w/v, 1.1 g/kg. <br />\n\
-    \ Infusion rate: <br />\n1.3 mL/kg/hr for 45 mins, <br />\nthen 1.4 mL/kg/hr for\
-    \ 90 mins, <br />\nthen 1.5 mL/kg/hr for 60 mins, <br />\nthen 1.7 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 249
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 69 \text{ kg} \times 1.1 \text{ g\kg} =  76 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{76 \text{ g}}{18 \text{ g}} \times 100 \text{ ml} = 422.22 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (45 mins): \(1.3 \text{ mL/kg/hr} \times 69 \text{ kg} \times 0.75 \text{ hr} = 67.28 \text{ mL} \) <br />
-    Phase 1 (90 mins): \(1.4 \text{ mL/kg/hr} \times 69 \text{ kg} \times 1.5 \text{ hr} = 144.9 \text{ mL} \) <br />
-    Phase 1 (60 mins): \(1.5 \text{ mL/kg/hr} \times 69 \text{ kg} \times 1.0 \text{ hr} = 103.5 \text{ mL} \) <br />
-    Total volume delivered in phases = 315.68 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 422.22-315.68 = 106.54 \text{ mL}  \) <br />
-    Final rate: \( 1.7 \text{ mL/kg/hr} \times 69 \text{ kg} = 117.3 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{106.54 \text{ mL}}{117.3 \text{ mL/hr}} \times 60 \text{ mins} = 54.496 \text{ mins} \) <br />
-    Total duration: \(45 + 90 + 60 + 54.496 = 249.496 \text{ mins} \) <br />
-    <br />
-    **Answer: 249 min (nearest whole minute)**
-- id: 8032
-  question: "The following hospital prescription was written for a patient, a 66-year-old\
-    \ man weighing 60 kg. Infusion of drug: Strength 16 % w/v, 0.6 g/kg. <br />\n\
-    \ Infusion rate: <br />\n2.3 mL/kg/hr for 45 mins, <br />\nthen 1.6 mL/kg/hr for\
-    \ 30 mins, <br />\nthen 0.8 mL/kg/hr for 15 mins, <br />\nthen 2.2 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 118
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 60 \text{ kg} \times 0.6 \text{ g\kg} =  36 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{36 \text{ g}}{16 \text{ g}} \times 100 \text{ ml} = 225.0 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (45 mins): \(2.3 \text{ mL/kg/hr} \times 60 \text{ kg} \times 0.75 \text{ hr} = 103.5 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(1.6 \text{ mL/kg/hr} \times 60 \text{ kg} \times 0.5 \text{ hr} = 48.0 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(0.8 \text{ mL/kg/hr} \times 60 \text{ kg} \times 0.25 \text{ hr} = 12.0 \text{ mL} \) <br />
-    Total volume delivered in phases = 163.5 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 225.0-163.5 = 61.5 \text{ mL}  \) <br />
-    Final rate: \( 2.2 \text{ mL/kg/hr} \times 60 \text{ kg} = 132.0 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{61.5 \text{ mL}}{132.0 \text{ mL/hr}} \times 60 \text{ mins} = 27.955 \text{ mins} \) <br />
-    Total duration: \(45 + 30 + 15 + 27.955 = 117.955 \text{ mins} \) <br />
-    <br />
-    **Answer: 118 min (nearest whole minute)**
-- id: 8033
-  question: "The following hospital prescription was written for a patient, a 73-year-old\
-    \ man weighing 51 kg. Infusion of drug: Strength 11 % w/v, 1.3 g/kg. <br />\n\
-    \ Infusion rate: <br />\n1.5 mL/kg/hr for 30 mins, <br />\nthen 2.5 mL/kg/hr for\
-    \ 90 mins, <br />\nthen 1.3 mL/kg/hr for 15 mins, <br />\nthen 1.8 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 366
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 51 \text{ kg} \times 1.3 \text{ g\kg} =  66 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{66 \text{ g}}{11 \text{ g}} \times 100 \text{ ml} = 600.0 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (30 mins): \(1.5 \text{ mL/kg/hr} \times 51 \text{ kg} \times 0.5 \text{ hr} = 38.25 \text{ mL} \) <br />
-    Phase 1 (90 mins): \(2.5 \text{ mL/kg/hr} \times 51 \text{ kg} \times 1.5 \text{ hr} = 191.25 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(1.3 \text{ mL/kg/hr} \times 51 \text{ kg} \times 0.25 \text{ hr} = 16.57 \text{ mL} \) <br />
-    Total volume delivered in phases = 246.07 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 600.0-246.07 = 353.93 \text{ mL}  \) <br />
-    Final rate: \( 1.8 \text{ mL/kg/hr} \times 51 \text{ kg} = 91.8 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{353.93 \text{ mL}}{91.8 \text{ mL/hr}} \times 60 \text{ mins} = 231.327 \text{ mins} \) <br />
-    Total duration: \(30 + 90 + 15 + 231.327 = 366.327 \text{ mins} \) <br />
-    <br />
-    **Answer: 366 min (nearest whole minute)**
-- id: 8034
-  question: "The following hospital prescription was written for a patient, a 59-year-old\
-    \ woman weighing 66 kg. Infusion of drug: Strength 14 % w/v, 1.5 g/kg. <br />\n\
-    \ Infusion rate: <br />\n1.3 mL/kg/hr for 30 mins, <br />\nthen 1.4 mL/kg/hr for\
-    \ 90 mins, <br />\nthen 1.8 mL/kg/hr for 60 mins, <br />\nthen 1.1 mL/kg/hr for\
-    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
-    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
-    \ whole minute."
-  answer: 516
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 66 \text{ kg} \times 1.5 \text{ g\kg} =  99 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{99 \text{ g}}{14 \text{ g}} \times 100 \text{ ml} = 707.14 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (30 mins): \(1.3 \text{ mL/kg/hr} \times 66 \text{ kg} \times 0.5 \text{ hr} = 42.9 \text{ mL} \) <br />
-    Phase 1 (90 mins): \(1.4 \text{ mL/kg/hr} \times 66 \text{ kg} \times 1.5 \text{ hr} = 138.6 \text{ mL} \) <br />
-    Phase 1 (60 mins): \(1.8 \text{ mL/kg/hr} \times 66 \text{ kg} \times 1.0 \text{ hr} = 118.8 \text{ mL} \) <br />
-    Total volume delivered in phases = 300.3 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 707.14-300.3 = 406.84 \text{ mL}  \) <br />
-    Final rate: \( 1.1 \text{ mL/kg/hr} \times 66 \text{ kg} = 72.6 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{406.84 \text{ mL}}{72.6 \text{ mL/hr}} \times 60 \text{ mins} = 336.231 \text{ mins} \) <br />
-    Total duration: \(30 + 90 + 60 + 336.231 = 516.231 \text{ mins} \) <br />
-    <br />
-    **Answer: 516 min (nearest whole minute)**
-- id: 8035
+    **Answer: 191 min (nearest whole minute)**
+- id: 8013
   question: "The following hospital prescription was written for a patient, a 55-year-old\
-    \ man weighing 64 kg. Infusion of drug: Strength 7 % w/v, 0.5 g/kg. <br />\n Infusion\
-    \ rate: <br />\n1.0 mL/kg/hr for 30 mins, <br />\nthen 2.0 mL/kg/hr for 30 mins,\
-    \ <br />\nthen 0.7 mL/kg/hr for 30 mins, <br />\nthen 1.5 mL/kg/hr for the remainder\
-    \ of the infusion. <br />\nWhat is the total infusion duration in minutes, if\
-    \ it is infused at the given rate? Round your answer to the nearest whole minute."
-  answer: 302
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 64 \text{ kg} \times 0.5 \text{ g\kg} =  32 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{32 \text{ g}}{7 \text{ g}} \times 100 \text{ ml} = 457.14 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (30 mins): \(1.0 \text{ mL/kg/hr} \times 64 \text{ kg} \times 0.5 \text{ hr} = 32.0 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(2.0 \text{ mL/kg/hr} \times 64 \text{ kg} \times 0.5 \text{ hr} = 64.0 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(0.7 \text{ mL/kg/hr} \times 64 \text{ kg} \times 0.5 \text{ hr} = 22.4 \text{ mL} \) <br />
-    Total volume delivered in phases = 118.4 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 457.14-118.4 = 338.74 \text{ mL}  \) <br />
-    Final rate: \( 1.5 \text{ mL/kg/hr} \times 64 \text{ kg} = 96.0 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{338.74 \text{ mL}}{96.0 \text{ mL/hr}} \times 60 \text{ mins} = 211.713 \text{ mins} \) <br />
-    Total duration: \(30 + 30 + 30 + 211.713 = 301.71299999999997 \text{ mins} \) <br />
-    <br />
-    **Answer: 302 min (nearest whole minute)**
-- id: 8036
-  question: "The following hospital prescription was written for a patient, a 70-year-old\
-    \ woman weighing 73 kg. Infusion of drug: Strength 3 % w/v, 0.1 g/kg. <br />\n\
-    \ Infusion rate: <br />\n1.0 mL/kg/hr for 45 mins, <br />\nthen 2.4 mL/kg/hr for\
-    \ 30 mins, <br />\nthen 1.6 mL/kg/hr for 15 mins, <br />\nthen 2.2 mL/kg/hr for\
+    \ man weighing 67 kg. Infusion of drug: Strength 17 % w/v, 1.1 g/kg. <br />\n\
+    \ Infusion rate: <br />\n1.7 mL/kg/hr for 15 mins, <br />\nthen 2.0 mL/kg/hr for\
+    \ 15 mins, <br />\nthen 0.8 mL/kg/hr for 15 mins, <br />\nthen 2.3 mL/kg/hr for\
     \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
     \ minutes, if it is infused at the given rate? Round your answer to the nearest\
     \ whole minute."
-  answer: 113
+  answer: 185
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 73 \text{ kg} \times 0.1 \text{ g\kg} =  7 \text{ g} \)<br />
+    \( 67 \text{ kg} \times 1.1 \text{ g/kg} =  74 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{7 \text{ g}}{3 \text{ g}} \times 100 \text{ ml} = 233.33 \text{ ml} \) <br />
+    \( \frac{74 \text{ g}}{17 \text{ g}} \times 100 \text{ ml} = 435.29 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (45 mins): \(1.0 \text{ mL/kg/hr} \times 73 \text{ kg} \times 0.75 \text{ hr} = 54.75 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(2.4 \text{ mL/kg/hr} \times 73 \text{ kg} \times 0.5 \text{ hr} = 87.6 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(1.6 \text{ mL/kg/hr} \times 73 \text{ kg} \times 0.25 \text{ hr} = 29.2 \text{ mL} \) <br />
-    Total volume delivered in phases = 171.55 mL <br />
+    Phase 1 (15 mins): \(1.7 \text{ mL/kg/hr} \times 67 \text{ kg} \times 0.25 \text{ hr} = 28.47 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(2.0 \text{ mL/kg/hr} \times 67 \text{ kg} \times 0.25 \text{ hr} = 33.5 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(0.8 \text{ mL/kg/hr} \times 67 \text{ kg} \times 0.25 \text{ hr} = 13.4 \text{ mL} \) <br />
+    Total volume delivered in phases = 75.37 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 233.33-171.55 = 61.78 \text{ mL}  \) <br />
-    Final rate: \( 2.2 \text{ mL/kg/hr} \times 73 \text{ kg} = 160.6 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{61.78 \text{ mL}}{160.6 \text{ mL/hr}} \times 60 \text{ mins} = 23.081 \text{ mins} \) <br />
-    Total duration: \(45 + 30 + 15 + 23.081 = 113.081 \text{ mins} \) <br />
+    Remaining volume: \( 435.29-75.37 = 359.92 \text{ mL}  \) <br />
+    Final rate: \( 2.3 \text{ mL/kg/hr} \times 67 \text{ kg} = 154.1 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{359.92 \text{ mL}}{154.1 \text{ mL/hr}} \times 60 \text{ mins} = 140.138 \text{ mins} \) <br />
+    Total duration: \(15 + 15 + 15 + 140.138 = 185.138 \text{ mins} \) <br />
     <br />
-    **Answer: 113 min (nearest whole minute)**
-- id: 8037
+    **Answer: 185 min (nearest whole minute)**
+- id: 8014
   question: "The following hospital prescription was written for a patient, a 64-year-old\
-    \ man weighing 59 kg. Infusion of drug: Strength 4 % w/v, 0.4 g/kg. <br />\n Infusion\
-    \ rate: <br />\n1.3 mL/kg/hr for 90 mins, <br />\nthen 1.8 mL/kg/hr for 45 mins,\
-    \ <br />\nthen 1.4 mL/kg/hr for 60 mins, <br />\nthen 2.3 mL/kg/hr for the remainder\
+    \ woman weighing 65 kg. Infusion of drug: Strength 20 % w/v, 0.7 g/kg. <br />\n\
+    \ Infusion rate: <br />\n1.2 mL/kg/hr for 30 mins, <br />\nthen 1.7 mL/kg/hr for\
+    \ 15 mins, <br />\nthen 1.3 mL/kg/hr for 45 mins, <br />\nthen 2.3 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 130
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 65 \text{ kg} \times 0.7 \text{ g/kg} =  46 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{46 \text{ g}}{20 \text{ g}} \times 100 \text{ ml} = 230.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (30 mins): \(1.2 \text{ mL/kg/hr} \times 65 \text{ kg} \times 0.5 \text{ hr} = 39.0 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(1.7 \text{ mL/kg/hr} \times 65 \text{ kg} \times 0.25 \text{ hr} = 27.62 \text{ mL} \) <br />
+    Phase 1 (45 mins): \(1.3 \text{ mL/kg/hr} \times 65 \text{ kg} \times 0.75 \text{ hr} = 63.38 \text{ mL} \) <br />
+    Total volume delivered in phases = 130.0 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 230.0-130.0 = 100.0 \text{ mL}  \) <br />
+    Final rate: \( 2.3 \text{ mL/kg/hr} \times 65 \text{ kg} = 149.5 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{100.0 \text{ mL}}{149.5 \text{ mL/hr}} \times 60 \text{ mins} = 40.134 \text{ mins} \) <br />
+    Total duration: \(30 + 15 + 45 + 40.134 = 130.13400000000001 \text{ mins} \) <br />
+    <br />
+    **Answer: 130 min (nearest whole minute)**
+- id: 8015
+  question: "The following hospital prescription was written for a patient, a 56-year-old\
+    \ man weighing 50 kg. Infusion of drug: Strength 13 % w/v, 0.9 g/kg. <br />\n\
+    \ Infusion rate: <br />\n0.9 mL/kg/hr for 90 mins, <br />\nthen 0.6 mL/kg/hr for\
+    \ 15 mins, <br />\nthen 2.4 mL/kg/hr for 30 mins, <br />\nthen 1.7 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 284
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 50 \text{ kg} \times 0.9 \text{ g/kg} =  45 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{45 \text{ g}}{13 \text{ g}} \times 100 \text{ ml} = 346.15 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (90 mins): \(0.9 \text{ mL/kg/hr} \times 50 \text{ kg} \times 1.5 \text{ hr} = 67.5 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(0.6 \text{ mL/kg/hr} \times 50 \text{ kg} \times 0.25 \text{ hr} = 7.5 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(2.4 \text{ mL/kg/hr} \times 50 \text{ kg} \times 0.5 \text{ hr} = 60.0 \text{ mL} \) <br />
+    Total volume delivered in phases = 135.0 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 346.15-135.0 = 211.15 \text{ mL}  \) <br />
+    Final rate: \( 1.7 \text{ mL/kg/hr} \times 50 \text{ kg} = 85.0 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{211.15 \text{ mL}}{85.0 \text{ mL/hr}} \times 60 \text{ mins} = 149.047 \text{ mins} \) <br />
+    Total duration: \(90 + 15 + 30 + 149.047 = 284.047 \text{ mins} \) <br />
+    <br />
+    **Answer: 284 min (nearest whole minute)**
+- id: 8016
+  question: "The following hospital prescription was written for a patient, a 80-year-old\
+    \ woman weighing 55 kg. Infusion of drug: Strength 4 % w/v, 0.1 g/kg. <br />\n\
+    \ Infusion rate: <br />\n0.8 mL/kg/hr for 45 mins, <br />\nthen 0.9 mL/kg/hr for\
+    \ 60 mins, <br />\nthen 0.6 mL/kg/hr for 15 mins, <br />\nthen 2.1 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 151
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 55 \text{ kg} \times 0.1 \text{ g/kg} =  6 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{6 \text{ g}}{4 \text{ g}} \times 100 \text{ ml} = 150.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (45 mins): \(0.8 \text{ mL/kg/hr} \times 55 \text{ kg} \times 0.75 \text{ hr} = 33.0 \text{ mL} \) <br />
+    Phase 1 (60 mins): \(0.9 \text{ mL/kg/hr} \times 55 \text{ kg} \times 1.0 \text{ hr} = 49.5 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(0.6 \text{ mL/kg/hr} \times 55 \text{ kg} \times 0.25 \text{ hr} = 8.25 \text{ mL} \) <br />
+    Total volume delivered in phases = 90.75 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 150.0-90.75 = 59.25 \text{ mL}  \) <br />
+    Final rate: \( 2.1 \text{ mL/kg/hr} \times 55 \text{ kg} = 115.5 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{59.25 \text{ mL}}{115.5 \text{ mL/hr}} \times 60 \text{ mins} = 30.779 \text{ mins} \) <br />
+    Total duration: \(45 + 60 + 15 + 30.779 = 150.779 \text{ mins} \) <br />
+    <br />
+    **Answer: 151 min (nearest whole minute)**
+- id: 8017
+  question: "The following hospital prescription was written for a patient, a 69-year-old\
+    \ woman weighing 53 kg. Infusion of drug: Strength 15 % w/v, 0.8 g/kg. <br />\n\
+    \ Infusion rate: <br />\n0.8 mL/kg/hr for 90 mins, <br />\nthen 1.5 mL/kg/hr for\
+    \ 30 mins, <br />\nthen 0.8 mL/kg/hr for 30 mins, <br />\nthen 1.2 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 297
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 53 \text{ kg} \times 0.8 \text{ g/kg} =  42 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{42 \text{ g}}{15 \text{ g}} \times 100 \text{ ml} = 280.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (90 mins): \(0.8 \text{ mL/kg/hr} \times 53 \text{ kg} \times 1.5 \text{ hr} = 63.6 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(1.5 \text{ mL/kg/hr} \times 53 \text{ kg} \times 0.5 \text{ hr} = 39.75 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(0.8 \text{ mL/kg/hr} \times 53 \text{ kg} \times 0.5 \text{ hr} = 21.2 \text{ mL} \) <br />
+    Total volume delivered in phases = 124.55 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 280.0-124.55 = 155.45 \text{ mL}  \) <br />
+    Final rate: \( 1.2 \text{ mL/kg/hr} \times 53 \text{ kg} = 63.6 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{155.45 \text{ mL}}{63.6 \text{ mL/hr}} \times 60 \text{ mins} = 146.651 \text{ mins} \) <br />
+    Total duration: \(90 + 30 + 30 + 146.651 = 296.651 \text{ mins} \) <br />
+    <br />
+    **Answer: 297 min (nearest whole minute)**
+- id: 8018
+  question: "The following hospital prescription was written for a patient, a 75-year-old\
+    \ man weighing 62 kg. Infusion of drug: Strength 15 % w/v, 1.1 g/kg. <br />\n\
+    \ Infusion rate: <br />\n0.6 mL/kg/hr for 45 mins, <br />\nthen 1.5 mL/kg/hr for\
+    \ 30 mins, <br />\nthen 2.4 mL/kg/hr for 30 mins, <br />\nthen 2.4 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 228
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 62 \text{ kg} \times 1.1 \text{ g/kg} =  68 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{68 \text{ g}}{15 \text{ g}} \times 100 \text{ ml} = 453.33 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (45 mins): \(0.6 \text{ mL/kg/hr} \times 62 \text{ kg} \times 0.75 \text{ hr} = 27.9 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(1.5 \text{ mL/kg/hr} \times 62 \text{ kg} \times 0.5 \text{ hr} = 46.5 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(2.4 \text{ mL/kg/hr} \times 62 \text{ kg} \times 0.5 \text{ hr} = 74.4 \text{ mL} \) <br />
+    Total volume delivered in phases = 148.8 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 453.33-148.8 = 304.53 \text{ mL}  \) <br />
+    Final rate: \( 2.4 \text{ mL/kg/hr} \times 62 \text{ kg} = 148.8 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{304.53 \text{ mL}}{148.8 \text{ mL/hr}} \times 60 \text{ mins} = 122.794 \text{ mins} \) <br />
+    Total duration: \(45 + 30 + 30 + 122.794 = 227.79399999999998 \text{ mins} \) <br />
+    <br />
+    **Answer: 228 min (nearest whole minute)**
+- id: 8019
+  question: "The following hospital prescription was written for a patient, a 82-year-old\
+    \ man weighing 50 kg. Infusion of drug: Strength 6 % w/v, 0.7 g/kg. <br />\n Infusion\
+    \ rate: <br />\n0.6 mL/kg/hr for 60 mins, <br />\nthen 0.8 mL/kg/hr for 45 mins,\
+    \ <br />\nthen 0.5 mL/kg/hr for 45 mins, <br />\nthen 2.0 mL/kg/hr for the remainder\
     \ of the infusion. <br />\nWhat is the total infusion duration in minutes, if\
     \ it is infused at the given rate? Round your answer to the nearest whole minute."
-  answer: 338
+  answer: 453
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 59 \text{ kg} \times 0.4 \text{ g\kg} =  24 \text{ g} \)<br />
+    \( 50 \text{ kg} \times 0.7 \text{ g/kg} =  35 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{24 \text{ g}}{4 \text{ g}} \times 100 \text{ ml} = 600.0 \text{ ml} \) <br />
+    \( \frac{35 \text{ g}}{6 \text{ g}} \times 100 \text{ ml} = 583.33 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (90 mins): \(1.3 \text{ mL/kg/hr} \times 59 \text{ kg} \times 1.5 \text{ hr} = 115.05 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(1.8 \text{ mL/kg/hr} \times 59 \text{ kg} \times 0.75 \text{ hr} = 79.65 \text{ mL} \) <br />
-    Phase 1 (60 mins): \(1.4 \text{ mL/kg/hr} \times 59 \text{ kg} \times 1.0 \text{ hr} = 82.6 \text{ mL} \) <br />
-    Total volume delivered in phases = 277.3 mL <br />
+    Phase 1 (60 mins): \(0.6 \text{ mL/kg/hr} \times 50 \text{ kg} \times 1.0 \text{ hr} = 30.0 \text{ mL} \) <br />
+    Phase 1 (45 mins): \(0.8 \text{ mL/kg/hr} \times 50 \text{ kg} \times 0.75 \text{ hr} = 30.0 \text{ mL} \) <br />
+    Phase 1 (45 mins): \(0.5 \text{ mL/kg/hr} \times 50 \text{ kg} \times 0.75 \text{ hr} = 18.75 \text{ mL} \) <br />
+    Total volume delivered in phases = 78.75 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 600.0-277.3 = 322.7 \text{ mL}  \) <br />
-    Final rate: \( 2.3 \text{ mL/kg/hr} \times 59 \text{ kg} = 135.7 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{322.7 \text{ mL}}{135.7 \text{ mL/hr}} \times 60 \text{ mins} = 142.682 \text{ mins} \) <br />
-    Total duration: \(90 + 45 + 60 + 142.682 = 337.682 \text{ mins} \) <br />
+    Remaining volume: \( 583.33-78.75 = 504.58 \text{ mL}  \) <br />
+    Final rate: \( 2.0 \text{ mL/kg/hr} \times 50 \text{ kg} = 100.0 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{504.58 \text{ mL}}{100.0 \text{ mL/hr}} \times 60 \text{ mins} = 302.748 \text{ mins} \) <br />
+    Total duration: \(60 + 45 + 45 + 302.748 = 452.748 \text{ mins} \) <br />
     <br />
-    **Answer: 338 min (nearest whole minute)**
-- id: 8038
-  question: "The following hospital prescription was written for a patient, a 81-year-old\
-    \ man weighing 50 kg. Infusion of drug: Strength 19 % w/v, 0.6 g/kg. <br />\n\
-    \ Infusion rate: <br />\n1.2 mL/kg/hr for 30 mins, <br />\nthen 2.2 mL/kg/hr for\
-    \ 15 mins, <br />\nthen 1.2 mL/kg/hr for 90 mins, <br />\nthen 1.0 mL/kg/hr for\
+    **Answer: 453 min (nearest whole minute)**
+- id: 8020
+  question: "The following hospital prescription was written for a patient, a 80-year-old\
+    \ man weighing 72 kg. Infusion of drug: Strength 13 % w/v, 0.7 g/kg. <br />\n\
+    \ Infusion rate: <br />\n2.5 mL/kg/hr for 45 mins, <br />\nthen 1.7 mL/kg/hr for\
+    \ 30 mins, <br />\nthen 1.4 mL/kg/hr for 90 mins, <br />\nthen 1.0 mL/kg/hr for\
     \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
     \ minutes, if it is infused at the given rate? Round your answer to the nearest\
     \ whole minute."
-  answer: 147
+  answer: 196
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 50 \text{ kg} \times 0.6 \text{ g\kg} =  30 \text{ g} \)<br />
+    \( 72 \text{ kg} \times 0.7 \text{ g/kg} =  50 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{30 \text{ g}}{19 \text{ g}} \times 100 \text{ ml} = 157.89 \text{ ml} \) <br />
+    \( \frac{50 \text{ g}}{13 \text{ g}} \times 100 \text{ ml} = 384.62 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (30 mins): \(1.2 \text{ mL/kg/hr} \times 50 \text{ kg} \times 0.5 \text{ hr} = 30.0 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(2.2 \text{ mL/kg/hr} \times 50 \text{ kg} \times 0.25 \text{ hr} = 27.5 \text{ mL} \) <br />
-    Phase 1 (90 mins): \(1.2 \text{ mL/kg/hr} \times 50 \text{ kg} \times 1.5 \text{ hr} = 90.0 \text{ mL} \) <br />
-    Total volume delivered in phases = 147.5 mL <br />
+    Phase 1 (45 mins): \(2.5 \text{ mL/kg/hr} \times 72 \text{ kg} \times 0.75 \text{ hr} = 135.0 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(1.7 \text{ mL/kg/hr} \times 72 \text{ kg} \times 0.5 \text{ hr} = 61.2 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(1.4 \text{ mL/kg/hr} \times 72 \text{ kg} \times 1.5 \text{ hr} = 151.2 \text{ mL} \) <br />
+    Total volume delivered in phases = 347.4 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 157.89-147.5 = 10.39 \text{ mL}  \) <br />
-    Final rate: \( 1.0 \text{ mL/kg/hr} \times 50 \text{ kg} = 50.0 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{10.39 \text{ mL}}{50.0 \text{ mL/hr}} \times 60 \text{ mins} = 12.468 \text{ mins} \) <br />
-    Total duration: \(30 + 15 + 90 + 12.468 = 147.468 \text{ mins} \) <br />
+    Remaining volume: \( 384.62-347.4 = 37.22 \text{ mL}  \) <br />
+    Final rate: \( 1.0 \text{ mL/kg/hr} \times 72 \text{ kg} = 72.0 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{37.22 \text{ mL}}{72.0 \text{ mL/hr}} \times 60 \text{ mins} = 31.017 \text{ mins} \) <br />
+    Total duration: \(45 + 30 + 90 + 31.017 = 196.017 \text{ mins} \) <br />
     <br />
-    **Answer: 147 min (nearest whole minute)**
-- id: 8039
-  question: "The following hospital prescription was written for a patient, a 67-year-old\
-    \ man weighing 55 kg. Infusion of drug: Strength 18 % w/v, 1.1 g/kg. <br />\n\
-    \ Infusion rate: <br />\n0.5 mL/kg/hr for 45 mins, <br />\nthen 2.5 mL/kg/hr for\
-    \ 45 mins, <br />\nthen 2.2 mL/kg/hr for 15 mins, <br />\nthen 1.0 mL/kg/hr for\
+    **Answer: 196 min (nearest whole minute)**
+- id: 8021
+  question: "The following hospital prescription was written for a patient, a 50-year-old\
+    \ woman weighing 72 kg. Infusion of drug: Strength 9 % w/v, 1.5 g/kg. <br />\n\
+    \ Infusion rate: <br />\n2.5 mL/kg/hr for 45 mins, <br />\nthen 2.1 mL/kg/hr for\
+    \ 60 mins, <br />\nthen 1.9 mL/kg/hr for 15 mins, <br />\nthen 2.3 mL/kg/hr for\
     \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
     \ minutes, if it is infused at the given rate? Round your answer to the nearest\
     \ whole minute."
-  answer: 307
+  answer: 439
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 55 \text{ kg} \times 1.1 \text{ g\kg} =  61 \text{ g} \)<br />
+    \( 72 \text{ kg} \times 1.5 \text{ g/kg} =  108 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{61 \text{ g}}{18 \text{ g}} \times 100 \text{ ml} = 338.89 \text{ ml} \) <br />
+    \( \frac{108 \text{ g}}{9 \text{ g}} \times 100 \text{ ml} = 1200.0 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (45 mins): \(0.5 \text{ mL/kg/hr} \times 55 \text{ kg} \times 0.75 \text{ hr} = 20.62 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(2.5 \text{ mL/kg/hr} \times 55 \text{ kg} \times 0.75 \text{ hr} = 103.12 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(2.2 \text{ mL/kg/hr} \times 55 \text{ kg} \times 0.25 \text{ hr} = 30.25 \text{ mL} \) <br />
-    Total volume delivered in phases = 153.99 mL <br />
+    Phase 1 (45 mins): \(2.5 \text{ mL/kg/hr} \times 72 \text{ kg} \times 0.75 \text{ hr} = 135.0 \text{ mL} \) <br />
+    Phase 1 (60 mins): \(2.1 \text{ mL/kg/hr} \times 72 \text{ kg} \times 1.0 \text{ hr} = 151.2 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(1.9 \text{ mL/kg/hr} \times 72 \text{ kg} \times 0.25 \text{ hr} = 34.2 \text{ mL} \) <br />
+    Total volume delivered in phases = 320.4 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 338.89-153.99 = 184.9 \text{ mL}  \) <br />
-    Final rate: \( 1.0 \text{ mL/kg/hr} \times 55 \text{ kg} = 55.0 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{184.9 \text{ mL}}{55.0 \text{ mL/hr}} \times 60 \text{ mins} = 201.709 \text{ mins} \) <br />
-    Total duration: \(45 + 45 + 15 + 201.709 = 306.709 \text{ mins} \) <br />
+    Remaining volume: \( 1200.0-320.4 = 879.6 \text{ mL}  \) <br />
+    Final rate: \( 2.3 \text{ mL/kg/hr} \times 72 \text{ kg} = 165.6 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{879.6 \text{ mL}}{165.6 \text{ mL/hr}} \times 60 \text{ mins} = 318.696 \text{ mins} \) <br />
+    Total duration: \(45 + 60 + 15 + 318.696 = 438.696 \text{ mins} \) <br />
     <br />
-    **Answer: 307 min (nearest whole minute)**
-- id: 8040
-  question: "The following hospital prescription was written for a patient, a 66-year-old\
-    \ man weighing 69 kg. Infusion of drug: Strength 19 % w/v, 1.3 g/kg. <br />\n\
-    \ Infusion rate: <br />\n0.9 mL/kg/hr for 15 mins, <br />\nthen 1.4 mL/kg/hr for\
-    \ 60 mins, <br />\nthen 2.2 mL/kg/hr for 45 mins, <br />\nthen 1.2 mL/kg/hr for\
+    **Answer: 439 min (nearest whole minute)**
+- id: 8022
+  question: "The following hospital prescription was written for a patient, a 52-year-old\
+    \ man weighing 54 kg. Infusion of drug: Strength 19 % w/v, 1.1 g/kg. <br />\n\
+    \ Infusion rate: <br />\n1.9 mL/kg/hr for 60 mins, <br />\nthen 0.9 mL/kg/hr for\
+    \ 15 mins, <br />\nthen 1.8 mL/kg/hr for 15 mins, <br />\nthen 2.0 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 185
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 54 \text{ kg} \times 1.1 \text{ g/kg} =  59 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{59 \text{ g}}{19 \text{ g}} \times 100 \text{ ml} = 310.53 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (60 mins): \(1.9 \text{ mL/kg/hr} \times 54 \text{ kg} \times 1.0 \text{ hr} = 102.6 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(0.9 \text{ mL/kg/hr} \times 54 \text{ kg} \times 0.25 \text{ hr} = 12.15 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(1.8 \text{ mL/kg/hr} \times 54 \text{ kg} \times 0.25 \text{ hr} = 24.3 \text{ mL} \) <br />
+    Total volume delivered in phases = 139.05 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 310.53-139.05 = 171.48 \text{ mL}  \) <br />
+    Final rate: \( 2.0 \text{ mL/kg/hr} \times 54 \text{ kg} = 108.0 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{171.48 \text{ mL}}{108.0 \text{ mL/hr}} \times 60 \text{ mins} = 95.267 \text{ mins} \) <br />
+    Total duration: \(60 + 15 + 15 + 95.267 = 185.267 \text{ mins} \) <br />
+    <br />
+    **Answer: 185 min (nearest whole minute)**
+- id: 8023
+  question: "The following hospital prescription was written for a patient, a 55-year-old\
+    \ woman weighing 69 kg. Infusion of drug: Strength 11 % w/v, 0.9 g/kg. <br />\n\
+    \ Infusion rate: <br />\n1.7 mL/kg/hr for 60 mins, <br />\nthen 0.7 mL/kg/hr for\
+    \ 30 mins, <br />\nthen 1.6 mL/kg/hr for 90 mins, <br />\nthen 1.5 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 329
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 69 \text{ kg} \times 0.9 \text{ g/kg} =  62 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{62 \text{ g}}{11 \text{ g}} \times 100 \text{ ml} = 563.64 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (60 mins): \(1.7 \text{ mL/kg/hr} \times 69 \text{ kg} \times 1.0 \text{ hr} = 117.3 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(0.7 \text{ mL/kg/hr} \times 69 \text{ kg} \times 0.5 \text{ hr} = 24.15 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(1.6 \text{ mL/kg/hr} \times 69 \text{ kg} \times 1.5 \text{ hr} = 165.6 \text{ mL} \) <br />
+    Total volume delivered in phases = 307.05 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 563.64-307.05 = 256.59 \text{ mL}  \) <br />
+    Final rate: \( 1.5 \text{ mL/kg/hr} \times 69 \text{ kg} = 103.5 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{256.59 \text{ mL}}{103.5 \text{ mL/hr}} \times 60 \text{ mins} = 148.748 \text{ mins} \) <br />
+    Total duration: \(60 + 30 + 90 + 148.748 = 328.748 \text{ mins} \) <br />
+    <br />
+    **Answer: 329 min (nearest whole minute)**
+- id: 8024
+  question: "The following hospital prescription was written for a patient, a 80-year-old\
+    \ woman weighing 66 kg. Infusion of drug: Strength 18 % w/v, 1.2 g/kg. <br />\n\
+    \ Infusion rate: <br />\n0.9 mL/kg/hr for 45 mins, <br />\nthen 1.2 mL/kg/hr for\
+    \ 90 mins, <br />\nthen 1.5 mL/kg/hr for 45 mins, <br />\nthen 1.4 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 311
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 66 \text{ kg} \times 1.2 \text{ g/kg} =  79 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{79 \text{ g}}{18 \text{ g}} \times 100 \text{ ml} = 438.89 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (45 mins): \(0.9 \text{ mL/kg/hr} \times 66 \text{ kg} \times 0.75 \text{ hr} = 44.55 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(1.2 \text{ mL/kg/hr} \times 66 \text{ kg} \times 1.5 \text{ hr} = 118.8 \text{ mL} \) <br />
+    Phase 1 (45 mins): \(1.5 \text{ mL/kg/hr} \times 66 \text{ kg} \times 0.75 \text{ hr} = 74.25 \text{ mL} \) <br />
+    Total volume delivered in phases = 237.6 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 438.89-237.6 = 201.29 \text{ mL}  \) <br />
+    Final rate: \( 1.4 \text{ mL/kg/hr} \times 66 \text{ kg} = 92.4 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{201.29 \text{ mL}}{92.4 \text{ mL/hr}} \times 60 \text{ mins} = 130.708 \text{ mins} \) <br />
+    Total duration: \(45 + 90 + 45 + 130.708 = 310.70799999999997 \text{ mins} \) <br />
+    <br />
+    **Answer: 311 min (nearest whole minute)**
+- id: 8025
+  question: "The following hospital prescription was written for a patient, a 58-year-old\
+    \ woman weighing 65 kg. Infusion of drug: Strength 17 % w/v, 1.5 g/kg. <br />\n\
+    \ Infusion rate: <br />\n1.1 mL/kg/hr for 90 mins, <br />\nthen 1.6 mL/kg/hr for\
+    \ 15 mins, <br />\nthen 2.0 mL/kg/hr for 90 mins, <br />\nthen 2.2 mL/kg/hr for\
     \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
     \ minutes, if it is infused at the given rate? Round your answer to the nearest\
     \ whole minute."
   answer: 299
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 69 \text{ kg} \times 1.3 \text{ g\kg} =  90 \text{ g} \)<br />
+    \( 65 \text{ kg} \times 1.5 \text{ g/kg} =  98 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{90 \text{ g}}{19 \text{ g}} \times 100 \text{ ml} = 473.68 \text{ ml} \) <br />
+    \( \frac{98 \text{ g}}{17 \text{ g}} \times 100 \text{ ml} = 576.47 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (15 mins): \(0.9 \text{ mL/kg/hr} \times 69 \text{ kg} \times 0.25 \text{ hr} = 15.53 \text{ mL} \) <br />
-    Phase 1 (60 mins): \(1.4 \text{ mL/kg/hr} \times 69 \text{ kg} \times 1.0 \text{ hr} = 96.6 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(2.2 \text{ mL/kg/hr} \times 69 \text{ kg} \times 0.75 \text{ hr} = 113.85 \text{ mL} \) <br />
-    Total volume delivered in phases = 225.98 mL <br />
+    Phase 1 (90 mins): \(1.1 \text{ mL/kg/hr} \times 65 \text{ kg} \times 1.5 \text{ hr} = 107.25 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(1.6 \text{ mL/kg/hr} \times 65 \text{ kg} \times 0.25 \text{ hr} = 26.0 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(2.0 \text{ mL/kg/hr} \times 65 \text{ kg} \times 1.5 \text{ hr} = 195.0 \text{ mL} \) <br />
+    Total volume delivered in phases = 328.25 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 473.68-225.98 = 247.7 \text{ mL}  \) <br />
-    Final rate: \( 1.2 \text{ mL/kg/hr} \times 69 \text{ kg} = 82.8 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{247.7 \text{ mL}}{82.8 \text{ mL/hr}} \times 60 \text{ mins} = 179.493 \text{ mins} \) <br />
-    Total duration: \(15 + 60 + 45 + 179.493 = 299.493 \text{ mins} \) <br />
+    Remaining volume: \( 576.47-328.25 = 248.22 \text{ mL}  \) <br />
+    Final rate: \( 2.2 \text{ mL/kg/hr} \times 65 \text{ kg} = 143.0 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{248.22 \text{ mL}}{143.0 \text{ mL/hr}} \times 60 \text{ mins} = 104.148 \text{ mins} \) <br />
+    Total duration: \(90 + 15 + 90 + 104.148 = 299.148 \text{ mins} \) <br />
     <br />
     **Answer: 299 min (nearest whole minute)**
-- id: 8041
-  question: "The following hospital prescription was written for a patient, a 78-year-old\
-    \ woman weighing 65 kg. Infusion of drug: Strength 19 % w/v, 0.7 g/kg. <br />\n\
-    \ Infusion rate: <br />\n1.9 mL/kg/hr for 30 mins, <br />\nthen 0.8 mL/kg/hr for\
-    \ 30 mins, <br />\nthen 0.8 mL/kg/hr for 15 mins, <br />\nthen 0.9 mL/kg/hr for\
+- id: 8026
+  question: "The following hospital prescription was written for a patient, a 71-year-old\
+    \ man weighing 62 kg. Infusion of drug: Strength 10 % w/v, 0.9 g/kg. <br />\n\
+    \ Infusion rate: <br />\n1.8 mL/kg/hr for 60 mins, <br />\nthen 1.2 mL/kg/hr for\
+    \ 90 mins, <br />\nthen 1.3 mL/kg/hr for 60 mins, <br />\nthen 2.3 mL/kg/hr for\
     \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
     \ minutes, if it is infused at the given rate? Round your answer to the nearest\
     \ whole minute."
-  answer: 220
+  answer: 318
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 65 \text{ kg} \times 0.7 \text{ g\kg} =  46 \text{ g} \)<br />
+    \( 62 \text{ kg} \times 0.9 \text{ g/kg} =  56 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{46 \text{ g}}{19 \text{ g}} \times 100 \text{ ml} = 242.11 \text{ ml} \) <br />
+    \( \frac{56 \text{ g}}{10 \text{ g}} \times 100 \text{ ml} = 560.0 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (30 mins): \(1.9 \text{ mL/kg/hr} \times 65 \text{ kg} \times 0.5 \text{ hr} = 61.75 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(0.8 \text{ mL/kg/hr} \times 65 \text{ kg} \times 0.5 \text{ hr} = 26.0 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(0.8 \text{ mL/kg/hr} \times 65 \text{ kg} \times 0.25 \text{ hr} = 13.0 \text{ mL} \) <br />
-    Total volume delivered in phases = 100.75 mL <br />
+    Phase 1 (60 mins): \(1.8 \text{ mL/kg/hr} \times 62 \text{ kg} \times 1.0 \text{ hr} = 111.6 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(1.2 \text{ mL/kg/hr} \times 62 \text{ kg} \times 1.5 \text{ hr} = 111.6 \text{ mL} \) <br />
+    Phase 1 (60 mins): \(1.3 \text{ mL/kg/hr} \times 62 \text{ kg} \times 1.0 \text{ hr} = 80.6 \text{ mL} \) <br />
+    Total volume delivered in phases = 303.8 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 242.11-100.75 = 141.36 \text{ mL}  \) <br />
-    Final rate: \( 0.9 \text{ mL/kg/hr} \times 65 \text{ kg} = 58.5 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{141.36 \text{ mL}}{58.5 \text{ mL/hr}} \times 60 \text{ mins} = 144.985 \text{ mins} \) <br />
-    Total duration: \(30 + 30 + 15 + 144.985 = 219.985 \text{ mins} \) <br />
+    Remaining volume: \( 560.0-303.8 = 256.2 \text{ mL}  \) <br />
+    Final rate: \( 2.3 \text{ mL/kg/hr} \times 62 \text{ kg} = 142.6 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{256.2 \text{ mL}}{142.6 \text{ mL/hr}} \times 60 \text{ mins} = 107.798 \text{ mins} \) <br />
+    Total duration: \(60 + 90 + 60 + 107.798 = 317.798 \text{ mins} \) <br />
     <br />
-    **Answer: 220 min (nearest whole minute)**
-- id: 8042
+    **Answer: 318 min (nearest whole minute)**
+- id: 8027
+  question: "The following hospital prescription was written for a patient, a 59-year-old\
+    \ woman weighing 70 kg. Infusion of drug: Strength 11 % w/v, 1.5 g/kg. <br />\n\
+    \ Infusion rate: <br />\n0.5 mL/kg/hr for 15 mins, <br />\nthen 1.3 mL/kg/hr for\
+    \ 90 mins, <br />\nthen 1.6 mL/kg/hr for 30 mins, <br />\nthen 1.7 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 515
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 70 \text{ kg} \times 1.5 \text{ g/kg} =  105 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{105 \text{ g}}{11 \text{ g}} \times 100 \text{ ml} = 954.55 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (15 mins): \(0.5 \text{ mL/kg/hr} \times 70 \text{ kg} \times 0.25 \text{ hr} = 8.75 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(1.3 \text{ mL/kg/hr} \times 70 \text{ kg} \times 1.5 \text{ hr} = 136.5 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(1.6 \text{ mL/kg/hr} \times 70 \text{ kg} \times 0.5 \text{ hr} = 56.0 \text{ mL} \) <br />
+    Total volume delivered in phases = 201.25 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 954.55-201.25 = 753.3 \text{ mL}  \) <br />
+    Final rate: \( 1.7 \text{ mL/kg/hr} \times 70 \text{ kg} = 119.0 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{753.3 \text{ mL}}{119.0 \text{ mL/hr}} \times 60 \text{ mins} = 379.815 \text{ mins} \) <br />
+    Total duration: \(15 + 90 + 30 + 379.815 = 514.815 \text{ mins} \) <br />
+    <br />
+    **Answer: 515 min (nearest whole minute)**
+- id: 8028
   question: "The following hospital prescription was written for a patient, a 79-year-old\
-    \ woman weighing 74 kg. Infusion of drug: Strength 14 % w/v, 0.7 g/kg. <br />\n\
-    \ Infusion rate: <br />\n2.4 mL/kg/hr for 15 mins, <br />\nthen 1.8 mL/kg/hr for\
-    \ 45 mins, <br />\nthen 1.8 mL/kg/hr for 15 mins, <br />\nthen 1.7 mL/kg/hr for\
+    \ man weighing 69 kg. Infusion of drug: Strength 16 % w/v, 1.0 g/kg. <br />\n\
+    \ Infusion rate: <br />\n1.5 mL/kg/hr for 60 mins, <br />\nthen 0.9 mL/kg/hr for\
+    \ 90 mins, <br />\nthen 2.3 mL/kg/hr for 60 mins, <br />\nthen 1.5 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 254
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 69 \text{ kg} \times 1.0 \text{ g/kg} =  69 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{69 \text{ g}}{16 \text{ g}} \times 100 \text{ ml} = 431.25 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (60 mins): \(1.5 \text{ mL/kg/hr} \times 69 \text{ kg} \times 1.0 \text{ hr} = 103.5 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(0.9 \text{ mL/kg/hr} \times 69 \text{ kg} \times 1.5 \text{ hr} = 93.15 \text{ mL} \) <br />
+    Phase 1 (60 mins): \(2.3 \text{ mL/kg/hr} \times 69 \text{ kg} \times 1.0 \text{ hr} = 158.7 \text{ mL} \) <br />
+    Total volume delivered in phases = 355.35 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 431.25-355.35 = 75.9 \text{ mL}  \) <br />
+    Final rate: \( 1.5 \text{ mL/kg/hr} \times 69 \text{ kg} = 103.5 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{75.9 \text{ mL}}{103.5 \text{ mL/hr}} \times 60 \text{ mins} = 44.0 \text{ mins} \) <br />
+    Total duration: \(60 + 90 + 60 + 44.0 = 254.0 \text{ mins} \) <br />
+    <br />
+    **Answer: 254 min (nearest whole minute)**
+- id: 8029
+  question: "The following hospital prescription was written for a patient, a 67-year-old\
+    \ woman weighing 74 kg. Infusion of drug: Strength 14 % w/v, 0.8 g/kg. <br />\n\
+    \ Infusion rate: <br />\n1.0 mL/kg/hr for 60 mins, <br />\nthen 2.0 mL/kg/hr for\
+    \ 45 mins, <br />\nthen 0.8 mL/kg/hr for 90 mins, <br />\nthen 1.8 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 262
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 74 \text{ kg} \times 0.8 \text{ g/kg} =  59 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{59 \text{ g}}{14 \text{ g}} \times 100 \text{ ml} = 421.43 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (60 mins): \(1.0 \text{ mL/kg/hr} \times 74 \text{ kg} \times 1.0 \text{ hr} = 74.0 \text{ mL} \) <br />
+    Phase 1 (45 mins): \(2.0 \text{ mL/kg/hr} \times 74 \text{ kg} \times 0.75 \text{ hr} = 111.0 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(0.8 \text{ mL/kg/hr} \times 74 \text{ kg} \times 1.5 \text{ hr} = 88.8 \text{ mL} \) <br />
+    Total volume delivered in phases = 273.8 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 421.43-273.8 = 147.63 \text{ mL}  \) <br />
+    Final rate: \( 1.8 \text{ mL/kg/hr} \times 74 \text{ kg} = 133.2 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{147.63 \text{ mL}}{133.2 \text{ mL/hr}} \times 60 \text{ mins} = 66.5 \text{ mins} \) <br />
+    Total duration: \(60 + 45 + 90 + 66.5 = 261.5 \text{ mins} \) <br />
+    <br />
+    **Answer: 262 min (nearest whole minute)**
+- id: 8030
+  question: "The following hospital prescription was written for a patient, a 58-year-old\
+    \ man weighing 51 kg. Infusion of drug: Strength 10 % w/v, 1.0 g/kg. <br />\n\
+    \ Infusion rate: <br />\n1.7 mL/kg/hr for 45 mins, <br />\nthen 1.0 mL/kg/hr for\
+    \ 30 mins, <br />\nthen 1.2 mL/kg/hr for 60 mins, <br />\nthen 2.4 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 311
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 51 \text{ kg} \times 1.0 \text{ g/kg} =  51 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{51 \text{ g}}{10 \text{ g}} \times 100 \text{ ml} = 510.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (45 mins): \(1.7 \text{ mL/kg/hr} \times 51 \text{ kg} \times 0.75 \text{ hr} = 65.03 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(1.0 \text{ mL/kg/hr} \times 51 \text{ kg} \times 0.5 \text{ hr} = 25.5 \text{ mL} \) <br />
+    Phase 1 (60 mins): \(1.2 \text{ mL/kg/hr} \times 51 \text{ kg} \times 1.0 \text{ hr} = 61.2 \text{ mL} \) <br />
+    Total volume delivered in phases = 151.73 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 510.0-151.73 = 358.27 \text{ mL}  \) <br />
+    Final rate: \( 2.4 \text{ mL/kg/hr} \times 51 \text{ kg} = 122.4 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{358.27 \text{ mL}}{122.4 \text{ mL/hr}} \times 60 \text{ mins} = 175.623 \text{ mins} \) <br />
+    Total duration: \(45 + 30 + 60 + 175.623 = 310.623 \text{ mins} \) <br />
+    <br />
+    **Answer: 311 min (nearest whole minute)**
+- id: 8031
+  question: "The following hospital prescription was written for a patient, a 78-year-old\
+    \ woman weighing 60 kg. Infusion of drug: Strength 10 % w/v, 0.6 g/kg. <br />\n\
+    \ Infusion rate: <br />\n1.8 mL/kg/hr for 30 mins, <br />\nthen 1.7 mL/kg/hr for\
+    \ 30 mins, <br />\nthen 2.1 mL/kg/hr for 15 mins, <br />\nthen 1.8 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 199
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 60 \text{ kg} \times 0.6 \text{ g/kg} =  36 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{36 \text{ g}}{10 \text{ g}} \times 100 \text{ ml} = 360.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (30 mins): \(1.8 \text{ mL/kg/hr} \times 60 \text{ kg} \times 0.5 \text{ hr} = 54.0 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(1.7 \text{ mL/kg/hr} \times 60 \text{ kg} \times 0.5 \text{ hr} = 51.0 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(2.1 \text{ mL/kg/hr} \times 60 \text{ kg} \times 0.25 \text{ hr} = 31.5 \text{ mL} \) <br />
+    Total volume delivered in phases = 136.5 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 360.0-136.5 = 223.5 \text{ mL}  \) <br />
+    Final rate: \( 1.8 \text{ mL/kg/hr} \times 60 \text{ kg} = 108.0 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{223.5 \text{ mL}}{108.0 \text{ mL/hr}} \times 60 \text{ mins} = 124.167 \text{ mins} \) <br />
+    Total duration: \(30 + 30 + 15 + 124.167 = 199.167 \text{ mins} \) <br />
+    <br />
+    **Answer: 199 min (nearest whole minute)**
+- id: 8032
+  question: "The following hospital prescription was written for a patient, a 76-year-old\
+    \ woman weighing 59 kg. Infusion of drug: Strength 11 % w/v, 0.4 g/kg. <br />\n\
+    \ Infusion rate: <br />\n0.6 mL/kg/hr for 45 mins, <br />\nthen 1.1 mL/kg/hr for\
+    \ 90 mins, <br />\nthen 2.0 mL/kg/hr for 15 mins, <br />\nthen 1.0 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 216
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 59 \text{ kg} \times 0.4 \text{ g/kg} =  24 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{24 \text{ g}}{11 \text{ g}} \times 100 \text{ ml} = 218.18 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (45 mins): \(0.6 \text{ mL/kg/hr} \times 59 \text{ kg} \times 0.75 \text{ hr} = 26.55 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(1.1 \text{ mL/kg/hr} \times 59 \text{ kg} \times 1.5 \text{ hr} = 97.35 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(2.0 \text{ mL/kg/hr} \times 59 \text{ kg} \times 0.25 \text{ hr} = 29.5 \text{ mL} \) <br />
+    Total volume delivered in phases = 153.4 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 218.18-153.4 = 64.78 \text{ mL}  \) <br />
+    Final rate: \( 1.0 \text{ mL/kg/hr} \times 59 \text{ kg} = 59.0 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{64.78 \text{ mL}}{59.0 \text{ mL/hr}} \times 60 \text{ mins} = 65.878 \text{ mins} \) <br />
+    Total duration: \(45 + 90 + 15 + 65.878 = 215.878 \text{ mins} \) <br />
+    <br />
+    **Answer: 216 min (nearest whole minute)**
+- id: 8033
+  question: "The following hospital prescription was written for a patient, a 56-year-old\
+    \ man weighing 71 kg. Infusion of drug: Strength 9 % w/v, 1.4 g/kg. <br />\n Infusion\
+    \ rate: <br />\n1.3 mL/kg/hr for 45 mins, <br />\nthen 1.1 mL/kg/hr for 45 mins,\
+    \ <br />\nthen 0.6 mL/kg/hr for 60 mins, <br />\nthen 2.4 mL/kg/hr for the remainder\
+    \ of the infusion. <br />\nWhat is the total infusion duration in minutes, if\
+    \ it is infused at the given rate? Round your answer to the nearest whole minute."
+  answer: 477
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 71 \text{ kg} \times 1.4 \text{ g/kg} =  99 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{99 \text{ g}}{9 \text{ g}} \times 100 \text{ ml} = 1100.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (45 mins): \(1.3 \text{ mL/kg/hr} \times 71 \text{ kg} \times 0.75 \text{ hr} = 69.22 \text{ mL} \) <br />
+    Phase 1 (45 mins): \(1.1 \text{ mL/kg/hr} \times 71 \text{ kg} \times 0.75 \text{ hr} = 58.58 \text{ mL} \) <br />
+    Phase 1 (60 mins): \(0.6 \text{ mL/kg/hr} \times 71 \text{ kg} \times 1.0 \text{ hr} = 42.6 \text{ mL} \) <br />
+    Total volume delivered in phases = 170.4 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 1100.0-170.4 = 929.6 \text{ mL}  \) <br />
+    Final rate: \( 2.4 \text{ mL/kg/hr} \times 71 \text{ kg} = 170.4 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{929.6 \text{ mL}}{170.4 \text{ mL/hr}} \times 60 \text{ mins} = 327.324 \text{ mins} \) <br />
+    Total duration: \(45 + 45 + 60 + 327.324 = 477.324 \text{ mins} \) <br />
+    <br />
+    **Answer: 477 min (nearest whole minute)**
+- id: 8034
+  question: "The following hospital prescription was written for a patient, a 60-year-old\
+    \ man weighing 72 kg. Infusion of drug: Strength 16 % w/v, 1.5 g/kg. <br />\n\
+    \ Infusion rate: <br />\n2.4 mL/kg/hr for 15 mins, <br />\nthen 1.7 mL/kg/hr for\
+    \ 90 mins, <br />\nthen 2.5 mL/kg/hr for 90 mins, <br />\nthen 0.7 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 407
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 72 \text{ kg} \times 1.5 \text{ g/kg} =  108 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{108 \text{ g}}{16 \text{ g}} \times 100 \text{ ml} = 675.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (15 mins): \(2.4 \text{ mL/kg/hr} \times 72 \text{ kg} \times 0.25 \text{ hr} = 43.2 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(1.7 \text{ mL/kg/hr} \times 72 \text{ kg} \times 1.5 \text{ hr} = 183.6 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(2.5 \text{ mL/kg/hr} \times 72 \text{ kg} \times 1.5 \text{ hr} = 270.0 \text{ mL} \) <br />
+    Total volume delivered in phases = 496.8 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 675.0-496.8 = 178.2 \text{ mL}  \) <br />
+    Final rate: \( 0.7 \text{ mL/kg/hr} \times 72 \text{ kg} = 50.4 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{178.2 \text{ mL}}{50.4 \text{ mL/hr}} \times 60 \text{ mins} = 212.143 \text{ mins} \) <br />
+    Total duration: \(15 + 90 + 90 + 212.143 = 407.14300000000003 \text{ mins} \) <br />
+    <br />
+    **Answer: 407 min (nearest whole minute)**
+- id: 8035
+  question: "The following hospital prescription was written for a patient, a 64-year-old\
+    \ woman weighing 55 kg. Infusion of drug: Strength 13 % w/v, 1.2 g/kg. <br />\n\
+    \ Infusion rate: <br />\n2.5 mL/kg/hr for 15 mins, <br />\nthen 1.3 mL/kg/hr for\
+    \ 30 mins, <br />\nthen 0.6 mL/kg/hr for 15 mins, <br />\nthen 1.7 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 335
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 55 \text{ kg} \times 1.2 \text{ g/kg} =  66 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{66 \text{ g}}{13 \text{ g}} \times 100 \text{ ml} = 507.69 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (15 mins): \(2.5 \text{ mL/kg/hr} \times 55 \text{ kg} \times 0.25 \text{ hr} = 34.38 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(1.3 \text{ mL/kg/hr} \times 55 \text{ kg} \times 0.5 \text{ hr} = 35.75 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(0.6 \text{ mL/kg/hr} \times 55 \text{ kg} \times 0.25 \text{ hr} = 8.25 \text{ mL} \) <br />
+    Total volume delivered in phases = 78.38 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 507.69-78.38 = 429.31 \text{ mL}  \) <br />
+    Final rate: \( 1.7 \text{ mL/kg/hr} \times 55 \text{ kg} = 93.5 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{429.31 \text{ mL}}{93.5 \text{ mL/hr}} \times 60 \text{ mins} = 275.493 \text{ mins} \) <br />
+    Total duration: \(15 + 30 + 15 + 275.493 = 335.493 \text{ mins} \) <br />
+    <br />
+    **Answer: 335 min (nearest whole minute)**
+- id: 8036
+  question: "The following hospital prescription was written for a patient, a 64-year-old\
+    \ man weighing 67 kg. Infusion of drug: Strength 10 % w/v, 1.2 g/kg. <br />\n\
+    \ Infusion rate: <br />\n0.5 mL/kg/hr for 60 mins, <br />\nthen 2.4 mL/kg/hr for\
+    \ 30 mins, <br />\nthen 1.4 mL/kg/hr for 45 mins, <br />\nthen 1.5 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 503
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 67 \text{ kg} \times 1.2 \text{ g/kg} =  80 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{80 \text{ g}}{10 \text{ g}} \times 100 \text{ ml} = 800.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (60 mins): \(0.5 \text{ mL/kg/hr} \times 67 \text{ kg} \times 1.0 \text{ hr} = 33.5 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(2.4 \text{ mL/kg/hr} \times 67 \text{ kg} \times 0.5 \text{ hr} = 80.4 \text{ mL} \) <br />
+    Phase 1 (45 mins): \(1.4 \text{ mL/kg/hr} \times 67 \text{ kg} \times 0.75 \text{ hr} = 70.35 \text{ mL} \) <br />
+    Total volume delivered in phases = 184.25 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 800.0-184.25 = 615.75 \text{ mL}  \) <br />
+    Final rate: \( 1.5 \text{ mL/kg/hr} \times 67 \text{ kg} = 100.5 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{615.75 \text{ mL}}{100.5 \text{ mL/hr}} \times 60 \text{ mins} = 367.612 \text{ mins} \) <br />
+    Total duration: \(60 + 30 + 45 + 367.612 = 502.612 \text{ mins} \) <br />
+    <br />
+    **Answer: 503 min (nearest whole minute)**
+- id: 8037
+  question: "The following hospital prescription was written for a patient, a 58-year-old\
+    \ man weighing 54 kg. Infusion of drug: Strength 12 % w/v, 1.3 g/kg. <br />\n\
+    \ Infusion rate: <br />\n1.6 mL/kg/hr for 90 mins, <br />\nthen 1.4 mL/kg/hr for\
+    \ 90 mins, <br />\nthen 1.2 mL/kg/hr for 90 mins, <br />\nthen 1.3 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 478
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 54 \text{ kg} \times 1.3 \text{ g/kg} =  70 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{70 \text{ g}}{12 \text{ g}} \times 100 \text{ ml} = 583.33 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (90 mins): \(1.6 \text{ mL/kg/hr} \times 54 \text{ kg} \times 1.5 \text{ hr} = 129.6 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(1.4 \text{ mL/kg/hr} \times 54 \text{ kg} \times 1.5 \text{ hr} = 113.4 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(1.2 \text{ mL/kg/hr} \times 54 \text{ kg} \times 1.5 \text{ hr} = 97.2 \text{ mL} \) <br />
+    Total volume delivered in phases = 340.2 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 583.33-340.2 = 243.13 \text{ mL}  \) <br />
+    Final rate: \( 1.3 \text{ mL/kg/hr} \times 54 \text{ kg} = 70.2 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{243.13 \text{ mL}}{70.2 \text{ mL/hr}} \times 60 \text{ mins} = 207.803 \text{ mins} \) <br />
+    Total duration: \(90 + 90 + 90 + 207.803 = 477.803 \text{ mins} \) <br />
+    <br />
+    **Answer: 478 min (nearest whole minute)**
+- id: 8038
+  question: "The following hospital prescription was written for a patient, a 83-year-old\
+    \ man weighing 69 kg. Infusion of drug: Strength 20 % w/v, 1.2 g/kg. <br />\n\
+    \ Infusion rate: <br />\n1.1 mL/kg/hr for 90 mins, <br />\nthen 0.5 mL/kg/hr for\
+    \ 90 mins, <br />\nthen 0.6 mL/kg/hr for 15 mins, <br />\nthen 0.7 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 492
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 69 \text{ kg} \times 1.2 \text{ g/kg} =  83 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{83 \text{ g}}{20 \text{ g}} \times 100 \text{ ml} = 415.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (90 mins): \(1.1 \text{ mL/kg/hr} \times 69 \text{ kg} \times 1.5 \text{ hr} = 113.85 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(0.5 \text{ mL/kg/hr} \times 69 \text{ kg} \times 1.5 \text{ hr} = 51.75 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(0.6 \text{ mL/kg/hr} \times 69 \text{ kg} \times 0.25 \text{ hr} = 10.35 \text{ mL} \) <br />
+    Total volume delivered in phases = 175.95 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 415.0-175.95 = 239.05 \text{ mL}  \) <br />
+    Final rate: \( 0.7 \text{ mL/kg/hr} \times 69 \text{ kg} = 48.3 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{239.05 \text{ mL}}{48.3 \text{ mL/hr}} \times 60 \text{ mins} = 296.957 \text{ mins} \) <br />
+    Total duration: \(90 + 90 + 15 + 296.957 = 491.957 \text{ mins} \) <br />
+    <br />
+    **Answer: 492 min (nearest whole minute)**
+- id: 8039
+  question: "The following hospital prescription was written for a patient, a 69-year-old\
+    \ man weighing 66 kg. Infusion of drug: Strength 18 % w/v, 0.8 g/kg. <br />\n\
+    \ Infusion rate: <br />\n1.4 mL/kg/hr for 60 mins, <br />\nthen 0.9 mL/kg/hr for\
+    \ 15 mins, <br />\nthen 1.9 mL/kg/hr for 45 mins, <br />\nthen 1.8 mL/kg/hr for\
     \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
     \ minutes, if it is infused at the given rate? Round your answer to the nearest\
     \ whole minute."
   answer: 167
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 74 \text{ kg} \times 0.7 \text{ g\kg} =  52 \text{ g} \)<br />
+    \( 66 \text{ kg} \times 0.8 \text{ g/kg} =  53 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{52 \text{ g}}{14 \text{ g}} \times 100 \text{ ml} = 371.43 \text{ ml} \) <br />
+    \( \frac{53 \text{ g}}{18 \text{ g}} \times 100 \text{ ml} = 294.44 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (15 mins): \(2.4 \text{ mL/kg/hr} \times 74 \text{ kg} \times 0.25 \text{ hr} = 44.4 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(1.8 \text{ mL/kg/hr} \times 74 \text{ kg} \times 0.75 \text{ hr} = 99.9 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(1.8 \text{ mL/kg/hr} \times 74 \text{ kg} \times 0.25 \text{ hr} = 33.3 \text{ mL} \) <br />
-    Total volume delivered in phases = 177.6 mL <br />
+    Phase 1 (60 mins): \(1.4 \text{ mL/kg/hr} \times 66 \text{ kg} \times 1.0 \text{ hr} = 92.4 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(0.9 \text{ mL/kg/hr} \times 66 \text{ kg} \times 0.25 \text{ hr} = 14.85 \text{ mL} \) <br />
+    Phase 1 (45 mins): \(1.9 \text{ mL/kg/hr} \times 66 \text{ kg} \times 0.75 \text{ hr} = 94.05 \text{ mL} \) <br />
+    Total volume delivered in phases = 201.3 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 371.43-177.6 = 193.83 \text{ mL}  \) <br />
-    Final rate: \( 1.7 \text{ mL/kg/hr} \times 74 \text{ kg} = 125.8 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{193.83 \text{ mL}}{125.8 \text{ mL/hr}} \times 60 \text{ mins} = 92.447 \text{ mins} \) <br />
-    Total duration: \(15 + 45 + 15 + 92.447 = 167.447 \text{ mins} \) <br />
+    Remaining volume: \( 294.44-201.3 = 93.14 \text{ mL}  \) <br />
+    Final rate: \( 1.8 \text{ mL/kg/hr} \times 66 \text{ kg} = 118.8 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{93.14 \text{ mL}}{118.8 \text{ mL/hr}} \times 60 \text{ mins} = 47.04 \text{ mins} \) <br />
+    Total duration: \(60 + 15 + 45 + 47.04 = 167.04 \text{ mins} \) <br />
     <br />
     **Answer: 167 min (nearest whole minute)**
+- id: 8040
+  question: "The following hospital prescription was written for a patient, a 82-year-old\
+    \ man weighing 51 kg. Infusion of drug: Strength 6 % w/v, 0.4 g/kg. <br />\n Infusion\
+    \ rate: <br />\n2.0 mL/kg/hr for 15 mins, <br />\nthen 2.4 mL/kg/hr for 60 mins,\
+    \ <br />\nthen 1.1 mL/kg/hr for 90 mins, <br />\nthen 0.9 mL/kg/hr for the remainder\
+    \ of the infusion. <br />\nWhat is the total infusion duration in minutes, if\
+    \ it is infused at the given rate? Round your answer to the nearest whole minute."
+  answer: 297
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 51 \text{ kg} \times 0.4 \text{ g/kg} =  20 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{20 \text{ g}}{6 \text{ g}} \times 100 \text{ ml} = 333.33 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (15 mins): \(2.0 \text{ mL/kg/hr} \times 51 \text{ kg} \times 0.25 \text{ hr} = 25.5 \text{ mL} \) <br />
+    Phase 1 (60 mins): \(2.4 \text{ mL/kg/hr} \times 51 \text{ kg} \times 1.0 \text{ hr} = 122.4 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(1.1 \text{ mL/kg/hr} \times 51 \text{ kg} \times 1.5 \text{ hr} = 84.15 \text{ mL} \) <br />
+    Total volume delivered in phases = 232.05 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 333.33-232.05 = 101.28 \text{ mL}  \) <br />
+    Final rate: \( 0.9 \text{ mL/kg/hr} \times 51 \text{ kg} = 45.9 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{101.28 \text{ mL}}{45.9 \text{ mL/hr}} \times 60 \text{ mins} = 132.392 \text{ mins} \) <br />
+    Total duration: \(15 + 60 + 90 + 132.392 = 297.392 \text{ mins} \) <br />
+    <br />
+    **Answer: 297 min (nearest whole minute)**
+- id: 8041
+  question: "The following hospital prescription was written for a patient, a 60-year-old\
+    \ woman weighing 61 kg. Infusion of drug: Strength 19 % w/v, 0.9 g/kg. <br />\n\
+    \ Infusion rate: <br />\n2.4 mL/kg/hr for 45 mins, <br />\nthen 0.6 mL/kg/hr for\
+    \ 15 mins, <br />\nthen 1.2 mL/kg/hr for 90 mins, <br />\nthen 1.2 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 200
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 61 \text{ kg} \times 0.9 \text{ g/kg} =  55 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{55 \text{ g}}{19 \text{ g}} \times 100 \text{ ml} = 289.47 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (45 mins): \(2.4 \text{ mL/kg/hr} \times 61 \text{ kg} \times 0.75 \text{ hr} = 109.8 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(0.6 \text{ mL/kg/hr} \times 61 \text{ kg} \times 0.25 \text{ hr} = 9.15 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(1.2 \text{ mL/kg/hr} \times 61 \text{ kg} \times 1.5 \text{ hr} = 109.8 \text{ mL} \) <br />
+    Total volume delivered in phases = 228.75 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 289.47-228.75 = 60.72 \text{ mL}  \) <br />
+    Final rate: \( 1.2 \text{ mL/kg/hr} \times 61 \text{ kg} = 73.2 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{60.72 \text{ mL}}{73.2 \text{ mL/hr}} \times 60 \text{ mins} = 49.77 \text{ mins} \) <br />
+    Total duration: \(45 + 15 + 90 + 49.77 = 199.77 \text{ mins} \) <br />
+    <br />
+    **Answer: 200 min (nearest whole minute)**
+- id: 8042
+  question: "The following hospital prescription was written for a patient, a 76-year-old\
+    \ woman weighing 51 kg. Infusion of drug: Strength 12 % w/v, 1.4 g/kg. <br />\n\
+    \ Infusion rate: <br />\n2.1 mL/kg/hr for 60 mins, <br />\nthen 0.8 mL/kg/hr for\
+    \ 45 mins, <br />\nthen 2.1 mL/kg/hr for 45 mins, <br />\nthen 1.5 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 443
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 51 \text{ kg} \times 1.4 \text{ g/kg} =  71 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{71 \text{ g}}{12 \text{ g}} \times 100 \text{ ml} = 591.67 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (60 mins): \(2.1 \text{ mL/kg/hr} \times 51 \text{ kg} \times 1.0 \text{ hr} = 107.1 \text{ mL} \) <br />
+    Phase 1 (45 mins): \(0.8 \text{ mL/kg/hr} \times 51 \text{ kg} \times 0.75 \text{ hr} = 30.6 \text{ mL} \) <br />
+    Phase 1 (45 mins): \(2.1 \text{ mL/kg/hr} \times 51 \text{ kg} \times 0.75 \text{ hr} = 80.33 \text{ mL} \) <br />
+    Total volume delivered in phases = 218.03 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 591.67-218.03 = 373.64 \text{ mL}  \) <br />
+    Final rate: \( 1.5 \text{ mL/kg/hr} \times 51 \text{ kg} = 76.5 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{373.64 \text{ mL}}{76.5 \text{ mL/hr}} \times 60 \text{ mins} = 293.051 \text{ mins} \) <br />
+    Total duration: \(60 + 45 + 45 + 293.051 = 443.051 \text{ mins} \) <br />
+    <br />
+    **Answer: 443 min (nearest whole minute)**
 - id: 8043
   question: "The following hospital prescription was written for a patient, a 65-year-old\
-    \ man weighing 61 kg. Infusion of drug: Strength 6 % w/v, 0.6 g/kg. <br />\n Infusion\
-    \ rate: <br />\n0.6 mL/kg/hr for 90 mins, <br />\nthen 2.2 mL/kg/hr for 90 mins,\
-    \ <br />\nthen 0.9 mL/kg/hr for 90 mins, <br />\nthen 0.9 mL/kg/hr for the remainder\
-    \ of the infusion. <br />\nWhat is the total infusion duration in minutes, if\
-    \ it is infused at the given rate? Round your answer to the nearest whole minute."
-  answer: 574
+    \ man weighing 72 kg. Infusion of drug: Strength 15 % w/v, 1.4 g/kg. <br />\n\
+    \ Infusion rate: <br />\n2.5 mL/kg/hr for 30 mins, <br />\nthen 0.5 mL/kg/hr for\
+    \ 15 mins, <br />\nthen 2.0 mL/kg/hr for 30 mins, <br />\nthen 2.4 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 249
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 61 \text{ kg} \times 0.6 \text{ g\kg} =  37 \text{ g} \)<br />
+    \( 72 \text{ kg} \times 1.4 \text{ g/kg} =  101 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{37 \text{ g}}{6 \text{ g}} \times 100 \text{ ml} = 616.67 \text{ ml} \) <br />
+    \( \frac{101 \text{ g}}{15 \text{ g}} \times 100 \text{ ml} = 673.33 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (90 mins): \(0.6 \text{ mL/kg/hr} \times 61 \text{ kg} \times 1.5 \text{ hr} = 54.9 \text{ mL} \) <br />
-    Phase 1 (90 mins): \(2.2 \text{ mL/kg/hr} \times 61 \text{ kg} \times 1.5 \text{ hr} = 201.3 \text{ mL} \) <br />
-    Phase 1 (90 mins): \(0.9 \text{ mL/kg/hr} \times 61 \text{ kg} \times 1.5 \text{ hr} = 82.35 \text{ mL} \) <br />
-    Total volume delivered in phases = 338.55 mL <br />
+    Phase 1 (30 mins): \(2.5 \text{ mL/kg/hr} \times 72 \text{ kg} \times 0.5 \text{ hr} = 90.0 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(0.5 \text{ mL/kg/hr} \times 72 \text{ kg} \times 0.25 \text{ hr} = 9.0 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(2.0 \text{ mL/kg/hr} \times 72 \text{ kg} \times 0.5 \text{ hr} = 72.0 \text{ mL} \) <br />
+    Total volume delivered in phases = 171.0 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 616.67-338.55 = 278.12 \text{ mL}  \) <br />
-    Final rate: \( 0.9 \text{ mL/kg/hr} \times 61 \text{ kg} = 54.9 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{278.12 \text{ mL}}{54.9 \text{ mL/hr}} \times 60 \text{ mins} = 303.956 \text{ mins} \) <br />
-    Total duration: \(90 + 90 + 90 + 303.956 = 573.956 \text{ mins} \) <br />
+    Remaining volume: \( 673.33-171.0 = 502.33 \text{ mL}  \) <br />
+    Final rate: \( 2.4 \text{ mL/kg/hr} \times 72 \text{ kg} = 172.8 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{502.33 \text{ mL}}{172.8 \text{ mL/hr}} \times 60 \text{ mins} = 174.42 \text{ mins} \) <br />
+    Total duration: \(30 + 15 + 30 + 174.42 = 249.42 \text{ mins} \) <br />
     <br />
-    **Answer: 574 min (nearest whole minute)**
+    **Answer: 249 min (nearest whole minute)**
 - id: 8044
-  question: "The following hospital prescription was written for a patient, a 63-year-old\
-    \ woman weighing 64 kg. Infusion of drug: Strength 7 % w/v, 0.8 g/kg. <br />\n\
-    \ Infusion rate: <br />\n2.4 mL/kg/hr for 15 mins, <br />\nthen 1.0 mL/kg/hr for\
-    \ 15 mins, <br />\nthen 1.1 mL/kg/hr for 15 mins, <br />\nthen 2.1 mL/kg/hr for\
+  question: "The following hospital prescription was written for a patient, a 70-year-old\
+    \ woman weighing 64 kg. Infusion of drug: Strength 17 % w/v, 1.4 g/kg. <br />\n\
+    \ Infusion rate: <br />\n2.0 mL/kg/hr for 30 mins, <br />\nthen 1.2 mL/kg/hr for\
+    \ 15 mins, <br />\nthen 0.9 mL/kg/hr for 15 mins, <br />\nthen 2.3 mL/kg/hr for\
     \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
     \ minutes, if it is infused at the given rate? Round your answer to the nearest\
     \ whole minute."
-  answer: 338
+  answer: 236
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 64 \text{ kg} \times 0.8 \text{ g\kg} =  51 \text{ g} \)<br />
+    \( 64 \text{ kg} \times 1.4 \text{ g/kg} =  90 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{51 \text{ g}}{7 \text{ g}} \times 100 \text{ ml} = 728.57 \text{ ml} \) <br />
+    \( \frac{90 \text{ g}}{17 \text{ g}} \times 100 \text{ ml} = 529.41 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (15 mins): \(2.4 \text{ mL/kg/hr} \times 64 \text{ kg} \times 0.25 \text{ hr} = 38.4 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(1.0 \text{ mL/kg/hr} \times 64 \text{ kg} \times 0.25 \text{ hr} = 16.0 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(1.1 \text{ mL/kg/hr} \times 64 \text{ kg} \times 0.25 \text{ hr} = 17.6 \text{ mL} \) <br />
-    Total volume delivered in phases = 72.0 mL <br />
+    Phase 1 (30 mins): \(2.0 \text{ mL/kg/hr} \times 64 \text{ kg} \times 0.5 \text{ hr} = 64.0 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(1.2 \text{ mL/kg/hr} \times 64 \text{ kg} \times 0.25 \text{ hr} = 19.2 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(0.9 \text{ mL/kg/hr} \times 64 \text{ kg} \times 0.25 \text{ hr} = 14.4 \text{ mL} \) <br />
+    Total volume delivered in phases = 97.6 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 728.57-72.0 = 656.57 \text{ mL}  \) <br />
-    Final rate: \( 2.1 \text{ mL/kg/hr} \times 64 \text{ kg} = 134.4 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{656.57 \text{ mL}}{134.4 \text{ mL/hr}} \times 60 \text{ mins} = 293.112 \text{ mins} \) <br />
-    Total duration: \(15 + 15 + 15 + 293.112 = 338.112 \text{ mins} \) <br />
+    Remaining volume: \( 529.41-97.6 = 431.81 \text{ mL}  \) <br />
+    Final rate: \( 2.3 \text{ mL/kg/hr} \times 64 \text{ kg} = 147.2 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{431.81 \text{ mL}}{147.2 \text{ mL/hr}} \times 60 \text{ mins} = 176.01 \text{ mins} \) <br />
+    Total duration: \(30 + 15 + 15 + 176.01 = 236.01 \text{ mins} \) <br />
     <br />
-    **Answer: 338 min (nearest whole minute)**
+    **Answer: 236 min (nearest whole minute)**
 - id: 8045
-  question: "The following hospital prescription was written for a patient, a 63-year-old\
-    \ woman weighing 62 kg. Infusion of drug: Strength 11 % w/v, 1.0 g/kg. <br />\n\
-    \ Infusion rate: <br />\n1.9 mL/kg/hr for 90 mins, <br />\nthen 1.0 mL/kg/hr for\
-    \ 30 mins, <br />\nthen 2.5 mL/kg/hr for 15 mins, <br />\nthen 1.2 mL/kg/hr for\
+  question: "The following hospital prescription was written for a patient, a 55-year-old\
+    \ man weighing 52 kg. Infusion of drug: Strength 15 % w/v, 0.9 g/kg. <br />\n\
+    \ Infusion rate: <br />\n2.1 mL/kg/hr for 90 mins, <br />\nthen 2.2 mL/kg/hr for\
+    \ 30 mins, <br />\nthen 0.7 mL/kg/hr for 90 mins, <br />\nthen 1.0 mL/kg/hr for\
     \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
     \ minutes, if it is infused at the given rate? Round your answer to the nearest\
     \ whole minute."
-  answer: 391
+  answer: 254
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 62 \text{ kg} \times 1.0 \text{ g\kg} =  62 \text{ g} \)<br />
+    \( 52 \text{ kg} \times 0.9 \text{ g/kg} =  47 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{62 \text{ g}}{11 \text{ g}} \times 100 \text{ ml} = 563.64 \text{ ml} \) <br />
+    \( \frac{47 \text{ g}}{15 \text{ g}} \times 100 \text{ ml} = 313.33 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (90 mins): \(1.9 \text{ mL/kg/hr} \times 62 \text{ kg} \times 1.5 \text{ hr} = 176.7 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(1.0 \text{ mL/kg/hr} \times 62 \text{ kg} \times 0.5 \text{ hr} = 31.0 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(2.5 \text{ mL/kg/hr} \times 62 \text{ kg} \times 0.25 \text{ hr} = 38.75 \text{ mL} \) <br />
-    Total volume delivered in phases = 246.45 mL <br />
+    Phase 1 (90 mins): \(2.1 \text{ mL/kg/hr} \times 52 \text{ kg} \times 1.5 \text{ hr} = 163.8 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(2.2 \text{ mL/kg/hr} \times 52 \text{ kg} \times 0.5 \text{ hr} = 57.2 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(0.7 \text{ mL/kg/hr} \times 52 \text{ kg} \times 1.5 \text{ hr} = 54.6 \text{ mL} \) <br />
+    Total volume delivered in phases = 275.6 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 563.64-246.45 = 317.19 \text{ mL}  \) <br />
-    Final rate: \( 1.2 \text{ mL/kg/hr} \times 62 \text{ kg} = 74.4 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{317.19 \text{ mL}}{74.4 \text{ mL/hr}} \times 60 \text{ mins} = 255.798 \text{ mins} \) <br />
-    Total duration: \(90 + 30 + 15 + 255.798 = 390.798 \text{ mins} \) <br />
+    Remaining volume: \( 313.33-275.6 = 37.73 \text{ mL}  \) <br />
+    Final rate: \( 1.0 \text{ mL/kg/hr} \times 52 \text{ kg} = 52.0 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{37.73 \text{ mL}}{52.0 \text{ mL/hr}} \times 60 \text{ mins} = 43.535 \text{ mins} \) <br />
+    Total duration: \(90 + 30 + 90 + 43.535 = 253.535 \text{ mins} \) <br />
     <br />
-    **Answer: 391 min (nearest whole minute)**
+    **Answer: 254 min (nearest whole minute)**
 - id: 8046
-  question: "The following hospital prescription was written for a patient, a 61-year-old\
-    \ man weighing 69 kg. Infusion of drug: Strength 13 % w/v, 0.4 g/kg. <br />\n\
-    \ Infusion rate: <br />\n0.8 mL/kg/hr for 45 mins, <br />\nthen 0.8 mL/kg/hr for\
-    \ 15 mins, <br />\nthen 1.0 mL/kg/hr for 15 mins, <br />\nthen 1.8 mL/kg/hr for\
+  question: "The following hospital prescription was written for a patient, a 85-year-old\
+    \ man weighing 70 kg. Infusion of drug: Strength 11 % w/v, 0.4 g/kg. <br />\n\
+    \ Infusion rate: <br />\n1.9 mL/kg/hr for 45 mins, <br />\nthen 2.3 mL/kg/hr for\
+    \ 15 mins, <br />\nthen 2.2 mL/kg/hr for 30 mins, <br />\nthen 2.4 mL/kg/hr for\
     \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
     \ minutes, if it is infused at the given rate? Round your answer to the nearest\
     \ whole minute."
-  answer: 144
+  answer: 103
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 69 \text{ kg} \times 0.4 \text{ g\kg} =  28 \text{ g} \)<br />
+    \( 70 \text{ kg} \times 0.4 \text{ g/kg} =  28 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{28 \text{ g}}{13 \text{ g}} \times 100 \text{ ml} = 215.38 \text{ ml} \) <br />
+    \( \frac{28 \text{ g}}{11 \text{ g}} \times 100 \text{ ml} = 254.55 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (45 mins): \(0.8 \text{ mL/kg/hr} \times 69 \text{ kg} \times 0.75 \text{ hr} = 41.4 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(0.8 \text{ mL/kg/hr} \times 69 \text{ kg} \times 0.25 \text{ hr} = 13.8 \text{ mL} \) <br />
-    Phase 1 (15 mins): \(1.0 \text{ mL/kg/hr} \times 69 \text{ kg} \times 0.25 \text{ hr} = 17.25 \text{ mL} \) <br />
-    Total volume delivered in phases = 72.45 mL <br />
+    Phase 1 (45 mins): \(1.9 \text{ mL/kg/hr} \times 70 \text{ kg} \times 0.75 \text{ hr} = 99.75 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(2.3 \text{ mL/kg/hr} \times 70 \text{ kg} \times 0.25 \text{ hr} = 40.25 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(2.2 \text{ mL/kg/hr} \times 70 \text{ kg} \times 0.5 \text{ hr} = 77.0 \text{ mL} \) <br />
+    Total volume delivered in phases = 217.0 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 215.38-72.45 = 142.93 \text{ mL}  \) <br />
-    Final rate: \( 1.8 \text{ mL/kg/hr} \times 69 \text{ kg} = 124.2 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{142.93 \text{ mL}}{124.2 \text{ mL/hr}} \times 60 \text{ mins} = 69.048 \text{ mins} \) <br />
-    Total duration: \(45 + 15 + 15 + 69.048 = 144.048 \text{ mins} \) <br />
+    Remaining volume: \( 254.55-217.0 = 37.55 \text{ mL}  \) <br />
+    Final rate: \( 2.4 \text{ mL/kg/hr} \times 70 \text{ kg} = 168.0 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{37.55 \text{ mL}}{168.0 \text{ mL/hr}} \times 60 \text{ mins} = 13.411 \text{ mins} \) <br />
+    Total duration: \(45 + 15 + 30 + 13.411 = 103.411 \text{ mins} \) <br />
     <br />
-    **Answer: 144 min (nearest whole minute)**
+    **Answer: 103 min (nearest whole minute)**
 - id: 8047
-  question: "The following hospital prescription was written for a patient, a 71-year-old\
-    \ man weighing 75 kg. Infusion of drug: Strength 7 % w/v, 0.5 g/kg. <br />\n Infusion\
-    \ rate: <br />\n2.2 mL/kg/hr for 90 mins, <br />\nthen 0.7 mL/kg/hr for 30 mins,\
-    \ <br />\nthen 1.4 mL/kg/hr for 90 mins, <br />\nthen 1.4 mL/kg/hr for the remainder\
-    \ of the infusion. <br />\nWhat is the total infusion duration in minutes, if\
-    \ it is infused at the given rate? Round your answer to the nearest whole minute."
-  answer: 274
+  question: "The following hospital prescription was written for a patient, a 82-year-old\
+    \ woman weighing 65 kg. Infusion of drug: Strength 20 % w/v, 1.3 g/kg. <br />\n\
+    \ Infusion rate: <br />\n2.3 mL/kg/hr for 90 mins, <br />\nthen 1.0 mL/kg/hr for\
+    \ 90 mins, <br />\nthen 1.8 mL/kg/hr for 15 mins, <br />\nthen 1.2 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 248
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 75 \text{ kg} \times 0.5 \text{ g\kg} =  38 \text{ g} \)<br />
+    \( 65 \text{ kg} \times 1.3 \text{ g/kg} =  84 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{38 \text{ g}}{7 \text{ g}} \times 100 \text{ ml} = 542.86 \text{ ml} \) <br />
+    \( \frac{84 \text{ g}}{20 \text{ g}} \times 100 \text{ ml} = 420.0 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (90 mins): \(2.2 \text{ mL/kg/hr} \times 75 \text{ kg} \times 1.5 \text{ hr} = 247.5 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(0.7 \text{ mL/kg/hr} \times 75 \text{ kg} \times 0.5 \text{ hr} = 26.25 \text{ mL} \) <br />
-    Phase 1 (90 mins): \(1.4 \text{ mL/kg/hr} \times 75 \text{ kg} \times 1.5 \text{ hr} = 157.5 \text{ mL} \) <br />
-    Total volume delivered in phases = 431.25 mL <br />
+    Phase 1 (90 mins): \(2.3 \text{ mL/kg/hr} \times 65 \text{ kg} \times 1.5 \text{ hr} = 224.25 \text{ mL} \) <br />
+    Phase 1 (90 mins): \(1.0 \text{ mL/kg/hr} \times 65 \text{ kg} \times 1.5 \text{ hr} = 97.5 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(1.8 \text{ mL/kg/hr} \times 65 \text{ kg} \times 0.25 \text{ hr} = 29.25 \text{ mL} \) <br />
+    Total volume delivered in phases = 351.0 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 542.86-431.25 = 111.61 \text{ mL}  \) <br />
-    Final rate: \( 1.4 \text{ mL/kg/hr} \times 75 \text{ kg} = 105.0 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{111.61 \text{ mL}}{105.0 \text{ mL/hr}} \times 60 \text{ mins} = 63.777 \text{ mins} \) <br />
-    Total duration: \(90 + 30 + 90 + 63.777 = 273.777 \text{ mins} \) <br />
+    Remaining volume: \( 420.0-351.0 = 69.0 \text{ mL}  \) <br />
+    Final rate: \( 1.2 \text{ mL/kg/hr} \times 65 \text{ kg} = 78.0 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{69.0 \text{ mL}}{78.0 \text{ mL/hr}} \times 60 \text{ mins} = 53.077 \text{ mins} \) <br />
+    Total duration: \(90 + 90 + 15 + 53.077 = 248.077 \text{ mins} \) <br />
     <br />
-    **Answer: 274 min (nearest whole minute)**
+    **Answer: 248 min (nearest whole minute)**
 - id: 8048
-  question: "The following hospital prescription was written for a patient, a 56-year-old\
-    \ man weighing 54 kg. Infusion of drug: Strength 13 % w/v, 1.0 g/kg. <br />\n\
-    \ Infusion rate: <br />\n2.5 mL/kg/hr for 30 mins, <br />\nthen 1.8 mL/kg/hr for\
-    \ 60 mins, <br />\nthen 2.5 mL/kg/hr for 45 mins, <br />\nthen 2.4 mL/kg/hr for\
+  question: "The following hospital prescription was written for a patient, a 61-year-old\
+    \ woman weighing 59 kg. Infusion of drug: Strength 8 % w/v, 0.6 g/kg. <br />\n\
+    \ Infusion rate: <br />\n0.5 mL/kg/hr for 90 mins, <br />\nthen 1.7 mL/kg/hr for\
+    \ 60 mins, <br />\nthen 1.4 mL/kg/hr for 45 mins, <br />\nthen 2.2 mL/kg/hr for\
     \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
     \ minutes, if it is infused at the given rate? Round your answer to the nearest\
     \ whole minute."
-  answer: 204
+  answer: 302
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 54 \text{ kg} \times 1.0 \text{ g\kg} =  54 \text{ g} \)<br />
+    \( 59 \text{ kg} \times 0.6 \text{ g/kg} =  35 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{54 \text{ g}}{13 \text{ g}} \times 100 \text{ ml} = 415.38 \text{ ml} \) <br />
+    \( \frac{35 \text{ g}}{8 \text{ g}} \times 100 \text{ ml} = 437.5 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (30 mins): \(2.5 \text{ mL/kg/hr} \times 54 \text{ kg} \times 0.5 \text{ hr} = 67.5 \text{ mL} \) <br />
-    Phase 1 (60 mins): \(1.8 \text{ mL/kg/hr} \times 54 \text{ kg} \times 1.0 \text{ hr} = 97.2 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(2.5 \text{ mL/kg/hr} \times 54 \text{ kg} \times 0.75 \text{ hr} = 101.25 \text{ mL} \) <br />
-    Total volume delivered in phases = 265.95 mL <br />
+    Phase 1 (90 mins): \(0.5 \text{ mL/kg/hr} \times 59 \text{ kg} \times 1.5 \text{ hr} = 44.25 \text{ mL} \) <br />
+    Phase 1 (60 mins): \(1.7 \text{ mL/kg/hr} \times 59 \text{ kg} \times 1.0 \text{ hr} = 100.3 \text{ mL} \) <br />
+    Phase 1 (45 mins): \(1.4 \text{ mL/kg/hr} \times 59 \text{ kg} \times 0.75 \text{ hr} = 61.95 \text{ mL} \) <br />
+    Total volume delivered in phases = 206.5 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 415.38-265.95 = 149.43 \text{ mL}  \) <br />
-    Final rate: \( 2.4 \text{ mL/kg/hr} \times 54 \text{ kg} = 129.6 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{149.43 \text{ mL}}{129.6 \text{ mL/hr}} \times 60 \text{ mins} = 69.181 \text{ mins} \) <br />
-    Total duration: \(30 + 60 + 45 + 69.181 = 204.18099999999998 \text{ mins} \) <br />
+    Remaining volume: \( 437.5-206.5 = 231.0 \text{ mL}  \) <br />
+    Final rate: \( 2.2 \text{ mL/kg/hr} \times 59 \text{ kg} = 129.8 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{231.0 \text{ mL}}{129.8 \text{ mL/hr}} \times 60 \text{ mins} = 106.78 \text{ mins} \) <br />
+    Total duration: \(90 + 60 + 45 + 106.78 = 301.78 \text{ mins} \) <br />
     <br />
-    **Answer: 204 min (nearest whole minute)**
+    **Answer: 302 min (nearest whole minute)**
 - id: 8049
-  question: "The following hospital prescription was written for a patient, a 76-year-old\
-    \ man weighing 71 kg. Infusion of drug: Strength 7 % w/v, 1.1 g/kg. <br />\n Infusion\
-    \ rate: <br />\n2.0 mL/kg/hr for 30 mins, <br />\nthen 1.4 mL/kg/hr for 90 mins,\
-    \ <br />\nthen 0.7 mL/kg/hr for 90 mins, <br />\nthen 2.3 mL/kg/hr for the remainder\
-    \ of the infusion. <br />\nWhat is the total infusion duration in minutes, if\
-    \ it is infused at the given rate? Round your answer to the nearest whole minute."
-  answer: 511
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 71 \text{ kg} \times 1.1 \text{ g\kg} =  78 \text{ g} \)<br />
-    <br />
-    **Step 2: **Step 2: Total Volume** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{78 \text{ g}}{7 \text{ g}} \times 100 \text{ ml} = 1114.29 \text{ ml} \) <br />
-    <br />
-    **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (30 mins): \(2.0 \text{ mL/kg/hr} \times 71 \text{ kg} \times 0.5 \text{ hr} = 71.0 \text{ mL} \) <br />
-    Phase 1 (90 mins): \(1.4 \text{ mL/kg/hr} \times 71 \text{ kg} \times 1.5 \text{ hr} = 149.1 \text{ mL} \) <br />
-    Phase 1 (90 mins): \(0.7 \text{ mL/kg/hr} \times 71 \text{ kg} \times 1.5 \text{ hr} = 74.55 \text{ mL} \) <br />
-    Total volume delivered in phases = 294.65 mL <br />
-    <br />
-    **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 1114.29-294.65 = 819.64 \text{ mL}  \) <br />
-    Final rate: \( 2.3 \text{ mL/kg/hr} \times 71 \text{ kg} = 163.3 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{819.64 \text{ mL}}{163.3 \text{ mL/hr}} \times 60 \text{ mins} = 301.154 \text{ mins} \) <br />
-    Total duration: \(30 + 90 + 90 + 301.154 = 511.154 \text{ mins} \) <br />
-    <br />
-    **Answer: 511 min (nearest whole minute)**
-- id: 8050
-  question: "The following hospital prescription was written for a patient, a 58-year-old\
-    \ woman weighing 74 kg. Infusion of drug: Strength 15 % w/v, 1.0 g/kg. <br />\n\
-    \ Infusion rate: <br />\n0.9 mL/kg/hr for 90 mins, <br />\nthen 1.4 mL/kg/hr for\
-    \ 45 mins, <br />\nthen 0.9 mL/kg/hr for 30 mins, <br />\nthen 2.2 mL/kg/hr for\
+  question: "The following hospital prescription was written for a patient, a 70-year-old\
+    \ man weighing 67 kg. Infusion of drug: Strength 10 % w/v, 0.4 g/kg. <br />\n\
+    \ Infusion rate: <br />\n0.5 mL/kg/hr for 45 mins, <br />\nthen 1.0 mL/kg/hr for\
+    \ 15 mins, <br />\nthen 1.7 mL/kg/hr for 45 mins, <br />\nthen 0.8 mL/kg/hr for\
     \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
     \ minutes, if it is infused at the given rate? Round your answer to the nearest\
     \ whole minute."
-  answer: 269
+  answer: 265
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 74 \text{ kg} \times 1.0 \text{ g\kg} =  74 \text{ g} \)<br />
+    \( 67 \text{ kg} \times 0.4 \text{ g/kg} =  27 \text{ g} \)<br />
     <br />
-    **Step 2: **Step 2: Total Volume** <br />
+    **Step 2: Total Volume** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{74 \text{ g}}{15 \text{ g}} \times 100 \text{ ml} = 493.33 \text{ ml} \) <br />
+    \( \frac{27 \text{ g}}{10 \text{ g}} \times 100 \text{ ml} = 270.0 \text{ ml} \) <br />
     <br />
     **Step 3: Volume delivered in timed phases** <br />
-    Phase 1 (90 mins): \(0.9 \text{ mL/kg/hr} \times 74 \text{ kg} \times 1.5 \text{ hr} = 99.9 \text{ mL} \) <br />
-    Phase 1 (45 mins): \(1.4 \text{ mL/kg/hr} \times 74 \text{ kg} \times 0.75 \text{ hr} = 77.7 \text{ mL} \) <br />
-    Phase 1 (30 mins): \(0.9 \text{ mL/kg/hr} \times 74 \text{ kg} \times 0.5 \text{ hr} = 33.3 \text{ mL} \) <br />
-    Total volume delivered in phases = 210.9 mL <br />
+    Phase 1 (45 mins): \(0.5 \text{ mL/kg/hr} \times 67 \text{ kg} \times 0.75 \text{ hr} = 25.12 \text{ mL} \) <br />
+    Phase 1 (15 mins): \(1.0 \text{ mL/kg/hr} \times 67 \text{ kg} \times 0.25 \text{ hr} = 16.75 \text{ mL} \) <br />
+    Phase 1 (45 mins): \(1.7 \text{ mL/kg/hr} \times 67 \text{ kg} \times 0.75 \text{ hr} = 85.42 \text{ mL} \) <br />
+    Total volume delivered in phases = 127.29 mL <br />
     <br />
     **Step 4: Remainder duration and total time** <br />
-    Remaining volume: \( 493.33-210.9 = 282.43 \text{ mL}  \) <br />
-    Final rate: \( 2.2 \text{ mL/kg/hr} \times 74 \text{ kg} = 162.8 \text{ mL/hr} \) <br />
-    Remainder time: \( \frac{282.43 \text{ mL}}{162.8 \text{ mL/hr}} \times 60 \text{ mins} = 104.09 \text{ mins} \) <br />
-    Total duration: \(90 + 45 + 30 + 104.09 = 269.09000000000003 \text{ mins} \) <br />
+    Remaining volume: \( 270.0-127.29 = 142.71 \text{ mL}  \) <br />
+    Final rate: \( 0.8 \text{ mL/kg/hr} \times 67 \text{ kg} = 53.6 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{142.71 \text{ mL}}{53.6 \text{ mL/hr}} \times 60 \text{ mins} = 159.75 \text{ mins} \) <br />
+    Total duration: \(45 + 15 + 45 + 159.75 = 264.75 \text{ mins} \) <br />
     <br />
-    **Answer: 269 min (nearest whole minute)**
+    **Answer: 265 min (nearest whole minute)**
+- id: 8050
+  question: "The following hospital prescription was written for a patient, a 72-year-old\
+    \ man weighing 53 kg. Infusion of drug: Strength 16 % w/v, 0.6 g/kg. <br />\n\
+    \ Infusion rate: <br />\n1.3 mL/kg/hr for 30 mins, <br />\nthen 1.9 mL/kg/hr for\
+    \ 45 mins, <br />\nthen 2.2 mL/kg/hr for 30 mins, <br />\nthen 1.8 mL/kg/hr for\
+    \ the remainder of the infusion. <br />\nWhat is the total infusion duration in\
+    \ minutes, if it is infused at the given rate? Round your answer to the nearest\
+    \ whole minute."
+  answer: 125
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 53 \text{ kg} \times 0.6 \text{ g/kg} =  32 \text{ g} \)<br />
+    <br />
+    **Step 2: Total Volume** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{32 \text{ g}}{16 \text{ g}} \times 100 \text{ ml} = 200.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Volume delivered in timed phases** <br />
+    Phase 1 (30 mins): \(1.3 \text{ mL/kg/hr} \times 53 \text{ kg} \times 0.5 \text{ hr} = 34.45 \text{ mL} \) <br />
+    Phase 1 (45 mins): \(1.9 \text{ mL/kg/hr} \times 53 \text{ kg} \times 0.75 \text{ hr} = 75.52 \text{ mL} \) <br />
+    Phase 1 (30 mins): \(2.2 \text{ mL/kg/hr} \times 53 \text{ kg} \times 0.5 \text{ hr} = 58.3 \text{ mL} \) <br />
+    Total volume delivered in phases = 168.27 mL <br />
+    <br />
+    **Step 4: Remainder duration and total time** <br />
+    Remaining volume: \( 200.0-168.27 = 31.73 \text{ mL}  \) <br />
+    Final rate: \( 1.8 \text{ mL/kg/hr} \times 53 \text{ kg} = 95.4 \text{ mL/hr} \) <br />
+    Remainder time: \( \frac{31.73 \text{ mL}}{95.4 \text{ mL/hr}} \times 60 \text{ mins} = 19.956 \text{ mins} \) <br />
+    Total duration: \(30 + 45 + 30 + 19.956 = 124.956 \text{ mins} \) <br />
+    <br />
+    **Answer: 125 min (nearest whole minute)**
