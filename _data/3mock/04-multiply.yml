@@ -1,0 +1,700 @@
+- id: 4001
+  question: ' \( 81.9 \times 7.8 \)'
+  answer: 638.82
+  solution: |-
+    \( 819 \times 78 = 63882 \) <br />
+    \( 81.9 \times 7.8 = 638.82 \) <br />
+    **Answer:** 638.82
+- id: 4002
+  question: ' \( 67.9 \times 5.1 \)'
+  answer: 346.29
+  solution: |-
+    \( 679 \times 51 = 34629 \) <br />
+    \( 67.9 \times 5.1 = 346.29 \) <br />
+    **Answer:** 346.29
+- id: 4003
+  question: ' \( 71.5 \times 4.8 \)'
+  answer: 343.2
+  solution: |-
+    \( 715 \times 48 = 34320 \) <br />
+    \( 71.5 \times 4.8 = 343.2 \) <br />
+    **Answer:** 343.2
+- id: 4004
+  question: ' \( 62.3 \times 8.1 \)'
+  answer: 504.63
+  solution: |-
+    \( 623 \times 81 = 50463 \) <br />
+    \( 62.3 \times 8.1 = 504.63 \) <br />
+    **Answer:** 504.63
+- id: 4005
+  question: ' \( 67.1 \times 4.4 \)'
+  answer: 295.24
+  solution: |-
+    \( 671 \times 44 = 29524 \) <br />
+    \( 67.1 \times 4.4 = 295.24 \) <br />
+    **Answer:** 295.24
+- id: 4006
+  question: ' \( 69.8 \times 7.3 \)'
+  answer: 509.54
+  solution: |-
+    \( 698 \times 73 = 50954 \) <br />
+    \( 69.8 \times 7.3 = 509.54 \) <br />
+    **Answer:** 509.54
+- id: 4007
+  question: ' \( 68.6 \times 8.2 \)'
+  answer: 562.52
+  solution: |-
+    \( 686 \times 82 = 56252 \) <br />
+    \( 68.6 \times 8.2 = 562.52 \) <br />
+    **Answer:** 562.52
+- id: 4008
+  question: ' \( 53.2 \times 8.4 \)'
+  answer: 446.88
+  solution: |-
+    \( 532 \times 84 = 44688 \) <br />
+    \( 53.2 \times 8.4 = 446.88 \) <br />
+    **Answer:** 446.88
+- id: 4009
+  question: ' \( 87.8 \times 7.1 \)'
+  answer: 623.38
+  solution: |-
+    \( 878 \times 71 = 62338 \) <br />
+    \( 87.8 \times 7.1 = 623.38 \) <br />
+    **Answer:** 623.38
+- id: 4010
+  question: ' \( 64.9 \times 5.6 \)'
+  answer: 363.44
+  solution: |-
+    \( 649 \times 56 = 36344 \) <br />
+    \( 64.9 \times 5.6 = 363.44 \) <br />
+    **Answer:** 363.44
+- id: 4011
+  question: ' \( 63.9 \times 7.1 \)'
+  answer: 453.69
+  solution: |-
+    \( 639 \times 71 = 45369 \) <br />
+    \( 63.9 \times 7.1 = 453.69 \) <br />
+    **Answer:** 453.69
+- id: 4012
+  question: ' \( 79.1 \times 8.4 \)'
+  answer: 664.44
+  solution: |-
+    \( 791 \times 84 = 66444 \) <br />
+    \( 79.1 \times 8.4 = 664.44 \) <br />
+    **Answer:** 664.44
+- id: 4013
+  question: ' \( 89.9 \times 8.5 \)'
+  answer: 764.15
+  solution: |-
+    \( 899 \times 85 = 76415 \) <br />
+    \( 89.9 \times 8.5 = 764.15 \) <br />
+    **Answer:** 764.15
+- id: 4014
+  question: ' \( 88.3 \times 5.5 \)'
+  answer: 485.65
+  solution: |-
+    \( 883 \times 55 = 48565 \) <br />
+    \( 88.3 \times 5.5 = 485.65 \) <br />
+    **Answer:** 485.65
+- id: 4015
+  question: ' \( 84.9 \times 8.4 \)'
+  answer: 713.16
+  solution: |-
+    \( 849 \times 84 = 71316 \) <br />
+    \( 84.9 \times 8.4 = 713.16 \) <br />
+    **Answer:** 713.16
+- id: 4016
+  question: ' \( 70.3 \times 5.5 \)'
+  answer: 386.65
+  solution: |-
+    \( 703 \times 55 = 38665 \) <br />
+    \( 70.3 \times 5.5 = 386.65 \) <br />
+    **Answer:** 386.65
+- id: 4017
+  question: ' \( 71.5 \times 8.7 \)'
+  answer: 622.05
+  solution: |-
+    \( 715 \times 87 = 62205 \) <br />
+    \( 71.5 \times 8.7 = 622.05 \) <br />
+    **Answer:** 622.05
+- id: 4018
+  question: ' \( 68.8 \times 9.9 \)'
+  answer: 681.12
+  solution: |-
+    \( 688 \times 99 = 68112 \) <br />
+    \( 68.8 \times 9.9 = 681.12 \) <br />
+    **Answer:** 681.12
+- id: 4019
+  question: ' \( 60.6 \times 8.9 \)'
+  answer: 539.34
+  solution: |-
+    \( 606 \times 89 = 53934 \) <br />
+    \( 60.6 \times 8.9 = 539.34 \) <br />
+    **Answer:** 539.34
+- id: 4020
+  question: ' \( 66.7 \times 8.3 \)'
+  answer: 553.61
+  solution: |-
+    \( 667 \times 83 = 55361 \) <br />
+    \( 66.7 \times 8.3 = 553.61 \) <br />
+    **Answer:** 553.61
+- id: 4021
+  question: ' \( 54.4 \times 7.1 \)'
+  answer: 386.24
+  solution: |-
+    \( 544 \times 71 = 38624 \) <br />
+    \( 54.4 \times 7.1 = 386.24 \) <br />
+    **Answer:** 386.24
+- id: 4022
+  question: ' \( 86.5 \times 6.3 \)'
+  answer: 544.95
+  solution: |-
+    \( 865 \times 63 = 54495 \) <br />
+    \( 86.5 \times 6.3 = 544.95 \) <br />
+    **Answer:** 544.95
+- id: 4023
+  question: ' \( 68.4 \times 5.4 \)'
+  answer: 369.36
+  solution: |-
+    \( 684 \times 54 = 36936 \) <br />
+    \( 68.4 \times 5.4 = 369.36 \) <br />
+    **Answer:** 369.36
+- id: 4024
+  question: ' \( 83.7 \times 7.7 \)'
+  answer: 644.49
+  solution: |-
+    \( 837 \times 77 = 64449 \) <br />
+    \( 83.7 \times 7.7 = 644.49 \) <br />
+    **Answer:** 644.49
+- id: 4025
+  question: ' \( 56.9 \times 4.9 \)'
+  answer: 278.81
+  solution: |-
+    \( 569 \times 49 = 27881 \) <br />
+    \( 56.9 \times 4.9 = 278.81 \) <br />
+    **Answer:** 278.81
+- id: 4026
+  question: ' \( 64.2 \times 8.2 \)'
+  answer: 526.44
+  solution: |-
+    \( 642 \times 82 = 52644 \) <br />
+    \( 64.2 \times 8.2 = 526.44 \) <br />
+    **Answer:** 526.44
+- id: 4027
+  question: ' \( 86.5 \times 4.8 \)'
+  answer: 415.2
+  solution: |-
+    \( 865 \times 48 = 41520 \) <br />
+    \( 86.5 \times 4.8 = 415.2 \) <br />
+    **Answer:** 415.2
+- id: 4028
+  question: ' \( 58.7 \times 8.9 \)'
+  answer: 522.43
+  solution: |-
+    \( 587 \times 89 = 52243 \) <br />
+    \( 58.7 \times 8.9 = 522.43 \) <br />
+    **Answer:** 522.43
+- id: 4029
+  question: ' \( 68.5 \times 7.7 \)'
+  answer: 527.45
+  solution: |-
+    \( 685 \times 77 = 52745 \) <br />
+    \( 68.5 \times 7.7 = 527.45 \) <br />
+    **Answer:** 527.45
+- id: 4030
+  question: ' \( 72.5 \times 4.4 \)'
+  answer: 319.0
+  solution: |-
+    \( 725 \times 44 = 31900 \) <br />
+    \( 72.5 \times 4.4 = 319.0 \) <br />
+    **Answer:** 319.0
+- id: 4031
+  question: ' \( 83.4 \times 4.6 \)'
+  answer: 383.64
+  solution: |-
+    \( 834 \times 46 = 38364 \) <br />
+    \( 83.4 \times 4.6 = 383.64 \) <br />
+    **Answer:** 383.64
+- id: 4032
+  question: ' \( 74.8 \times 7.2 \)'
+  answer: 538.56
+  solution: |-
+    \( 748 \times 72 = 53856 \) <br />
+    \( 74.8 \times 7.2 = 538.56 \) <br />
+    **Answer:** 538.56
+- id: 4033
+  question: ' \( 58.1 \times 6.7 \)'
+  answer: 389.27
+  solution: |-
+    \( 581 \times 67 = 38927 \) <br />
+    \( 58.1 \times 6.7 = 389.27 \) <br />
+    **Answer:** 389.27
+- id: 4034
+  question: ' \( 82.5 \times 4.2 \)'
+  answer: 346.5
+  solution: |-
+    \( 825 \times 42 = 34650 \) <br />
+    \( 82.5 \times 4.2 = 346.5 \) <br />
+    **Answer:** 346.5
+- id: 4035
+  question: ' \( 76.5 \times 4.4 \)'
+  answer: 336.6
+  solution: |-
+    \( 765 \times 44 = 33660 \) <br />
+    \( 76.5 \times 4.4 = 336.6 \) <br />
+    **Answer:** 336.6
+- id: 4036
+  question: ' \( 66.2 \times 9.3 \)'
+  answer: 615.66
+  solution: |-
+    \( 662 \times 93 = 61566 \) <br />
+    \( 66.2 \times 9.3 = 615.66 \) <br />
+    **Answer:** 615.66
+- id: 4037
+  question: ' \( 85.7 \times 5.9 \)'
+  answer: 505.63
+  solution: |-
+    \( 857 \times 59 = 50563 \) <br />
+    \( 85.7 \times 5.9 = 505.63 \) <br />
+    **Answer:** 505.63
+- id: 4038
+  question: ' \( 56.2 \times 7.5 \)'
+  answer: 421.5
+  solution: |-
+    \( 562 \times 75 = 42150 \) <br />
+    \( 56.2 \times 7.5 = 421.5 \) <br />
+    **Answer:** 421.5
+- id: 4039
+  question: ' \( 66.2 \times 7.3 \)'
+  answer: 483.26
+  solution: |-
+    \( 662 \times 73 = 48326 \) <br />
+    \( 66.2 \times 7.3 = 483.26 \) <br />
+    **Answer:** 483.26
+- id: 4040
+  question: ' \( 82.7 \times 8.2 \)'
+  answer: 678.14
+  solution: |-
+    \( 827 \times 82 = 67814 \) <br />
+    \( 82.7 \times 8.2 = 678.14 \) <br />
+    **Answer:** 678.14
+- id: 4041
+  question: ' \( 62.9 \times 7.4 \)'
+  answer: 465.46
+  solution: |-
+    \( 629 \times 74 = 46546 \) <br />
+    \( 62.9 \times 7.4 = 465.46 \) <br />
+    **Answer:** 465.46
+- id: 4042
+  question: ' \( 71.3 \times 8.3 \)'
+  answer: 591.79
+  solution: |-
+    \( 713 \times 83 = 59179 \) <br />
+    \( 71.3 \times 8.3 = 591.79 \) <br />
+    **Answer:** 591.79
+- id: 4043
+  question: ' \( 82.1 \times 7.4 \)'
+  answer: 607.54
+  solution: |-
+    \( 821 \times 74 = 60754 \) <br />
+    \( 82.1 \times 7.4 = 607.54 \) <br />
+    **Answer:** 607.54
+- id: 4044
+  question: ' \( 58.1 \times 8.8 \)'
+  answer: 511.28
+  solution: |-
+    \( 581 \times 88 = 51128 \) <br />
+    \( 58.1 \times 8.8 = 511.28 \) <br />
+    **Answer:** 511.28
+- id: 4045
+  question: ' \( 78.3 \times 6.2 \)'
+  answer: 485.46
+  solution: |-
+    \( 783 \times 62 = 48546 \) <br />
+    \( 78.3 \times 6.2 = 485.46 \) <br />
+    **Answer:** 485.46
+- id: 4046
+  question: ' \( 59.4 \times 6.8 \)'
+  answer: 403.92
+  solution: |-
+    \( 594 \times 68 = 40392 \) <br />
+    \( 59.4 \times 6.8 = 403.92 \) <br />
+    **Answer:** 403.92
+- id: 4047
+  question: ' \( 67.6 \times 7.9 \)'
+  answer: 534.04
+  solution: |-
+    \( 676 \times 79 = 53404 \) <br />
+    \( 67.6 \times 7.9 = 534.04 \) <br />
+    **Answer:** 534.04
+- id: 4048
+  question: ' \( 81.7 \times 5.2 \)'
+  answer: 424.84
+  solution: |-
+    \( 817 \times 52 = 42484 \) <br />
+    \( 81.7 \times 5.2 = 424.84 \) <br />
+    **Answer:** 424.84
+- id: 4049
+  question: ' \( 52.2 \times 9.5 \)'
+  answer: 495.9
+  solution: |-
+    \( 522 \times 95 = 49590 \) <br />
+    \( 52.2 \times 9.5 = 495.9 \) <br />
+    **Answer:** 495.9
+- id: 4050
+  question: ' \( 77.1 \times 8.7 \)'
+  answer: 670.77
+  solution: |-
+    \( 771 \times 87 = 67077 \) <br />
+    \( 77.1 \times 8.7 = 670.77 \) <br />
+    **Answer:** 670.77
+- id: 4051
+  question: ' \( 58.1 \times 8.9 \)'
+  answer: 517.09
+  solution: |-
+    \( 581 \times 89 = 51709 \) <br />
+    \( 58.1 \times 8.9 = 517.09 \) <br />
+    **Answer:** 517.09
+- id: 4052
+  question: ' \( 51.4 \times 9.1 \)'
+  answer: 467.74
+  solution: |-
+    \( 514 \times 91 = 46774 \) <br />
+    \( 51.4 \times 9.1 = 467.74 \) <br />
+    **Answer:** 467.74
+- id: 4053
+  question: ' \( 66.4 \times 5.7 \)'
+  answer: 378.48
+  solution: |-
+    \( 664 \times 57 = 37848 \) <br />
+    \( 66.4 \times 5.7 = 378.48 \) <br />
+    **Answer:** 378.48
+- id: 4054
+  question: ' \( 54.3 \times 7.2 \)'
+  answer: 390.96
+  solution: |-
+    \( 543 \times 72 = 39096 \) <br />
+    \( 54.3 \times 7.2 = 390.96 \) <br />
+    **Answer:** 390.96
+- id: 4055
+  question: ' \( 68.1 \times 6.1 \)'
+  answer: 415.41
+  solution: |-
+    \( 681 \times 61 = 41541 \) <br />
+    \( 68.1 \times 6.1 = 415.41 \) <br />
+    **Answer:** 415.41
+- id: 4056
+  question: ' \( 87.8 \times 5.6 \)'
+  answer: 491.68
+  solution: |-
+    \( 878 \times 56 = 49168 \) <br />
+    \( 87.8 \times 5.6 = 491.68 \) <br />
+    **Answer:** 491.68
+- id: 4057
+  question: ' \( 81.8 \times 6.4 \)'
+  answer: 523.52
+  solution: |-
+    \( 818 \times 64 = 52352 \) <br />
+    \( 81.8 \times 6.4 = 523.52 \) <br />
+    **Answer:** 523.52
+- id: 4058
+  question: ' \( 66.2 \times 5.9 \)'
+  answer: 390.58
+  solution: |-
+    \( 662 \times 59 = 39058 \) <br />
+    \( 66.2 \times 5.9 = 390.58 \) <br />
+    **Answer:** 390.58
+- id: 4059
+  question: ' \( 75.9 \times 6.5 \)'
+  answer: 493.35
+  solution: |-
+    \( 759 \times 65 = 49335 \) <br />
+    \( 75.9 \times 6.5 = 493.35 \) <br />
+    **Answer:** 493.35
+- id: 4060
+  question: ' \( 74.4 \times 8.1 \)'
+  answer: 602.64
+  solution: |-
+    \( 744 \times 81 = 60264 \) <br />
+    \( 74.4 \times 8.1 = 602.64 \) <br />
+    **Answer:** 602.64
+- id: 4061
+  question: ' \( 88.4 \times 4.3 \)'
+  answer: 380.12
+  solution: |-
+    \( 884 \times 43 = 38012 \) <br />
+    \( 88.4 \times 4.3 = 380.12 \) <br />
+    **Answer:** 380.12
+- id: 4062
+  question: ' \( 64.5 \times 6.5 \)'
+  answer: 419.25
+  solution: |-
+    \( 645 \times 65 = 41925 \) <br />
+    \( 64.5 \times 6.5 = 419.25 \) <br />
+    **Answer:** 419.25
+- id: 4063
+  question: ' \( 55.7 \times 4.7 \)'
+  answer: 261.79
+  solution: |-
+    \( 557 \times 47 = 26179 \) <br />
+    \( 55.7 \times 4.7 = 261.79 \) <br />
+    **Answer:** 261.79
+- id: 4064
+  question: ' \( 76.7 \times 7.4 \)'
+  answer: 567.58
+  solution: |-
+    \( 767 \times 74 = 56758 \) <br />
+    \( 76.7 \times 7.4 = 567.58 \) <br />
+    **Answer:** 567.58
+- id: 4065
+  question: ' \( 74.7 \times 4.9 \)'
+  answer: 366.03
+  solution: |-
+    \( 747 \times 49 = 36603 \) <br />
+    \( 74.7 \times 4.9 = 366.03 \) <br />
+    **Answer:** 366.03
+- id: 4066
+  question: ' \( 53.5 \times 5.4 \)'
+  answer: 288.9
+  solution: |-
+    \( 535 \times 54 = 28890 \) <br />
+    \( 53.5 \times 5.4 = 288.9 \) <br />
+    **Answer:** 288.9
+- id: 4067
+  question: ' \( 73.5 \times 5.6 \)'
+  answer: 411.6
+  solution: |-
+    \( 735 \times 56 = 41160 \) <br />
+    \( 73.5 \times 5.6 = 411.6 \) <br />
+    **Answer:** 411.6
+- id: 4068
+  question: ' \( 75.4 \times 4.8 \)'
+  answer: 361.92
+  solution: |-
+    \( 754 \times 48 = 36192 \) <br />
+    \( 75.4 \times 4.8 = 361.92 \) <br />
+    **Answer:** 361.92
+- id: 4069
+  question: ' \( 80.4 \times 9.7 \)'
+  answer: 779.88
+  solution: |-
+    \( 804 \times 97 = 77988 \) <br />
+    \( 80.4 \times 9.7 = 779.88 \) <br />
+    **Answer:** 779.88
+- id: 4070
+  question: ' \( 79.2 \times 5.2 \)'
+  answer: 411.84
+  solution: |-
+    \( 792 \times 52 = 41184 \) <br />
+    \( 79.2 \times 5.2 = 411.84 \) <br />
+    **Answer:** 411.84
+- id: 4071
+  question: ' \( 71.9 \times 8.1 \)'
+  answer: 582.39
+  solution: |-
+    \( 719 \times 81 = 58239 \) <br />
+    \( 71.9 \times 8.1 = 582.39 \) <br />
+    **Answer:** 582.39
+- id: 4072
+  question: ' \( 67.4 \times 9.3 \)'
+  answer: 626.82
+  solution: |-
+    \( 674 \times 93 = 62682 \) <br />
+    \( 67.4 \times 9.3 = 626.82 \) <br />
+    **Answer:** 626.82
+- id: 4073
+  question: ' \( 88.2 \times 4.7 \)'
+  answer: 414.54
+  solution: |-
+    \( 882 \times 47 = 41454 \) <br />
+    \( 88.2 \times 4.7 = 414.54 \) <br />
+    **Answer:** 414.54
+- id: 4074
+  question: ' \( 78.1 \times 7.6 \)'
+  answer: 593.56
+  solution: |-
+    \( 781 \times 76 = 59356 \) <br />
+    \( 78.1 \times 7.6 = 593.56 \) <br />
+    **Answer:** 593.56
+- id: 4075
+  question: ' \( 68.2 \times 6.2 \)'
+  answer: 422.84
+  solution: |-
+    \( 682 \times 62 = 42284 \) <br />
+    \( 68.2 \times 6.2 = 422.84 \) <br />
+    **Answer:** 422.84
+- id: 4076
+  question: ' \( 50.6 \times 8.2 \)'
+  answer: 414.92
+  solution: |-
+    \( 506 \times 82 = 41492 \) <br />
+    \( 50.6 \times 8.2 = 414.92 \) <br />
+    **Answer:** 414.92
+- id: 4077
+  question: ' \( 82.6 \times 8.5 \)'
+  answer: 702.1
+  solution: |-
+    \( 826 \times 85 = 70210 \) <br />
+    \( 82.6 \times 8.5 = 702.1 \) <br />
+    **Answer:** 702.1
+- id: 4078
+  question: ' \( 66.8 \times 6.5 \)'
+  answer: 434.2
+  solution: |-
+    \( 668 \times 65 = 43420 \) <br />
+    \( 66.8 \times 6.5 = 434.2 \) <br />
+    **Answer:** 434.2
+- id: 4079
+  question: ' \( 59.9 \times 6.1 \)'
+  answer: 365.39
+  solution: |-
+    \( 599 \times 61 = 36539 \) <br />
+    \( 59.9 \times 6.1 = 365.39 \) <br />
+    **Answer:** 365.39
+- id: 4080
+  question: ' \( 83.3 \times 8.3 \)'
+  answer: 691.39
+  solution: |-
+    \( 833 \times 83 = 69139 \) <br />
+    \( 83.3 \times 8.3 = 691.39 \) <br />
+    **Answer:** 691.39
+- id: 4081
+  question: ' \( 61.6 \times 8.5 \)'
+  answer: 523.6
+  solution: |-
+    \( 616 \times 85 = 52360 \) <br />
+    \( 61.6 \times 8.5 = 523.6 \) <br />
+    **Answer:** 523.6
+- id: 4082
+  question: ' \( 89.9 \times 7.3 \)'
+  answer: 656.27
+  solution: |-
+    \( 899 \times 73 = 65627 \) <br />
+    \( 89.9 \times 7.3 = 656.27 \) <br />
+    **Answer:** 656.27
+- id: 4083
+  question: ' \( 65.1 \times 9.5 \)'
+  answer: 618.45
+  solution: |-
+    \( 651 \times 95 = 61845 \) <br />
+    \( 65.1 \times 9.5 = 618.45 \) <br />
+    **Answer:** 618.45
+- id: 4084
+  question: ' \( 84.1 \times 5.8 \)'
+  answer: 487.78
+  solution: |-
+    \( 841 \times 58 = 48778 \) <br />
+    \( 84.1 \times 5.8 = 487.78 \) <br />
+    **Answer:** 487.78
+- id: 4085
+  question: ' \( 51.4 \times 8.5 \)'
+  answer: 436.9
+  solution: |-
+    \( 514 \times 85 = 43690 \) <br />
+    \( 51.4 \times 8.5 = 436.9 \) <br />
+    **Answer:** 436.9
+- id: 4086
+  question: ' \( 50.8 \times 4.6 \)'
+  answer: 233.68
+  solution: |-
+    \( 508 \times 46 = 23368 \) <br />
+    \( 50.8 \times 4.6 = 233.68 \) <br />
+    **Answer:** 233.68
+- id: 4087
+  question: ' \( 70.9 \times 4.8 \)'
+  answer: 340.32
+  solution: |-
+    \( 709 \times 48 = 34032 \) <br />
+    \( 70.9 \times 4.8 = 340.32 \) <br />
+    **Answer:** 340.32
+- id: 4088
+  question: ' \( 54.7 \times 4.3 \)'
+  answer: 235.21
+  solution: |-
+    \( 547 \times 43 = 23521 \) <br />
+    \( 54.7 \times 4.3 = 235.21 \) <br />
+    **Answer:** 235.21
+- id: 4089
+  question: ' \( 61.7 \times 4.3 \)'
+  answer: 265.31
+  solution: |-
+    \( 617 \times 43 = 26531 \) <br />
+    \( 61.7 \times 4.3 = 265.31 \) <br />
+    **Answer:** 265.31
+- id: 4090
+  question: ' \( 73.1 \times 5.5 \)'
+  answer: 402.05
+  solution: |-
+    \( 731 \times 55 = 40205 \) <br />
+    \( 73.1 \times 5.5 = 402.05 \) <br />
+    **Answer:** 402.05
+- id: 4091
+  question: ' \( 80.8 \times 6.9 \)'
+  answer: 557.52
+  solution: |-
+    \( 808 \times 69 = 55752 \) <br />
+    \( 80.8 \times 6.9 = 557.52 \) <br />
+    **Answer:** 557.52
+- id: 4092
+  question: ' \( 64.9 \times 9.3 \)'
+  answer: 603.57
+  solution: |-
+    \( 649 \times 93 = 60357 \) <br />
+    \( 64.9 \times 9.3 = 603.57 \) <br />
+    **Answer:** 603.57
+- id: 4093
+  question: ' \( 74.9 \times 5.1 \)'
+  answer: 381.99
+  solution: |-
+    \( 749 \times 51 = 38199 \) <br />
+    \( 74.9 \times 5.1 = 381.99 \) <br />
+    **Answer:** 381.99
+- id: 4094
+  question: ' \( 59.7 \times 6.9 \)'
+  answer: 411.93
+  solution: |-
+    \( 597 \times 69 = 41193 \) <br />
+    \( 59.7 \times 6.9 = 411.93 \) <br />
+    **Answer:** 411.93
+- id: 4095
+  question: ' \( 59.4 \times 7.1 \)'
+  answer: 421.74
+  solution: |-
+    \( 594 \times 71 = 42174 \) <br />
+    \( 59.4 \times 7.1 = 421.74 \) <br />
+    **Answer:** 421.74
+- id: 4096
+  question: ' \( 84.6 \times 7.3 \)'
+  answer: 617.58
+  solution: |-
+    \( 846 \times 73 = 61758 \) <br />
+    \( 84.6 \times 7.3 = 617.58 \) <br />
+    **Answer:** 617.58
+- id: 4097
+  question: ' \( 72.6 \times 9.2 \)'
+  answer: 667.92
+  solution: |-
+    \( 726 \times 92 = 66792 \) <br />
+    \( 72.6 \times 9.2 = 667.92 \) <br />
+    **Answer:** 667.92
+- id: 4098
+  question: ' \( 79.4 \times 4.8 \)'
+  answer: 381.12
+  solution: |-
+    \( 794 \times 48 = 38112 \) <br />
+    \( 79.4 \times 4.8 = 381.12 \) <br />
+    **Answer:** 381.12
+- id: 4099
+  question: ' \( 81.8 \times 4.7 \)'
+  answer: 384.46
+  solution: |-
+    \( 818 \times 47 = 38446 \) <br />
+    \( 81.8 \times 4.7 = 384.46 \) <br />
+    **Answer:** 384.46
+- id: 4100
+  question: ' \( 72.7 \times 7.9 \)'
+  answer: 574.33
+  solution: |-
+    \( 727 \times 79 = 57433 \) <br />
+    \( 72.7 \times 7.9 = 574.33 \) <br />
+    **Answer:** 574.33

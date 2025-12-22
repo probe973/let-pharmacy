@@ -1,0 +1,700 @@
+- id: 3001
+  question: ' \( 6931 \times 79 \)'
+  answer: 547549
+  solution: |-
+    \( 6931 \times 70 = 485170 \) <br />
+    \( 6931 \times 9 = 62379 \) <br />
+    **Answer:** \( 485170 + 62379 = 547549 \)
+- id: 3002
+  question: ' \( 6132 \times 89 \)'
+  answer: 545748
+  solution: |-
+    \( 6132 \times 80 = 490560 \) <br />
+    \( 6132 \times 9 = 55188 \) <br />
+    **Answer:** \( 490560 + 55188 = 545748 \)
+- id: 3003
+  question: ' \( 6585 \times 94 \)'
+  answer: 618990
+  solution: |-
+    \( 6585 \times 90 = 592650 \) <br />
+    \( 6585 \times 4 = 26340 \) <br />
+    **Answer:** \( 592650 + 26340 = 618990 \)
+- id: 3004
+  question: ' \( 6455 \times 78 \)'
+  answer: 503490
+  solution: |-
+    \( 6455 \times 70 = 451850 \) <br />
+    \( 6455 \times 8 = 51640 \) <br />
+    **Answer:** \( 451850 + 51640 = 503490 \)
+- id: 3005
+  question: ' \( 5166 \times 79 \)'
+  answer: 408114
+  solution: |-
+    \( 5166 \times 70 = 361620 \) <br />
+    \( 5166 \times 9 = 46494 \) <br />
+    **Answer:** \( 361620 + 46494 = 408114 \)
+- id: 3006
+  question: ' \( 6122 \times 65 \)'
+  answer: 397930
+  solution: |-
+    \( 6122 \times 60 = 367320 \) <br />
+    \( 6122 \times 5 = 30610 \) <br />
+    **Answer:** \( 367320 + 30610 = 397930 \)
+- id: 3007
+  question: ' \( 6981 \times 64 \)'
+  answer: 446784
+  solution: |-
+    \( 6981 \times 60 = 418860 \) <br />
+    \( 6981 \times 4 = 27924 \) <br />
+    **Answer:** \( 418860 + 27924 = 446784 \)
+- id: 3008
+  question: ' \( 6384 \times 58 \)'
+  answer: 370272
+  solution: |-
+    \( 6384 \times 50 = 319200 \) <br />
+    \( 6384 \times 8 = 51072 \) <br />
+    **Answer:** \( 319200 + 51072 = 370272 \)
+- id: 3009
+  question: ' \( 8186 \times 62 \)'
+  answer: 507532
+  solution: |-
+    \( 8186 \times 60 = 491160 \) <br />
+    \( 8186 \times 2 = 16372 \) <br />
+    **Answer:** \( 491160 + 16372 = 507532 \)
+- id: 3010
+  question: ' \( 7479 \times 42 \)'
+  answer: 314118
+  solution: |-
+    \( 7479 \times 40 = 299160 \) <br />
+    \( 7479 \times 2 = 14958 \) <br />
+    **Answer:** \( 299160 + 14958 = 314118 \)
+- id: 3011
+  question: ' \( 6974 \times 83 \)'
+  answer: 578842
+  solution: |-
+    \( 6974 \times 80 = 557920 \) <br />
+    \( 6974 \times 3 = 20922 \) <br />
+    **Answer:** \( 557920 + 20922 = 578842 \)
+- id: 3012
+  question: ' \( 8446 \times 88 \)'
+  answer: 743248
+  solution: |-
+    \( 8446 \times 80 = 675680 \) <br />
+    \( 8446 \times 8 = 67568 \) <br />
+    **Answer:** \( 675680 + 67568 = 743248 \)
+- id: 3013
+  question: ' \( 6766 \times 76 \)'
+  answer: 514216
+  solution: |-
+    \( 6766 \times 70 = 473620 \) <br />
+    \( 6766 \times 6 = 40596 \) <br />
+    **Answer:** \( 473620 + 40596 = 514216 \)
+- id: 3014
+  question: ' \( 7397 \times 65 \)'
+  answer: 480805
+  solution: |-
+    \( 7397 \times 60 = 443820 \) <br />
+    \( 7397 \times 5 = 36985 \) <br />
+    **Answer:** \( 443820 + 36985 = 480805 \)
+- id: 3015
+  question: ' \( 5728 \times 94 \)'
+  answer: 538432
+  solution: |-
+    \( 5728 \times 90 = 515520 \) <br />
+    \( 5728 \times 4 = 22912 \) <br />
+    **Answer:** \( 515520 + 22912 = 538432 \)
+- id: 3016
+  question: ' \( 7715 \times 86 \)'
+  answer: 663490
+  solution: |-
+    \( 7715 \times 80 = 617200 \) <br />
+    \( 7715 \times 6 = 46290 \) <br />
+    **Answer:** \( 617200 + 46290 = 663490 \)
+- id: 3017
+  question: ' \( 6528 \times 48 \)'
+  answer: 313344
+  solution: |-
+    \( 6528 \times 40 = 261120 \) <br />
+    \( 6528 \times 8 = 52224 \) <br />
+    **Answer:** \( 261120 + 52224 = 313344 \)
+- id: 3018
+  question: ' \( 7295 \times 74 \)'
+  answer: 539830
+  solution: |-
+    \( 7295 \times 70 = 510650 \) <br />
+    \( 7295 \times 4 = 29180 \) <br />
+    **Answer:** \( 510650 + 29180 = 539830 \)
+- id: 3019
+  question: ' \( 5121 \times 77 \)'
+  answer: 394317
+  solution: |-
+    \( 5121 \times 70 = 358470 \) <br />
+    \( 5121 \times 7 = 35847 \) <br />
+    **Answer:** \( 358470 + 35847 = 394317 \)
+- id: 3020
+  question: ' \( 8646 \times 92 \)'
+  answer: 795432
+  solution: |-
+    \( 8646 \times 90 = 778140 \) <br />
+    \( 8646 \times 2 = 17292 \) <br />
+    **Answer:** \( 778140 + 17292 = 795432 \)
+- id: 3021
+  question: ' \( 8522 \times 56 \)'
+  answer: 477232
+  solution: |-
+    \( 8522 \times 50 = 426100 \) <br />
+    \( 8522 \times 6 = 51132 \) <br />
+    **Answer:** \( 426100 + 51132 = 477232 \)
+- id: 3022
+  question: ' \( 8113 \times 74 \)'
+  answer: 600362
+  solution: |-
+    \( 8113 \times 70 = 567910 \) <br />
+    \( 8113 \times 4 = 32452 \) <br />
+    **Answer:** \( 567910 + 32452 = 600362 \)
+- id: 3023
+  question: ' \( 5874 \times 51 \)'
+  answer: 299574
+  solution: |-
+    \( 5874 \times 50 = 293700 \) <br />
+    \( 5874 \times 1 = 5874 \) <br />
+    **Answer:** \( 293700 + 5874 = 299574 \)
+- id: 3024
+  question: ' \( 7332 \times 65 \)'
+  answer: 476580
+  solution: |-
+    \( 7332 \times 60 = 439920 \) <br />
+    \( 7332 \times 5 = 36660 \) <br />
+    **Answer:** \( 439920 + 36660 = 476580 \)
+- id: 3025
+  question: ' \( 7385 \times 95 \)'
+  answer: 701575
+  solution: |-
+    \( 7385 \times 90 = 664650 \) <br />
+    \( 7385 \times 5 = 36925 \) <br />
+    **Answer:** \( 664650 + 36925 = 701575 \)
+- id: 3026
+  question: ' \( 8824 \times 87 \)'
+  answer: 767688
+  solution: |-
+    \( 8824 \times 80 = 705920 \) <br />
+    \( 8824 \times 7 = 61768 \) <br />
+    **Answer:** \( 705920 + 61768 = 767688 \)
+- id: 3027
+  question: ' \( 8919 \times 93 \)'
+  answer: 829467
+  solution: |-
+    \( 8919 \times 90 = 802710 \) <br />
+    \( 8919 \times 3 = 26757 \) <br />
+    **Answer:** \( 802710 + 26757 = 829467 \)
+- id: 3028
+  question: ' \( 8893 \times 96 \)'
+  answer: 853728
+  solution: |-
+    \( 8893 \times 90 = 800370 \) <br />
+    \( 8893 \times 6 = 53358 \) <br />
+    **Answer:** \( 800370 + 53358 = 853728 \)
+- id: 3029
+  question: ' \( 5495 \times 56 \)'
+  answer: 307720
+  solution: |-
+    \( 5495 \times 50 = 274750 \) <br />
+    \( 5495 \times 6 = 32970 \) <br />
+    **Answer:** \( 274750 + 32970 = 307720 \)
+- id: 3030
+  question: ' \( 8155 \times 95 \)'
+  answer: 774725
+  solution: |-
+    \( 8155 \times 90 = 733950 \) <br />
+    \( 8155 \times 5 = 40775 \) <br />
+    **Answer:** \( 733950 + 40775 = 774725 \)
+- id: 3031
+  question: ' \( 5122 \times 42 \)'
+  answer: 215124
+  solution: |-
+    \( 5122 \times 40 = 204880 \) <br />
+    \( 5122 \times 2 = 10244 \) <br />
+    **Answer:** \( 204880 + 10244 = 215124 \)
+- id: 3032
+  question: ' \( 7985 \times 97 \)'
+  answer: 774545
+  solution: |-
+    \( 7985 \times 90 = 718650 \) <br />
+    \( 7985 \times 7 = 55895 \) <br />
+    **Answer:** \( 718650 + 55895 = 774545 \)
+- id: 3033
+  question: ' \( 6796 \times 74 \)'
+  answer: 502904
+  solution: |-
+    \( 6796 \times 70 = 475720 \) <br />
+    \( 6796 \times 4 = 27184 \) <br />
+    **Answer:** \( 475720 + 27184 = 502904 \)
+- id: 3034
+  question: ' \( 7871 \times 72 \)'
+  answer: 566712
+  solution: |-
+    \( 7871 \times 70 = 550970 \) <br />
+    \( 7871 \times 2 = 15742 \) <br />
+    **Answer:** \( 550970 + 15742 = 566712 \)
+- id: 3035
+  question: ' \( 5673 \times 41 \)'
+  answer: 232593
+  solution: |-
+    \( 5673 \times 40 = 226920 \) <br />
+    \( 5673 \times 1 = 5673 \) <br />
+    **Answer:** \( 226920 + 5673 = 232593 \)
+- id: 3036
+  question: ' \( 6969 \times 86 \)'
+  answer: 599334
+  solution: |-
+    \( 6969 \times 80 = 557520 \) <br />
+    \( 6969 \times 6 = 41814 \) <br />
+    **Answer:** \( 557520 + 41814 = 599334 \)
+- id: 3037
+  question: ' \( 5719 \times 83 \)'
+  answer: 474677
+  solution: |-
+    \( 5719 \times 80 = 457520 \) <br />
+    \( 5719 \times 3 = 17157 \) <br />
+    **Answer:** \( 457520 + 17157 = 474677 \)
+- id: 3038
+  question: ' \( 7787 \times 94 \)'
+  answer: 731978
+  solution: |-
+    \( 7787 \times 90 = 700830 \) <br />
+    \( 7787 \times 4 = 31148 \) <br />
+    **Answer:** \( 700830 + 31148 = 731978 \)
+- id: 3039
+  question: ' \( 5769 \times 42 \)'
+  answer: 242298
+  solution: |-
+    \( 5769 \times 40 = 230760 \) <br />
+    \( 5769 \times 2 = 11538 \) <br />
+    **Answer:** \( 230760 + 11538 = 242298 \)
+- id: 3040
+  question: ' \( 6686 \times 77 \)'
+  answer: 514822
+  solution: |-
+    \( 6686 \times 70 = 468020 \) <br />
+    \( 6686 \times 7 = 46802 \) <br />
+    **Answer:** \( 468020 + 46802 = 514822 \)
+- id: 3041
+  question: ' \( 7513 \times 82 \)'
+  answer: 616066
+  solution: |-
+    \( 7513 \times 80 = 601040 \) <br />
+    \( 7513 \times 2 = 15026 \) <br />
+    **Answer:** \( 601040 + 15026 = 616066 \)
+- id: 3042
+  question: ' \( 6451 \times 58 \)'
+  answer: 374158
+  solution: |-
+    \( 6451 \times 50 = 322550 \) <br />
+    \( 6451 \times 8 = 51608 \) <br />
+    **Answer:** \( 322550 + 51608 = 374158 \)
+- id: 3043
+  question: ' \( 7459 \times 89 \)'
+  answer: 663851
+  solution: |-
+    \( 7459 \times 80 = 596720 \) <br />
+    \( 7459 \times 9 = 67131 \) <br />
+    **Answer:** \( 596720 + 67131 = 663851 \)
+- id: 3044
+  question: ' \( 7831 \times 48 \)'
+  answer: 375888
+  solution: |-
+    \( 7831 \times 40 = 313240 \) <br />
+    \( 7831 \times 8 = 62648 \) <br />
+    **Answer:** \( 313240 + 62648 = 375888 \)
+- id: 3045
+  question: ' \( 5228 \times 62 \)'
+  answer: 324136
+  solution: |-
+    \( 5228 \times 60 = 313680 \) <br />
+    \( 5228 \times 2 = 10456 \) <br />
+    **Answer:** \( 313680 + 10456 = 324136 \)
+- id: 3046
+  question: ' \( 6124 \times 55 \)'
+  answer: 336820
+  solution: |-
+    \( 6124 \times 50 = 306200 \) <br />
+    \( 6124 \times 5 = 30620 \) <br />
+    **Answer:** \( 306200 + 30620 = 336820 \)
+- id: 3047
+  question: ' \( 7808 \times 71 \)'
+  answer: 554368
+  solution: |-
+    \( 7808 \times 70 = 546560 \) <br />
+    \( 7808 \times 1 = 7808 \) <br />
+    **Answer:** \( 546560 + 7808 = 554368 \)
+- id: 3048
+  question: ' \( 5649 \times 79 \)'
+  answer: 446271
+  solution: |-
+    \( 5649 \times 70 = 395430 \) <br />
+    \( 5649 \times 9 = 50841 \) <br />
+    **Answer:** \( 395430 + 50841 = 446271 \)
+- id: 3049
+  question: ' \( 5413 \times 97 \)'
+  answer: 525061
+  solution: |-
+    \( 5413 \times 90 = 487170 \) <br />
+    \( 5413 \times 7 = 37891 \) <br />
+    **Answer:** \( 487170 + 37891 = 525061 \)
+- id: 3050
+  question: ' \( 6251 \times 62 \)'
+  answer: 387562
+  solution: |-
+    \( 6251 \times 60 = 375060 \) <br />
+    \( 6251 \times 2 = 12502 \) <br />
+    **Answer:** \( 375060 + 12502 = 387562 \)
+- id: 3051
+  question: ' \( 8738 \times 77 \)'
+  answer: 672826
+  solution: |-
+    \( 8738 \times 70 = 611660 \) <br />
+    \( 8738 \times 7 = 61166 \) <br />
+    **Answer:** \( 611660 + 61166 = 672826 \)
+- id: 3052
+  question: ' \( 6597 \times 47 \)'
+  answer: 310059
+  solution: |-
+    \( 6597 \times 40 = 263880 \) <br />
+    \( 6597 \times 7 = 46179 \) <br />
+    **Answer:** \( 263880 + 46179 = 310059 \)
+- id: 3053
+  question: ' \( 6343 \times 77 \)'
+  answer: 488411
+  solution: |-
+    \( 6343 \times 70 = 444010 \) <br />
+    \( 6343 \times 7 = 44401 \) <br />
+    **Answer:** \( 444010 + 44401 = 488411 \)
+- id: 3054
+  question: ' \( 6696 \times 49 \)'
+  answer: 328104
+  solution: |-
+    \( 6696 \times 40 = 267840 \) <br />
+    \( 6696 \times 9 = 60264 \) <br />
+    **Answer:** \( 267840 + 60264 = 328104 \)
+- id: 3055
+  question: ' \( 7451 \times 85 \)'
+  answer: 633335
+  solution: |-
+    \( 7451 \times 80 = 596080 \) <br />
+    \( 7451 \times 5 = 37255 \) <br />
+    **Answer:** \( 596080 + 37255 = 633335 \)
+- id: 3056
+  question: ' \( 6341 \times 96 \)'
+  answer: 608736
+  solution: |-
+    \( 6341 \times 90 = 570690 \) <br />
+    \( 6341 \times 6 = 38046 \) <br />
+    **Answer:** \( 570690 + 38046 = 608736 \)
+- id: 3057
+  question: ' \( 6164 \times 79 \)'
+  answer: 486956
+  solution: |-
+    \( 6164 \times 70 = 431480 \) <br />
+    \( 6164 \times 9 = 55476 \) <br />
+    **Answer:** \( 431480 + 55476 = 486956 \)
+- id: 3058
+  question: ' \( 8651 \times 65 \)'
+  answer: 562315
+  solution: |-
+    \( 8651 \times 60 = 519060 \) <br />
+    \( 8651 \times 5 = 43255 \) <br />
+    **Answer:** \( 519060 + 43255 = 562315 \)
+- id: 3059
+  question: ' \( 8419 \times 64 \)'
+  answer: 538816
+  solution: |-
+    \( 8419 \times 60 = 505140 \) <br />
+    \( 8419 \times 4 = 33676 \) <br />
+    **Answer:** \( 505140 + 33676 = 538816 \)
+- id: 3060
+  question: ' \( 5366 \times 93 \)'
+  answer: 499038
+  solution: |-
+    \( 5366 \times 90 = 482940 \) <br />
+    \( 5366 \times 3 = 16098 \) <br />
+    **Answer:** \( 482940 + 16098 = 499038 \)
+- id: 3061
+  question: ' \( 6662 \times 79 \)'
+  answer: 526298
+  solution: |-
+    \( 6662 \times 70 = 466340 \) <br />
+    \( 6662 \times 9 = 59958 \) <br />
+    **Answer:** \( 466340 + 59958 = 526298 \)
+- id: 3062
+  question: ' \( 6446 \times 46 \)'
+  answer: 296516
+  solution: |-
+    \( 6446 \times 40 = 257840 \) <br />
+    \( 6446 \times 6 = 38676 \) <br />
+    **Answer:** \( 257840 + 38676 = 296516 \)
+- id: 3063
+  question: ' \( 6306 \times 82 \)'
+  answer: 517092
+  solution: |-
+    \( 6306 \times 80 = 504480 \) <br />
+    \( 6306 \times 2 = 12612 \) <br />
+    **Answer:** \( 504480 + 12612 = 517092 \)
+- id: 3064
+  question: ' \( 5172 \times 85 \)'
+  answer: 439620
+  solution: |-
+    \( 5172 \times 80 = 413760 \) <br />
+    \( 5172 \times 5 = 25860 \) <br />
+    **Answer:** \( 413760 + 25860 = 439620 \)
+- id: 3065
+  question: ' \( 6359 \times 46 \)'
+  answer: 292514
+  solution: |-
+    \( 6359 \times 40 = 254360 \) <br />
+    \( 6359 \times 6 = 38154 \) <br />
+    **Answer:** \( 254360 + 38154 = 292514 \)
+- id: 3066
+  question: ' \( 6508 \times 99 \)'
+  answer: 644292
+  solution: |-
+    \( 6508 \times 90 = 585720 \) <br />
+    \( 6508 \times 9 = 58572 \) <br />
+    **Answer:** \( 585720 + 58572 = 644292 \)
+- id: 3067
+  question: ' \( 7447 \times 72 \)'
+  answer: 536184
+  solution: |-
+    \( 7447 \times 70 = 521290 \) <br />
+    \( 7447 \times 2 = 14894 \) <br />
+    **Answer:** \( 521290 + 14894 = 536184 \)
+- id: 3068
+  question: ' \( 8609 \times 54 \)'
+  answer: 464886
+  solution: |-
+    \( 8609 \times 50 = 430450 \) <br />
+    \( 8609 \times 4 = 34436 \) <br />
+    **Answer:** \( 430450 + 34436 = 464886 \)
+- id: 3069
+  question: ' \( 6833 \times 48 \)'
+  answer: 327984
+  solution: |-
+    \( 6833 \times 40 = 273320 \) <br />
+    \( 6833 \times 8 = 54664 \) <br />
+    **Answer:** \( 273320 + 54664 = 327984 \)
+- id: 3070
+  question: ' \( 6954 \times 86 \)'
+  answer: 598044
+  solution: |-
+    \( 6954 \times 80 = 556320 \) <br />
+    \( 6954 \times 6 = 41724 \) <br />
+    **Answer:** \( 556320 + 41724 = 598044 \)
+- id: 3071
+  question: ' \( 5899 \times 71 \)'
+  answer: 418829
+  solution: |-
+    \( 5899 \times 70 = 412930 \) <br />
+    \( 5899 \times 1 = 5899 \) <br />
+    **Answer:** \( 412930 + 5899 = 418829 \)
+- id: 3072
+  question: ' \( 5372 \times 76 \)'
+  answer: 408272
+  solution: |-
+    \( 5372 \times 70 = 376040 \) <br />
+    \( 5372 \times 6 = 32232 \) <br />
+    **Answer:** \( 376040 + 32232 = 408272 \)
+- id: 3073
+  question: ' \( 8211 \times 75 \)'
+  answer: 615825
+  solution: |-
+    \( 8211 \times 70 = 574770 \) <br />
+    \( 8211 \times 5 = 41055 \) <br />
+    **Answer:** \( 574770 + 41055 = 615825 \)
+- id: 3074
+  question: ' \( 7939 \times 44 \)'
+  answer: 349316
+  solution: |-
+    \( 7939 \times 40 = 317560 \) <br />
+    \( 7939 \times 4 = 31756 \) <br />
+    **Answer:** \( 317560 + 31756 = 349316 \)
+- id: 3075
+  question: ' \( 5735 \times 79 \)'
+  answer: 453065
+  solution: |-
+    \( 5735 \times 70 = 401450 \) <br />
+    \( 5735 \times 9 = 51615 \) <br />
+    **Answer:** \( 401450 + 51615 = 453065 \)
+- id: 3076
+  question: ' \( 7415 \times 69 \)'
+  answer: 511635
+  solution: |-
+    \( 7415 \times 60 = 444900 \) <br />
+    \( 7415 \times 9 = 66735 \) <br />
+    **Answer:** \( 444900 + 66735 = 511635 \)
+- id: 3077
+  question: ' \( 6488 \times 61 \)'
+  answer: 395768
+  solution: |-
+    \( 6488 \times 60 = 389280 \) <br />
+    \( 6488 \times 1 = 6488 \) <br />
+    **Answer:** \( 389280 + 6488 = 395768 \)
+- id: 3078
+  question: ' \( 7478 \times 42 \)'
+  answer: 314076
+  solution: |-
+    \( 7478 \times 40 = 299120 \) <br />
+    \( 7478 \times 2 = 14956 \) <br />
+    **Answer:** \( 299120 + 14956 = 314076 \)
+- id: 3079
+  question: ' \( 6335 \times 74 \)'
+  answer: 468790
+  solution: |-
+    \( 6335 \times 70 = 443450 \) <br />
+    \( 6335 \times 4 = 25340 \) <br />
+    **Answer:** \( 443450 + 25340 = 468790 \)
+- id: 3080
+  question: ' \( 8515 \times 83 \)'
+  answer: 706745
+  solution: |-
+    \( 8515 \times 80 = 681200 \) <br />
+    \( 8515 \times 3 = 25545 \) <br />
+    **Answer:** \( 681200 + 25545 = 706745 \)
+- id: 3081
+  question: ' \( 6406 \times 93 \)'
+  answer: 595758
+  solution: |-
+    \( 6406 \times 90 = 576540 \) <br />
+    \( 6406 \times 3 = 19218 \) <br />
+    **Answer:** \( 576540 + 19218 = 595758 \)
+- id: 3082
+  question: ' \( 7171 \times 97 \)'
+  answer: 695587
+  solution: |-
+    \( 7171 \times 90 = 645390 \) <br />
+    \( 7171 \times 7 = 50197 \) <br />
+    **Answer:** \( 645390 + 50197 = 695587 \)
+- id: 3083
+  question: ' \( 5527 \times 49 \)'
+  answer: 270823
+  solution: |-
+    \( 5527 \times 40 = 221080 \) <br />
+    \( 5527 \times 9 = 49743 \) <br />
+    **Answer:** \( 221080 + 49743 = 270823 \)
+- id: 3084
+  question: ' \( 6493 \times 43 \)'
+  answer: 279199
+  solution: |-
+    \( 6493 \times 40 = 259720 \) <br />
+    \( 6493 \times 3 = 19479 \) <br />
+    **Answer:** \( 259720 + 19479 = 279199 \)
+- id: 3085
+  question: ' \( 6563 \times 78 \)'
+  answer: 511914
+  solution: |-
+    \( 6563 \times 70 = 459410 \) <br />
+    \( 6563 \times 8 = 52504 \) <br />
+    **Answer:** \( 459410 + 52504 = 511914 \)
+- id: 3086
+  question: ' \( 5845 \times 67 \)'
+  answer: 391615
+  solution: |-
+    \( 5845 \times 60 = 350700 \) <br />
+    \( 5845 \times 7 = 40915 \) <br />
+    **Answer:** \( 350700 + 40915 = 391615 \)
+- id: 3087
+  question: ' \( 7798 \times 98 \)'
+  answer: 764204
+  solution: |-
+    \( 7798 \times 90 = 701820 \) <br />
+    \( 7798 \times 8 = 62384 \) <br />
+    **Answer:** \( 701820 + 62384 = 764204 \)
+- id: 3088
+  question: ' \( 8667 \times 95 \)'
+  answer: 823365
+  solution: |-
+    \( 8667 \times 90 = 780030 \) <br />
+    \( 8667 \times 5 = 43335 \) <br />
+    **Answer:** \( 780030 + 43335 = 823365 \)
+- id: 3089
+  question: ' \( 7414 \times 41 \)'
+  answer: 303974
+  solution: |-
+    \( 7414 \times 40 = 296560 \) <br />
+    \( 7414 \times 1 = 7414 \) <br />
+    **Answer:** \( 296560 + 7414 = 303974 \)
+- id: 3090
+  question: ' \( 6781 \times 64 \)'
+  answer: 433984
+  solution: |-
+    \( 6781 \times 60 = 406860 \) <br />
+    \( 6781 \times 4 = 27124 \) <br />
+    **Answer:** \( 406860 + 27124 = 433984 \)
+- id: 3091
+  question: ' \( 5924 \times 51 \)'
+  answer: 302124
+  solution: |-
+    \( 5924 \times 50 = 296200 \) <br />
+    \( 5924 \times 1 = 5924 \) <br />
+    **Answer:** \( 296200 + 5924 = 302124 \)
+- id: 3092
+  question: ' \( 7127 \times 46 \)'
+  answer: 327842
+  solution: |-
+    \( 7127 \times 40 = 285080 \) <br />
+    \( 7127 \times 6 = 42762 \) <br />
+    **Answer:** \( 285080 + 42762 = 327842 \)
+- id: 3093
+  question: ' \( 7948 \times 84 \)'
+  answer: 667632
+  solution: |-
+    \( 7948 \times 80 = 635840 \) <br />
+    \( 7948 \times 4 = 31792 \) <br />
+    **Answer:** \( 635840 + 31792 = 667632 \)
+- id: 3094
+  question: ' \( 6936 \times 61 \)'
+  answer: 423096
+  solution: |-
+    \( 6936 \times 60 = 416160 \) <br />
+    \( 6936 \times 1 = 6936 \) <br />
+    **Answer:** \( 416160 + 6936 = 423096 \)
+- id: 3095
+  question: ' \( 6328 \times 46 \)'
+  answer: 291088
+  solution: |-
+    \( 6328 \times 40 = 253120 \) <br />
+    \( 6328 \times 6 = 37968 \) <br />
+    **Answer:** \( 253120 + 37968 = 291088 \)
+- id: 3096
+  question: ' \( 7504 \times 74 \)'
+  answer: 555296
+  solution: |-
+    \( 7504 \times 70 = 525280 \) <br />
+    \( 7504 \times 4 = 30016 \) <br />
+    **Answer:** \( 525280 + 30016 = 555296 \)
+- id: 3097
+  question: ' \( 6299 \times 53 \)'
+  answer: 333847
+  solution: |-
+    \( 6299 \times 50 = 314950 \) <br />
+    \( 6299 \times 3 = 18897 \) <br />
+    **Answer:** \( 314950 + 18897 = 333847 \)
+- id: 3098
+  question: ' \( 5715 \times 88 \)'
+  answer: 502920
+  solution: |-
+    \( 5715 \times 80 = 457200 \) <br />
+    \( 5715 \times 8 = 45720 \) <br />
+    **Answer:** \( 457200 + 45720 = 502920 \)
+- id: 3099
+  question: ' \( 6769 \times 67 \)'
+  answer: 453523
+  solution: |-
+    \( 6769 \times 60 = 406140 \) <br />
+    \( 6769 \times 7 = 47383 \) <br />
+    **Answer:** \( 406140 + 47383 = 453523 \)
+- id: 3100
+  question: ' \( 8265 \times 51 \)'
+  answer: 421515
+  solution: |-
+    \( 8265 \times 50 = 413250 \) <br />
+    \( 8265 \times 1 = 8265 \) <br />
+    **Answer:** \( 413250 + 8265 = 421515 \)
