@@ -10,7 +10,7 @@ title: Year 3 Home
 </div>
 
 <div class="card-menu">
-    <a href="{{ "/6/mock/" | relative_url }}" class="card">
+    <a href="{{ "/6/mock.html" | relative_url }}" class="card">
         <div class="card-content">
             <div class="card-text">
                 <h3>Practice Test for 6020Y</h3>
