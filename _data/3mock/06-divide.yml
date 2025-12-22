@@ -1,0 +1,500 @@
+- id: 6001
+  question: ' \( 8.84 \div 85 \)'
+  answer: 0.1
+  solution: |-
+    **Answer:** 0.104 rounding to 2 d.p. gives 0.1
+- id: 6002
+  question: ' \( 8.26 \div 11 \)'
+  answer: 0.75
+  solution: |-
+    **Answer:** 0.751 rounding to 2 d.p. gives 0.75
+- id: 6003
+  question: ' \( 6.53 \div 12 \)'
+  answer: 0.54
+  solution: |-
+    **Answer:** 0.544 rounding to 2 d.p. gives 0.54
+- id: 6004
+  question: ' \( 8.25 \div 51 \)'
+  answer: 0.16
+  solution: |-
+    **Answer:** 0.162 rounding to 2 d.p. gives 0.16
+- id: 6005
+  question: ' \( 7.63 \div 54 \)'
+  answer: 0.14
+  solution: |-
+    **Answer:** 0.141 rounding to 2 d.p. gives 0.14
+- id: 6006
+  question: ' \( 8.63 \div 92 \)'
+  answer: 0.09
+  solution: |-
+    **Answer:** 0.094 rounding to 2 d.p. gives 0.09
+- id: 6007
+  question: ' \( 6.94 \div 15 \)'
+  answer: 0.46
+  solution: |-
+    **Answer:** 0.463 rounding to 2 d.p. gives 0.46
+- id: 6008
+  question: ' \( 6.42 \div 62 \)'
+  answer: 0.1
+  solution: |-
+    **Answer:** 0.104 rounding to 2 d.p. gives 0.1
+- id: 6009
+  question: ' \( 9.67 \div 85 \)'
+  answer: 0.11
+  solution: |-
+    **Answer:** 0.114 rounding to 2 d.p. gives 0.11
+- id: 6010
+  question: ' \( 7.86 \div 35 \)'
+  answer: 0.22
+  solution: |-
+    **Answer:** 0.225 rounding to 2 d.p. gives 0.22
+- id: 6011
+  question: ' \( 7.44 \div 51 \)'
+  answer: 0.15
+  solution: |-
+    **Answer:** 0.146 rounding to 2 d.p. gives 0.15
+- id: 6012
+  question: ' \( 9.97 \div 62 \)'
+  answer: 0.16
+  solution: |-
+    **Answer:** 0.161 rounding to 2 d.p. gives 0.16
+- id: 6013
+  question: ' \( 8.62 \div 34 \)'
+  answer: 0.25
+  solution: |-
+    **Answer:** 0.254 rounding to 2 d.p. gives 0.25
+- id: 6014
+  question: ' \( 7.68 \div 91 \)'
+  answer: 0.08
+  solution: |-
+    **Answer:** 0.084 rounding to 2 d.p. gives 0.08
+- id: 6015
+  question: ' \( 8.39 \div 11 \)'
+  answer: 0.76
+  solution: |-
+    **Answer:** 0.763 rounding to 2 d.p. gives 0.76
+- id: 6016
+  question: ' \( 9.62 \div 52 \)'
+  answer: 0.18
+  solution: |-
+    **Answer:** 0.185 rounding to 2 d.p. gives 0.18
+- id: 6017
+  question: ' \( 7.89 \div 91 \)'
+  answer: 0.09
+  solution: |-
+    **Answer:** 0.087 rounding to 2 d.p. gives 0.09
+- id: 6018
+  question: ' \( 6.19 \div 65 \)'
+  answer: 0.1
+  solution: |-
+    **Answer:** 0.095 rounding to 2 d.p. gives 0.1
+- id: 6019
+  question: ' \( 8.65 \div 51 \)'
+  answer: 0.17
+  solution: |-
+    **Answer:** 0.17 rounding to 2 d.p. gives 0.17
+- id: 6020
+  question: ' \( 8.68 \div 35 \)'
+  answer: 0.25
+  solution: |-
+    **Answer:** 0.248 rounding to 2 d.p. gives 0.25
+- id: 6021
+  question: ' \( 9.52 \div 41 \)'
+  answer: 0.23
+  solution: |-
+    **Answer:** 0.232 rounding to 2 d.p. gives 0.23
+- id: 6022
+  question: ' \( 5.62 \div 75 \)'
+  answer: 0.07
+  solution: |-
+    **Answer:** 0.075 rounding to 2 d.p. gives 0.07
+- id: 6023
+  question: ' \( 5.29 \div 25 \)'
+  answer: 0.21
+  solution: |-
+    **Answer:** 0.212 rounding to 2 d.p. gives 0.21
+- id: 6024
+  question: ' \( 6.82 \div 45 \)'
+  answer: 0.15
+  solution: |-
+    **Answer:** 0.152 rounding to 2 d.p. gives 0.15
+- id: 6025
+  question: ' \( 9.18 \div 41 \)'
+  answer: 0.22
+  solution: |-
+    **Answer:** 0.224 rounding to 2 d.p. gives 0.22
+- id: 6026
+  question: ' \( 7.12 \div 55 \)'
+  answer: 0.13
+  solution: |-
+    **Answer:** 0.129 rounding to 2 d.p. gives 0.13
+- id: 6027
+  question: ' \( 6.76 \div 31 \)'
+  answer: 0.22
+  solution: |-
+    **Answer:** 0.218 rounding to 2 d.p. gives 0.22
+- id: 6028
+  question: ' \( 7.45 \div 41 \)'
+  answer: 0.18
+  solution: |-
+    **Answer:** 0.182 rounding to 2 d.p. gives 0.18
+- id: 6029
+  question: ' \( 7.93 \div 62 \)'
+  answer: 0.13
+  solution: |-
+    **Answer:** 0.128 rounding to 2 d.p. gives 0.13
+- id: 6030
+  question: ' \( 4.44 \div 54 \)'
+  answer: 0.08
+  solution: |-
+    **Answer:** 0.082 rounding to 2 d.p. gives 0.08
+- id: 6031
+  question: ' \( 9.61 \div 44 \)'
+  answer: 0.22
+  solution: |-
+    **Answer:** 0.218 rounding to 2 d.p. gives 0.22
+- id: 6032
+  question: ' \( 4.29 \div 72 \)'
+  answer: 0.06
+  solution: |-
+    **Answer:** 0.06 rounding to 2 d.p. gives 0.06
+- id: 6033
+  question: ' \( 7.85 \div 84 \)'
+  answer: 0.09
+  solution: |-
+    **Answer:** 0.093 rounding to 2 d.p. gives 0.09
+- id: 6034
+  question: ' \( 5.83 \div 11 \)'
+  answer: 0.53
+  solution: |-
+    **Answer:** 0.53 rounding to 2 d.p. gives 0.53
+- id: 6035
+  question: ' \( 5.26 \div 95 \)'
+  answer: 0.06
+  solution: |-
+    **Answer:** 0.055 rounding to 2 d.p. gives 0.06
+- id: 6036
+  question: ' \( 4.86 \div 94 \)'
+  answer: 0.05
+  solution: |-
+    **Answer:** 0.052 rounding to 2 d.p. gives 0.05
+- id: 6037
+  question: ' \( 6.57 \div 62 \)'
+  answer: 0.11
+  solution: |-
+    **Answer:** 0.106 rounding to 2 d.p. gives 0.11
+- id: 6038
+  question: ' \( 5.18 \div 92 \)'
+  answer: 0.06
+  solution: |-
+    **Answer:** 0.056 rounding to 2 d.p. gives 0.06
+- id: 6039
+  question: ' \( 8.11 \div 94 \)'
+  answer: 0.09
+  solution: |-
+    **Answer:** 0.086 rounding to 2 d.p. gives 0.09
+- id: 6040
+  question: ' \( 7.99 \div 41 \)'
+  answer: 0.19
+  solution: |-
+    **Answer:** 0.195 rounding to 2 d.p. gives 0.19
+- id: 6041
+  question: ' \( 6.26 \div 64 \)'
+  answer: 0.1
+  solution: |-
+    **Answer:** 0.098 rounding to 2 d.p. gives 0.1
+- id: 6042
+  question: ' \( 5.36 \div 61 \)'
+  answer: 0.09
+  solution: |-
+    **Answer:** 0.088 rounding to 2 d.p. gives 0.09
+- id: 6043
+  question: ' \( 7.98 \div 61 \)'
+  answer: 0.13
+  solution: |-
+    **Answer:** 0.131 rounding to 2 d.p. gives 0.13
+- id: 6044
+  question: ' \( 7.04 \div 74 \)'
+  answer: 0.1
+  solution: |-
+    **Answer:** 0.095 rounding to 2 d.p. gives 0.1
+- id: 6045
+  question: ' \( 4.68 \div 84 \)'
+  answer: 0.06
+  solution: |-
+    **Answer:** 0.056 rounding to 2 d.p. gives 0.06
+- id: 6046
+  question: ' \( 5.06 \div 21 \)'
+  answer: 0.24
+  solution: |-
+    **Answer:** 0.241 rounding to 2 d.p. gives 0.24
+- id: 6047
+  question: ' \( 5.95 \div 54 \)'
+  answer: 0.11
+  solution: |-
+    **Answer:** 0.11 rounding to 2 d.p. gives 0.11
+- id: 6048
+  question: ' \( 4.32 \div 52 \)'
+  answer: 0.08
+  solution: |-
+    **Answer:** 0.083 rounding to 2 d.p. gives 0.08
+- id: 6049
+  question: ' \( 6.93 \div 51 \)'
+  answer: 0.14
+  solution: |-
+    **Answer:** 0.136 rounding to 2 d.p. gives 0.14
+- id: 6050
+  question: ' \( 7.03 \div 91 \)'
+  answer: 0.08
+  solution: |-
+    **Answer:** 0.077 rounding to 2 d.p. gives 0.08
+- id: 6051
+  question: ' \( 6.96 \div 15 \)'
+  answer: 0.46
+  solution: |-
+    **Answer:** 0.464 rounding to 2 d.p. gives 0.46
+- id: 6052
+  question: ' \( 5.96 \div 64 \)'
+  answer: 0.09
+  solution: |-
+    **Answer:** 0.093 rounding to 2 d.p. gives 0.09
+- id: 6053
+  question: ' \( 5.23 \div 85 \)'
+  answer: 0.06
+  solution: |-
+    **Answer:** 0.062 rounding to 2 d.p. gives 0.06
+- id: 6054
+  question: ' \( 8.73 \div 81 \)'
+  answer: 0.11
+  solution: |-
+    **Answer:** 0.108 rounding to 2 d.p. gives 0.11
+- id: 6055
+  question: ' \( 5.54 \div 42 \)'
+  answer: 0.13
+  solution: |-
+    **Answer:** 0.132 rounding to 2 d.p. gives 0.13
+- id: 6056
+  question: ' \( 6.68 \div 14 \)'
+  answer: 0.48
+  solution: |-
+    **Answer:** 0.477 rounding to 2 d.p. gives 0.48
+- id: 6057
+  question: ' \( 4.36 \div 91 \)'
+  answer: 0.05
+  solution: |-
+    **Answer:** 0.048 rounding to 2 d.p. gives 0.05
+- id: 6058
+  question: ' \( 8.92 \div 65 \)'
+  answer: 0.14
+  solution: |-
+    **Answer:** 0.137 rounding to 2 d.p. gives 0.14
+- id: 6059
+  question: ' \( 8.04 \div 32 \)'
+  answer: 0.25
+  solution: |-
+    **Answer:** 0.251 rounding to 2 d.p. gives 0.25
+- id: 6060
+  question: ' \( 8.26 \div 72 \)'
+  answer: 0.11
+  solution: |-
+    **Answer:** 0.115 rounding to 2 d.p. gives 0.11
+- id: 6061
+  question: ' \( 4.58 \div 24 \)'
+  answer: 0.19
+  solution: |-
+    **Answer:** 0.191 rounding to 2 d.p. gives 0.19
+- id: 6062
+  question: ' \( 6.27 \div 74 \)'
+  answer: 0.08
+  solution: |-
+    **Answer:** 0.085 rounding to 2 d.p. gives 0.08
+- id: 6063
+  question: ' \( 7.45 \div 11 \)'
+  answer: 0.68
+  solution: |-
+    **Answer:** 0.677 rounding to 2 d.p. gives 0.68
+- id: 6064
+  question: ' \( 6.38 \div 22 \)'
+  answer: 0.29
+  solution: |-
+    **Answer:** 0.29 rounding to 2 d.p. gives 0.29
+- id: 6065
+  question: ' \( 7.26 \div 11 \)'
+  answer: 0.66
+  solution: |-
+    **Answer:** 0.66 rounding to 2 d.p. gives 0.66
+- id: 6066
+  question: ' \( 4.77 \div 91 \)'
+  answer: 0.05
+  solution: |-
+    **Answer:** 0.052 rounding to 2 d.p. gives 0.05
+- id: 6067
+  question: ' \( 6.13 \div 22 \)'
+  answer: 0.28
+  solution: |-
+    **Answer:** 0.279 rounding to 2 d.p. gives 0.28
+- id: 6068
+  question: ' \( 6.26 \div 41 \)'
+  answer: 0.15
+  solution: |-
+    **Answer:** 0.153 rounding to 2 d.p. gives 0.15
+- id: 6069
+  question: ' \( 4.18 \div 55 \)'
+  answer: 0.08
+  solution: |-
+    **Answer:** 0.076 rounding to 2 d.p. gives 0.08
+- id: 6070
+  question: ' \( 5.52 \div 94 \)'
+  answer: 0.06
+  solution: |-
+    **Answer:** 0.059 rounding to 2 d.p. gives 0.06
+- id: 6071
+  question: ' \( 6.56 \div 34 \)'
+  answer: 0.19
+  solution: |-
+    **Answer:** 0.193 rounding to 2 d.p. gives 0.19
+- id: 6072
+  question: ' \( 7.02 \div 81 \)'
+  answer: 0.09
+  solution: |-
+    **Answer:** 0.087 rounding to 2 d.p. gives 0.09
+- id: 6073
+  question: ' \( 7.49 \div 41 \)'
+  answer: 0.18
+  solution: |-
+    **Answer:** 0.183 rounding to 2 d.p. gives 0.18
+- id: 6074
+  question: ' \( 5.94 \div 95 \)'
+  answer: 0.06
+  solution: |-
+    **Answer:** 0.063 rounding to 2 d.p. gives 0.06
+- id: 6075
+  question: ' \( 9.86 \div 71 \)'
+  answer: 0.14
+  solution: |-
+    **Answer:** 0.139 rounding to 2 d.p. gives 0.14
+- id: 6076
+  question: ' \( 6.14 \div 81 \)'
+  answer: 0.08
+  solution: |-
+    **Answer:** 0.076 rounding to 2 d.p. gives 0.08
+- id: 6077
+  question: ' \( 5.07 \div 74 \)'
+  answer: 0.07
+  solution: |-
+    **Answer:** 0.069 rounding to 2 d.p. gives 0.07
+- id: 6078
+  question: ' \( 9.03 \div 44 \)'
+  answer: 0.21
+  solution: |-
+    **Answer:** 0.205 rounding to 2 d.p. gives 0.21
+- id: 6079
+  question: ' \( 4.29 \div 41 \)'
+  answer: 0.1
+  solution: |-
+    **Answer:** 0.105 rounding to 2 d.p. gives 0.1
+- id: 6080
+  question: ' \( 9.12 \div 74 \)'
+  answer: 0.12
+  solution: |-
+    **Answer:** 0.123 rounding to 2 d.p. gives 0.12
+- id: 6081
+  question: ' \( 5.09 \div 21 \)'
+  answer: 0.24
+  solution: |-
+    **Answer:** 0.242 rounding to 2 d.p. gives 0.24
+- id: 6082
+  question: ' \( 4.68 \div 71 \)'
+  answer: 0.07
+  solution: |-
+    **Answer:** 0.066 rounding to 2 d.p. gives 0.07
+- id: 6083
+  question: ' \( 9.04 \div 51 \)'
+  answer: 0.18
+  solution: |-
+    **Answer:** 0.177 rounding to 2 d.p. gives 0.18
+- id: 6084
+  question: ' \( 4.69 \div 95 \)'
+  answer: 0.05
+  solution: |-
+    **Answer:** 0.049 rounding to 2 d.p. gives 0.05
+- id: 6085
+  question: ' \( 7.35 \div 74 \)'
+  answer: 0.1
+  solution: |-
+    **Answer:** 0.099 rounding to 2 d.p. gives 0.1
+- id: 6086
+  question: ' \( 5.94 \div 51 \)'
+  answer: 0.12
+  solution: |-
+    **Answer:** 0.116 rounding to 2 d.p. gives 0.12
+- id: 6087
+  question: ' \( 9.21 \div 65 \)'
+  answer: 0.14
+  solution: |-
+    **Answer:** 0.142 rounding to 2 d.p. gives 0.14
+- id: 6088
+  question: ' \( 7.06 \div 32 \)'
+  answer: 0.22
+  solution: |-
+    **Answer:** 0.221 rounding to 2 d.p. gives 0.22
+- id: 6089
+  question: ' \( 8.59 \div 14 \)'
+  answer: 0.61
+  solution: |-
+    **Answer:** 0.614 rounding to 2 d.p. gives 0.61
+- id: 6090
+  question: ' \( 7.16 \div 34 \)'
+  answer: 0.21
+  solution: |-
+    **Answer:** 0.211 rounding to 2 d.p. gives 0.21
+- id: 6091
+  question: ' \( 7.31 \div 44 \)'
+  answer: 0.17
+  solution: |-
+    **Answer:** 0.166 rounding to 2 d.p. gives 0.17
+- id: 6092
+  question: ' \( 8.94 \div 41 \)'
+  answer: 0.22
+  solution: |-
+    **Answer:** 0.218 rounding to 2 d.p. gives 0.22
+- id: 6093
+  question: ' \( 9.28 \div 35 \)'
+  answer: 0.27
+  solution: |-
+    **Answer:** 0.265 rounding to 2 d.p. gives 0.27
+- id: 6094
+  question: ' \( 5.83 \div 71 \)'
+  answer: 0.08
+  solution: |-
+    **Answer:** 0.082 rounding to 2 d.p. gives 0.08
+- id: 6095
+  question: ' \( 9.55 \div 45 \)'
+  answer: 0.21
+  solution: |-
+    **Answer:** 0.212 rounding to 2 d.p. gives 0.21
+- id: 6096
+  question: ' \( 7.33 \div 91 \)'
+  answer: 0.08
+  solution: |-
+    **Answer:** 0.081 rounding to 2 d.p. gives 0.08
+- id: 6097
+  question: ' \( 8.38 \div 31 \)'
+  answer: 0.27
+  solution: |-
+    **Answer:** 0.27 rounding to 2 d.p. gives 0.27
+- id: 6098
+  question: ' \( 4.04 \div 95 \)'
+  answer: 0.04
+  solution: |-
+    **Answer:** 0.043 rounding to 2 d.p. gives 0.04
+- id: 6099
+  question: ' \( 5.28 \div 52 \)'
+  answer: 0.1
+  solution: |-
+    **Answer:** 0.102 rounding to 2 d.p. gives 0.1
+- id: 6100
+  question: ' \( 8.27 \div 95 \)'
+  answer: 0.09
+  solution: |-
+    **Answer:** 0.087 rounding to 2 d.p. gives 0.09

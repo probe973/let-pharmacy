@@ -1,0 +1,500 @@
+- id: 5001
+  question: ' \( 13684 \div 22 \)'
+  answer: 622
+  solution: |-
+    **Answer:** 622
+- id: 5002
+  question: ' \( 32305 \div 35 \)'
+  answer: 923
+  solution: |-
+    **Answer:** 923
+- id: 5003
+  question: ' \( 50235 \div 85 \)'
+  answer: 591
+  solution: |-
+    **Answer:** 591
+- id: 5004
+  question: ' \( 16588 \div 52 \)'
+  answer: 319
+  solution: |-
+    **Answer:** 319
+- id: 5005
+  question: ' \( 80155 \div 85 \)'
+  answer: 943
+  solution: |-
+    **Answer:** 943
+- id: 5006
+  question: ' \( 53928 \div 72 \)'
+  answer: 749
+  solution: |-
+    **Answer:** 749
+- id: 5007
+  question: ' \( 47641 \div 71 \)'
+  answer: 671
+  solution: |-
+    **Answer:** 671
+- id: 5008
+  question: ' \( 21230 \div 22 \)'
+  answer: 965
+  solution: |-
+    **Answer:** 965
+- id: 5009
+  question: ' \( 70929 \div 71 \)'
+  answer: 999
+  solution: |-
+    **Answer:** 999
+- id: 5010
+  question: ' \( 54168 \div 61 \)'
+  answer: 888
+  solution: |-
+    **Answer:** 888
+- id: 5011
+  question: ' \( 29016 \div 31 \)'
+  answer: 936
+  solution: |-
+    **Answer:** 936
+- id: 5012
+  question: ' \( 92435 \div 95 \)'
+  answer: 973
+  solution: |-
+    **Answer:** 973
+- id: 5013
+  question: ' \( 83810 \div 85 \)'
+  answer: 986
+  solution: |-
+    **Answer:** 986
+- id: 5014
+  question: ' \( 47357 \div 71 \)'
+  answer: 667
+  solution: |-
+    **Answer:** 667
+- id: 5015
+  question: ' \( 23016 \div 42 \)'
+  answer: 548
+  solution: |-
+    **Answer:** 548
+- id: 5016
+  question: ' \( 77648 \div 92 \)'
+  answer: 844
+  solution: |-
+    **Answer:** 844
+- id: 5017
+  question: ' \( 9891 \div 21 \)'
+  answer: 471
+  solution: |-
+    **Answer:** 471
+- id: 5018
+  question: ' \( 52344 \div 72 \)'
+  answer: 727
+  solution: |-
+    **Answer:** 727
+- id: 5019
+  question: ' \( 22880 \div 65 \)'
+  answer: 352
+  solution: |-
+    **Answer:** 352
+- id: 5020
+  question: ' \( 55005 \div 95 \)'
+  answer: 579
+  solution: |-
+    **Answer:** 579
+- id: 5021
+  question: ' \( 42016 \div 52 \)'
+  answer: 808
+  solution: |-
+    **Answer:** 808
+- id: 5022
+  question: ' \( 33384 \div 52 \)'
+  answer: 642
+  solution: |-
+    **Answer:** 642
+- id: 5023
+  question: ' \( 70380 \div 92 \)'
+  answer: 765
+  solution: |-
+    **Answer:** 765
+- id: 5024
+  question: ' \( 43225 \div 91 \)'
+  answer: 475
+  solution: |-
+    **Answer:** 475
+- id: 5025
+  question: ' \( 14154 \div 21 \)'
+  answer: 674
+  solution: |-
+    **Answer:** 674
+- id: 5026
+  question: ' \( 18972 \div 62 \)'
+  answer: 306
+  solution: |-
+    **Answer:** 306
+- id: 5027
+  question: ' \( 12524 \div 31 \)'
+  answer: 404
+  solution: |-
+    **Answer:** 404
+- id: 5028
+  question: ' \( 22204 \div 61 \)'
+  answer: 364
+  solution: |-
+    **Answer:** 364
+- id: 5029
+  question: ' \( 53444 \div 62 \)'
+  answer: 862
+  solution: |-
+    **Answer:** 862
+- id: 5030
+  question: ' \( 75820 \div 85 \)'
+  answer: 892
+  solution: |-
+    **Answer:** 892
+- id: 5031
+  question: ' \( 42330 \div 85 \)'
+  answer: 498
+  solution: |-
+    **Answer:** 498
+- id: 5032
+  question: ' \( 40885 \div 65 \)'
+  answer: 629
+  solution: |-
+    **Answer:** 629
+- id: 5033
+  question: ' \( 39852 \div 82 \)'
+  answer: 486
+  solution: |-
+    **Answer:** 486
+- id: 5034
+  question: ' \( 29682 \div 51 \)'
+  answer: 582
+  solution: |-
+    **Answer:** 582
+- id: 5035
+  question: ' \( 69920 \div 95 \)'
+  answer: 736
+  solution: |-
+    **Answer:** 736
+- id: 5036
+  question: ' \( 21771 \div 41 \)'
+  answer: 531
+  solution: |-
+    **Answer:** 531
+- id: 5037
+  question: ' \( 39585 \div 65 \)'
+  answer: 609
+  solution: |-
+    **Answer:** 609
+- id: 5038
+  question: ' \( 38850 \div 42 \)'
+  answer: 925
+  solution: |-
+    **Answer:** 925
+- id: 5039
+  question: ' \( 69160 \div 95 \)'
+  answer: 728
+  solution: |-
+    **Answer:** 728
+- id: 5040
+  question: ' \( 49556 \div 52 \)'
+  answer: 953
+  solution: |-
+    **Answer:** 953
+- id: 5041
+  question: ' \( 84835 \div 95 \)'
+  answer: 893
+  solution: |-
+    **Answer:** 893
+- id: 5042
+  question: ' \( 21886 \div 62 \)'
+  answer: 353
+  solution: |-
+    **Answer:** 353
+- id: 5043
+  question: ' \( 19992 \div 21 \)'
+  answer: 952
+  solution: |-
+    **Answer:** 952
+- id: 5044
+  question: ' \( 53889 \div 71 \)'
+  answer: 759
+  solution: |-
+    **Answer:** 759
+- id: 5045
+  question: ' \( 22672 \div 52 \)'
+  answer: 436
+  solution: |-
+    **Answer:** 436
+- id: 5046
+  question: ' \( 37893 \div 51 \)'
+  answer: 743
+  solution: |-
+    **Answer:** 743
+- id: 5047
+  question: ' \( 64350 \div 75 \)'
+  answer: 858
+  solution: |-
+    **Answer:** 858
+- id: 5048
+  question: ' \( 54864 \div 72 \)'
+  answer: 762
+  solution: |-
+    **Answer:** 762
+- id: 5049
+  question: ' \( 80757 \div 81 \)'
+  answer: 997
+  solution: |-
+    **Answer:** 997
+- id: 5050
+  question: ' \( 18540 \div 45 \)'
+  answer: 412
+  solution: |-
+    **Answer:** 412
+- id: 5051
+  question: ' \( 27755 \div 91 \)'
+  answer: 305
+  solution: |-
+    **Answer:** 305
+- id: 5052
+  question: ' \( 62270 \div 65 \)'
+  answer: 958
+  solution: |-
+    **Answer:** 958
+- id: 5053
+  question: ' \( 58104 \div 72 \)'
+  answer: 807
+  solution: |-
+    **Answer:** 807
+- id: 5054
+  question: ' \( 83536 \div 92 \)'
+  answer: 908
+  solution: |-
+    **Answer:** 908
+- id: 5055
+  question: ' \( 31078 \div 82 \)'
+  answer: 379
+  solution: |-
+    **Answer:** 379
+- id: 5056
+  question: ' \( 60264 \div 62 \)'
+  answer: 972
+  solution: |-
+    **Answer:** 972
+- id: 5057
+  question: ' \( 37812 \div 92 \)'
+  answer: 411
+  solution: |-
+    **Answer:** 411
+- id: 5058
+  question: ' \( 27962 \div 31 \)'
+  answer: 902
+  solution: |-
+    **Answer:** 902
+- id: 5059
+  question: ' \( 17808 \div 42 \)'
+  answer: 424
+  solution: |-
+    **Answer:** 424
+- id: 5060
+  question: ' \( 40549 \div 41 \)'
+  answer: 989
+  solution: |-
+    **Answer:** 989
+- id: 5061
+  question: ' \( 43952 \div 82 \)'
+  answer: 536
+  solution: |-
+    **Answer:** 536
+- id: 5062
+  question: ' \( 52582 \div 61 \)'
+  answer: 862
+  solution: |-
+    **Answer:** 862
+- id: 5063
+  question: ' \( 15300 \div 25 \)'
+  answer: 612
+  solution: |-
+    **Answer:** 612
+- id: 5064
+  question: ' \( 38170 \div 55 \)'
+  answer: 694
+  solution: |-
+    **Answer:** 694
+- id: 5065
+  question: ' \( 53675 \div 95 \)'
+  answer: 565
+  solution: |-
+    **Answer:** 565
+- id: 5066
+  question: ' \( 18502 \div 22 \)'
+  answer: 841
+  solution: |-
+    **Answer:** 841
+- id: 5067
+  question: ' \( 21140 \div 35 \)'
+  answer: 604
+  solution: |-
+    **Answer:** 604
+- id: 5068
+  question: ' \( 17358 \div 22 \)'
+  answer: 789
+  solution: |-
+    **Answer:** 789
+- id: 5069
+  question: ' \( 20475 \div 25 \)'
+  answer: 819
+  solution: |-
+    **Answer:** 819
+- id: 5070
+  question: ' \( 77805 \div 91 \)'
+  answer: 855
+  solution: |-
+    **Answer:** 855
+- id: 5071
+  question: ' \( 33235 \div 85 \)'
+  answer: 391
+  solution: |-
+    **Answer:** 391
+- id: 5072
+  question: ' \( 25668 \div 62 \)'
+  answer: 414
+  solution: |-
+    **Answer:** 414
+- id: 5073
+  question: ' \( 12565 \div 35 \)'
+  answer: 359
+  solution: |-
+    **Answer:** 359
+- id: 5074
+  question: ' \( 37996 \div 92 \)'
+  answer: 413
+  solution: |-
+    **Answer:** 413
+- id: 5075
+  question: ' \( 55104 \div 82 \)'
+  answer: 672
+  solution: |-
+    **Answer:** 672
+- id: 5076
+  question: ' \( 23590 \div 35 \)'
+  answer: 674
+  solution: |-
+    **Answer:** 674
+- id: 5077
+  question: ' \( 49368 \div 51 \)'
+  answer: 968
+  solution: |-
+    **Answer:** 968
+- id: 5078
+  question: ' \( 38555 \div 55 \)'
+  answer: 701
+  solution: |-
+    **Answer:** 701
+- id: 5079
+  question: ' \( 31460 \div 55 \)'
+  answer: 572
+  solution: |-
+    **Answer:** 572
+- id: 5080
+  question: ' \( 21156 \div 41 \)'
+  answer: 516
+  solution: |-
+    **Answer:** 516
+- id: 5081
+  question: ' \( 47380 \div 92 \)'
+  answer: 515
+  solution: |-
+    **Answer:** 515
+- id: 5082
+  question: ' \( 27150 \div 75 \)'
+  answer: 362
+  solution: |-
+    **Answer:** 362
+- id: 5083
+  question: ' \( 32334 \div 51 \)'
+  answer: 634
+  solution: |-
+    **Answer:** 634
+- id: 5084
+  question: ' \( 54055 \div 95 \)'
+  answer: 569
+  solution: |-
+    **Answer:** 569
+- id: 5085
+  question: ' \( 8825 \div 25 \)'
+  answer: 353
+  solution: |-
+    **Answer:** 353
+- id: 5086
+  question: ' \( 65620 \div 85 \)'
+  answer: 772
+  solution: |-
+    **Answer:** 772
+- id: 5087
+  question: ' \( 18819 \div 51 \)'
+  answer: 369
+  solution: |-
+    **Answer:** 369
+- id: 5088
+  question: ' \( 10745 \div 35 \)'
+  answer: 307
+  solution: |-
+    **Answer:** 307
+- id: 5089
+  question: ' \( 22336 \div 32 \)'
+  answer: 698
+  solution: |-
+    **Answer:** 698
+- id: 5090
+  question: ' \( 37802 \div 82 \)'
+  answer: 461
+  solution: |-
+    **Answer:** 461
+- id: 5091
+  question: ' \( 50575 \div 85 \)'
+  answer: 595
+  solution: |-
+    **Answer:** 595
+- id: 5092
+  question: ' \( 17682 \div 21 \)'
+  answer: 842
+  solution: |-
+    **Answer:** 842
+- id: 5093
+  question: ' \( 18522 \div 21 \)'
+  answer: 882
+  solution: |-
+    **Answer:** 882
+- id: 5094
+  question: ' \( 10272 \div 32 \)'
+  answer: 321
+  solution: |-
+    **Answer:** 321
+- id: 5095
+  question: ' \( 28756 \div 52 \)'
+  answer: 553
+  solution: |-
+    **Answer:** 553
+- id: 5096
+  question: ' \( 21696 \div 32 \)'
+  answer: 678
+  solution: |-
+    **Answer:** 678
+- id: 5097
+  question: ' \( 16100 \div 25 \)'
+  answer: 644
+  solution: |-
+    **Answer:** 644
+- id: 5098
+  question: ' \( 19404 \div 22 \)'
+  answer: 882
+  solution: |-
+    **Answer:** 882
+- id: 5099
+  question: ' \( 8250 \div 22 \)'
+  answer: 375
+  solution: |-
+    **Answer:** 375
+- id: 5100
+  question: ' \( 36296 \div 52 \)'
+  answer: 698
+  solution: |-
+    **Answer:** 698
