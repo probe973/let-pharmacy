@@ -372,3 +372,804 @@
     New Dose = 220 microg / 0.6 = 366.67 microg <br />
     <br />
     **Answer:** 375 (366.67 is closer to 375 than 250)
+
+- id: 5001
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 25 mL of a 7.5 mg/mL liquid daily
+    ( \( F = 0.55) \). What is the equivalent dose of the tablet ( \( F = 0.7) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 150
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(25 \text{ mL} \times 7.5 \text{ mg/mL} = 188 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 103.4 \text{ mg} \times 0.55 = 103.4 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 103.4 \text{ mg} \div 0.7 = 147.7 \text{ mg} \) <br />
+    <br />
+    **Answer** 150 (Rounded to the nearest 25 mg)
+- id: 5002
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 5 mL of a 7.5 mg/mL liquid daily
+    ( \( F = 0.6) \). What is the equivalent dose of the tablet ( \( F = 0.65) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 25
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(5 \text{ mL} \times 7.5 \text{ mg/mL} = 38 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 22.8 \text{ mg} \times 0.6 = 22.8 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 22.8 \text{ mg} \div 0.65 = 35.1 \text{ mg} \) <br />
+    <br />
+    **Answer** 25 (Rounded to the nearest 25 mg)
+- id: 5003
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 25 mL of a 15 mg/mL liquid daily
+    ( \( F = 0.6) \). What is the equivalent dose of the tablet ( \( F = 0.7) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 325
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(25 \text{ mL} \times 15 \text{ mg/mL} = 375 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 225.0 \text{ mg} \times 0.6 = 225.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 225.0 \text{ mg} \div 0.7 = 321.4 \text{ mg} \) <br />
+    <br />
+    **Answer** 325 (Rounded to the nearest 25 mg)
+- id: 5004
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 25 mL of a 7.5 mg/mL liquid daily
+    ( \( F = 0.6) \). What is the equivalent dose of the tablet ( \( F = 0.65) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    50 mg.
+  answer: 150
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(25 \text{ mL} \times 7.5 \text{ mg/mL} = 188 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 112.8 \text{ mg} \times 0.6 = 112.8 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 112.8 \text{ mg} \div 0.65 = 173.5 \text{ mg} \) <br />
+    <br />
+    **Answer** 150 (Rounded to the nearest 50 mg)
+- id: 5005
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 15 mL of a 5 mg/mL liquid daily
+    ( \( F = 0.9) \). What is the equivalent dose of the tablet ( \( F = 0.4) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 175
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(15 \text{ mL} \times 5 \text{ mg/mL} = 75 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 67.5 \text{ mg} \times 0.9 = 67.5 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 67.5 \text{ mg} \div 0.4 = 168.8 \text{ mg} \) <br />
+    <br />
+    **Answer** 175 (Rounded to the nearest 25 mg)
+- id: 5006
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 15 mL of a 12.5 mg/mL liquid daily
+    ( \( F = 0.7) \). What is the equivalent dose of the tablet ( \( F = 0.75) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 175
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(15 \text{ mL} \times 12.5 \text{ mg/mL} = 188 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 131.6 \text{ mg} \times 0.7 = 131.6 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 131.6 \text{ mg} \div 0.75 = 175.5 \text{ mg} \) <br />
+    <br />
+    **Answer** 175 (Rounded to the nearest 25 mg)
+- id: 5007
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 15 mL of a 7.5 mg/mL liquid daily
+    ( \( F = 0.9) \). What is the equivalent dose of the tablet ( \( F = 0.65) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 150
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(15 \text{ mL} \times 7.5 \text{ mg/mL} = 112 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 100.8 \text{ mg} \times 0.9 = 100.8 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 100.8 \text{ mg} \div 0.65 = 155.1 \text{ mg} \) <br />
+    <br />
+    **Answer** 150 (Rounded to the nearest 25 mg)
+- id: 5008
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 20 mL of a 5 mg/mL liquid daily
+    ( \( F = 0.55) \). What is the equivalent dose of the tablet ( \( F = 0.65) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 75
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(20 \text{ mL} \times 5 \text{ mg/mL} = 100 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 55.0 \text{ mg} \times 0.55 = 55.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 55.0 \text{ mg} \div 0.65 = 84.6 \text{ mg} \) <br />
+    <br />
+    **Answer** 75 (Rounded to the nearest 25 mg)
+- id: 5009
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 25 mL of a 15 mg/mL liquid daily
+    ( \( F = 0.55) \). What is the equivalent dose of the tablet ( \( F = 0.7) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    125 mg.
+  answer: 250
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(25 \text{ mL} \times 15 \text{ mg/mL} = 375 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 206.25 \text{ mg} \times 0.55 = 206.25 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 206.25 \text{ mg} \div 0.7 = 294.6 \text{ mg} \) <br />
+    <br />
+    **Answer** 250 (Rounded to the nearest 125 mg)
+- id: 5010
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 20 mL of a 12.5 mg/mL liquid daily
+    ( \( F = 0.6) \). What is the equivalent dose of the tablet ( \( F = 0.65) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 225
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(20 \text{ mL} \times 12.5 \text{ mg/mL} = 250 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 150.0 \text{ mg} \times 0.6 = 150.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 150.0 \text{ mg} \div 0.65 = 230.8 \text{ mg} \) <br />
+    <br />
+    **Answer** 225 (Rounded to the nearest 25 mg)
+- id: 5011
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 5 mL of a 7.5 mg/mL liquid daily
+    ( \( F = 0.9) \). What is the equivalent dose of the tablet ( \( F = 0.85) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 50
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(5 \text{ mL} \times 7.5 \text{ mg/mL} = 38 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 34.2 \text{ mg} \times 0.9 = 34.2 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 34.2 \text{ mg} \div 0.85 = 40.2 \text{ mg} \) <br />
+    <br />
+    **Answer** 50 (Rounded to the nearest 25 mg)
+- id: 5012
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 20 mL of a 25 mg/mL liquid daily
+    ( \( F = 0.6) \). What is the equivalent dose of the tablet ( \( F = 0.45) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    50 mg.
+  answer: 650
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(20 \text{ mL} \times 25 \text{ mg/mL} = 500 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 300.0 \text{ mg} \times 0.6 = 300.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 300.0 \text{ mg} \div 0.45 = 666.7 \text{ mg} \) <br />
+    <br />
+    **Answer** 650 (Rounded to the nearest 50 mg)
+- id: 5013
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 20 mL of a 25 mg/mL liquid daily
+    ( \( F = 0.85) \). What is the equivalent dose of the tablet ( \( F = 0.9) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    200 mg.
+  answer: 400
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(20 \text{ mL} \times 25 \text{ mg/mL} = 500 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 425.0 \text{ mg} \times 0.85 = 425.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 425.0 \text{ mg} \div 0.9 = 472.2 \text{ mg} \) <br />
+    <br />
+    **Answer** 400 (Rounded to the nearest 200 mg)
+- id: 5014
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 25 mL of a 25 mg/mL liquid daily
+    ( \( F = 0.4) \). What is the equivalent dose of the tablet ( \( F = 0.5) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    200 mg.
+  answer: 600
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(25 \text{ mL} \times 25 \text{ mg/mL} = 625 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 250.0 \text{ mg} \times 0.4 = 250.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 250.0 \text{ mg} \div 0.5 = 500.0 \text{ mg} \) <br />
+    <br />
+    **Answer** 600 (Rounded to the nearest 200 mg)
+- id: 5015
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 15 mL of a 5 mg/mL liquid daily
+    ( \( F = 0.45) \). What is the equivalent dose of the tablet ( \( F = 0.6) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 50
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(15 \text{ mL} \times 5 \text{ mg/mL} = 75 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 33.75 \text{ mg} \times 0.45 = 33.75 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 33.75 \text{ mg} \div 0.6 = 56.2 \text{ mg} \) <br />
+    <br />
+    **Answer** 50 (Rounded to the nearest 25 mg)
+- id: 5016
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 5 mL of a 15 mg/mL liquid daily
+    ( \( F = 0.75) \). What is the equivalent dose of the tablet ( \( F = 0.9) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 75
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(5 \text{ mL} \times 15 \text{ mg/mL} = 75 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 56.25 \text{ mg} \times 0.75 = 56.25 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 56.25 \text{ mg} \div 0.9 = 62.5 \text{ mg} \) <br />
+    <br />
+    **Answer** 75 (Rounded to the nearest 25 mg)
+- id: 5017
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 5 mL of a 5 mg/mL liquid daily
+    ( \( F = 0.5) \). What is the equivalent dose of the tablet ( \( F = 0.65) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 25
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(5 \text{ mL} \times 5 \text{ mg/mL} = 25 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 12.5 \text{ mg} \times 0.5 = 12.5 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 12.5 \text{ mg} \div 0.65 = 19.2 \text{ mg} \) <br />
+    <br />
+    **Answer** 25 (Rounded to the nearest 25 mg)
+- id: 5018
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 40 mL of a 25 mg/mL liquid daily
+    ( \( F = 0.5) \). What is the equivalent dose of the tablet ( \( F = 0.4) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    250 mg.
+  answer: 1250
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(40 \text{ mL} \times 25 \text{ mg/mL} = 1000 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 500.0 \text{ mg} \times 0.5 = 500.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 500.0 \text{ mg} \div 0.4 = 1250.0 \text{ mg} \) <br />
+    <br />
+    **Answer** 1250 (Rounded to the nearest 250 mg)
+- id: 5019
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 100 mL of a 10 mg/mL liquid daily
+    ( \( F = 0.85) \). What is the equivalent dose of the tablet ( \( F = 0.65) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    200 mg.
+  answer: 1400
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(100 \text{ mL} \times 10 \text{ mg/mL} = 1000 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 850.0 \text{ mg} \times 0.85 = 850.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 850.0 \text{ mg} \div 0.65 = 1307.7 \text{ mg} \) <br />
+    <br />
+    **Answer** 1400 (Rounded to the nearest 200 mg)
+- id: 5020
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 15 mL of a 12.5 mg/mL liquid daily
+    ( \( F = 0.45) \). What is the equivalent dose of the tablet ( \( F = 0.5) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 175
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(15 \text{ mL} \times 12.5 \text{ mg/mL} = 188 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 84.6 \text{ mg} \times 0.45 = 84.6 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 84.6 \text{ mg} \div 0.5 = 169.2 \text{ mg} \) <br />
+    <br />
+    **Answer** 175 (Rounded to the nearest 25 mg)
+- id: 5021
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 10 mL of a 15 mg/mL liquid daily
+    ( \( F = 0.85) \). What is the equivalent dose of the tablet ( \( F = 0.6) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 225
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(10 \text{ mL} \times 15 \text{ mg/mL} = 150 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 127.5 \text{ mg} \times 0.85 = 127.5 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 127.5 \text{ mg} \div 0.6 = 212.5 \text{ mg} \) <br />
+    <br />
+    **Answer** 225 (Rounded to the nearest 25 mg)
+- id: 5022
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 10 mL of a 15 mg/mL liquid daily
+    ( \( F = 0.75) \). What is the equivalent dose of the tablet ( \( F = 0.65) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    50 mg.
+  answer: 150
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(10 \text{ mL} \times 15 \text{ mg/mL} = 150 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 112.5 \text{ mg} \times 0.75 = 112.5 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 112.5 \text{ mg} \div 0.65 = 173.1 \text{ mg} \) <br />
+    <br />
+    **Answer** 150 (Rounded to the nearest 50 mg)
+- id: 5023
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 25 mL of a 25 mg/mL liquid daily
+    ( \( F = 0.55) \). What is the equivalent dose of the tablet ( \( F = 0.6000000000000001)
+    \), in milligrams, to providing the equivalent dose? Round your answer to the
+    nearest 50 mg.
+  answer: 550
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(25 \text{ mL} \times 25 \text{ mg/mL} = 625 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 343.75 \text{ mg} \times 0.55 = 343.75 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 343.75 \text{ mg} \div 0.6000000000000001 = 572.9 \text{ mg} \) <br />
+    <br />
+    **Answer** 550 (Rounded to the nearest 50 mg)
+- id: 5024
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 80 mL of a 15 mg/mL liquid daily
+    ( \( F = 0.85) \). What is the equivalent dose of the tablet ( \( F = 0.9) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    200 mg.
+  answer: 1200
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(80 \text{ mL} \times 15 \text{ mg/mL} = 1200 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 1020.0 \text{ mg} \times 0.85 = 1020.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 1020.0 \text{ mg} \div 0.9 = 1133.3 \text{ mg} \) <br />
+    <br />
+    **Answer** 1200 (Rounded to the nearest 200 mg)
+- id: 5025
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 80 mL of a 7.5 mg/mL liquid daily
+    ( \( F = 0.4) \). What is the equivalent dose of the tablet ( \( F = 0.8) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 300
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(80 \text{ mL} \times 7.5 \text{ mg/mL} = 600 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 240.0 \text{ mg} \times 0.4 = 240.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 240.0 \text{ mg} \div 0.8 = 300.0 \text{ mg} \) <br />
+    <br />
+    **Answer** 300 (Rounded to the nearest 25 mg)
+- id: 5026
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 100 mL of a 20 mg/mL liquid daily
+    ( \( F = 0.45) \). What is the equivalent dose of the tablet ( \( F = 0.95) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    125 mg.
+  answer: 1000
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(100 \text{ mL} \times 20 \text{ mg/mL} = 2000 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 900.0 \text{ mg} \times 0.45 = 900.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 900.0 \text{ mg} \div 0.95 = 947.4 \text{ mg} \) <br />
+    <br />
+    **Answer** 1000 (Rounded to the nearest 125 mg)
+- id: 5027
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 80 mL of a 7.5 mg/mL liquid daily
+    ( \( F = 0.8) \). What is the equivalent dose of the tablet ( \( F = 0.9) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    125 mg.
+  answer: 500
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(80 \text{ mL} \times 7.5 \text{ mg/mL} = 600 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 480.0 \text{ mg} \times 0.8 = 480.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 480.0 \text{ mg} \div 0.9 = 533.3 \text{ mg} \) <br />
+    <br />
+    **Answer** 500 (Rounded to the nearest 125 mg)
+- id: 5028
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 5 mL of a 7.5 mg/mL liquid daily
+    ( \( F = 0.55) \). What is the equivalent dose of the tablet ( \( F = 0.95) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 25
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(5 \text{ mL} \times 7.5 \text{ mg/mL} = 38 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 20.9 \text{ mg} \times 0.55 = 20.9 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 20.9 \text{ mg} \div 0.95 = 22.0 \text{ mg} \) <br />
+    <br />
+    **Answer** 25 (Rounded to the nearest 25 mg)
+- id: 5029
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 40 mL of a 7.5 mg/mL liquid daily
+    ( \( F = 0.55) \). What is the equivalent dose of the tablet ( \( F = 0.5) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 325
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(40 \text{ mL} \times 7.5 \text{ mg/mL} = 300 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 165.0 \text{ mg} \times 0.55 = 165.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 165.0 \text{ mg} \div 0.5 = 330.0 \text{ mg} \) <br />
+    <br />
+    **Answer** 325 (Rounded to the nearest 25 mg)
+- id: 5030
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 80 mL of a 10 mg/mL liquid daily
+    ( \( F = 0.75) \). What is the equivalent dose of the tablet ( \( F = 0.5) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    200 mg.
+  answer: 1200
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(80 \text{ mL} \times 10 \text{ mg/mL} = 800 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 600.0 \text{ mg} \times 0.75 = 600.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 600.0 \text{ mg} \div 0.5 = 1200.0 \text{ mg} \) <br />
+    <br />
+    **Answer** 1200 (Rounded to the nearest 200 mg)
+- id: 5031
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 40 mL of a 12.5 mg/mL liquid daily
+    ( \( F = 0.75) \). What is the equivalent dose of the tablet ( \( F = 0.7) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    125 mg.
+  answer: 500
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(40 \text{ mL} \times 12.5 \text{ mg/mL} = 500 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 375.0 \text{ mg} \times 0.75 = 375.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 375.0 \text{ mg} \div 0.7 = 535.7 \text{ mg} \) <br />
+    <br />
+    **Answer** 500 (Rounded to the nearest 125 mg)
+- id: 5032
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 5 mL of a 15 mg/mL liquid daily
+    ( \( F = 0.65) \). What is the equivalent dose of the tablet ( \( F = 0.5) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 100
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(5 \text{ mL} \times 15 \text{ mg/mL} = 75 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 48.75 \text{ mg} \times 0.65 = 48.75 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 48.75 \text{ mg} \div 0.5 = 97.5 \text{ mg} \) <br />
+    <br />
+    **Answer** 100 (Rounded to the nearest 25 mg)
+- id: 5033
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 20 mL of a 12.5 mg/mL liquid daily
+    ( \( F = 0.4) \). What is the equivalent dose of the tablet ( \( F = 0.45) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 225
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(20 \text{ mL} \times 12.5 \text{ mg/mL} = 250 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 100.0 \text{ mg} \times 0.4 = 100.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 100.0 \text{ mg} \div 0.45 = 222.2 \text{ mg} \) <br />
+    <br />
+    **Answer** 225 (Rounded to the nearest 25 mg)
+- id: 5034
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 20 mL of a 10 mg/mL liquid daily
+    ( \( F = 0.4) \). What is the equivalent dose of the tablet ( \( F = 0.5) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 150
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(20 \text{ mL} \times 10 \text{ mg/mL} = 200 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 80.0 \text{ mg} \times 0.4 = 80.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 80.0 \text{ mg} \div 0.5 = 160.0 \text{ mg} \) <br />
+    <br />
+    **Answer** 150 (Rounded to the nearest 25 mg)
+- id: 5035
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 10 mL of a 12.5 mg/mL liquid daily
+    ( \( F = 0.5) \). What is the equivalent dose of the tablet ( \( F = 0.65) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 100
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(10 \text{ mL} \times 12.5 \text{ mg/mL} = 125 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 62.5 \text{ mg} \times 0.5 = 62.5 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 62.5 \text{ mg} \div 0.65 = 96.2 \text{ mg} \) <br />
+    <br />
+    **Answer** 100 (Rounded to the nearest 25 mg)
+- id: 5036
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 100 mL of a 12.5 mg/mL liquid
+    daily ( \( F = 0.9) \). What is the equivalent dose of the tablet ( \( F = 0.85)
+    \), in milligrams, to providing the equivalent dose? Round your answer to the
+    nearest 100 mg.
+  answer: 1300
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(100 \text{ mL} \times 12.5 \text{ mg/mL} = 1250 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 1125.0 \text{ mg} \times 0.9 = 1125.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 1125.0 \text{ mg} \div 0.85 = 1323.5 \text{ mg} \) <br />
+    <br />
+    **Answer** 1300 (Rounded to the nearest 100 mg)
+- id: 5037
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 20 mL of a 7.5 mg/mL liquid daily
+    ( \( F = 0.4) \). What is the equivalent dose of the tablet ( \( F = 0.9) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 75
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(20 \text{ mL} \times 7.5 \text{ mg/mL} = 150 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 60.0 \text{ mg} \times 0.4 = 60.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 60.0 \text{ mg} \div 0.9 = 66.7 \text{ mg} \) <br />
+    <br />
+    **Answer** 75 (Rounded to the nearest 25 mg)
+- id: 5038
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 80 mL of a 5 mg/mL liquid daily
+    ( \( F = 0.8) \). What is the equivalent dose of the tablet ( \( F = 0.65) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 500
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(80 \text{ mL} \times 5 \text{ mg/mL} = 400 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 320.0 \text{ mg} \times 0.8 = 320.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 320.0 \text{ mg} \div 0.65 = 492.3 \text{ mg} \) <br />
+    <br />
+    **Answer** 500 (Rounded to the nearest 25 mg)
+- id: 5039
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 15 mL of a 5 mg/mL liquid daily
+    ( \( F = 0.55) \). What is the equivalent dose of the tablet ( \( F = 0.8) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 50
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(15 \text{ mL} \times 5 \text{ mg/mL} = 75 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 41.25 \text{ mg} \times 0.55 = 41.25 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 41.25 \text{ mg} \div 0.8 = 51.6 \text{ mg} \) <br />
+    <br />
+    **Answer** 50 (Rounded to the nearest 25 mg)
+- id: 5040
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 15 mL of a 12.5 mg/mL liquid daily
+    ( \( F = 0.6) \). What is the equivalent dose of the tablet ( \( F = 0.9) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    50 mg.
+  answer: 150
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(15 \text{ mL} \times 12.5 \text{ mg/mL} = 188 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 112.8 \text{ mg} \times 0.6 = 112.8 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 112.8 \text{ mg} \div 0.9 = 125.3 \text{ mg} \) <br />
+    <br />
+    **Answer** 150 (Rounded to the nearest 50 mg)
+- id: 5041
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 15 mL of a 7.5 mg/mL liquid daily
+    ( \( F = 0.85) \). What is the equivalent dose of the tablet ( \( F = 0.5) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 200
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(15 \text{ mL} \times 7.5 \text{ mg/mL} = 112 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 95.2 \text{ mg} \times 0.85 = 95.2 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 95.2 \text{ mg} \div 0.5 = 190.4 \text{ mg} \) <br />
+    <br />
+    **Answer** 200 (Rounded to the nearest 25 mg)
+- id: 5042
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 125 mL of a 12.5 mg/mL liquid
+    daily ( \( F = 0.9) \). What is the equivalent dose of the tablet ( \( F = 0.45)
+    \), in milligrams, to providing the equivalent dose? Round your answer to the
+    nearest 200 mg.
+  answer: 3200
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(125 \text{ mL} \times 12.5 \text{ mg/mL} = 1562 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 1405.8 \text{ mg} \times 0.9 = 1405.8 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 1405.8 \text{ mg} \div 0.45 = 3124.0 \text{ mg} \) <br />
+    <br />
+    **Answer** 3200 (Rounded to the nearest 200 mg)
+- id: 5043
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 125 mL of a 5 mg/mL liquid daily
+    ( \( F = 0.85) \). What is the equivalent dose of the tablet ( \( F = 0.9) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    50 mg.
+  answer: 600
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(125 \text{ mL} \times 5 \text{ mg/mL} = 625 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 531.25 \text{ mg} \times 0.85 = 531.25 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 531.25 \text{ mg} \div 0.9 = 590.3 \text{ mg} \) <br />
+    <br />
+    **Answer** 600 (Rounded to the nearest 50 mg)
+- id: 5044
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 10 mL of a 5 mg/mL liquid daily
+    ( \( F = 0.8) \). What is the equivalent dose of the tablet ( \( F = 0.8500000000000001)
+    \), in milligrams, to providing the equivalent dose? Round your answer to the
+    nearest 25 mg.
+  answer: 50
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(10 \text{ mL} \times 5 \text{ mg/mL} = 50 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 40.0 \text{ mg} \times 0.8 = 40.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 40.0 \text{ mg} \div 0.8500000000000001 = 47.1 \text{ mg} \) <br />
+    <br />
+    **Answer** 50 (Rounded to the nearest 25 mg)
+- id: 5045
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 100 mL of a 25 mg/mL liquid daily
+    ( \( F = 0.5) \). What is the equivalent dose of the tablet ( \( F = 0.4) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    250 mg.
+  answer: 3250
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(100 \text{ mL} \times 25 \text{ mg/mL} = 2500 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 1250.0 \text{ mg} \times 0.5 = 1250.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 1250.0 \text{ mg} \div 0.4 = 3125.0 \text{ mg} \) <br />
+    <br />
+    **Answer** 3250 (Rounded to the nearest 250 mg)
+- id: 5046
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 50 mL of a 25 mg/mL liquid daily
+    ( \( F = 0.45) \). What is the equivalent dose of the tablet ( \( F = 0.7) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    200 mg.
+  answer: 800
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(50 \text{ mL} \times 25 \text{ mg/mL} = 1250 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 562.5 \text{ mg} \times 0.45 = 562.5 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 562.5 \text{ mg} \div 0.7 = 803.6 \text{ mg} \) <br />
+    <br />
+    **Answer** 800 (Rounded to the nearest 200 mg)
+- id: 5047
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 25 mL of a 20 mg/mL liquid daily
+    ( \( F = 0.4) \). What is the equivalent dose of the tablet ( \( F = 0.95) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 200
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(25 \text{ mL} \times 20 \text{ mg/mL} = 500 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 200.0 \text{ mg} \times 0.4 = 200.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 200.0 \text{ mg} \div 0.95 = 210.5 \text{ mg} \) <br />
+    <br />
+    **Answer** 200 (Rounded to the nearest 25 mg)
+- id: 5048
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 50 mL of a 15 mg/mL liquid daily
+    ( \( F = 0.8) \). What is the equivalent dose of the tablet ( \( F = 0.85) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    200 mg.
+  answer: 800
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(50 \text{ mL} \times 15 \text{ mg/mL} = 750 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 600.0 \text{ mg} \times 0.8 = 600.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 600.0 \text{ mg} \div 0.85 = 705.9 \text{ mg} \) <br />
+    <br />
+    **Answer** 800 (Rounded to the nearest 200 mg)
+- id: 5049
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 5 mL of a 7.5 mg/mL liquid daily
+    ( \( F = 0.9) \). What is the equivalent dose of the tablet ( \( F = 0.95) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 25
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(5 \text{ mL} \times 7.5 \text{ mg/mL} = 38 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 34.2 \text{ mg} \times 0.9 = 34.2 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 34.2 \text{ mg} \div 0.95 = 36.0 \text{ mg} \) <br />
+    <br />
+    **Answer** 25 (Rounded to the nearest 25 mg)
+- id: 5050
+  question: A patient is transitioning from a liquid medication to a tablet to assist
+    with medication compliance. The current dose is 40 mL of a 5 mg/mL liquid daily
+    ( \( F = 0.7) \). What is the equivalent dose of the tablet ( \( F = 0.75) \),
+    in milligrams, to providing the equivalent dose? Round your answer to the nearest
+    25 mg.
+  answer: 175
+  solution: |-
+    **Step 1: Calculate amount currently absorbed (Target)** <br />
+    Current dose: \(40 \text{ mL} \times 5 \text{ mg/mL} = 200 \text{ mg} \) <br />
+    \( \text{Target Absorbed} = 140.0 \text{ mg} \times 0.7 = 140.0 \text{ mg} \) <br />
+    <br />
+    **Step 2: Calculate equivalent new dose** <br />
+    \( \text{New Dose} = 140.0 \text{ mg} \div 0.75 = 186.7 \text{ mg} \) <br />
+    <br />
+    **Answer** 175 (Rounded to the nearest 25 mg)
