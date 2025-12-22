@@ -599,790 +599,261 @@
     **Answer:** 274
 
 - id: 6001
-  question: A 66-year-old man weighing 72 kg is started on a drug at 15 mg/kg as an
-    infusion every 8 hours. You have 800 mg vials of the drug available which are
-    reconstituted with 40 mL of water for injection and then further diluted to a
-    2 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 486
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 72 \text{ kg} \times 15 \text{ mg/kg} = 1080 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{1080 \text{ mg}}{800 \text{ mg}} \times 40 \text{ ml} = 54.0 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{1080 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 540.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 540.0 \text{ ml (Total)} - 54.0 \text{ ml (Drug)} = 486.0 \text{ ml} \) <br />
-    <br />
-    **Answer: 486 ml (nearest whole number)**
-- id: 6002
-  question: A 79-year-old man weighing 57 kg is started on a drug at 20 mg/kg as an
-    infusion every 8 hours. You have 1500 mg vials of the drug available which are
-    reconstituted with 50 mL of water for injection and then further diluted to a
-    10 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 76
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 57 \text{ kg} \times 20 \text{ mg/kg} = 1140 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{1140 \text{ mg}}{1500 \text{ mg}} \times 50 \text{ ml} = 38.0 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{1140 \text{ mg}}{10 \text{ mg}} \times 1 \text{ ml} = 114.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 114.0 \text{ ml (Total)} - 38.0 \text{ ml (Drug)} = 76.0 \text{ ml} \) <br />
-    <br />
-    **Answer: 76 ml (nearest whole number)**
-- id: 6003
-  question: A 72-year-old man weighing 62 kg is started on a drug at 20 mg/kg as an
-    infusion every 24 hours. You have 750 mg vials of the drug available which are
-    reconstituted with 20 mL of water for injection and then further diluted to a
-    10 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 91
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 62 \text{ kg} \times 20 \text{ mg/kg} = 1240 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{1240 \text{ mg}}{750 \text{ mg}} \times 20 \text{ ml} = 33.07 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{1240 \text{ mg}}{10 \text{ mg}} \times 1 \text{ ml} = 124.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 124.0 \text{ ml (Total)} - 33.07 \text{ ml (Drug)} = 90.93 \text{ ml} \) <br />
-    <br />
-    **Answer: 91 ml (nearest whole number)**
-- id: 6004
-  question: A 67-year-old man weighing 58 kg is started on a drug at 15 mg/kg as an
-    infusion every 4 hours. You have 400 mg vials of the drug available which are
-    reconstituted with 15 mL of water for injection and then further diluted to a
-    2 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 402
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 58 \text{ kg} \times 15 \text{ mg/kg} = 870 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{870 \text{ mg}}{400 \text{ mg}} \times 15 \text{ ml} = 32.62 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{870 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 435.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 435.0 \text{ ml (Total)} - 32.62 \text{ ml (Drug)} = 402.38 \text{ ml} \) <br />
-    <br />
-    **Answer: 402 ml (nearest whole number)**
-- id: 6005
-  question: A 65-year-old man weighing 70 kg is started on a drug at 10 mg/kg as an
+  question: A 53-year-old man weighing 71 kg is started on a drug at 15 mg/kg as an
     infusion every 4 hours. You have 1500 mg vials of the drug available which are
-    reconstituted with 20 mL of water for injection and then further diluted to a
-    3 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 224
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 70 \text{ kg} \times 10 \text{ mg/kg} = 700 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{700 \text{ mg}}{1500 \text{ mg}} \times 20 \text{ ml} = 9.33 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{700 \text{ mg}}{3 \text{ mg}} \times 1 \text{ ml} = 233.33 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 233.33 \text{ ml (Total)} - 9.33 \text{ ml (Drug)} = 224.0 \text{ ml} \) <br />
-    <br />
-    **Answer: 224 ml (nearest whole number)**
-- id: 6006
-  question: A 60-year-old man weighing 73 kg is started on a drug at 12.5 mg/kg as
-    an infusion every 12 hours. You have 400 mg vials of the drug available which
-    are reconstituted with 20 mL of water for injection and then further diluted to
-    a 3 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 258
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 73 \text{ kg} \times 12.5 \text{ mg/kg} = 912 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{912 \text{ mg}}{400 \text{ mg}} \times 20 \text{ ml} = 45.6 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{912 \text{ mg}}{3 \text{ mg}} \times 1 \text{ ml} = 304.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 304.0 \text{ ml (Total)} - 45.6 \text{ ml (Drug)} = 258.4 \text{ ml} \) <br />
-    <br />
-    **Answer: 258 ml (nearest whole number)**
-- id: 6007
-  question: A 64-year-old man weighing 74 kg is started on a drug at 10 mg/kg as an
-    infusion every 4 hours. You have 800 mg vials of the drug available which are
-    reconstituted with 15 mL of water for injection and then further diluted to a
-    1 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 726
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 74 \text{ kg} \times 10 \text{ mg/kg} = 740 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{740 \text{ mg}}{800 \text{ mg}} \times 15 \text{ ml} = 13.88 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{740 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 740.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 740.0 \text{ ml (Total)} - 13.88 \text{ ml (Drug)} = 726.12 \text{ ml} \) <br />
-    <br />
-    **Answer: 726 ml (nearest whole number)**
-- id: 6008
-  question: A 73-year-old man weighing 57 kg is started on a drug at 12.5 mg/kg as
-    an infusion every 4 hours. You have 800 mg vials of the drug available which are
     reconstituted with 100 mL of water for injection and then further diluted to a
-    5 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 53
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 57 \text{ kg} \times 12.5 \text{ mg/kg} = 712 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{712 \text{ mg}}{800 \text{ mg}} \times 100 \text{ ml} = 89.0 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{712 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 142.4 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 142.4 \text{ ml (Total)} - 89.0 \text{ ml (Drug)} = 53.4 \text{ ml} \) <br />
-    <br />
-    **Answer: 53 ml (nearest whole number)**
-- id: 6009
-  question: A 67-year-old man weighing 62 kg is started on a drug at 4 mg/kg as an
-    infusion every 12 hours. You have 500 mg vials of the drug available which are
-    reconstituted with 15 mL of water for injection and then further diluted to a
-    10 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 17
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 62 \text{ kg} \times 4 \text{ mg/kg} = 248 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{248 \text{ mg}}{500 \text{ mg}} \times 15 \text{ ml} = 7.44 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{248 \text{ mg}}{10 \text{ mg}} \times 1 \text{ ml} = 24.8 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 24.8 \text{ ml (Total)} - 7.44 \text{ ml (Drug)} = 17.36 \text{ ml} \) <br />
-    <br />
-    **Answer: 17 ml (nearest whole number)**
-- id: 6010
-  question: A 65-year-old man weighing 67 kg is started on a drug at 20 mg/kg as an
-    infusion every 12 hours. You have 800 mg vials of the drug available which are
-    reconstituted with 20 mL of water for injection and then further diluted to a
-    1 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 1307
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 67 \text{ kg} \times 20 \text{ mg/kg} = 1340 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{1340 \text{ mg}}{800 \text{ mg}} \times 20 \text{ ml} = 33.5 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{1340 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 1340.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 1340.0 \text{ ml (Total)} - 33.5 \text{ ml (Drug)} = 1306.5 \text{ ml} \) <br />
-    <br />
-    **Answer: 1307 ml (nearest whole number)**
-- id: 6011
-  question: A 63-year-old man weighing 57 kg is started on a drug at 20 mg/kg as an
-    infusion every 8 hours. You have 1200 mg vials of the drug available which are
-    reconstituted with 75 mL of water for injection and then further diluted to a
-    1 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 1069
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 57 \text{ kg} \times 20 \text{ mg/kg} = 1140 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{1140 \text{ mg}}{1200 \text{ mg}} \times 75 \text{ ml} = 71.25 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{1140 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 1140.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 1140.0 \text{ ml (Total)} - 71.25 \text{ ml (Drug)} = 1068.75 \text{ ml} \) <br />
-    <br />
-    **Answer: 1069 ml (nearest whole number)**
-- id: 6012
-  question: A 56-year-old man weighing 69 kg is started on a drug at 10 mg/kg as an
-    infusion every 8 hours. You have 400 mg vials of the drug available which are
-    reconstituted with 40 mL of water for injection and then further diluted to a
-    4 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 104
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 69 \text{ kg} \times 10 \text{ mg/kg} = 690 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{690 \text{ mg}}{400 \text{ mg}} \times 40 \text{ ml} = 69.0 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{690 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 172.5 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 172.5 \text{ ml (Total)} - 69.0 \text{ ml (Drug)} = 103.5 \text{ ml} \) <br />
-    <br />
-    **Answer: 104 ml (nearest whole number)**
-- id: 6013
-  question: A 60-year-old man weighing 69 kg is started on a drug at 20 mg/kg as an
-    infusion every 4 hours. You have 800 mg vials of the drug available which are
-    reconstituted with 15 mL of water for injection and then further diluted to a
-    4 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 319
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 69 \text{ kg} \times 20 \text{ mg/kg} = 1380 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{1380 \text{ mg}}{800 \text{ mg}} \times 15 \text{ ml} = 25.88 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{1380 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 345.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 345.0 \text{ ml (Total)} - 25.88 \text{ ml (Drug)} = 319.12 \text{ ml} \) <br />
-    <br />
-    **Answer: 319 ml (nearest whole number)**
-- id: 6014
-  question: A 71-year-old man weighing 61 kg is started on a drug at 25 mg/kg as an
-    infusion every 4 hours. You have 1000 mg vials of the drug available which are
-    reconstituted with 50 mL of water for injection and then further diluted to a
-    1 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 1449
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 61 \text{ kg} \times 25 \text{ mg/kg} = 1525 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{1525 \text{ mg}}{1000 \text{ mg}} \times 50 \text{ ml} = 76.25 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{1525 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 1525.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 1525.0 \text{ ml (Total)} - 76.25 \text{ ml (Drug)} = 1448.75 \text{ ml} \) <br />
-    <br />
-    **Answer: 1449 ml (nearest whole number)**
-- id: 6015
-  question: A 68-year-old man weighing 70 kg is started on a drug at 5 mg/kg as an
-    infusion every 6 hours. You have 800 mg vials of the drug available which are
-    reconstituted with 100 mL of water for injection and then further diluted to a
-    5 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 26
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 70 \text{ kg} \times 5 \text{ mg/kg} = 350 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{350 \text{ mg}}{800 \text{ mg}} \times 100 \text{ ml} = 43.75 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{350 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 70.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 70.0 \text{ ml (Total)} - 43.75 \text{ ml (Drug)} = 26.25 \text{ ml} \) <br />
-    <br />
-    **Answer: 26 ml (nearest whole number)**
-- id: 6016
-  question: A 78-year-old man weighing 59 kg is started on a drug at 12.5 mg/kg as
-    an infusion every 6 hours. You have 400 mg vials of the drug available which are
-    reconstituted with 50 mL of water for injection and then further diluted to a
     2 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
     of 0.9% sodium chloride that should be added to the drug for each dose? Give your
     answer as a whole number.
-  answer: 277
+  answer: 462
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 59 \text{ kg} \times 12.5 \text{ mg/kg} = 738 \text{ mg} <br />
+    \( 71 \text{ kg} \times 15 \text{ mg/kg} = 1065 \text{ mg} \)<br />
     <br />
     **Step 2: Calculate volume of reconstituted drug** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{738 \text{ mg}}{400 \text{ mg}} \times 50 \text{ ml} = 92.25 \text{ ml} \) <br />
+    \( \frac{1065 \text{ mg}}{1500 \text{ mg}} \times 100 \text{ ml} = 71.0 \text{ ml} \) <br />
     <br />
     **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{738 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 369.0 \text{ ml} \) <br />
+    \( \frac{1065 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 532.5 \text{ ml} \) <br />
     <br />
     **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 369.0 \text{ ml (Total)} - 92.25 \text{ ml (Drug)} = 276.75 \text{ ml} \) <br />
+    \( 532.5 \text{ ml (Total)} - 71.0 \text{ ml (Drug)} = 461.5 \text{ ml} \) <br />
     <br />
-    **Answer: 277 ml (nearest whole number)**
-- id: 6017
-  question: A 61-year-old man weighing 57 kg is started on a drug at 15 mg/kg as an
-    infusion every 8 hours. You have 1500 mg vials of the drug available which are
-    reconstituted with 20 mL of water for injection and then further diluted to a
+    **Answer: 462 ml (nearest whole number)**
+- id: 6002
+  question: A 58-year-old man weighing 56 kg is started on a drug at 10 mg/kg as an
+    infusion every 24 hours. You have 1200 mg vials of the drug available which are
+    reconstituted with 15 mL of water for injection and then further diluted to a
     5 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
     of 0.9% sodium chloride that should be added to the drug for each dose? Give your
     answer as a whole number.
-  answer: 160
+  answer: 105
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 57 \text{ kg} \times 15 \text{ mg/kg} = 855 \text{ mg} <br />
+    \( 56 \text{ kg} \times 10 \text{ mg/kg} = 560 \text{ mg} \)<br />
     <br />
     **Step 2: Calculate volume of reconstituted drug** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{855 \text{ mg}}{1500 \text{ mg}} \times 20 \text{ ml} = 11.4 \text{ ml} \) <br />
+    \( \frac{560 \text{ mg}}{1200 \text{ mg}} \times 15 \text{ ml} = 7.0 \text{ ml} \) <br />
     <br />
     **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{855 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 171.0 \text{ ml} \) <br />
+    \( \frac{560 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 112.0 \text{ ml} \) <br />
     <br />
     **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 171.0 \text{ ml (Total)} - 11.4 \text{ ml (Drug)} = 159.6 \text{ ml} \) <br />
+    \( 112.0 \text{ ml (Total)} - 7.0 \text{ ml (Drug)} = 105.0 \text{ ml} \) <br />
     <br />
-    **Answer: 160 ml (nearest whole number)**
-- id: 6018
-  question: A 73-year-old man weighing 61 kg is started on a drug at 15 mg/kg as an
-    infusion every 24 hours. You have 1000 mg vials of the drug available which are
-    reconstituted with 10 mL of water for injection and then further diluted to a
+    **Answer: 105 ml (nearest whole number)**
+- id: 6003
+  question: A 80-year-old man weighing 64 kg is started on a drug at 20 mg/kg as an
+    infusion every 12 hours. You have 1200 mg vials of the drug available which are
+    reconstituted with 25 mL of water for injection and then further diluted to a
+    1 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 1253
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 64 \text{ kg} \times 20 \text{ mg/kg} = 1280 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1280 \text{ mg}}{1200 \text{ mg}} \times 25 \text{ ml} = 26.67 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{1280 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 1280.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 1280.0 \text{ ml (Total)} - 26.67 \text{ ml (Drug)} = 1253.33 \text{ ml} \) <br />
+    <br />
+    **Answer: 1253 ml (nearest whole number)**
+- id: 6004
+  question: A 63-year-old man weighing 64 kg is started on a drug at 20 mg/kg as an
+    infusion every 8 hours. You have 750 mg vials of the drug available which are
+    reconstituted with 15 mL of water for injection and then further diluted to a
+    8 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 134
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 64 \text{ kg} \times 20 \text{ mg/kg} = 1280 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1280 \text{ mg}}{750 \text{ mg}} \times 15 \text{ ml} = 25.6 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{1280 \text{ mg}}{8 \text{ mg}} \times 1 \text{ ml} = 160.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 160.0 \text{ ml (Total)} - 25.6 \text{ ml (Drug)} = 134.4 \text{ ml} \) <br />
+    <br />
+    **Answer: 134 ml (nearest whole number)**
+- id: 6005
+  question: A 69-year-old man weighing 55 kg is started on a drug at 4 mg/kg as an
+    infusion every 8 hours. You have 1000 mg vials of the drug available which are
+    reconstituted with 40 mL of water for injection and then further diluted to a
+    2 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 101
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 55 \text{ kg} \times 4 \text{ mg/kg} = 220 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{220 \text{ mg}}{1000 \text{ mg}} \times 40 \text{ ml} = 8.8 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{220 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 110.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 110.0 \text{ ml (Total)} - 8.8 \text{ ml (Drug)} = 101.2 \text{ ml} \) <br />
+    <br />
+    **Answer: 101 ml (nearest whole number)**
+- id: 6006
+  question: A 54-year-old man weighing 72 kg is started on a drug at 4 mg/kg as an
+    infusion every 4 hours. You have 1000 mg vials of the drug available which are
+    reconstituted with 25 mL of water for injection and then further diluted to a
     3 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 296
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 61 \text{ kg} \times 15 \text{ mg/kg} = 915 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{915 \text{ mg}}{1000 \text{ mg}} \times 10 \text{ ml} = 9.15 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{915 \text{ mg}}{3 \text{ mg}} \times 1 \text{ ml} = 305.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 305.0 \text{ ml (Total)} - 9.15 \text{ ml (Drug)} = 295.85 \text{ ml} \) <br />
-    <br />
-    **Answer: 296 ml (nearest whole number)**
-- id: 6019
-  question: A 73-year-old man weighing 71 kg is started on a drug at 25 mg/kg as an
-    infusion every 4 hours. You have 500 mg vials of the drug available which are
-    reconstituted with 75 mL of water for injection and then further diluted to a
-    5 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
     of 0.9% sodium chloride that should be added to the drug for each dose? Give your
     answer as a whole number.
   answer: 89
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 71 \text{ kg} \times 25 \text{ mg/kg} = 1775 \text{ mg} <br />
+    \( 72 \text{ kg} \times 4 \text{ mg/kg} = 288 \text{ mg} \)<br />
     <br />
     **Step 2: Calculate volume of reconstituted drug** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{1775 \text{ mg}}{500 \text{ mg}} \times 75 \text{ ml} = 266.25 \text{ ml} \) <br />
+    \( \frac{288 \text{ mg}}{1000 \text{ mg}} \times 25 \text{ ml} = 7.2 \text{ ml} \) <br />
     <br />
     **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{1775 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 355.0 \text{ ml} \) <br />
+    \( \frac{288 \text{ mg}}{3 \text{ mg}} \times 1 \text{ ml} = 96.0 \text{ ml} \) <br />
     <br />
     **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 355.0 \text{ ml (Total)} - 266.25 \text{ ml (Drug)} = 88.75 \text{ ml} \) <br />
+    \( 96.0 \text{ ml (Total)} - 7.2 \text{ ml (Drug)} = 88.8 \text{ ml} \) <br />
     <br />
     **Answer: 89 ml (nearest whole number)**
-- id: 6020
-  question: A 56-year-old man weighing 71 kg is started on a drug at 25 mg/kg as an
-    infusion every 24 hours. You have 1000 mg vials of the drug available which are
-    reconstituted with 10 mL of water for injection and then further diluted to a
+- id: 6007
+  question: A 72-year-old man weighing 51 kg is started on a drug at 20 mg/kg as an
+    infusion every 12 hours. You have 1200 mg vials of the drug available which are
+    reconstituted with 20 mL of water for injection and then further diluted to a
     4 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
     of 0.9% sodium chloride that should be added to the drug for each dose? Give your
     answer as a whole number.
-  answer: 426
+  answer: 238
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 71 \text{ kg} \times 25 \text{ mg/kg} = 1775 \text{ mg} <br />
+    \( 51 \text{ kg} \times 20 \text{ mg/kg} = 1020 \text{ mg} \)<br />
     <br />
     **Step 2: Calculate volume of reconstituted drug** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{1775 \text{ mg}}{1000 \text{ mg}} \times 10 \text{ ml} = 17.75 \text{ ml} \) <br />
+    \( \frac{1020 \text{ mg}}{1200 \text{ mg}} \times 20 \text{ ml} = 17.0 \text{ ml} \) <br />
     <br />
     **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{1775 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 443.75 \text{ ml} \) <br />
+    \( \frac{1020 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 255.0 \text{ ml} \) <br />
     <br />
     **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 443.75 \text{ ml (Total)} - 17.75 \text{ ml (Drug)} = 426.0 \text{ ml} \) <br />
+    \( 255.0 \text{ ml (Total)} - 17.0 \text{ ml (Drug)} = 238.0 \text{ ml} \) <br />
     <br />
-    **Answer: 426 ml (nearest whole number)**
-- id: 6021
-  question: A 57-year-old man weighing 53 kg is started on a drug at 12.5 mg/kg as
-    an infusion every 4 hours. You have 750 mg vials of the drug available which are
-    reconstituted with 10 mL of water for injection and then further diluted to a
-    2 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 322
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 53 \text{ kg} \times 12.5 \text{ mg/kg} = 662 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{662 \text{ mg}}{750 \text{ mg}} \times 10 \text{ ml} = 8.83 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{662 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 331.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 331.0 \text{ ml (Total)} - 8.83 \text{ ml (Drug)} = 322.17 \text{ ml} \) <br />
-    <br />
-    **Answer: 322 ml (nearest whole number)**
-- id: 6022
-  question: A 55-year-old man weighing 54 kg is started on a drug at 20 mg/kg as an
-    infusion every 6 hours. You have 500 mg vials of the drug available which are
-    reconstituted with 10 mL of water for injection and then further diluted to a
-    2 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 518
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 54 \text{ kg} \times 20 \text{ mg/kg} = 1080 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{1080 \text{ mg}}{500 \text{ mg}} \times 10 \text{ ml} = 21.6 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{1080 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 540.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 540.0 \text{ ml (Total)} - 21.6 \text{ ml (Drug)} = 518.4 \text{ ml} \) <br />
-    <br />
-    **Answer: 518 ml (nearest whole number)**
-- id: 6023
-  question: A 57-year-old man weighing 69 kg is started on a drug at 10 mg/kg as an
-    infusion every 24 hours. You have 400 mg vials of the drug available which are
-    reconstituted with 20 mL of water for injection and then further diluted to a
+    **Answer: 238 ml (nearest whole number)**
+- id: 6008
+  question: A 59-year-old man weighing 69 kg is started on a drug at 15 mg/kg as an
+    infusion every 8 hours. You have 1000 mg vials of the drug available which are
+    reconstituted with 40 mL of water for injection and then further diluted to a
     3 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
     of 0.9% sodium chloride that should be added to the drug for each dose? Give your
     answer as a whole number.
-  answer: 196
+  answer: 304
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 69 \text{ kg} \times 10 \text{ mg/kg} = 690 \text{ mg} <br />
+    \( 69 \text{ kg} \times 15 \text{ mg/kg} = 1035 \text{ mg} \)<br />
     <br />
     **Step 2: Calculate volume of reconstituted drug** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{690 \text{ mg}}{400 \text{ mg}} \times 20 \text{ ml} = 34.5 \text{ ml} \) <br />
+    \( \frac{1035 \text{ mg}}{1000 \text{ mg}} \times 40 \text{ ml} = 41.4 \text{ ml} \) <br />
     <br />
     **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{690 \text{ mg}}{3 \text{ mg}} \times 1 \text{ ml} = 230.0 \text{ ml} \) <br />
+    \( \frac{1035 \text{ mg}}{3 \text{ mg}} \times 1 \text{ ml} = 345.0 \text{ ml} \) <br />
     <br />
     **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 230.0 \text{ ml (Total)} - 34.5 \text{ ml (Drug)} = 195.5 \text{ ml} \) <br />
+    \( 345.0 \text{ ml (Total)} - 41.4 \text{ ml (Drug)} = 303.6 \text{ ml} \) <br />
     <br />
-    **Answer: 196 ml (nearest whole number)**
-- id: 6024
-  question: A 56-year-old man weighing 59 kg is started on a drug at 25 mg/kg as an
-    infusion every 24 hours. You have 750 mg vials of the drug available which are
-    reconstituted with 100 mL of water for injection and then further diluted to a
-    1 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 1278
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 59 \text{ kg} \times 25 \text{ mg/kg} = 1475 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{1475 \text{ mg}}{750 \text{ mg}} \times 100 \text{ ml} = 196.67 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{1475 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 1475.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 1475.0 \text{ ml (Total)} - 196.67 \text{ ml (Drug)} = 1278.33 \text{ ml} \) <br />
-    <br />
-    **Answer: 1278 ml (nearest whole number)**
-- id: 6025
-  question: A 68-year-old man weighing 73 kg is started on a drug at 4 mg/kg as an
-    infusion every 4 hours. You have 400 mg vials of the drug available which are
-    reconstituted with 40 mL of water for injection and then further diluted to a
-    1 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 263
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 73 \text{ kg} \times 4 \text{ mg/kg} = 292 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{292 \text{ mg}}{400 \text{ mg}} \times 40 \text{ ml} = 29.2 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{292 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 292.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 292.0 \text{ ml (Total)} - 29.2 \text{ ml (Drug)} = 262.8 \text{ ml} \) <br />
-    <br />
-    **Answer: 263 ml (nearest whole number)**
-- id: 6026
-  question: A 81-year-old man weighing 61 kg is started on a drug at 10 mg/kg as an
-    infusion every 8 hours. You have 1200 mg vials of the drug available which are
-    reconstituted with 50 mL of water for injection and then further diluted to a
-    5 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 97
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 61 \text{ kg} \times 10 \text{ mg/kg} = 610 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{610 \text{ mg}}{1200 \text{ mg}} \times 50 \text{ ml} = 25.42 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{610 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 122.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 122.0 \text{ ml (Total)} - 25.42 \text{ ml (Drug)} = 96.58 \text{ ml} \) <br />
-    <br />
-    **Answer: 97 ml (nearest whole number)**
-- id: 6027
-  question: A 51-year-old man weighing 50 kg is started on a drug at 25 mg/kg as an
-    infusion every 6 hours. You have 800 mg vials of the drug available which are
+    **Answer: 304 ml (nearest whole number)**
+- id: 6009
+  question: A 75-year-old man weighing 58 kg is started on a drug at 15 mg/kg as an
+    infusion every 6 hours. You have 1200 mg vials of the drug available which are
     reconstituted with 75 mL of water for injection and then further diluted to a
-    8 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    3 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
     of 0.9% sodium chloride that should be added to the drug for each dose? Give your
     answer as a whole number.
-  answer: 39
+  answer: 236
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 50 \text{ kg} \times 25 \text{ mg/kg} = 1250 \text{ mg} <br />
+    \( 58 \text{ kg} \times 15 \text{ mg/kg} = 870 \text{ mg} \)<br />
     <br />
     **Step 2: Calculate volume of reconstituted drug** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{1250 \text{ mg}}{800 \text{ mg}} \times 75 \text{ ml} = 117.19 \text{ ml} \) <br />
+    \( \frac{870 \text{ mg}}{1200 \text{ mg}} \times 75 \text{ ml} = 54.38 \text{ ml} \) <br />
     <br />
     **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{1250 \text{ mg}}{8 \text{ mg}} \times 1 \text{ ml} = 156.25 \text{ ml} \) <br />
+    \( \frac{870 \text{ mg}}{3 \text{ mg}} \times 1 \text{ ml} = 290.0 \text{ ml} \) <br />
     <br />
     **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 156.25 \text{ ml (Total)} - 117.19 \text{ ml (Drug)} = 39.06 \text{ ml} \) <br />
+    \( 290.0 \text{ ml (Total)} - 54.38 \text{ ml (Drug)} = 235.62 \text{ ml} \) <br />
     <br />
-    **Answer: 39 ml (nearest whole number)**
-- id: 6028
-  question: A 77-year-old man weighing 58 kg is started on a drug at 4 mg/kg as an
-    infusion every 24 hours. You have 1500 mg vials of the drug available which are
-    reconstituted with 25 mL of water for injection and then further diluted to a
-    1 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 228
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 58 \text{ kg} \times 4 \text{ mg/kg} = 232 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{232 \text{ mg}}{1500 \text{ mg}} \times 25 \text{ ml} = 3.87 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{232 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 232.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 232.0 \text{ ml (Total)} - 3.87 \text{ ml (Drug)} = 228.13 \text{ ml} \) <br />
-    <br />
-    **Answer: 228 ml (nearest whole number)**
-- id: 6029
-  question: A 56-year-old man weighing 58 kg is started on a drug at 15 mg/kg as an
-    infusion every 12 hours. You have 1200 mg vials of the drug available which are
-    reconstituted with 20 mL of water for injection and then further diluted to a
-    5 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 160
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 58 \text{ kg} \times 15 \text{ mg/kg} = 870 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{870 \text{ mg}}{1200 \text{ mg}} \times 20 \text{ ml} = 14.5 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{870 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 174.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 174.0 \text{ ml (Total)} - 14.5 \text{ ml (Drug)} = 159.5 \text{ ml} \) <br />
-    <br />
-    **Answer: 160 ml (nearest whole number)**
-- id: 6030
-  question: A 55-year-old man weighing 61 kg is started on a drug at 5 mg/kg as an
-    infusion every 12 hours. You have 1500 mg vials of the drug available which are
-    reconstituted with 10 mL of water for injection and then further diluted to a
+    **Answer: 236 ml (nearest whole number)**
+- id: 6010
+  question: A 68-year-old man weighing 56 kg is started on a drug at 4 mg/kg as an
+    infusion every 10 hours. You have 750 mg vials of the drug available which are
+    reconstituted with 15 mL of water for injection and then further diluted to a
     10 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
     of 0.9% sodium chloride that should be added to the drug for each dose? Give your
     answer as a whole number.
-  answer: 28
+  answer: 18
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 61 \text{ kg} \times 5 \text{ mg/kg} = 305 \text{ mg} <br />
+    \( 56 \text{ kg} \times 4 \text{ mg/kg} = 224 \text{ mg} \)<br />
     <br />
     **Step 2: Calculate volume of reconstituted drug** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{305 \text{ mg}}{1500 \text{ mg}} \times 10 \text{ ml} = 2.03 \text{ ml} \) <br />
+    \( \frac{224 \text{ mg}}{750 \text{ mg}} \times 15 \text{ ml} = 4.48 \text{ ml} \) <br />
     <br />
     **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{305 \text{ mg}}{10 \text{ mg}} \times 1 \text{ ml} = 30.5 \text{ ml} \) <br />
+    \( \frac{224 \text{ mg}}{10 \text{ mg}} \times 1 \text{ ml} = 22.4 \text{ ml} \) <br />
     <br />
     **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 30.5 \text{ ml (Total)} - 2.03 \text{ ml (Drug)} = 28.47 \text{ ml} \) <br />
+    \( 22.4 \text{ ml (Total)} - 4.48 \text{ ml (Drug)} = 17.92 \text{ ml} \) <br />
     <br />
-    **Answer: 28 ml (nearest whole number)**
-- id: 6031
-  question: A 78-year-old man weighing 64 kg is started on a drug at 4 mg/kg as an
-    infusion every 24 hours. You have 1200 mg vials of the drug available which are
-    reconstituted with 10 mL of water for injection and then further diluted to a
-    2 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    **Answer: 18 ml (nearest whole number)**
+- id: 6011
+  question: A 71-year-old man weighing 74 kg is started on a drug at 4 mg/kg as an
+    infusion every 6 hours. You have 1000 mg vials of the drug available which are
+    reconstituted with 50 mL of water for injection and then further diluted to a
+    10 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
     of 0.9% sodium chloride that should be added to the drug for each dose? Give your
     answer as a whole number.
-  answer: 126
+  answer: 15
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 64 \text{ kg} \times 4 \text{ mg/kg} = 256 \text{ mg} <br />
+    \( 74 \text{ kg} \times 4 \text{ mg/kg} = 296 \text{ mg} \)<br />
     <br />
     **Step 2: Calculate volume of reconstituted drug** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{256 \text{ mg}}{1200 \text{ mg}} \times 10 \text{ ml} = 2.13 \text{ ml} \) <br />
+    \( \frac{296 \text{ mg}}{1000 \text{ mg}} \times 50 \text{ ml} = 14.8 \text{ ml} \) <br />
     <br />
     **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{256 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 128.0 \text{ ml} \) <br />
+    \( \frac{296 \text{ mg}}{10 \text{ mg}} \times 1 \text{ ml} = 29.6 \text{ ml} \) <br />
     <br />
     **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 128.0 \text{ ml (Total)} - 2.13 \text{ ml (Drug)} = 125.87 \text{ ml} \) <br />
+    \( 29.6 \text{ ml (Total)} - 14.8 \text{ ml (Drug)} = 14.8 \text{ ml} \) <br />
     <br />
-    **Answer: 126 ml (nearest whole number)**
-- id: 6032
-  question: A 60-year-old man weighing 72 kg is started on a drug at 20 mg/kg as an
-    infusion every 4 hours. You have 1000 mg vials of the drug available which are
-    reconstituted with 10 mL of water for injection and then further diluted to a
-    5 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 274
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 72 \text{ kg} \times 20 \text{ mg/kg} = 1440 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{1440 \text{ mg}}{1000 \text{ mg}} \times 10 \text{ ml} = 14.4 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{1440 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 288.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 288.0 \text{ ml (Total)} - 14.4 \text{ ml (Drug)} = 273.6 \text{ ml} \) <br />
-    <br />
-    **Answer: 274 ml (nearest whole number)**
-- id: 6033
-  question: A 72-year-old man weighing 71 kg is started on a drug at 4 mg/kg as an
-    infusion every 8 hours. You have 400 mg vials of the drug available which are
-    reconstituted with 15 mL of water for injection and then further diluted to a
-    5 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 46
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 71 \text{ kg} \times 4 \text{ mg/kg} = 284 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{284 \text{ mg}}{400 \text{ mg}} \times 15 \text{ ml} = 10.65 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{284 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 56.8 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 56.8 \text{ ml (Total)} - 10.65 \text{ ml (Drug)} = 46.15 \text{ ml} \) <br />
-    <br />
-    **Answer: 46 ml (nearest whole number)**
-- id: 6034
-  question: A 61-year-old man weighing 63 kg is started on a drug at 15 mg/kg as an
-    infusion every 10 hours. You have 800 mg vials of the drug available which are
-    reconstituted with 25 mL of water for injection and then further diluted to a
-    5 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 159
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 63 \text{ kg} \times 15 \text{ mg/kg} = 945 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{945 \text{ mg}}{800 \text{ mg}} \times 25 \text{ ml} = 29.53 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{945 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 189.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 189.0 \text{ ml (Total)} - 29.53 \text{ ml (Drug)} = 159.47 \text{ ml} \) <br />
-    <br />
-    **Answer: 159 ml (nearest whole number)**
-- id: 6035
-  question: A 74-year-old man weighing 57 kg is started on a drug at 15 mg/kg as an
-    infusion every 4 hours. You have 500 mg vials of the drug available which are
+    **Answer: 15 ml (nearest whole number)**
+- id: 6012
+  question: A 72-year-old man weighing 70 kg is started on a drug at 10 mg/kg as an
+    infusion every 10 hours. You have 750 mg vials of the drug available which are
     reconstituted with 50 mL of water for injection and then further diluted to a
     4 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
     of 0.9% sodium chloride that should be added to the drug for each dose? Give your
@@ -1390,361 +861,890 @@
   answer: 128
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 57 \text{ kg} \times 15 \text{ mg/kg} = 855 \text{ mg} <br />
+    \( 70 \text{ kg} \times 10 \text{ mg/kg} = 700 \text{ mg} \)<br />
     <br />
     **Step 2: Calculate volume of reconstituted drug** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{855 \text{ mg}}{500 \text{ mg}} \times 50 \text{ ml} = 85.5 \text{ ml} \) <br />
+    \( \frac{700 \text{ mg}}{750 \text{ mg}} \times 50 \text{ ml} = 46.67 \text{ ml} \) <br />
     <br />
     **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{855 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 213.75 \text{ ml} \) <br />
+    \( \frac{700 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 175.0 \text{ ml} \) <br />
     <br />
     **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 213.75 \text{ ml (Total)} - 85.5 \text{ ml (Drug)} = 128.25 \text{ ml} \) <br />
+    \( 175.0 \text{ ml (Total)} - 46.67 \text{ ml (Drug)} = 128.33 \text{ ml} \) <br />
     <br />
     **Answer: 128 ml (nearest whole number)**
-- id: 6036
-  question: A 73-year-old man weighing 65 kg is started on a drug at 5 mg/kg as an
-    infusion every 6 hours. You have 400 mg vials of the drug available which are
-    reconstituted with 10 mL of water for injection and then further diluted to a
-    3 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+- id: 6013
+  question: A 79-year-old man weighing 66 kg is started on a drug at 12.5 mg/kg as
+    an infusion every 10 hours. You have 750 mg vials of the drug available which
+    are reconstituted with 50 mL of water for injection and then further diluted to
+    a 3 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
     of 0.9% sodium chloride that should be added to the drug for each dose? Give your
     answer as a whole number.
-  answer: 100
+  answer: 220
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 65 \text{ kg} \times 5 \text{ mg/kg} = 325 \text{ mg} <br />
+    \( 66 \text{ kg} \times 12.5 \text{ mg/kg} = 825 \text{ mg} \)<br />
     <br />
     **Step 2: Calculate volume of reconstituted drug** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{325 \text{ mg}}{400 \text{ mg}} \times 10 \text{ ml} = 8.12 \text{ ml} \) <br />
+    \( \frac{825 \text{ mg}}{750 \text{ mg}} \times 50 \text{ ml} = 55.0 \text{ ml} \) <br />
     <br />
     **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{325 \text{ mg}}{3 \text{ mg}} \times 1 \text{ ml} = 108.33 \text{ ml} \) <br />
+    \( \frac{825 \text{ mg}}{3 \text{ mg}} \times 1 \text{ ml} = 275.0 \text{ ml} \) <br />
     <br />
     **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 108.33 \text{ ml (Total)} - 8.12 \text{ ml (Drug)} = 100.21 \text{ ml} \) <br />
+    \( 275.0 \text{ ml (Total)} - 55.0 \text{ ml (Drug)} = 220.0 \text{ ml} \) <br />
     <br />
-    **Answer: 100 ml (nearest whole number)**
-- id: 6037
-  question: A 73-year-old man weighing 57 kg is started on a drug at 12.5 mg/kg as
-    an infusion every 4 hours. You have 400 mg vials of the drug available which are
-    reconstituted with 25 mL of water for injection and then further diluted to a
-    2 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 312
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 57 \text{ kg} \times 12.5 \text{ mg/kg} = 712 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{712 \text{ mg}}{400 \text{ mg}} \times 25 \text{ ml} = 44.5 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{712 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 356.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 356.0 \text{ ml (Total)} - 44.5 \text{ ml (Drug)} = 311.5 \text{ ml} \) <br />
-    <br />
-    **Answer: 312 ml (nearest whole number)**
-- id: 6038
-  question: A 58-year-old man weighing 64 kg is started on a drug at 25 mg/kg as an
-    infusion every 8 hours. You have 750 mg vials of the drug available which are
-    reconstituted with 10 mL of water for injection and then further diluted to a
-    5 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 299
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 64 \text{ kg} \times 25 \text{ mg/kg} = 1600 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{1600 \text{ mg}}{750 \text{ mg}} \times 10 \text{ ml} = 21.33 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{1600 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 320.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 320.0 \text{ ml (Total)} - 21.33 \text{ ml (Drug)} = 298.67 \text{ ml} \) <br />
-    <br />
-    **Answer: 299 ml (nearest whole number)**
-- id: 6039
-  question: A 85-year-old man weighing 66 kg is started on a drug at 10 mg/kg as an
-    infusion every 10 hours. You have 750 mg vials of the drug available which are
-    reconstituted with 20 mL of water for injection and then further diluted to a
-    1 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 642
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 66 \text{ kg} \times 10 \text{ mg/kg} = 660 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{660 \text{ mg}}{750 \text{ mg}} \times 20 \text{ ml} = 17.6 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{660 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 660.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 660.0 \text{ ml (Total)} - 17.6 \text{ ml (Drug)} = 642.4 \text{ ml} \) <br />
-    <br />
-    **Answer: 642 ml (nearest whole number)**
-- id: 6040
-  question: A 50-year-old man weighing 67 kg is started on a drug at 20 mg/kg as an
-    infusion every 10 hours. You have 1000 mg vials of the drug available which are
-    reconstituted with 100 mL of water for injection and then further diluted to a
-    1 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 1206
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 67 \text{ kg} \times 20 \text{ mg/kg} = 1340 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{1340 \text{ mg}}{1000 \text{ mg}} \times 100 \text{ ml} = 134.0 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{1340 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 1340.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 1340.0 \text{ ml (Total)} - 134.0 \text{ ml (Drug)} = 1206.0 \text{ ml} \) <br />
-    <br />
-    **Answer: 1206 ml (nearest whole number)**
-- id: 6041
-  question: A 55-year-old man weighing 63 kg is started on a drug at 10 mg/kg as an
-    infusion every 10 hours. You have 750 mg vials of the drug available which are
-    reconstituted with 25 mL of water for injection and then further diluted to a
+    **Answer: 220 ml (nearest whole number)**
+- id: 6014
+  question: A 54-year-old man weighing 75 kg is started on a drug at 12.5 mg/kg as
+    an infusion every 8 hours. You have 800 mg vials of the drug available which are
+    reconstituted with 75 mL of water for injection and then further diluted to a
     6 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
     of 0.9% sodium chloride that should be added to the drug for each dose? Give your
     answer as a whole number.
-  answer: 84
+  answer: 68
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 63 \text{ kg} \times 10 \text{ mg/kg} = 630 \text{ mg} <br />
+    \( 75 \text{ kg} \times 12.5 \text{ mg/kg} = 938 \text{ mg} \)<br />
     <br />
     **Step 2: Calculate volume of reconstituted drug** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{630 \text{ mg}}{750 \text{ mg}} \times 25 \text{ ml} = 21.0 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{630 \text{ mg}}{6 \text{ mg}} \times 1 \text{ ml} = 105.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 105.0 \text{ ml (Total)} - 21.0 \text{ ml (Drug)} = 84.0 \text{ ml} \) <br />
-    <br />
-    **Answer: 84 ml (nearest whole number)**
-- id: 6042
-  question: A 77-year-old man weighing 70 kg is started on a drug at 5 mg/kg as an
-    infusion every 8 hours. You have 1000 mg vials of the drug available which are
-    reconstituted with 50 mL of water for injection and then further diluted to a
-    1 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 333
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 70 \text{ kg} \times 5 \text{ mg/kg} = 350 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{350 \text{ mg}}{1000 \text{ mg}} \times 50 \text{ ml} = 17.5 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{350 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 350.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 350.0 \text{ ml (Total)} - 17.5 \text{ ml (Drug)} = 332.5 \text{ ml} \) <br />
-    <br />
-    **Answer: 333 ml (nearest whole number)**
-- id: 6043
-  question: A 68-year-old man weighing 58 kg is started on a drug at 12.5 mg/kg as
-    an infusion every 24 hours. You have 500 mg vials of the drug available which
-    are reconstituted with 15 mL of water for injection and then further diluted to
-    a 5 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 123
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 58 \text{ kg} \times 12.5 \text{ mg/kg} = 725 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{725 \text{ mg}}{500 \text{ mg}} \times 15 \text{ ml} = 21.75 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{725 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 145.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 145.0 \text{ ml (Total)} - 21.75 \text{ ml (Drug)} = 123.25 \text{ ml} \) <br />
-    <br />
-    **Answer: 123 ml (nearest whole number)**
-- id: 6044
-  question: A 61-year-old man weighing 56 kg is started on a drug at 4 mg/kg as an
-    infusion every 12 hours. You have 500 mg vials of the drug available which are
-    reconstituted with 25 mL of water for injection and then further diluted to a
-    8 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 17
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 56 \text{ kg} \times 4 \text{ mg/kg} = 224 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{224 \text{ mg}}{500 \text{ mg}} \times 25 \text{ ml} = 11.2 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{224 \text{ mg}}{8 \text{ mg}} \times 1 \text{ ml} = 28.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 28.0 \text{ ml (Total)} - 11.2 \text{ ml (Drug)} = 16.8 \text{ ml} \) <br />
-    <br />
-    **Answer: 17 ml (nearest whole number)**
-- id: 6045
-  question: A 50-year-old man weighing 66 kg is started on a drug at 15 mg/kg as an
-    infusion every 4 hours. You have 750 mg vials of the drug available which are
-    reconstituted with 10 mL of water for injection and then further diluted to a
-    5 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 185
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 66 \text{ kg} \times 15 \text{ mg/kg} = 990 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{990 \text{ mg}}{750 \text{ mg}} \times 10 \text{ ml} = 13.2 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{990 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 198.0 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 198.0 \text{ ml (Total)} - 13.2 \text{ ml (Drug)} = 184.8 \text{ ml} \) <br />
-    <br />
-    **Answer: 185 ml (nearest whole number)**
-- id: 6046
-  question: A 59-year-old man weighing 75 kg is started on a drug at 12.5 mg/kg as
-    an infusion every 6 hours. You have 800 mg vials of the drug available which are
-    reconstituted with 50 mL of water for injection and then further diluted to a
-    6 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 98
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 75 \text{ kg} \times 12.5 \text{ mg/kg} = 938 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{938 \text{ mg}}{800 \text{ mg}} \times 50 \text{ ml} = 58.63 \text{ ml} \) <br />
+    \( \frac{938 \text{ mg}}{800 \text{ mg}} \times 75 \text{ ml} = 87.94 \text{ ml} \) <br />
     <br />
     **Step 3: Calculate total final volume of infusion** <br />
     \( \frac{938 \text{ mg}}{6 \text{ mg}} \times 1 \text{ ml} = 156.33 \text{ ml} \) <br />
     <br />
     **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 156.33 \text{ ml (Total)} - 58.63 \text{ ml (Drug)} = 97.7 \text{ ml} \) <br />
+    \( 156.33 \text{ ml (Total)} - 87.94 \text{ ml (Drug)} = 68.39 \text{ ml} \) <br />
     <br />
-    **Answer: 98 ml (nearest whole number)**
-- id: 6047
-  question: A 54-year-old man weighing 75 kg is started on a drug at 10 mg/kg as an
-    infusion every 6 hours. You have 1200 mg vials of the drug available which are
-    reconstituted with 75 mL of water for injection and then further diluted to a
+    **Answer: 68 ml (nearest whole number)**
+- id: 6015
+  question: A 80-year-old man weighing 68 kg is started on a drug at 10 mg/kg as an
+    infusion every 12 hours. You have 1500 mg vials of the drug available which are
+    reconstituted with 40 mL of water for injection and then further diluted to a
+    6 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 95
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 68 \text{ kg} \times 10 \text{ mg/kg} = 680 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{680 \text{ mg}}{1500 \text{ mg}} \times 40 \text{ ml} = 18.13 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{680 \text{ mg}}{6 \text{ mg}} \times 1 \text{ ml} = 113.33 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 113.33 \text{ ml (Total)} - 18.13 \text{ ml (Drug)} = 95.2 \text{ ml} \) <br />
+    <br />
+    **Answer: 95 ml (nearest whole number)**
+- id: 6016
+  question: A 74-year-old man weighing 56 kg is started on a drug at 20 mg/kg as an
+    infusion every 8 hours. You have 800 mg vials of the drug available which are
+    reconstituted with 40 mL of water for injection and then further diluted to a
+    5 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 168
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 56 \text{ kg} \times 20 \text{ mg/kg} = 1120 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1120 \text{ mg}}{800 \text{ mg}} \times 40 \text{ ml} = 56.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{1120 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 224.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 224.0 \text{ ml (Total)} - 56.0 \text{ ml (Drug)} = 168.0 \text{ ml} \) <br />
+    <br />
+    **Answer: 168 ml (nearest whole number)**
+- id: 6017
+  question: A 55-year-old man weighing 58 kg is started on a drug at 5 mg/kg as an
+    infusion every 8 hours. You have 800 mg vials of the drug available which are
+    reconstituted with 40 mL of water for injection and then further diluted to a
     2 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
     of 0.9% sodium chloride that should be added to the drug for each dose? Give your
     answer as a whole number.
-  answer: 328
+  answer: 131
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 75 \text{ kg} \times 10 \text{ mg/kg} = 750 \text{ mg} <br />
+    \( 58 \text{ kg} \times 5 \text{ mg/kg} = 290 \text{ mg} \)<br />
     <br />
     **Step 2: Calculate volume of reconstituted drug** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{750 \text{ mg}}{1200 \text{ mg}} \times 75 \text{ ml} = 46.88 \text{ ml} \) <br />
+    \( \frac{290 \text{ mg}}{800 \text{ mg}} \times 40 \text{ ml} = 14.5 \text{ ml} \) <br />
     <br />
     **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{750 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 375.0 \text{ ml} \) <br />
+    \( \frac{290 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 145.0 \text{ ml} \) <br />
     <br />
     **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 375.0 \text{ ml (Total)} - 46.88 \text{ ml (Drug)} = 328.12 \text{ ml} \) <br />
+    \( 145.0 \text{ ml (Total)} - 14.5 \text{ ml (Drug)} = 130.5 \text{ ml} \) <br />
     <br />
-    **Answer: 328 ml (nearest whole number)**
-- id: 6048
-  question: A 73-year-old man weighing 75 kg is started on a drug at 10 mg/kg as an
-    infusion every 6 hours. You have 1200 mg vials of the drug available which are
-    reconstituted with 20 mL of water for injection and then further diluted to a
-    8 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
-    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
-    answer as a whole number.
-  answer: 81
-  solution: |-
-    **Step 1: Dose (Need)** <br />
-    \( 75 \text{ kg} \times 10 \text{ mg/kg} = 750 \text{ mg} <br />
-    <br />
-    **Step 2: Calculate volume of reconstituted drug** <br />
-    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{750 \text{ mg}}{1200 \text{ mg}} \times 20 \text{ ml} = 12.5 \text{ ml} \) <br />
-    <br />
-    **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{750 \text{ mg}}{8 \text{ mg}} \times 1 \text{ ml} = 93.75 \text{ ml} \) <br />
-    <br />
-    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 93.75 \text{ ml (Total)} - 12.5 \text{ ml (Drug)} = 81.25 \text{ ml} \) <br />
-    <br />
-    **Answer: 81 ml (nearest whole number)**
-- id: 6049
-  question: A 83-year-old man weighing 75 kg is started on a drug at 10 mg/kg as an
-    infusion every 8 hours. You have 1000 mg vials of the drug available which are
-    reconstituted with 10 mL of water for injection and then further diluted to a
+    **Answer: 131 ml (nearest whole number)**
+- id: 6018
+  question: A 69-year-old man weighing 57 kg is started on a drug at 25 mg/kg as an
+    infusion every 12 hours. You have 400 mg vials of the drug available which are
+    reconstituted with 40 mL of water for injection and then further diluted to a
     5 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
     of 0.9% sodium chloride that should be added to the drug for each dose? Give your
     answer as a whole number.
   answer: 143
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 75 \text{ kg} \times 10 \text{ mg/kg} = 750 \text{ mg} <br />
+    \( 57 \text{ kg} \times 25 \text{ mg/kg} = 1425 \text{ mg} \)<br />
     <br />
     **Step 2: Calculate volume of reconstituted drug** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{750 \text{ mg}}{1000 \text{ mg}} \times 10 \text{ ml} = 7.5 \text{ ml} \) <br />
+    \( \frac{1425 \text{ mg}}{400 \text{ mg}} \times 40 \text{ ml} = 142.5 \text{ ml} \) <br />
     <br />
     **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{750 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 150.0 \text{ ml} \) <br />
+    \( \frac{1425 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 285.0 \text{ ml} \) <br />
     <br />
     **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 150.0 \text{ ml (Total)} - 7.5 \text{ ml (Drug)} = 142.5 \text{ ml} \) <br />
+    \( 285.0 \text{ ml (Total)} - 142.5 \text{ ml (Drug)} = 142.5 \text{ ml} \) <br />
     <br />
     **Answer: 143 ml (nearest whole number)**
-- id: 6050
-  question: A 70-year-old man weighing 52 kg is started on a drug at 25 mg/kg as an
-    infusion every 4 hours. You have 1000 mg vials of the drug available which are
-    reconstituted with 50 mL of water for injection and then further diluted to a
+- id: 6019
+  question: A 77-year-old man weighing 69 kg is started on a drug at 25 mg/kg as an
+    infusion every 24 hours. You have 400 mg vials of the drug available which are
+    reconstituted with 75 mL of water for injection and then further diluted to a
+    3 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 252
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 69 \text{ kg} \times 25 \text{ mg/kg} = 1725 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1725 \text{ mg}}{400 \text{ mg}} \times 75 \text{ ml} = 323.44 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{1725 \text{ mg}}{3 \text{ mg}} \times 1 \text{ ml} = 575.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 575.0 \text{ ml (Total)} - 323.44 \text{ ml (Drug)} = 251.56 \text{ ml} \) <br />
+    <br />
+    **Answer: 252 ml (nearest whole number)**
+- id: 6020
+  question: A 56-year-old man weighing 57 kg is started on a drug at 4 mg/kg as an
+    infusion every 4 hours. You have 400 mg vials of the drug available which are
+    reconstituted with 15 mL of water for injection and then further diluted to a
+    6 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 29
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 57 \text{ kg} \times 4 \text{ mg/kg} = 228 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{228 \text{ mg}}{400 \text{ mg}} \times 15 \text{ ml} = 8.55 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{228 \text{ mg}}{6 \text{ mg}} \times 1 \text{ ml} = 38.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 38.0 \text{ ml (Total)} - 8.55 \text{ ml (Drug)} = 29.45 \text{ ml} \) <br />
+    <br />
+    **Answer: 29 ml (nearest whole number)**
+- id: 6021
+  question: A 71-year-old man weighing 60 kg is started on a drug at 25 mg/kg as an
+    infusion every 4 hours. You have 750 mg vials of the drug available which are
+    reconstituted with 10 mL of water for injection and then further diluted to a
+    4 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 355
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 60 \text{ kg} \times 25 \text{ mg/kg} = 1500 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1500 \text{ mg}}{750 \text{ mg}} \times 10 \text{ ml} = 20.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{1500 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 375.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 375.0 \text{ ml (Total)} - 20.0 \text{ ml (Drug)} = 355.0 \text{ ml} \) <br />
+    <br />
+    **Answer: 355 ml (nearest whole number)**
+- id: 6022
+  question: A 72-year-old man weighing 59 kg is started on a drug at 20 mg/kg as an
+    infusion every 8 hours. You have 400 mg vials of the drug available which are
+    reconstituted with 10 mL of water for injection and then further diluted to a
     2 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
     of 0.9% sodium chloride that should be added to the drug for each dose? Give your
     answer as a whole number.
-  answer: 585
+  answer: 561
   solution: |-
     **Step 1: Dose (Need)** <br />
-    \( 52 \text{ kg} \times 25 \text{ mg/kg} = 1300 \text{ mg} <br />
+    \( 59 \text{ kg} \times 20 \text{ mg/kg} = 1180 \text{ mg} \)<br />
     <br />
     **Step 2: Calculate volume of reconstituted drug** <br />
     Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
-    \( \frac{1300 \text{ mg}}{1000 \text{ mg}} \times 50 \text{ ml} = 65.0 \text{ ml} \) <br />
+    \( \frac{1180 \text{ mg}}{400 \text{ mg}} \times 10 \text{ ml} = 29.5 \text{ ml} \) <br />
     <br />
     **Step 3: Calculate total final volume of infusion** <br />
-    \( \frac{1300 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 650.0 \text{ ml} \) <br />
+    \( \frac{1180 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 590.0 \text{ ml} \) <br />
     <br />
     **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
-    \( 650.0 \text{ ml (Total)} - 65.0 \text{ ml (Drug)} = 585.0 \text{ ml} \) <br />
+    \( 590.0 \text{ ml (Total)} - 29.5 \text{ ml (Drug)} = 560.5 \text{ ml} \) <br />
     <br />
-    **Answer: 585 ml (nearest whole number)**
+    **Answer: 561 ml (nearest whole number)**
+- id: 6023
+  question: A 67-year-old man weighing 55 kg is started on a drug at 4 mg/kg as an
+    infusion every 12 hours. You have 1000 mg vials of the drug available which are
+    reconstituted with 40 mL of water for injection and then further diluted to a
+    5 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 35
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 55 \text{ kg} \times 4 \text{ mg/kg} = 220 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{220 \text{ mg}}{1000 \text{ mg}} \times 40 \text{ ml} = 8.8 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{220 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 44.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 44.0 \text{ ml (Total)} - 8.8 \text{ ml (Drug)} = 35.2 \text{ ml} \) <br />
+    <br />
+    **Answer: 35 ml (nearest whole number)**
+- id: 6024
+  question: A 73-year-old man weighing 54 kg is started on a drug at 25 mg/kg as an
+    infusion every 10 hours. You have 1500 mg vials of the drug available which are
+    reconstituted with 75 mL of water for injection and then further diluted to a
+    8 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 101
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 54 \text{ kg} \times 25 \text{ mg/kg} = 1350 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1350 \text{ mg}}{1500 \text{ mg}} \times 75 \text{ ml} = 67.5 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{1350 \text{ mg}}{8 \text{ mg}} \times 1 \text{ ml} = 168.75 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 168.75 \text{ ml (Total)} - 67.5 \text{ ml (Drug)} = 101.25 \text{ ml} \) <br />
+    <br />
+    **Answer: 101 ml (nearest whole number)**
+- id: 6025
+  question: A 79-year-old man weighing 62 kg is started on a drug at 20 mg/kg as an
+    infusion every 6 hours. You have 500 mg vials of the drug available which are
+    reconstituted with 50 mL of water for injection and then further diluted to a
+    6 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 83
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 62 \text{ kg} \times 20 \text{ mg/kg} = 1240 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1240 \text{ mg}}{500 \text{ mg}} \times 50 \text{ ml} = 124.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{1240 \text{ mg}}{6 \text{ mg}} \times 1 \text{ ml} = 206.67 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 206.67 \text{ ml (Total)} - 124.0 \text{ ml (Drug)} = 82.67 \text{ ml} \) <br />
+    <br />
+    **Answer: 83 ml (nearest whole number)**
+- id: 6026
+  question: A 59-year-old man weighing 59 kg is started on a drug at 25 mg/kg as an
+    infusion every 10 hours. You have 400 mg vials of the drug available which are
+    reconstituted with 15 mL of water for injection and then further diluted to a
+    5 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 240
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 59 \text{ kg} \times 25 \text{ mg/kg} = 1475 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1475 \text{ mg}}{400 \text{ mg}} \times 15 \text{ ml} = 55.31 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{1475 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 295.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 295.0 \text{ ml (Total)} - 55.31 \text{ ml (Drug)} = 239.69 \text{ ml} \) <br />
+    <br />
+    **Answer: 240 ml (nearest whole number)**
+- id: 6027
+  question: A 71-year-old man weighing 71 kg is started on a drug at 25 mg/kg as an
+    infusion every 8 hours. You have 750 mg vials of the drug available which are
+    reconstituted with 15 mL of water for injection and then further diluted to a
+    1 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 1740
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 71 \text{ kg} \times 25 \text{ mg/kg} = 1775 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1775 \text{ mg}}{750 \text{ mg}} \times 15 \text{ ml} = 35.5 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{1775 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 1775.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 1775.0 \text{ ml (Total)} - 35.5 \text{ ml (Drug)} = 1739.5 \text{ ml} \) <br />
+    <br />
+    **Answer: 1740 ml (nearest whole number)**
+- id: 6028
+  question: A 56-year-old man weighing 61 kg is started on a drug at 10 mg/kg as an
+    infusion every 10 hours. You have 400 mg vials of the drug available which are
+    reconstituted with 20 mL of water for injection and then further diluted to a
+    4 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 122
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 61 \text{ kg} \times 10 \text{ mg/kg} = 610 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{610 \text{ mg}}{400 \text{ mg}} \times 20 \text{ ml} = 30.5 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{610 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 152.5 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 152.5 \text{ ml (Total)} - 30.5 \text{ ml (Drug)} = 122.0 \text{ ml} \) <br />
+    <br />
+    **Answer: 122 ml (nearest whole number)**
+- id: 6029
+  question: A 68-year-old man weighing 70 kg is started on a drug at 20 mg/kg as an
+    infusion every 24 hours. You have 500 mg vials of the drug available which are
+    reconstituted with 75 mL of water for injection and then further diluted to a
+    4 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 140
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 70 \text{ kg} \times 20 \text{ mg/kg} = 1400 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1400 \text{ mg}}{500 \text{ mg}} \times 75 \text{ ml} = 210.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{1400 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 350.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 350.0 \text{ ml (Total)} - 210.0 \text{ ml (Drug)} = 140.0 \text{ ml} \) <br />
+    <br />
+    **Answer: 140 ml (nearest whole number)**
+- id: 6030
+  question: A 64-year-old man weighing 67 kg is started on a drug at 15 mg/kg as an
+    infusion every 4 hours. You have 1000 mg vials of the drug available which are
+    reconstituted with 40 mL of water for injection and then further diluted to a
+    5 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 161
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 67 \text{ kg} \times 15 \text{ mg/kg} = 1005 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1005 \text{ mg}}{1000 \text{ mg}} \times 40 \text{ ml} = 40.2 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{1005 \text{ mg}}{5 \text{ mg}} \times 1 \text{ ml} = 201.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 201.0 \text{ ml (Total)} - 40.2 \text{ ml (Drug)} = 160.8 \text{ ml} \) <br />
+    <br />
+    **Answer: 161 ml (nearest whole number)**
+- id: 6031
+  question: A 76-year-old man weighing 70 kg is started on a drug at 15 mg/kg as an
+    infusion every 12 hours. You have 500 mg vials of the drug available which are
+    reconstituted with 50 mL of water for injection and then further diluted to a
+    1 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 945
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 70 \text{ kg} \times 15 \text{ mg/kg} = 1050 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1050 \text{ mg}}{500 \text{ mg}} \times 50 \text{ ml} = 105.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{1050 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 1050.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 1050.0 \text{ ml (Total)} - 105.0 \text{ ml (Drug)} = 945.0 \text{ ml} \) <br />
+    <br />
+    **Answer: 945 ml (nearest whole number)**
+- id: 6032
+  question: A 66-year-old man weighing 72 kg is started on a drug at 15 mg/kg as an
+    infusion every 10 hours. You have 1000 mg vials of the drug available which are
+    reconstituted with 75 mL of water for injection and then further diluted to a
+    8 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 54
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 72 \text{ kg} \times 15 \text{ mg/kg} = 1080 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1080 \text{ mg}}{1000 \text{ mg}} \times 75 \text{ ml} = 81.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{1080 \text{ mg}}{8 \text{ mg}} \times 1 \text{ ml} = 135.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 135.0 \text{ ml (Total)} - 81.0 \text{ ml (Drug)} = 54.0 \text{ ml} \) <br />
+    <br />
+    **Answer: 54 ml (nearest whole number)**
+- id: 6033
+  question: A 52-year-old man weighing 60 kg is started on a drug at 10 mg/kg as an
+    infusion every 6 hours. You have 800 mg vials of the drug available which are
+    reconstituted with 25 mL of water for injection and then further diluted to a
+    2 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 281
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 60 \text{ kg} \times 10 \text{ mg/kg} = 600 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{600 \text{ mg}}{800 \text{ mg}} \times 25 \text{ ml} = 18.75 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{600 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 300.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 300.0 \text{ ml (Total)} - 18.75 \text{ ml (Drug)} = 281.25 \text{ ml} \) <br />
+    <br />
+    **Answer: 281 ml (nearest whole number)**
+- id: 6034
+  question: A 68-year-old man weighing 53 kg is started on a drug at 15 mg/kg as an
+    infusion every 24 hours. You have 1000 mg vials of the drug available which are
+    reconstituted with 15 mL of water for injection and then further diluted to a
+    1 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 783
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 53 \text{ kg} \times 15 \text{ mg/kg} = 795 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{795 \text{ mg}}{1000 \text{ mg}} \times 15 \text{ ml} = 11.93 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{795 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 795.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 795.0 \text{ ml (Total)} - 11.93 \text{ ml (Drug)} = 783.07 \text{ ml} \) <br />
+    <br />
+    **Answer: 783 ml (nearest whole number)**
+- id: 6035
+  question: A 52-year-old man weighing 50 kg is started on a drug at 15 mg/kg as an
+    infusion every 24 hours. You have 800 mg vials of the drug available which are
+    reconstituted with 20 mL of water for injection and then further diluted to a
+    1 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 731
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 50 \text{ kg} \times 15 \text{ mg/kg} = 750 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{750 \text{ mg}}{800 \text{ mg}} \times 20 \text{ ml} = 18.75 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{750 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 750.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 750.0 \text{ ml (Total)} - 18.75 \text{ ml (Drug)} = 731.25 \text{ ml} \) <br />
+    <br />
+    **Answer: 731 ml (nearest whole number)**
+- id: 6036
+  question: A 63-year-old man weighing 58 kg is started on a drug at 12.5 mg/kg as
+    an infusion every 8 hours. You have 750 mg vials of the drug available which are
+    reconstituted with 50 mL of water for injection and then further diluted to a
+    10 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 24
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 58 \text{ kg} \times 12.5 \text{ mg/kg} = 725 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{725 \text{ mg}}{750 \text{ mg}} \times 50 \text{ ml} = 48.33 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{725 \text{ mg}}{10 \text{ mg}} \times 1 \text{ ml} = 72.5 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 72.5 \text{ ml (Total)} - 48.33 \text{ ml (Drug)} = 24.17 \text{ ml} \) <br />
+    <br />
+    **Answer: 24 ml (nearest whole number)**
+- id: 6037
+  question: A 71-year-old man weighing 54 kg is started on a drug at 20 mg/kg as an
+    infusion every 12 hours. You have 1200 mg vials of the drug available which are
+    reconstituted with 40 mL of water for injection and then further diluted to a
+    10 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 72
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 54 \text{ kg} \times 20 \text{ mg/kg} = 1080 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1080 \text{ mg}}{1200 \text{ mg}} \times 40 \text{ ml} = 36.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{1080 \text{ mg}}{10 \text{ mg}} \times 1 \text{ ml} = 108.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 108.0 \text{ ml (Total)} - 36.0 \text{ ml (Drug)} = 72.0 \text{ ml} \) <br />
+    <br />
+    **Answer: 72 ml (nearest whole number)**
+- id: 6038
+  question: A 55-year-old man weighing 54 kg is started on a drug at 10 mg/kg as an
+    infusion every 4 hours. You have 1000 mg vials of the drug available which are
+    reconstituted with 10 mL of water for injection and then further diluted to a
+    3 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 175
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 54 \text{ kg} \times 10 \text{ mg/kg} = 540 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{540 \text{ mg}}{1000 \text{ mg}} \times 10 \text{ ml} = 5.4 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{540 \text{ mg}}{3 \text{ mg}} \times 1 \text{ ml} = 180.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 180.0 \text{ ml (Total)} - 5.4 \text{ ml (Drug)} = 174.6 \text{ ml} \) <br />
+    <br />
+    **Answer: 175 ml (nearest whole number)**
+- id: 6039
+  question: A 68-year-old man weighing 70 kg is started on a drug at 10 mg/kg as an
+    infusion every 12 hours. You have 500 mg vials of the drug available which are
+    reconstituted with 50 mL of water for injection and then further diluted to a
+    3 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 163
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 70 \text{ kg} \times 10 \text{ mg/kg} = 700 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{700 \text{ mg}}{500 \text{ mg}} \times 50 \text{ ml} = 70.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{700 \text{ mg}}{3 \text{ mg}} \times 1 \text{ ml} = 233.33 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 233.33 \text{ ml (Total)} - 70.0 \text{ ml (Drug)} = 163.33 \text{ ml} \) <br />
+    <br />
+    **Answer: 163 ml (nearest whole number)**
+- id: 6040
+  question: A 76-year-old man weighing 55 kg is started on a drug at 25 mg/kg as an
+    infusion every 24 hours. You have 800 mg vials of the drug available which are
+    reconstituted with 100 mL of water for injection and then further diluted to a
+    1 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 1203
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 55 \text{ kg} \times 25 \text{ mg/kg} = 1375 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1375 \text{ mg}}{800 \text{ mg}} \times 100 \text{ ml} = 171.88 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{1375 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 1375.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 1375.0 \text{ ml (Total)} - 171.88 \text{ ml (Drug)} = 1203.12 \text{ ml} \) <br />
+    <br />
+    **Answer: 1203 ml (nearest whole number)**
+- id: 6041
+  question: A 50-year-old man weighing 65 kg is started on a drug at 25 mg/kg as an
+    infusion every 8 hours. You have 500 mg vials of the drug available which are
+    reconstituted with 50 mL of water for injection and then further diluted to a
+    8 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 41
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 65 \text{ kg} \times 25 \text{ mg/kg} = 1625 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1625 \text{ mg}}{500 \text{ mg}} \times 50 \text{ ml} = 162.5 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{1625 \text{ mg}}{8 \text{ mg}} \times 1 \text{ ml} = 203.12 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 203.12 \text{ ml (Total)} - 162.5 \text{ ml (Drug)} = 40.62 \text{ ml} \) <br />
+    <br />
+    **Answer: 41 ml (nearest whole number)**
+- id: 6042
+  question: A 59-year-old man weighing 64 kg is started on a drug at 4 mg/kg as an
+    infusion every 12 hours. You have 1200 mg vials of the drug available which are
+    reconstituted with 40 mL of water for injection and then further diluted to a
+    4 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 55
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 64 \text{ kg} \times 4 \text{ mg/kg} = 256 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{256 \text{ mg}}{1200 \text{ mg}} \times 40 \text{ ml} = 8.53 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{256 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 64.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 64.0 \text{ ml (Total)} - 8.53 \text{ ml (Drug)} = 55.47 \text{ ml} \) <br />
+    <br />
+    **Answer: 55 ml (nearest whole number)**
+- id: 6043
+  question: A 60-year-old man weighing 51 kg is started on a drug at 10 mg/kg as an
+    infusion every 10 hours. You have 1500 mg vials of the drug available which are
+    reconstituted with 100 mL of water for injection and then further diluted to a
+    3 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 136
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 51 \text{ kg} \times 10 \text{ mg/kg} = 510 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{510 \text{ mg}}{1500 \text{ mg}} \times 100 \text{ ml} = 34.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{510 \text{ mg}}{3 \text{ mg}} \times 1 \text{ ml} = 170.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 170.0 \text{ ml (Total)} - 34.0 \text{ ml (Drug)} = 136.0 \text{ ml} \) <br />
+    <br />
+    **Answer: 136 ml (nearest whole number)**
+- id: 6044
+  question: A 60-year-old man weighing 58 kg is started on a drug at 4 mg/kg as an
+    infusion every 4 hours. You have 750 mg vials of the drug available which are
+    reconstituted with 15 mL of water for injection and then further diluted to a
+    3 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 73
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 58 \text{ kg} \times 4 \text{ mg/kg} = 232 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{232 \text{ mg}}{750 \text{ mg}} \times 15 \text{ ml} = 4.64 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{232 \text{ mg}}{3 \text{ mg}} \times 1 \text{ ml} = 77.33 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 77.33 \text{ ml (Total)} - 4.64 \text{ ml (Drug)} = 72.69 \text{ ml} \) <br />
+    <br />
+    **Answer: 73 ml (nearest whole number)**
+- id: 6045
+  question: A 79-year-old man weighing 64 kg is started on a drug at 15 mg/kg as an
+    infusion every 6 hours. You have 400 mg vials of the drug available which are
+    reconstituted with 15 mL of water for injection and then further diluted to a
+    2 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 444
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 64 \text{ kg} \times 15 \text{ mg/kg} = 960 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{960 \text{ mg}}{400 \text{ mg}} \times 15 \text{ ml} = 36.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{960 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 480.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 480.0 \text{ ml (Total)} - 36.0 \text{ ml (Drug)} = 444.0 \text{ ml} \) <br />
+    <br />
+    **Answer: 444 ml (nearest whole number)**
+- id: 6046
+  question: A 52-year-old man weighing 65 kg is started on a drug at 4 mg/kg as an
+    infusion every 8 hours. You have 400 mg vials of the drug available which are
+    reconstituted with 15 mL of water for injection and then further diluted to a
+    2 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 120
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 65 \text{ kg} \times 4 \text{ mg/kg} = 260 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{260 \text{ mg}}{400 \text{ mg}} \times 15 \text{ ml} = 9.75 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{260 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 130.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 130.0 \text{ ml (Total)} - 9.75 \text{ ml (Drug)} = 120.25 \text{ ml} \) <br />
+    <br />
+    **Answer: 120 ml (nearest whole number)**
+- id: 6047
+  question: A 79-year-old man weighing 73 kg is started on a drug at 12.5 mg/kg as
+    an infusion every 12 hours. You have 1500 mg vials of the drug available which
+    are reconstituted with 20 mL of water for injection and then further diluted to
+    a 4 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 216
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 73 \text{ kg} \times 12.5 \text{ mg/kg} = 912 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{912 \text{ mg}}{1500 \text{ mg}} \times 20 \text{ ml} = 12.16 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{912 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 228.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 228.0 \text{ ml (Total)} - 12.16 \text{ ml (Drug)} = 215.84 \text{ ml} \) <br />
+    <br />
+    **Answer: 216 ml (nearest whole number)**
+- id: 6048
+  question: A 50-year-old man weighing 73 kg is started on a drug at 4 mg/kg as an
+    infusion every 12 hours. You have 1000 mg vials of the drug available which are
+    reconstituted with 15 mL of water for injection and then further diluted to a
+    2 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 142
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 73 \text{ kg} \times 4 \text{ mg/kg} = 292 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{292 \text{ mg}}{1000 \text{ mg}} \times 15 \text{ ml} = 4.38 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{292 \text{ mg}}{2 \text{ mg}} \times 1 \text{ ml} = 146.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 146.0 \text{ ml (Total)} - 4.38 \text{ ml (Drug)} = 141.62 \text{ ml} \) <br />
+    <br />
+    **Answer: 142 ml (nearest whole number)**
+- id: 6049
+  question: A 68-year-old man weighing 58 kg is started on a drug at 20 mg/kg as an
+    infusion every 6 hours. You have 400 mg vials of the drug available which are
+    reconstituted with 10 mL of water for injection and then further diluted to a
+    1 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 1131
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 58 \text{ kg} \times 20 \text{ mg/kg} = 1160 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{1160 \text{ mg}}{400 \text{ mg}} \times 10 \text{ ml} = 29.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{1160 \text{ mg}}{1 \text{ mg}} \times 1 \text{ ml} = 1160.0 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 1160.0 \text{ ml (Total)} - 29.0 \text{ ml (Drug)} = 1131.0 \text{ ml} \) <br />
+    <br />
+    **Answer: 1131 ml (nearest whole number)**
+- id: 6050
+  question: A 56-year-old man weighing 53 kg is started on a drug at 10 mg/kg as an
+    infusion every 10 hours. You have 500 mg vials of the drug available which are
+    reconstituted with 100 mL of water for injection and then further diluted to a
+    4 mg/mL infusion with 0.9% sodium chloride. What is the total number of millilitres
+    of 0.9% sodium chloride that should be added to the drug for each dose? Give your
+    answer as a whole number.
+  answer: 27
+  solution: |-
+    **Step 1: Dose (Need)** <br />
+    \( 53 \text{ kg} \times 10 \text{ mg/kg} = 530 \text{ mg} \)<br />
+    <br />
+    **Step 2: Calculate volume of reconstituted drug** <br />
+    Using \( \frac{\text{Need}}{\text{Have}} \times \text{Supplied In} \): <br />
+    \( \frac{530 \text{ mg}}{500 \text{ mg}} \times 100 \text{ ml} = 106.0 \text{ ml} \) <br />
+    <br />
+    **Step 3: Calculate total final volume of infusion** <br />
+    \( \frac{530 \text{ mg}}{4 \text{ mg}} \times 1 \text{ ml} = 132.5 \text{ ml} \) <br />
+    <br />
+    **Step 4: Calculate volume of 0.9% sodium chloride to add** <br />
+    \( 132.5 \text{ ml (Total)} - 106.0 \text{ ml (Drug)} = 26.5 \text{ ml} \) <br />
+    <br />
+    **Answer: 27 ml (nearest whole number)**
