@@ -1,0 +1,900 @@
+- id: 10001
+  question: If you are travelling at 25 mph and your speed decreases by 7 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 23.25
+  solution: |2-
+     **Answer** Find 7 percent: <br />
+     \( \frac{7}{100} \times 25 = 1.75 \) <br />
+    Subtract: <br />
+     \( 25 - 1.75 = 23.25 \)
+- id: 10002
+  question: The cost of a drug is normally £ 300 but has been reduced by 19 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 243.0
+  solution: |2-
+     **Answer** Find 19 percent: <br />
+     \( \frac{19}{100} \times 300 = 57.0 \) <br />
+    Subtract: <br />
+     \( 300 - 57.0 = 243.0 \)
+- id: 10003
+  question: The cost of a drug is normally £ 950 but has been reduced by 18 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 779.0
+  solution: |2-
+     **Answer** Find 18 percent: <br />
+     \( \frac{18}{100} \times 950 = 171.0 \) <br />
+    Subtract: <br />
+     \( 950 - 171.0 = 779.0 \)
+- id: 10004
+  question: If you are travelling at 65 mph and your speed decreases by 5 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 61.75
+  solution: |2-
+     **Answer** Find 5 percent: <br />
+     \( \frac{5}{100} \times 65 = 3.25 \) <br />
+    Subtract: <br />
+     \( 65 - 3.25 = 61.75 \)
+- id: 10005
+  question: If you are travelling at 45 mph and your speed decreases by 6 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 42.3
+  solution: |2-
+     **Answer** Find 6 percent: <br />
+     \( \frac{6}{100} \times 45 = 2.7 \) <br />
+    Subtract: <br />
+     \( 45 - 2.7 = 42.3 \)
+- id: 10006
+  question: The cost of a drug is normally £ 650 but has been reduced by 7 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 604.5
+  solution: |2-
+     **Answer** Find 7 percent: <br />
+     \( \frac{7}{100} \times 650 = 45.5 \) <br />
+    Subtract: <br />
+     \( 650 - 45.5 = 604.5 \)
+- id: 10007
+  question: The cost of a drug is normally £ 850 but has been reduced by 9 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 773.5
+  solution: |2-
+     **Answer** Find 9 percent: <br />
+     \( \frac{9}{100} \times 850 = 76.5 \) <br />
+    Subtract: <br />
+     \( 850 - 76.5 = 773.5 \)
+- id: 10008
+  question: The cost of a drug is normally £ 150 but has been reduced by 14 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 129.0
+  solution: |2-
+     **Answer** Find 14 percent: <br />
+     \( \frac{14}{100} \times 150 = 21.0 \) <br />
+    Subtract: <br />
+     \( 150 - 21.0 = 129.0 \)
+- id: 10009
+  question: If you are travelling at 70 mph and your speed decreases by 8 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 64.4
+  solution: |2-
+     **Answer** Find 8 percent: <br />
+     \( \frac{8}{100} \times 70 = 5.6 \) <br />
+    Subtract: <br />
+     \( 70 - 5.6 = 64.4 \)
+- id: 10010
+  question: If you are travelling at 60 mph and your speed decreases by 10 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 54.0
+  solution: |2-
+     **Answer** Find 10 percent: <br />
+     \( \frac{10}{100} \times 60 = 6.0 \) <br />
+    Subtract: <br />
+     \( 60 - 6.0 = 54.0 \)
+- id: 10011
+  question: The cost of a drug is normally £ 800 but has been reduced by 24 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 608.0
+  solution: |2-
+     **Answer** Find 24 percent: <br />
+     \( \frac{24}{100} \times 800 = 192.0 \) <br />
+    Subtract: <br />
+     \( 800 - 192.0 = 608.0 \)
+- id: 10012
+  question: If you are travelling at 40 mph and your speed decreases by 3 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 38.8
+  solution: |2-
+     **Answer** Find 3 percent: <br />
+     \( \frac{3}{100} \times 40 = 1.2 \) <br />
+    Subtract: <br />
+     \( 40 - 1.2 = 38.8 \)
+- id: 10013
+  question: If you are travelling at 20 mph and your speed decreases by 6 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 18.8
+  solution: |2-
+     **Answer** Find 6 percent: <br />
+     \( \frac{6}{100} \times 20 = 1.2 \) <br />
+    Subtract: <br />
+     \( 20 - 1.2 = 18.8 \)
+- id: 10014
+  question: The cost of a drug is normally £ 300 but has been reduced by 5 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 285.0
+  solution: |2-
+     **Answer** Find 5 percent: <br />
+     \( \frac{5}{100} \times 300 = 15.0 \) <br />
+    Subtract: <br />
+     \( 300 - 15.0 = 285.0 \)
+- id: 10015
+  question: The cost of a drug is normally £ 650 but has been reduced by 9 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 591.5
+  solution: |2-
+     **Answer** Find 9 percent: <br />
+     \( \frac{9}{100} \times 650 = 58.5 \) <br />
+    Subtract: <br />
+     \( 650 - 58.5 = 591.5 \)
+- id: 10016
+  question: The cost of a drug is normally £ 950 but has been reduced by 18 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 779.0
+  solution: |2-
+     **Answer** Find 18 percent: <br />
+     \( \frac{18}{100} \times 950 = 171.0 \) <br />
+    Subtract: <br />
+     \( 950 - 171.0 = 779.0 \)
+- id: 10017
+  question: The cost of a drug is normally £ 500 but has been reduced by 16 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 420.0
+  solution: |2-
+     **Answer** Find 16 percent: <br />
+     \( \frac{16}{100} \times 500 = 80.0 \) <br />
+    Subtract: <br />
+     \( 500 - 80.0 = 420.0 \)
+- id: 10018
+  question: If you are travelling at 60 mph and your speed decreases by 3 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 58.2
+  solution: |2-
+     **Answer** Find 3 percent: <br />
+     \( \frac{3}{100} \times 60 = 1.8 \) <br />
+    Subtract: <br />
+     \( 60 - 1.8 = 58.2 \)
+- id: 10019
+  question: If you are travelling at 55 mph and your speed decreases by 5 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 52.25
+  solution: |2-
+     **Answer** Find 5 percent: <br />
+     \( \frac{5}{100} \times 55 = 2.75 \) <br />
+    Subtract: <br />
+     \( 55 - 2.75 = 52.25 \)
+- id: 10020
+  question: If you are travelling at 20 mph and your speed decreases by 8 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 18.4
+  solution: |2-
+     **Answer** Find 8 percent: <br />
+     \( \frac{8}{100} \times 20 = 1.6 \) <br />
+    Subtract: <br />
+     \( 20 - 1.6 = 18.4 \)
+- id: 10021
+  question: The cost of a drug is normally £ 800 but has been reduced by 23 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 616.0
+  solution: |2-
+     **Answer** Find 23 percent: <br />
+     \( \frac{23}{100} \times 800 = 184.0 \) <br />
+    Subtract: <br />
+     \( 800 - 184.0 = 616.0 \)
+- id: 10022
+  question: The cost of a drug is normally £ 650 but has been reduced by 21 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 513.5
+  solution: |2-
+     **Answer** Find 21 percent: <br />
+     \( \frac{21}{100} \times 650 = 136.5 \) <br />
+    Subtract: <br />
+     \( 650 - 136.5 = 513.5 \)
+- id: 10023
+  question: If you are travelling at 45 mph and your speed decreases by 3 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 43.65
+  solution: |2-
+     **Answer** Find 3 percent: <br />
+     \( \frac{3}{100} \times 45 = 1.35 \) <br />
+    Subtract: <br />
+     \( 45 - 1.35 = 43.65 \)
+- id: 10024
+  question: The cost of a drug is normally £ 50 but has been reduced by 22 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 39.0
+  solution: |2-
+     **Answer** Find 22 percent: <br />
+     \( \frac{22}{100} \times 50 = 11.0 \) <br />
+    Subtract: <br />
+     \( 50 - 11.0 = 39.0 \)
+- id: 10025
+  question: If you are travelling at 50 mph and your speed decreases by 1 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 49.5
+  solution: |2-
+     **Answer** Find 1 percent: <br />
+     \( \frac{1}{100} \times 50 = 0.5 \) <br />
+    Subtract: <br />
+     \( 50 - 0.5 = 49.5 \)
+- id: 10026
+  question: The cost of a drug is normally £ 600 but has been reduced by 10 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 540.0
+  solution: |2-
+     **Answer** Find 10 percent: <br />
+     \( \frac{10}{100} \times 600 = 60.0 \) <br />
+    Subtract: <br />
+     \( 600 - 60.0 = 540.0 \)
+- id: 10027
+  question: If you are travelling at 35 mph and your speed decreases by 4 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 33.6
+  solution: |2-
+     **Answer** Find 4 percent: <br />
+     \( \frac{4}{100} \times 35 = 1.4 \) <br />
+    Subtract: <br />
+     \( 35 - 1.4 = 33.6 \)
+- id: 10028
+  question: The cost of a drug is normally £ 250 but has been reduced by 18 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 205.0
+  solution: |2-
+     **Answer** Find 18 percent: <br />
+     \( \frac{18}{100} \times 250 = 45.0 \) <br />
+    Subtract: <br />
+     \( 250 - 45.0 = 205.0 \)
+- id: 10029
+  question: The cost of a drug is normally £ 450 but has been reduced by 23 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 346.5
+  solution: |2-
+     **Answer** Find 23 percent: <br />
+     \( \frac{23}{100} \times 450 = 103.5 \) <br />
+    Subtract: <br />
+     \( 450 - 103.5 = 346.5 \)
+- id: 10030
+  question: If you are travelling at 45 mph and your speed decreases by 5 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 42.75
+  solution: |2-
+     **Answer** Find 5 percent: <br />
+     \( \frac{5}{100} \times 45 = 2.25 \) <br />
+    Subtract: <br />
+     \( 45 - 2.25 = 42.75 \)
+- id: 10031
+  question: The cost of a drug is normally £ 750 but has been reduced by 16 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 630.0
+  solution: |2-
+     **Answer** Find 16 percent: <br />
+     \( \frac{16}{100} \times 750 = 120.0 \) <br />
+    Subtract: <br />
+     \( 750 - 120.0 = 630.0 \)
+- id: 10032
+  question: The cost of a drug is normally £ 100 but has been reduced by 24 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 76.0
+  solution: |2-
+     **Answer** Find 24 percent: <br />
+     \( \frac{24}{100} \times 100 = 24.0 \) <br />
+    Subtract: <br />
+     \( 100 - 24.0 = 76.0 \)
+- id: 10033
+  question: If you are travelling at 65 mph and your speed decreases by 6 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 61.1
+  solution: |2-
+     **Answer** Find 6 percent: <br />
+     \( \frac{6}{100} \times 65 = 3.9 \) <br />
+    Subtract: <br />
+     \( 65 - 3.9 = 61.1 \)
+- id: 10034
+  question: If you are travelling at 30 mph and your speed decreases by 4 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 28.8
+  solution: |2-
+     **Answer** Find 4 percent: <br />
+     \( \frac{4}{100} \times 30 = 1.2 \) <br />
+    Subtract: <br />
+     \( 30 - 1.2 = 28.8 \)
+- id: 10035
+  question: The cost of a drug is normally £ 900 but has been reduced by 21 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 711.0
+  solution: |2-
+     **Answer** Find 21 percent: <br />
+     \( \frac{21}{100} \times 900 = 189.0 \) <br />
+    Subtract: <br />
+     \( 900 - 189.0 = 711.0 \)
+- id: 10036
+  question: If you are travelling at 65 mph and your speed decreases by 12 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 57.2
+  solution: |2-
+     **Answer** Find 12 percent: <br />
+     \( \frac{12}{100} \times 65 = 7.8 \) <br />
+    Subtract: <br />
+     \( 65 - 7.8 = 57.2 \)
+- id: 10037
+  question: The cost of a drug is normally £ 850 but has been reduced by 22 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 663.0
+  solution: |2-
+     **Answer** Find 22 percent: <br />
+     \( \frac{22}{100} \times 850 = 187.0 \) <br />
+    Subtract: <br />
+     \( 850 - 187.0 = 663.0 \)
+- id: 10038
+  question: The cost of a drug is normally £ 850 but has been reduced by 23 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 654.5
+  solution: |2-
+     **Answer** Find 23 percent: <br />
+     \( \frac{23}{100} \times 850 = 195.5 \) <br />
+    Subtract: <br />
+     \( 850 - 195.5 = 654.5 \)
+- id: 10039
+  question: The cost of a drug is normally £ 1000 but has been reduced by 24 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 760.0
+  solution: |2-
+     **Answer** Find 24 percent: <br />
+     \( \frac{24}{100} \times 1000 = 240.0 \) <br />
+    Subtract: <br />
+     \( 1000 - 240.0 = 760.0 \)
+- id: 10040
+  question: If you are travelling at 60 mph and your speed decreases by 11 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 53.4
+  solution: |2-
+     **Answer** Find 11 percent: <br />
+     \( \frac{11}{100} \times 60 = 6.6 \) <br />
+    Subtract: <br />
+     \( 60 - 6.6 = 53.4 \)
+- id: 10041
+  question: If you are travelling at 70 mph and your speed decreases by 9 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 63.7
+  solution: |2-
+     **Answer** Find 9 percent: <br />
+     \( \frac{9}{100} \times 70 = 6.3 \) <br />
+    Subtract: <br />
+     \( 70 - 6.3 = 63.7 \)
+- id: 10042
+  question: The cost of a drug is normally £ 1000 but has been reduced by 11 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 890.0
+  solution: |2-
+     **Answer** Find 11 percent: <br />
+     \( \frac{11}{100} \times 1000 = 110.0 \) <br />
+    Subtract: <br />
+     \( 1000 - 110.0 = 890.0 \)
+- id: 10043
+  question: The cost of a drug is normally £ 750 but has been reduced by 24 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 570.0
+  solution: |2-
+     **Answer** Find 24 percent: <br />
+     \( \frac{24}{100} \times 750 = 180.0 \) <br />
+    Subtract: <br />
+     \( 750 - 180.0 = 570.0 \)
+- id: 10044
+  question: The cost of a drug is normally £ 100 but has been reduced by 14 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 86.0
+  solution: |2-
+     **Answer** Find 14 percent: <br />
+     \( \frac{14}{100} \times 100 = 14.0 \) <br />
+    Subtract: <br />
+     \( 100 - 14.0 = 86.0 \)
+- id: 10045
+  question: The cost of a drug is normally £ 900 but has been reduced by 14 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 774.0
+  solution: |2-
+     **Answer** Find 14 percent: <br />
+     \( \frac{14}{100} \times 900 = 126.0 \) <br />
+    Subtract: <br />
+     \( 900 - 126.0 = 774.0 \)
+- id: 10046
+  question: If you are travelling at 70 mph and your speed decreases by 3 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 67.9
+  solution: |2-
+     **Answer** Find 3 percent: <br />
+     \( \frac{3}{100} \times 70 = 2.1 \) <br />
+    Subtract: <br />
+     \( 70 - 2.1 = 67.9 \)
+- id: 10047
+  question: The cost of a drug is normally £ 100 but has been reduced by 7 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 93.0
+  solution: |2-
+     **Answer** Find 7 percent: <br />
+     \( \frac{7}{100} \times 100 = 7.0 \) <br />
+    Subtract: <br />
+     \( 100 - 7.0 = 93.0 \)
+- id: 10048
+  question: If you are travelling at 65 mph and your speed decreases by 9 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 59.15
+  solution: |2-
+     **Answer** Find 9 percent: <br />
+     \( \frac{9}{100} \times 65 = 5.85 \) <br />
+    Subtract: <br />
+     \( 65 - 5.85 = 59.15 \)
+- id: 10049
+  question: If you are travelling at 35 mph and your speed decreases by 2 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 34.3
+  solution: |2-
+     **Answer** Find 2 percent: <br />
+     \( \frac{2}{100} \times 35 = 0.7 \) <br />
+    Subtract: <br />
+     \( 35 - 0.7 = 34.3 \)
+- id: 10050
+  question: If you are travelling at 40 mph and your speed decreases by 4 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 38.4
+  solution: |2-
+     **Answer** Find 4 percent: <br />
+     \( \frac{4}{100} \times 40 = 1.6 \) <br />
+    Subtract: <br />
+     \( 40 - 1.6 = 38.4 \)
+- id: 10051
+  question: If you are travelling at 30 mph and your speed decreases by 2 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 29.4
+  solution: |2-
+     **Answer** Find 2 percent: <br />
+     \( \frac{2}{100} \times 30 = 0.6 \) <br />
+    Subtract: <br />
+     \( 30 - 0.6 = 29.4 \)
+- id: 10052
+  question: If you are travelling at 60 mph and your speed decreases by 1 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 59.4
+  solution: |2-
+     **Answer** Find 1 percent: <br />
+     \( \frac{1}{100} \times 60 = 0.6 \) <br />
+    Subtract: <br />
+     \( 60 - 0.6 = 59.4 \)
+- id: 10053
+  question: The cost of a drug is normally £ 750 but has been reduced by 15 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 637.5
+  solution: |2-
+     **Answer** Find 15 percent: <br />
+     \( \frac{15}{100} \times 750 = 112.5 \) <br />
+    Subtract: <br />
+     \( 750 - 112.5 = 637.5 \)
+- id: 10054
+  question: The cost of a drug is normally £ 350 but has been reduced by 6 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 329.0
+  solution: |2-
+     **Answer** Find 6 percent: <br />
+     \( \frac{6}{100} \times 350 = 21.0 \) <br />
+    Subtract: <br />
+     \( 350 - 21.0 = 329.0 \)
+- id: 10055
+  question: If you are travelling at 45 mph and your speed decreases by 2 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 44.1
+  solution: |2-
+     **Answer** Find 2 percent: <br />
+     \( \frac{2}{100} \times 45 = 0.9 \) <br />
+    Subtract: <br />
+     \( 45 - 0.9 = 44.1 \)
+- id: 10056
+  question: If you are travelling at 35 mph and your speed decreases by 5 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 33.25
+  solution: |2-
+     **Answer** Find 5 percent: <br />
+     \( \frac{5}{100} \times 35 = 1.75 \) <br />
+    Subtract: <br />
+     \( 35 - 1.75 = 33.25 \)
+- id: 10057
+  question: The cost of a drug is normally £ 800 but has been reduced by 20 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 640.0
+  solution: |2-
+     **Answer** Find 20 percent: <br />
+     \( \frac{20}{100} \times 800 = 160.0 \) <br />
+    Subtract: <br />
+     \( 800 - 160.0 = 640.0 \)
+- id: 10058
+  question: If you are travelling at 65 mph and your speed decreases by 1 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 64.35
+  solution: |2-
+     **Answer** Find 1 percent: <br />
+     \( \frac{1}{100} \times 65 = 0.65 \) <br />
+    Subtract: <br />
+     \( 65 - 0.65 = 64.35 \)
+- id: 10059
+  question: If you are travelling at 55 mph and your speed decreases by 11 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 48.95
+  solution: |2-
+     **Answer** Find 11 percent: <br />
+     \( \frac{11}{100} \times 55 = 6.05 \) <br />
+    Subtract: <br />
+     \( 55 - 6.05 = 48.95 \)
+- id: 10060
+  question: The cost of a drug is normally £ 1000 but has been reduced by 8 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 920.0
+  solution: |2-
+     **Answer** Find 8 percent: <br />
+     \( \frac{8}{100} \times 1000 = 80.0 \) <br />
+    Subtract: <br />
+     \( 1000 - 80.0 = 920.0 \)
+- id: 10061
+  question: If you are travelling at 65 mph and your speed decreases by 5 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 61.75
+  solution: |2-
+     **Answer** Find 5 percent: <br />
+     \( \frac{5}{100} \times 65 = 3.25 \) <br />
+    Subtract: <br />
+     \( 65 - 3.25 = 61.75 \)
+- id: 10062
+  question: The cost of a drug is normally £ 1000 but has been reduced by 9 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 910.0
+  solution: |2-
+     **Answer** Find 9 percent: <br />
+     \( \frac{9}{100} \times 1000 = 90.0 \) <br />
+    Subtract: <br />
+     \( 1000 - 90.0 = 910.0 \)
+- id: 10063
+  question: If you are travelling at 40 mph and your speed decreases by 4 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 38.4
+  solution: |2-
+     **Answer** Find 4 percent: <br />
+     \( \frac{4}{100} \times 40 = 1.6 \) <br />
+    Subtract: <br />
+     \( 40 - 1.6 = 38.4 \)
+- id: 10064
+  question: The cost of a drug is normally £ 600 but has been reduced by 8 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 552.0
+  solution: |2-
+     **Answer** Find 8 percent: <br />
+     \( \frac{8}{100} \times 600 = 48.0 \) <br />
+    Subtract: <br />
+     \( 600 - 48.0 = 552.0 \)
+- id: 10065
+  question: The cost of a drug is normally £ 650 but has been reduced by 23 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 500.5
+  solution: |2-
+     **Answer** Find 23 percent: <br />
+     \( \frac{23}{100} \times 650 = 149.5 \) <br />
+    Subtract: <br />
+     \( 650 - 149.5 = 500.5 \)
+- id: 10066
+  question: The cost of a drug is normally £ 350 but has been reduced by 13 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 304.5
+  solution: |2-
+     **Answer** Find 13 percent: <br />
+     \( \frac{13}{100} \times 350 = 45.5 \) <br />
+    Subtract: <br />
+     \( 350 - 45.5 = 304.5 \)
+- id: 10067
+  question: The cost of a drug is normally £ 700 but has been reduced by 20 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 560.0
+  solution: |2-
+     **Answer** Find 20 percent: <br />
+     \( \frac{20}{100} \times 700 = 140.0 \) <br />
+    Subtract: <br />
+     \( 700 - 140.0 = 560.0 \)
+- id: 10068
+  question: If you are travelling at 50 mph and your speed decreases by 8 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 46.0
+  solution: |2-
+     **Answer** Find 8 percent: <br />
+     \( \frac{8}{100} \times 50 = 4.0 \) <br />
+    Subtract: <br />
+     \( 50 - 4.0 = 46.0 \)
+- id: 10069
+  question: If you are travelling at 55 mph and your speed decreases by 11 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 48.95
+  solution: |2-
+     **Answer** Find 11 percent: <br />
+     \( \frac{11}{100} \times 55 = 6.05 \) <br />
+    Subtract: <br />
+     \( 55 - 6.05 = 48.95 \)
+- id: 10070
+  question: The cost of a drug is normally £ 950 but has been reduced by 9 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 864.5
+  solution: |2-
+     **Answer** Find 9 percent: <br />
+     \( \frac{9}{100} \times 950 = 85.5 \) <br />
+    Subtract: <br />
+     \( 950 - 85.5 = 864.5 \)
+- id: 10071
+  question: The cost of a drug is normally £ 600 but has been reduced by 16 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 504.0
+  solution: |2-
+     **Answer** Find 16 percent: <br />
+     \( \frac{16}{100} \times 600 = 96.0 \) <br />
+    Subtract: <br />
+     \( 600 - 96.0 = 504.0 \)
+- id: 10072
+  question: The cost of a drug is normally £ 200 but has been reduced by 23 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 154.0
+  solution: |2-
+     **Answer** Find 23 percent: <br />
+     \( \frac{23}{100} \times 200 = 46.0 \) <br />
+    Subtract: <br />
+     \( 200 - 46.0 = 154.0 \)
+- id: 10073
+  question: The cost of a drug is normally £ 200 but has been reduced by 12 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 176.0
+  solution: |2-
+     **Answer** Find 12 percent: <br />
+     \( \frac{12}{100} \times 200 = 24.0 \) <br />
+    Subtract: <br />
+     \( 200 - 24.0 = 176.0 \)
+- id: 10074
+  question: If you are travelling at 45 mph and your speed decreases by 3 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 43.65
+  solution: |2-
+     **Answer** Find 3 percent: <br />
+     \( \frac{3}{100} \times 45 = 1.35 \) <br />
+    Subtract: <br />
+     \( 45 - 1.35 = 43.65 \)
+- id: 10075
+  question: The cost of a drug is normally £ 300 but has been reduced by 25 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 225.0
+  solution: |2-
+     **Answer** Find 25 percent: <br />
+     \( \frac{25}{100} \times 300 = 75.0 \) <br />
+    Subtract: <br />
+     \( 300 - 75.0 = 225.0 \)
+- id: 10076
+  question: If you are travelling at 70 mph and your speed decreases by 8 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 64.4
+  solution: |2-
+     **Answer** Find 8 percent: <br />
+     \( \frac{8}{100} \times 70 = 5.6 \) <br />
+    Subtract: <br />
+     \( 70 - 5.6 = 64.4 \)
+- id: 10077
+  question: The cost of a drug is normally £ 50 but has been reduced by 20 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 40.0
+  solution: |2-
+     **Answer** Find 20 percent: <br />
+     \( \frac{20}{100} \times 50 = 10.0 \) <br />
+    Subtract: <br />
+     \( 50 - 10.0 = 40.0 \)
+- id: 10078
+  question: If you are travelling at 70 mph and your speed decreases by 5 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 66.5
+  solution: |2-
+     **Answer** Find 5 percent: <br />
+     \( \frac{5}{100} \times 70 = 3.5 \) <br />
+    Subtract: <br />
+     \( 70 - 3.5 = 66.5 \)
+- id: 10079
+  question: The cost of a drug is normally £ 700 but has been reduced by 12 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 616.0
+  solution: |2-
+     **Answer** Find 12 percent: <br />
+     \( \frac{12}{100} \times 700 = 84.0 \) <br />
+    Subtract: <br />
+     \( 700 - 84.0 = 616.0 \)
+- id: 10080
+  question: If you are travelling at 35 mph and your speed decreases by 10 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 31.5
+  solution: |2-
+     **Answer** Find 10 percent: <br />
+     \( \frac{10}{100} \times 35 = 3.5 \) <br />
+    Subtract: <br />
+     \( 35 - 3.5 = 31.5 \)
+- id: 10081
+  question: The cost of a drug is normally £ 800 but has been reduced by 21 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 632.0
+  solution: |2-
+     **Answer** Find 21 percent: <br />
+     \( \frac{21}{100} \times 800 = 168.0 \) <br />
+    Subtract: <br />
+     \( 800 - 168.0 = 632.0 \)
+- id: 10082
+  question: If you are travelling at 45 mph and your speed decreases by 5 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 42.75
+  solution: |2-
+     **Answer** Find 5 percent: <br />
+     \( \frac{5}{100} \times 45 = 2.25 \) <br />
+    Subtract: <br />
+     \( 45 - 2.25 = 42.75 \)
+- id: 10083
+  question: The cost of a drug is normally £ 800 but has been reduced by 10 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 720.0
+  solution: |2-
+     **Answer** Find 10 percent: <br />
+     \( \frac{10}{100} \times 800 = 80.0 \) <br />
+    Subtract: <br />
+     \( 800 - 80.0 = 720.0 \)
+- id: 10084
+  question: The cost of a drug is normally £ 650 but has been reduced by 9 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 591.5
+  solution: |2-
+     **Answer** Find 9 percent: <br />
+     \( \frac{9}{100} \times 650 = 58.5 \) <br />
+    Subtract: <br />
+     \( 650 - 58.5 = 591.5 \)
+- id: 10085
+  question: If you are travelling at 25 mph and your speed decreases by 10 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 22.5
+  solution: |2-
+     **Answer** Find 10 percent: <br />
+     \( \frac{10}{100} \times 25 = 2.5 \) <br />
+    Subtract: <br />
+     \( 25 - 2.5 = 22.5 \)
+- id: 10086
+  question: If you are travelling at 65 mph and your speed decreases by 4 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 62.4
+  solution: |2-
+     **Answer** Find 4 percent: <br />
+     \( \frac{4}{100} \times 65 = 2.6 \) <br />
+    Subtract: <br />
+     \( 65 - 2.6 = 62.4 \)
+- id: 10087
+  question: The cost of a drug is normally £ 550 but has been reduced by 8 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 506.0
+  solution: |2-
+     **Answer** Find 8 percent: <br />
+     \( \frac{8}{100} \times 550 = 44.0 \) <br />
+    Subtract: <br />
+     \( 550 - 44.0 = 506.0 \)
+- id: 10088
+  question: If you are travelling at 40 mph and your speed decreases by 12 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 35.2
+  solution: |2-
+     **Answer** Find 12 percent: <br />
+     \( \frac{12}{100} \times 40 = 4.8 \) <br />
+    Subtract: <br />
+     \( 40 - 4.8 = 35.2 \)
+- id: 10089
+  question: If you are travelling at 70 mph and your speed decreases by 3 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 67.9
+  solution: |2-
+     **Answer** Find 3 percent: <br />
+     \( \frac{3}{100} \times 70 = 2.1 \) <br />
+    Subtract: <br />
+     \( 70 - 2.1 = 67.9 \)
+- id: 10090
+  question: The cost of a drug is normally £ 1000 but has been reduced by 18 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 820.0
+  solution: |2-
+     **Answer** Find 18 percent: <br />
+     \( \frac{18}{100} \times 1000 = 180.0 \) <br />
+    Subtract: <br />
+     \( 1000 - 180.0 = 820.0 \)
+- id: 10091
+  question: The cost of a drug is normally £ 700 but has been reduced by 21 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 553.0
+  solution: |2-
+     **Answer** Find 21 percent: <br />
+     \( \frac{21}{100} \times 700 = 147.0 \) <br />
+    Subtract: <br />
+     \( 700 - 147.0 = 553.0 \)
+- id: 10092
+  question: The cost of a drug is normally £ 150 but has been reduced by 9 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 136.5
+  solution: |2-
+     **Answer** Find 9 percent: <br />
+     \( \frac{9}{100} \times 150 = 13.5 \) <br />
+    Subtract: <br />
+     \( 150 - 13.5 = 136.5 \)
+- id: 10093
+  question: If you are travelling at 40 mph and your speed decreases by 8 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 36.8
+  solution: |2-
+     **Answer** Find 8 percent: <br />
+     \( \frac{8}{100} \times 40 = 3.2 \) <br />
+    Subtract: <br />
+     \( 40 - 3.2 = 36.8 \)
+- id: 10094
+  question: If you are travelling at 25 mph and your speed decreases by 11 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 22.25
+  solution: |2-
+     **Answer** Find 11 percent: <br />
+     \( \frac{11}{100} \times 25 = 2.75 \) <br />
+    Subtract: <br />
+     \( 25 - 2.75 = 22.25 \)
+- id: 10095
+  question: If you are travelling at 45 mph and your speed decreases by 11 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 40.05
+  solution: |2-
+     **Answer** Find 11 percent: <br />
+     \( \frac{11}{100} \times 45 = 4.95 \) <br />
+    Subtract: <br />
+     \( 45 - 4.95 = 40.05 \)
+- id: 10096
+  question: If you are travelling at 65 mph and your speed decreases by 2 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 63.7
+  solution: |2-
+     **Answer** Find 2 percent: <br />
+     \( \frac{2}{100} \times 65 = 1.3 \) <br />
+    Subtract: <br />
+     \( 65 - 1.3 = 63.7 \)
+- id: 10097
+  question: The cost of a drug is normally £ 850 but has been reduced by 6 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 799.0
+  solution: |2-
+     **Answer** Find 6 percent: <br />
+     \( \frac{6}{100} \times 850 = 51.0 \) <br />
+    Subtract: <br />
+     \( 850 - 51.0 = 799.0 \)
+- id: 10098
+  question: The cost of a drug is normally £ 500 but has been reduced by 24 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 380.0
+  solution: |2-
+     **Answer** Find 24 percent: <br />
+     \( \frac{24}{100} \times 500 = 120.0 \) <br />
+    Subtract: <br />
+     \( 500 - 120.0 = 380.0 \)
+- id: 10099
+  question: If you are travelling at 40 mph and your speed decreases by 8 percent,
+    what is your new speed? Give answer correct to 2 decimal places.
+  answer: 36.8
+  solution: |2-
+     **Answer** Find 8 percent: <br />
+     \( \frac{8}{100} \times 40 = 3.2 \) <br />
+    Subtract: <br />
+     \( 40 - 3.2 = 36.8 \)
+- id: 10100
+  question: The cost of a drug is normally £ 900 but has been reduced by 25 percent.
+    What is the new cost of the drug? Give the answer correct to 2 decimal places.
+  answer: 675.0
+  solution: |2-
+     **Answer** Find 25 percent: <br />
+     \( \frac{25}{100} \times 900 = 225.0 \) <br />
+    Subtract: <br />
+     \( 900 - 225.0 = 675.0 \)

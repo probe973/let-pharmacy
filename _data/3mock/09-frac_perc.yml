@@ -1,0 +1,600 @@
+- id: 9001
+  question: Express 300 out of 1500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 20.0
+  solution: |2-
+     **Answer** \( \frac{300}{1500} \times 100 = 20.0 \)
+- id: 9002
+  question: Express 600 out of 4000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 15.0
+  solution: |2-
+     **Answer** \( \frac{600}{4000} \times 100 = 15.0 \)
+- id: 9003
+  question: Express 275 out of 2000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 13.75
+  solution: |2-
+     **Answer** \( \frac{275}{2000} \times 100 = 13.75 \)
+- id: 9004
+  question: Express 675 out of 5000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 13.5
+  solution: |2-
+     **Answer** \( \frac{675}{5000} \times 100 = 13.5 \)
+- id: 9005
+  question: Express 725 out of 8000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 9.06
+  solution: |2-
+     **Answer** \( \frac{725}{8000} \times 100 = 9.06 \)
+- id: 9006
+  question: Express 900 out of 1500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 60.0
+  solution: |2-
+     **Answer** \( \frac{900}{1500} \times 100 = 60.0 \)
+- id: 9007
+  question: Express 275 out of 500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 55.0
+  solution: |2-
+     **Answer** \( \frac{275}{500} \times 100 = 55.0 \)
+- id: 9008
+  question: Express 375 out of 7500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 5.0
+  solution: |2-
+     **Answer** \( \frac{375}{7500} \times 100 = 5.0 \)
+- id: 9009
+  question: Express 600 out of 7000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 8.57
+  solution: |2-
+     **Answer** \( \frac{600}{7000} \times 100 = 8.57 \)
+- id: 9010
+  question: Express 275 out of 4000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 6.88
+  solution: |2-
+     **Answer** \( \frac{275}{4000} \times 100 = 6.88 \)
+- id: 9011
+  question: Express 725 out of 1000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 72.5
+  solution: |2-
+     **Answer** \( \frac{725}{1000} \times 100 = 72.5 \)
+- id: 9012
+  question: Express 925 out of 1500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 61.67
+  solution: |2-
+     **Answer** \( \frac{925}{1500} \times 100 = 61.67 \)
+- id: 9013
+  question: Express 575 out of 8000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 7.19
+  solution: |2-
+     **Answer** \( \frac{575}{8000} \times 100 = 7.19 \)
+- id: 9014
+  question: Express 425 out of 4000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 10.62
+  solution: |2-
+     **Answer** \( \frac{425}{4000} \times 100 = 10.62 \)
+- id: 9015
+  question: Express 950 out of 6500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 14.62
+  solution: |2-
+     **Answer** \( \frac{950}{6500} \times 100 = 14.62 \)
+- id: 9016
+  question: Express 950 out of 5500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 17.27
+  solution: |2-
+     **Answer** \( \frac{950}{5500} \times 100 = 17.27 \)
+- id: 9017
+  question: Express 800 out of 2000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 40.0
+  solution: |2-
+     **Answer** \( \frac{800}{2000} \times 100 = 40.0 \)
+- id: 9018
+  question: Express 450 out of 7000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 6.43
+  solution: |2-
+     **Answer** \( \frac{450}{7000} \times 100 = 6.43 \)
+- id: 9019
+  question: Express 250 out of 1500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 16.67
+  solution: |2-
+     **Answer** \( \frac{250}{1500} \times 100 = 16.67 \)
+- id: 9020
+  question: Express 900 out of 4500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 20.0
+  solution: |2-
+     **Answer** \( \frac{900}{4500} \times 100 = 20.0 \)
+- id: 9021
+  question: Express 825 out of 1500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 55.0
+  solution: |2-
+     **Answer** \( \frac{825}{1500} \times 100 = 55.0 \)
+- id: 9022
+  question: Express 725 out of 4500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 16.11
+  solution: |2-
+     **Answer** \( \frac{725}{4500} \times 100 = 16.11 \)
+- id: 9023
+  question: Express 750 out of 2500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 30.0
+  solution: |2-
+     **Answer** \( \frac{750}{2500} \times 100 = 30.0 \)
+- id: 9024
+  question: Express 750 out of 4000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 18.75
+  solution: |2-
+     **Answer** \( \frac{750}{4000} \times 100 = 18.75 \)
+- id: 9025
+  question: Express 350 out of 5000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 7.0
+  solution: |2-
+     **Answer** \( \frac{350}{5000} \times 100 = 7.0 \)
+- id: 9026
+  question: Express 475 out of 2500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 19.0
+  solution: |2-
+     **Answer** \( \frac{475}{2500} \times 100 = 19.0 \)
+- id: 9027
+  question: Express 600 out of 7500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 8.0
+  solution: |2-
+     **Answer** \( \frac{600}{7500} \times 100 = 8.0 \)
+- id: 9028
+  question: Express 775 out of 6500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 11.92
+  solution: |2-
+     **Answer** \( \frac{775}{6500} \times 100 = 11.92 \)
+- id: 9029
+  question: Express 575 out of 5500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 10.45
+  solution: |2-
+     **Answer** \( \frac{575}{5500} \times 100 = 10.45 \)
+- id: 9030
+  question: Express 775 out of 3500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 22.14
+  solution: |2-
+     **Answer** \( \frac{775}{3500} \times 100 = 22.14 \)
+- id: 9031
+  question: Express 475 out of 3500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 13.57
+  solution: |2-
+     **Answer** \( \frac{475}{3500} \times 100 = 13.57 \)
+- id: 9032
+  question: Express 475 out of 8000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 5.94
+  solution: |2-
+     **Answer** \( \frac{475}{8000} \times 100 = 5.94 \)
+- id: 9033
+  question: Express 550 out of 1000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 55.0
+  solution: |2-
+     **Answer** \( \frac{550}{1000} \times 100 = 55.0 \)
+- id: 9034
+  question: Express 675 out of 3000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 22.5
+  solution: |2-
+     **Answer** \( \frac{675}{3000} \times 100 = 22.5 \)
+- id: 9035
+  question: Express 925 out of 1000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 92.5
+  solution: |2-
+     **Answer** \( \frac{925}{1000} \times 100 = 92.5 \)
+- id: 9036
+  question: Express 450 out of 2000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 22.5
+  solution: |2-
+     **Answer** \( \frac{450}{2000} \times 100 = 22.5 \)
+- id: 9037
+  question: Express 650 out of 3500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 18.57
+  solution: |2-
+     **Answer** \( \frac{650}{3500} \times 100 = 18.57 \)
+- id: 9038
+  question: Express 575 out of 6000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 9.58
+  solution: |2-
+     **Answer** \( \frac{575}{6000} \times 100 = 9.58 \)
+- id: 9039
+  question: Express 750 out of 5500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 13.64
+  solution: |2-
+     **Answer** \( \frac{750}{5500} \times 100 = 13.64 \)
+- id: 9040
+  question: Express 375 out of 500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 75.0
+  solution: |2-
+     **Answer** \( \frac{375}{500} \times 100 = 75.0 \)
+- id: 9041
+  question: Express 500 out of 3500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 14.29
+  solution: |2-
+     **Answer** \( \frac{500}{3500} \times 100 = 14.29 \)
+- id: 9042
+  question: Express 700 out of 6500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 10.77
+  solution: |2-
+     **Answer** \( \frac{700}{6500} \times 100 = 10.77 \)
+- id: 9043
+  question: Express 950 out of 7000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 13.57
+  solution: |2-
+     **Answer** \( \frac{950}{7000} \times 100 = 13.57 \)
+- id: 9044
+  question: Express 325 out of 8000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 4.06
+  solution: |2-
+     **Answer** \( \frac{325}{8000} \times 100 = 4.06 \)
+- id: 9045
+  question: Express 875 out of 7000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 12.5
+  solution: |2-
+     **Answer** \( \frac{875}{7000} \times 100 = 12.5 \)
+- id: 9046
+  question: Express 625 out of 6500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 9.62
+  solution: |2-
+     **Answer** \( \frac{625}{6500} \times 100 = 9.62 \)
+- id: 9047
+  question: Express 650 out of 2000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 32.5
+  solution: |2-
+     **Answer** \( \frac{650}{2000} \times 100 = 32.5 \)
+- id: 9048
+  question: Express 675 out of 7500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 9.0
+  solution: |2-
+     **Answer** \( \frac{675}{7500} \times 100 = 9.0 \)
+- id: 9049
+  question: Express 250 out of 3000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 8.33
+  solution: |2-
+     **Answer** \( \frac{250}{3000} \times 100 = 8.33 \)
+- id: 9050
+  question: Express 350 out of 4000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 8.75
+  solution: |2-
+     **Answer** \( \frac{350}{4000} \times 100 = 8.75 \)
+- id: 9051
+  question: Express 300 out of 500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 60.0
+  solution: |2-
+     **Answer** \( \frac{300}{500} \times 100 = 60.0 \)
+- id: 9052
+  question: Express 325 out of 4500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 7.22
+  solution: |2-
+     **Answer** \( \frac{325}{4500} \times 100 = 7.22 \)
+- id: 9053
+  question: Express 500 out of 1500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 33.33
+  solution: |2-
+     **Answer** \( \frac{500}{1500} \times 100 = 33.33 \)
+- id: 9054
+  question: Express 300 out of 3000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 10.0
+  solution: |2-
+     **Answer** \( \frac{300}{3000} \times 100 = 10.0 \)
+- id: 9055
+  question: Express 850 out of 7500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 11.33
+  solution: |2-
+     **Answer** \( \frac{850}{7500} \times 100 = 11.33 \)
+- id: 9056
+  question: Express 600 out of 4000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 15.0
+  solution: |2-
+     **Answer** \( \frac{600}{4000} \times 100 = 15.0 \)
+- id: 9057
+  question: Express 350 out of 3500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 10.0
+  solution: |2-
+     **Answer** \( \frac{350}{3500} \times 100 = 10.0 \)
+- id: 9058
+  question: Express 500 out of 3500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 14.29
+  solution: |2-
+     **Answer** \( \frac{500}{3500} \times 100 = 14.29 \)
+- id: 9059
+  question: Express 650 out of 5500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 11.82
+  solution: |2-
+     **Answer** \( \frac{650}{5500} \times 100 = 11.82 \)
+- id: 9060
+  question: Express 350 out of 4000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 8.75
+  solution: |2-
+     **Answer** \( \frac{350}{4000} \times 100 = 8.75 \)
+- id: 9061
+  question: Express 600 out of 1500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 40.0
+  solution: |2-
+     **Answer** \( \frac{600}{1500} \times 100 = 40.0 \)
+- id: 9062
+  question: Express 550 out of 7500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 7.33
+  solution: |2-
+     **Answer** \( \frac{550}{7500} \times 100 = 7.33 \)
+- id: 9063
+  question: Express 500 out of 1000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 50.0
+  solution: |2-
+     **Answer** \( \frac{500}{1000} \times 100 = 50.0 \)
+- id: 9064
+  question: Express 375 out of 2500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 15.0
+  solution: |2-
+     **Answer** \( \frac{375}{2500} \times 100 = 15.0 \)
+- id: 9065
+  question: Express 800 out of 4000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 20.0
+  solution: |2-
+     **Answer** \( \frac{800}{4000} \times 100 = 20.0 \)
+- id: 9066
+  question: Express 650 out of 5000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 13.0
+  solution: |2-
+     **Answer** \( \frac{650}{5000} \times 100 = 13.0 \)
+- id: 9067
+  question: Express 850 out of 6000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 14.17
+  solution: |2-
+     **Answer** \( \frac{850}{6000} \times 100 = 14.17 \)
+- id: 9068
+  question: Express 700 out of 3000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 23.33
+  solution: |2-
+     **Answer** \( \frac{700}{3000} \times 100 = 23.33 \)
+- id: 9069
+  question: Express 350 out of 7000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 5.0
+  solution: |2-
+     **Answer** \( \frac{350}{7000} \times 100 = 5.0 \)
+- id: 9070
+  question: Express 475 out of 7000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 6.79
+  solution: |2-
+     **Answer** \( \frac{475}{7000} \times 100 = 6.79 \)
+- id: 9071
+  question: Express 550 out of 8000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 6.88
+  solution: |2-
+     **Answer** \( \frac{550}{8000} \times 100 = 6.88 \)
+- id: 9072
+  question: Express 500 out of 7000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 7.14
+  solution: |2-
+     **Answer** \( \frac{500}{7000} \times 100 = 7.14 \)
+- id: 9073
+  question: Express 775 out of 2000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 38.75
+  solution: |2-
+     **Answer** \( \frac{775}{2000} \times 100 = 38.75 \)
+- id: 9074
+  question: Express 375 out of 3500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 10.71
+  solution: |2-
+     **Answer** \( \frac{375}{3500} \times 100 = 10.71 \)
+- id: 9075
+  question: Express 275 out of 500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 55.0
+  solution: |2-
+     **Answer** \( \frac{275}{500} \times 100 = 55.0 \)
+- id: 9076
+  question: Express 850 out of 7000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 12.14
+  solution: |2-
+     **Answer** \( \frac{850}{7000} \times 100 = 12.14 \)
+- id: 9077
+  question: Express 250 out of 1500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 16.67
+  solution: |2-
+     **Answer** \( \frac{250}{1500} \times 100 = 16.67 \)
+- id: 9078
+  question: Express 525 out of 8000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 6.56
+  solution: |2-
+     **Answer** \( \frac{525}{8000} \times 100 = 6.56 \)
+- id: 9079
+  question: Express 650 out of 6000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 10.83
+  solution: |2-
+     **Answer** \( \frac{650}{6000} \times 100 = 10.83 \)
+- id: 9080
+  question: Express 500 out of 3000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 16.67
+  solution: |2-
+     **Answer** \( \frac{500}{3000} \times 100 = 16.67 \)
+- id: 9081
+  question: Express 700 out of 2000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 35.0
+  solution: |2-
+     **Answer** \( \frac{700}{2000} \times 100 = 35.0 \)
+- id: 9082
+  question: Express 900 out of 4000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 22.5
+  solution: |2-
+     **Answer** \( \frac{900}{4000} \times 100 = 22.5 \)
+- id: 9083
+  question: Express 275 out of 6500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 4.23
+  solution: |2-
+     **Answer** \( \frac{275}{6500} \times 100 = 4.23 \)
+- id: 9084
+  question: Express 350 out of 6000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 5.83
+  solution: |2-
+     **Answer** \( \frac{350}{6000} \times 100 = 5.83 \)
+- id: 9085
+  question: Express 850 out of 3000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 28.33
+  solution: |2-
+     **Answer** \( \frac{850}{3000} \times 100 = 28.33 \)
+- id: 9086
+  question: Express 625 out of 1000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 62.5
+  solution: |2-
+     **Answer** \( \frac{625}{1000} \times 100 = 62.5 \)
+- id: 9087
+  question: Express 525 out of 1000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 52.5
+  solution: |2-
+     **Answer** \( \frac{525}{1000} \times 100 = 52.5 \)
+- id: 9088
+  question: Express 675 out of 2000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 33.75
+  solution: |2-
+     **Answer** \( \frac{675}{2000} \times 100 = 33.75 \)
+- id: 9089
+  question: Express 450 out of 4500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 10.0
+  solution: |2-
+     **Answer** \( \frac{450}{4500} \times 100 = 10.0 \)
+- id: 9090
+  question: Express 575 out of 4000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 14.38
+  solution: |2-
+     **Answer** \( \frac{575}{4000} \times 100 = 14.38 \)
+- id: 9091
+  question: Express 950 out of 2000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 47.5
+  solution: |2-
+     **Answer** \( \frac{950}{2000} \times 100 = 47.5 \)
+- id: 9092
+  question: Express 800 out of 4500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 17.78
+  solution: |2-
+     **Answer** \( \frac{800}{4500} \times 100 = 17.78 \)
+- id: 9093
+  question: Express 250 out of 4500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 5.56
+  solution: |2-
+     **Answer** \( \frac{250}{4500} \times 100 = 5.56 \)
+- id: 9094
+  question: Express 250 out of 4000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 6.25
+  solution: |2-
+     **Answer** \( \frac{250}{4000} \times 100 = 6.25 \)
+- id: 9095
+  question: Express 625 out of 7500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 8.33
+  solution: |2-
+     **Answer** \( \frac{625}{7500} \times 100 = 8.33 \)
+- id: 9096
+  question: Express 950 out of 6500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 14.62
+  solution: |2-
+     **Answer** \( \frac{950}{6500} \times 100 = 14.62 \)
+- id: 9097
+  question: Express 350 out of 4500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 7.78
+  solution: |2-
+     **Answer** \( \frac{350}{4500} \times 100 = 7.78 \)
+- id: 9098
+  question: Express 675 out of 3000 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 22.5
+  solution: |2-
+     **Answer** \( \frac{675}{3000} \times 100 = 22.5 \)
+- id: 9099
+  question: Express 700 out of 7500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 9.33
+  solution: |2-
+     **Answer** \( \frac{700}{7500} \times 100 = 9.33 \)
+- id: 9100
+  question: Express 775 out of 2500 as a percentage, giving the answer to 2 decimal
+    places.
+  answer: 31.0
+  solution: |2-
+     **Answer** \( \frac{775}{2500} \times 100 = 31.0 \)
