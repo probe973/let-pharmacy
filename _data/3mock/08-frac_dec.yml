@@ -1,0 +1,500 @@
+- id: 8001
+  question: Express  \( \frac{22}{50} as a decimal \)
+  answer: 0.44
+  solution: |2-
+     **Answer** \( \frac{22}{50} = \frac{44}{100} = 0.44 \)
+- id: 8002
+  question: Express  \( \frac{84}{50} as a decimal \)
+  answer: 1.68
+  solution: |2-
+     **Answer** \( \frac{84}{50} = \frac{168}{100} = 1.68 \)
+- id: 8003
+  question: Express  \( \frac{46}{50} as a decimal \)
+  answer: 0.92
+  solution: |2-
+     **Answer** \( \frac{46}{50} = \frac{92}{100} = 0.92 \)
+- id: 8004
+  question: Express  \( \frac{61}{20} as a decimal \)
+  answer: 3.05
+  solution: |2-
+     **Answer** \( \frac{61}{20} = \frac{30.5}{10} = 3.05 \)
+- id: 8005
+  question: Express  \( \frac{55}{40} as a decimal \)
+  answer: 1.38
+  solution: |2-
+     **Answer** \( \frac{55}{40} = \frac{13.75}{10} = 1.38 \)
+- id: 8006
+  question: Express  \( \frac{93}{5} as a decimal \)
+  answer: 18.6
+  solution: |2-
+     **Answer** \( \frac{93}{5} = \frac{186}{10} = 18.6 \)
+- id: 8007
+  question: Express  \( \frac{52}{5} as a decimal \)
+  answer: 10.4
+  solution: |2-
+     **Answer** \( \frac{52}{5} = \frac{104}{10} = 10.4 \)
+- id: 8008
+  question: Express  \( \frac{4}{40} as a decimal \)
+  answer: 0.1
+  solution: |2-
+     **Answer** \( \frac{4}{40} = \frac{1.0}{10} = 0.1 \)
+- id: 8009
+  question: Express  \( \frac{48}{40} as a decimal \)
+  answer: 1.2
+  solution: |2-
+     **Answer** \( \frac{48}{40} = \frac{12.0}{10} = 1.2 \)
+- id: 8010
+  question: Express  \( \frac{67}{20} as a decimal \)
+  answer: 3.35
+  solution: |2-
+     **Answer** \( \frac{67}{20} = \frac{33.5}{10} = 3.35 \)
+- id: 8011
+  question: Express  \( \frac{18}{20} as a decimal \)
+  answer: 0.9
+  solution: |2-
+     **Answer** \( \frac{18}{20} = \frac{9.0}{10} = 0.9 \)
+- id: 8012
+  question: Express  \( \frac{92}{50} as a decimal \)
+  answer: 1.84
+  solution: |2-
+     **Answer** \( \frac{92}{50} = \frac{184}{100} = 1.84 \)
+- id: 8013
+  question: Express  \( \frac{91}{2} as a decimal \)
+  answer: 45.5
+  solution: |2-
+     **Answer** \( \frac{91}{2} = \frac{455}{10} = 45.5 \)
+- id: 8014
+  question: Express  \( \frac{67}{50} as a decimal \)
+  answer: 1.34
+  solution: |2-
+     **Answer** \( \frac{67}{50} = \frac{134}{100} = 1.34 \)
+- id: 8015
+  question: Express  \( \frac{6}{20} as a decimal \)
+  answer: 0.3
+  solution: |2-
+     **Answer** \( \frac{6}{20} = \frac{3.0}{10} = 0.3 \)
+- id: 8016
+  question: Express  \( \frac{30}{40} as a decimal \)
+  answer: 0.75
+  solution: |2-
+     **Answer** \( \frac{30}{40} = \frac{7.5}{10} = 0.75 \)
+- id: 8017
+  question: Express  \( \frac{69}{40} as a decimal \)
+  answer: 1.73
+  solution: |2-
+     **Answer** \( \frac{69}{40} = \frac{17.25}{10} = 1.73 \)
+- id: 8018
+  question: Express  \( \frac{1}{5} as a decimal \)
+  answer: 0.2
+  solution: |2-
+     **Answer** \( \frac{1}{5} = \frac{2}{10} = 0.2 \)
+- id: 8019
+  question: Express  \( \frac{89}{5} as a decimal \)
+  answer: 17.8
+  solution: |2-
+     **Answer** \( \frac{89}{5} = \frac{178}{10} = 17.8 \)
+- id: 8020
+  question: Express  \( \frac{61}{2} as a decimal \)
+  answer: 30.5
+  solution: |2-
+     **Answer** \( \frac{61}{2} = \frac{305}{10} = 30.5 \)
+- id: 8021
+  question: Express  \( \frac{55}{50} as a decimal \)
+  answer: 1.1
+  solution: |2-
+     **Answer** \( \frac{55}{50} = \frac{110}{100} = 1.1 \)
+- id: 8022
+  question: Express  \( \frac{47}{50} as a decimal \)
+  answer: 0.94
+  solution: |2-
+     **Answer** \( \frac{47}{50} = \frac{94}{100} = 0.94 \)
+- id: 8023
+  question: Express  \( \frac{25}{20} as a decimal \)
+  answer: 1.25
+  solution: |2-
+     **Answer** \( \frac{25}{20} = \frac{12.5}{10} = 1.25 \)
+- id: 8024
+  question: Express  \( \frac{46}{50} as a decimal \)
+  answer: 0.92
+  solution: |2-
+     **Answer** \( \frac{46}{50} = \frac{92}{100} = 0.92 \)
+- id: 8025
+  question: Express  \( \frac{49}{50} as a decimal \)
+  answer: 0.98
+  solution: |2-
+     **Answer** \( \frac{49}{50} = \frac{98}{100} = 0.98 \)
+- id: 8026
+  question: Express  \( \frac{64}{20} as a decimal \)
+  answer: 3.2
+  solution: |2-
+     **Answer** \( \frac{64}{20} = \frac{32.0}{10} = 3.2 \)
+- id: 8027
+  question: Express  \( \frac{86}{50} as a decimal \)
+  answer: 1.72
+  solution: |2-
+     **Answer** \( \frac{86}{50} = \frac{172}{100} = 1.72 \)
+- id: 8028
+  question: Express  \( \frac{26}{50} as a decimal \)
+  answer: 0.52
+  solution: |2-
+     **Answer** \( \frac{26}{50} = \frac{52}{100} = 0.52 \)
+- id: 8029
+  question: Express  \( \frac{23}{20} as a decimal \)
+  answer: 1.15
+  solution: |2-
+     **Answer** \( \frac{23}{20} = \frac{11.5}{10} = 1.15 \)
+- id: 8030
+  question: Express  \( \frac{55}{20} as a decimal \)
+  answer: 2.75
+  solution: |2-
+     **Answer** \( \frac{55}{20} = \frac{27.5}{10} = 2.75 \)
+- id: 8031
+  question: Express  \( \frac{37}{40} as a decimal \)
+  answer: 0.93
+  solution: |2-
+     **Answer** \( \frac{37}{40} = \frac{9.25}{10} = 0.93 \)
+- id: 8032
+  question: Express  \( \frac{98}{40} as a decimal \)
+  answer: 2.45
+  solution: |2-
+     **Answer** \( \frac{98}{40} = \frac{24.5}{10} = 2.45 \)
+- id: 8033
+  question: Express  \( \frac{35}{20} as a decimal \)
+  answer: 1.75
+  solution: |2-
+     **Answer** \( \frac{35}{20} = \frac{17.5}{10} = 1.75 \)
+- id: 8034
+  question: Express  \( \frac{89}{50} as a decimal \)
+  answer: 1.78
+  solution: |2-
+     **Answer** \( \frac{89}{50} = \frac{178}{100} = 1.78 \)
+- id: 8035
+  question: Express  \( \frac{37}{5} as a decimal \)
+  answer: 7.4
+  solution: |2-
+     **Answer** \( \frac{37}{5} = \frac{74}{10} = 7.4 \)
+- id: 8036
+  question: Express  \( \frac{2}{20} as a decimal \)
+  answer: 0.1
+  solution: |2-
+     **Answer** \( \frac{2}{20} = \frac{1.0}{10} = 0.1 \)
+- id: 8037
+  question: Express  \( \frac{18}{5} as a decimal \)
+  answer: 3.6
+  solution: |2-
+     **Answer** \( \frac{18}{5} = \frac{36}{10} = 3.6 \)
+- id: 8038
+  question: Express  \( \frac{76}{20} as a decimal \)
+  answer: 3.8
+  solution: |2-
+     **Answer** \( \frac{76}{20} = \frac{38.0}{10} = 3.8 \)
+- id: 8039
+  question: Express  \( \frac{96}{5} as a decimal \)
+  answer: 19.2
+  solution: |2-
+     **Answer** \( \frac{96}{5} = \frac{192}{10} = 19.2 \)
+- id: 8040
+  question: Express  \( \frac{15}{40} as a decimal \)
+  answer: 0.38
+  solution: |2-
+     **Answer** \( \frac{15}{40} = \frac{3.75}{10} = 0.38 \)
+- id: 8041
+  question: Express  \( \frac{73}{20} as a decimal \)
+  answer: 3.65
+  solution: |2-
+     **Answer** \( \frac{73}{20} = \frac{36.5}{10} = 3.65 \)
+- id: 8042
+  question: Express  \( \frac{21}{2} as a decimal \)
+  answer: 10.5
+  solution: |2-
+     **Answer** \( \frac{21}{2} = \frac{105}{10} = 10.5 \)
+- id: 8043
+  question: Express  \( \frac{55}{50} as a decimal \)
+  answer: 1.1
+  solution: |2-
+     **Answer** \( \frac{55}{50} = \frac{110}{100} = 1.1 \)
+- id: 8044
+  question: Express  \( \frac{36}{20} as a decimal \)
+  answer: 1.8
+  solution: |2-
+     **Answer** \( \frac{36}{20} = \frac{18.0}{10} = 1.8 \)
+- id: 8045
+  question: Express  \( \frac{36}{50} as a decimal \)
+  answer: 0.72
+  solution: |2-
+     **Answer** \( \frac{36}{50} = \frac{72}{100} = 0.72 \)
+- id: 8046
+  question: Express  \( \frac{91}{20} as a decimal \)
+  answer: 4.55
+  solution: |2-
+     **Answer** \( \frac{91}{20} = \frac{45.5}{10} = 4.55 \)
+- id: 8047
+  question: Express  \( \frac{81}{20} as a decimal \)
+  answer: 4.05
+  solution: |2-
+     **Answer** \( \frac{81}{20} = \frac{40.5}{10} = 4.05 \)
+- id: 8048
+  question: Express  \( \frac{31}{50} as a decimal \)
+  answer: 0.62
+  solution: |2-
+     **Answer** \( \frac{31}{50} = \frac{62}{100} = 0.62 \)
+- id: 8049
+  question: Express  \( \frac{76}{40} as a decimal \)
+  answer: 1.9
+  solution: |2-
+     **Answer** \( \frac{76}{40} = \frac{19.0}{10} = 1.9 \)
+- id: 8050
+  question: Express  \( \frac{22}{5} as a decimal \)
+  answer: 4.4
+  solution: |2-
+     **Answer** \( \frac{22}{5} = \frac{44}{10} = 4.4 \)
+- id: 8051
+  question: Express  \( \frac{51}{5} as a decimal \)
+  answer: 10.2
+  solution: |2-
+     **Answer** \( \frac{51}{5} = \frac{102}{10} = 10.2 \)
+- id: 8052
+  question: Express  \( \frac{72}{50} as a decimal \)
+  answer: 1.44
+  solution: |2-
+     **Answer** \( \frac{72}{50} = \frac{144}{100} = 1.44 \)
+- id: 8053
+  question: Express  \( \frac{90}{50} as a decimal \)
+  answer: 1.8
+  solution: |2-
+     **Answer** \( \frac{90}{50} = \frac{180}{100} = 1.8 \)
+- id: 8054
+  question: Express  \( \frac{34}{40} as a decimal \)
+  answer: 0.85
+  solution: |2-
+     **Answer** \( \frac{34}{40} = \frac{8.5}{10} = 0.85 \)
+- id: 8055
+  question: Express  \( \frac{72}{40} as a decimal \)
+  answer: 1.8
+  solution: |2-
+     **Answer** \( \frac{72}{40} = \frac{18.0}{10} = 1.8 \)
+- id: 8056
+  question: Express  \( \frac{64}{20} as a decimal \)
+  answer: 3.2
+  solution: |2-
+     **Answer** \( \frac{64}{20} = \frac{32.0}{10} = 3.2 \)
+- id: 8057
+  question: Express  \( \frac{53}{50} as a decimal \)
+  answer: 1.06
+  solution: |2-
+     **Answer** \( \frac{53}{50} = \frac{106}{100} = 1.06 \)
+- id: 8058
+  question: Express  \( \frac{86}{50} as a decimal \)
+  answer: 1.72
+  solution: |2-
+     **Answer** \( \frac{86}{50} = \frac{172}{100} = 1.72 \)
+- id: 8059
+  question: Express  \( \frac{35}{50} as a decimal \)
+  answer: 0.7
+  solution: |2-
+     **Answer** \( \frac{35}{50} = \frac{70}{100} = 0.7 \)
+- id: 8060
+  question: Express  \( \frac{27}{50} as a decimal \)
+  answer: 0.54
+  solution: |2-
+     **Answer** \( \frac{27}{50} = \frac{54}{100} = 0.54 \)
+- id: 8061
+  question: Express  \( \frac{61}{50} as a decimal \)
+  answer: 1.22
+  solution: |2-
+     **Answer** \( \frac{61}{50} = \frac{122}{100} = 1.22 \)
+- id: 8062
+  question: Express  \( \frac{19}{40} as a decimal \)
+  answer: 0.47
+  solution: |2-
+     **Answer** \( \frac{19}{40} = \frac{4.75}{10} = 0.47 \)
+- id: 8063
+  question: Express  \( \frac{42}{5} as a decimal \)
+  answer: 8.4
+  solution: |2-
+     **Answer** \( \frac{42}{5} = \frac{84}{10} = 8.4 \)
+- id: 8064
+  question: Express  \( \frac{59}{40} as a decimal \)
+  answer: 1.48
+  solution: |2-
+     **Answer** \( \frac{59}{40} = \frac{14.75}{10} = 1.48 \)
+- id: 8065
+  question: Express  \( \frac{77}{2} as a decimal \)
+  answer: 38.5
+  solution: |2-
+     **Answer** \( \frac{77}{2} = \frac{385}{10} = 38.5 \)
+- id: 8066
+  question: Express  \( \frac{53}{50} as a decimal \)
+  answer: 1.06
+  solution: |2-
+     **Answer** \( \frac{53}{50} = \frac{106}{100} = 1.06 \)
+- id: 8067
+  question: Express  \( \frac{98}{20} as a decimal \)
+  answer: 4.9
+  solution: |2-
+     **Answer** \( \frac{98}{20} = \frac{49.0}{10} = 4.9 \)
+- id: 8068
+  question: Express  \( \frac{21}{40} as a decimal \)
+  answer: 0.53
+  solution: |2-
+     **Answer** \( \frac{21}{40} = \frac{5.25}{10} = 0.53 \)
+- id: 8069
+  question: Express  \( \frac{11}{5} as a decimal \)
+  answer: 2.2
+  solution: |2-
+     **Answer** \( \frac{11}{5} = \frac{22}{10} = 2.2 \)
+- id: 8070
+  question: Express  \( \frac{5}{20} as a decimal \)
+  answer: 0.25
+  solution: |2-
+     **Answer** \( \frac{5}{20} = \frac{2.5}{10} = 0.25 \)
+- id: 8071
+  question: Express  \( \frac{15}{2} as a decimal \)
+  answer: 7.5
+  solution: |2-
+     **Answer** \( \frac{15}{2} = \frac{75}{10} = 7.5 \)
+- id: 8072
+  question: Express  \( \frac{14}{40} as a decimal \)
+  answer: 0.35
+  solution: |2-
+     **Answer** \( \frac{14}{40} = \frac{3.5}{10} = 0.35 \)
+- id: 8073
+  question: Express  \( \frac{7}{50} as a decimal \)
+  answer: 0.14
+  solution: |2-
+     **Answer** \( \frac{7}{50} = \frac{14}{100} = 0.14 \)
+- id: 8074
+  question: Express  \( \frac{27}{5} as a decimal \)
+  answer: 5.4
+  solution: |2-
+     **Answer** \( \frac{27}{5} = \frac{54}{10} = 5.4 \)
+- id: 8075
+  question: Express  \( \frac{71}{50} as a decimal \)
+  answer: 1.42
+  solution: |2-
+     **Answer** \( \frac{71}{50} = \frac{142}{100} = 1.42 \)
+- id: 8076
+  question: Express  \( \frac{58}{20} as a decimal \)
+  answer: 2.9
+  solution: |2-
+     **Answer** \( \frac{58}{20} = \frac{29.0}{10} = 2.9 \)
+- id: 8077
+  question: Express  \( \frac{34}{50} as a decimal \)
+  answer: 0.68
+  solution: |2-
+     **Answer** \( \frac{34}{50} = \frac{68}{100} = 0.68 \)
+- id: 8078
+  question: Express  \( \frac{22}{20} as a decimal \)
+  answer: 1.1
+  solution: |2-
+     **Answer** \( \frac{22}{20} = \frac{11.0}{10} = 1.1 \)
+- id: 8079
+  question: Express  \( \frac{21}{50} as a decimal \)
+  answer: 0.42
+  solution: |2-
+     **Answer** \( \frac{21}{50} = \frac{42}{100} = 0.42 \)
+- id: 8080
+  question: Express  \( \frac{93}{50} as a decimal \)
+  answer: 1.86
+  solution: |2-
+     **Answer** \( \frac{93}{50} = \frac{186}{100} = 1.86 \)
+- id: 8081
+  question: Express  \( \frac{45}{2} as a decimal \)
+  answer: 22.5
+  solution: |2-
+     **Answer** \( \frac{45}{2} = \frac{225}{10} = 22.5 \)
+- id: 8082
+  question: Express  \( \frac{45}{50} as a decimal \)
+  answer: 0.9
+  solution: |2-
+     **Answer** \( \frac{45}{50} = \frac{90}{100} = 0.9 \)
+- id: 8083
+  question: Express  \( \frac{23}{50} as a decimal \)
+  answer: 0.46
+  solution: |2-
+     **Answer** \( \frac{23}{50} = \frac{46}{100} = 0.46 \)
+- id: 8084
+  question: Express  \( \frac{36}{40} as a decimal \)
+  answer: 0.9
+  solution: |2-
+     **Answer** \( \frac{36}{40} = \frac{9.0}{10} = 0.9 \)
+- id: 8085
+  question: Express  \( \frac{38}{20} as a decimal \)
+  answer: 1.9
+  solution: |2-
+     **Answer** \( \frac{38}{20} = \frac{19.0}{10} = 1.9 \)
+- id: 8086
+  question: Express  \( \frac{66}{20} as a decimal \)
+  answer: 3.3
+  solution: |2-
+     **Answer** \( \frac{66}{20} = \frac{33.0}{10} = 3.3 \)
+- id: 8087
+  question: Express  \( \frac{94}{5} as a decimal \)
+  answer: 18.8
+  solution: |2-
+     **Answer** \( \frac{94}{5} = \frac{188}{10} = 18.8 \)
+- id: 8088
+  question: Express  \( \frac{28}{5} as a decimal \)
+  answer: 5.6
+  solution: |2-
+     **Answer** \( \frac{28}{5} = \frac{56}{10} = 5.6 \)
+- id: 8089
+  question: Express  \( \frac{46}{20} as a decimal \)
+  answer: 2.3
+  solution: |2-
+     **Answer** \( \frac{46}{20} = \frac{23.0}{10} = 2.3 \)
+- id: 8090
+  question: Express  \( \frac{41}{5} as a decimal \)
+  answer: 8.2
+  solution: |2-
+     **Answer** \( \frac{41}{5} = \frac{82}{10} = 8.2 \)
+- id: 8091
+  question: Express  \( \frac{75}{2} as a decimal \)
+  answer: 37.5
+  solution: |2-
+     **Answer** \( \frac{75}{2} = \frac{375}{10} = 37.5 \)
+- id: 8092
+  question: Express  \( \frac{78}{40} as a decimal \)
+  answer: 1.95
+  solution: |2-
+     **Answer** \( \frac{78}{40} = \frac{19.5}{10} = 1.95 \)
+- id: 8093
+  question: Express  \( \frac{41}{20} as a decimal \)
+  answer: 2.05
+  solution: |2-
+     **Answer** \( \frac{41}{20} = \frac{20.5}{10} = 2.05 \)
+- id: 8094
+  question: Express  \( \frac{88}{5} as a decimal \)
+  answer: 17.6
+  solution: |2-
+     **Answer** \( \frac{88}{5} = \frac{176}{10} = 17.6 \)
+- id: 8095
+  question: Express  \( \frac{78}{50} as a decimal \)
+  answer: 1.56
+  solution: |2-
+     **Answer** \( \frac{78}{50} = \frac{156}{100} = 1.56 \)
+- id: 8096
+  question: Express  \( \frac{35}{2} as a decimal \)
+  answer: 17.5
+  solution: |2-
+     **Answer** \( \frac{35}{2} = \frac{175}{10} = 17.5 \)
+- id: 8097
+  question: Express  \( \frac{34}{50} as a decimal \)
+  answer: 0.68
+  solution: |2-
+     **Answer** \( \frac{34}{50} = \frac{68}{100} = 0.68 \)
+- id: 8098
+  question: Express  \( \frac{96}{5} as a decimal \)
+  answer: 19.2
+  solution: |2-
+     **Answer** \( \frac{96}{5} = \frac{192}{10} = 19.2 \)
+- id: 8099
+  question: Express  \( \frac{67}{40} as a decimal \)
+  answer: 1.68
+  solution: |2-
+     **Answer** \( \frac{67}{40} = \frac{16.75}{10} = 1.68 \)
+- id: 8100
+  question: Express  \( \frac{63}{40} as a decimal \)
+  answer: 1.57
+  solution: |2-
+     **Answer** \( \frac{63}{40} = \frac{15.75}{10} = 1.57 \)
