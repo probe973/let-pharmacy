@@ -1,900 +1,900 @@
 - id: 17001
-  question: 'How many grams of compound X (molecular weight = 60.0) are required to
-    produce 200 ml of a 8 molar solution? <br />
+  question: 'How many grams of compound X (molecular weight = 77.0) are required to
+    produce 350 ml of a 12 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 96.0
+  answer: 323.4
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 60.0 \times 8 \times 0.2 = 96.0 \)
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 77.0 \times 12 \times 0.35 = 323.4 \)
 - id: 17002
-  question: 'How many grams of compound X (molecular weight = 82.5) are required to
-    produce 850 ml of a 9 molar solution? <br />
+  question: 'How many grams of compound X (molecular weight = 26.0) are required to
+    produce 100 ml of a 11 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 631.12
+  answer: 28.6
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 82.5 \times 9 \times 0.85 = 631.12 \)
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 26.0 \times 11 \times 0.1 = 28.6 \)
 - id: 17003
-  question: 'How many grams of compound X (molecular weight = 95.5) are required to
-    produce 700 ml of a 10 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 668.5
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 95.5 \times 10 \times 0.7 = 668.5 \)
-- id: 17004
   question: 'How many grams of compound X (molecular weight = 66.5) are required to
-    produce 800 ml of a 5 molar solution? <br />
+    produce 150 ml of a 12 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 266.0
+  answer: 119.7
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 66.5 \times 5 \times 0.8 = 266.0 \)
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 66.5 \times 12 \times 0.15 = 119.7 \)
+- id: 17004
+  question: 'How many grams of compound X (molecular weight = 100.0) are required
+    to produce 850 ml of a 12 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 1020.0
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 100.0 \times 12 \times 0.85 = 1020.0 \)
 - id: 17005
-  question: 'How many grams of compound X (molecular weight = 44.5) are required to
-    produce 600 ml of a 12 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 320.4
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 44.5 \times 12 \times 0.6 = 320.4 \)
-- id: 17006
-  question: 'How many grams of compound X (molecular weight = 25.5) are required to
-    produce 550 ml of a 15 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 210.38
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 25.5 \times 15 \times 0.55 = 210.38 \)
-- id: 17007
-  question: 'How many grams of compound X (molecular weight = 74.0) are required to
-    produce 500 ml of a 2 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 74.0
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 74.0 \times 2 \times 0.5 = 74.0 \)
-- id: 17008
-  question: 'How many grams of compound X (molecular weight = 95.5) are required to
-    produce 850 ml of a 10 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 811.75
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 95.5 \times 10 \times 0.85 = 811.75 \)
-- id: 17009
-  question: 'How many grams of compound X (molecular weight = 23.5) are required to
-    produce 100 ml of a 2 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 4.7
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 23.5 \times 2 \times 0.1 = 4.7 \)
-- id: 17010
-  question: 'How many grams of compound X (molecular weight = 95.0) are required to
-    produce 350 ml of a 6 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 199.5
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 95.0 \times 6 \times 0.35 = 199.5 \)
-- id: 17011
-  question: 'How many grams of compound X (molecular weight = 40.0) are required to
-    produce 650 ml of a 3 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 78.0
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 40.0 \times 3 \times 0.65 = 78.0 \)
-- id: 17012
-  question: 'How many grams of compound X (molecular weight = 9.5) are required to
-    produce 150 ml of a 11 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 15.68
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 9.5 \times 11 \times 0.15 = 15.68 \)
-- id: 17013
-  question: 'How many grams of compound X (molecular weight = 85.5) are required to
-    produce 750 ml of a 2 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 128.25
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 85.5 \times 2 \times 0.75 = 128.25 \)
-- id: 17014
-  question: 'How many grams of compound X (molecular weight = 13.0) are required to
-    produce 650 ml of a 6 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 50.7
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 13.0 \times 6 \times 0.65 = 50.7 \)
-- id: 17015
-  question: 'How many grams of compound X (molecular weight = 45.0) are required to
-    produce 250 ml of a 5 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 56.25
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 45.0 \times 5 \times 0.25 = 56.25 \)
-- id: 17016
-  question: 'How many grams of compound X (molecular weight = 39.5) are required to
-    produce 150 ml of a 1 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 5.92
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 39.5 \times 1 \times 0.15 = 5.92 \)
-- id: 17017
-  question: 'How many grams of compound X (molecular weight = 32.5) are required to
-    produce 500 ml of a 8 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 130.0
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 32.5 \times 8 \times 0.5 = 130.0 \)
-- id: 17018
-  question: 'How many grams of compound X (molecular weight = 16.5) are required to
-    produce 350 ml of a 11 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 63.52
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 16.5 \times 11 \times 0.35 = 63.52 \)
-- id: 17019
   question: 'How many grams of compound X (molecular weight = 51.0) are required to
-    produce 150 ml of a 8 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 61.2
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 51.0 \times 8 \times 0.15 = 61.2 \)
-- id: 17020
-  question: 'How many grams of compound X (molecular weight = 62.0) are required to
-    produce 450 ml of a 14 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 390.6
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 62.0 \times 14 \times 0.45 = 390.6 \)
-- id: 17021
-  question: 'How many grams of compound X (molecular weight = 63.0) are required to
-    produce 450 ml of a 11 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 311.85
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 63.0 \times 11 \times 0.45 = 311.85 \)
-- id: 17022
-  question: 'How many grams of compound X (molecular weight = 70.5) are required to
-    produce 950 ml of a 4 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 267.9
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 70.5 \times 4 \times 0.95 = 267.9 \)
-- id: 17023
-  question: 'How many grams of compound X (molecular weight = 14.0) are required to
-    produce 350 ml of a 3 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 14.7
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 14.0 \times 3 \times 0.35 = 14.7 \)
-- id: 17024
-  question: 'How many grams of compound X (molecular weight = 47.0) are required to
-    produce 550 ml of a 6 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 155.1
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 47.0 \times 6 \times 0.55 = 155.1 \)
-- id: 17025
-  question: 'How many grams of compound X (molecular weight = 69.0) are required to
-    produce 250 ml of a 13 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 224.25
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 69.0 \times 13 \times 0.25 = 224.25 \)
-- id: 17026
-  question: 'How many grams of compound X (molecular weight = 81.0) are required to
-    produce 550 ml of a 10 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 445.5
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 81.0 \times 10 \times 0.55 = 445.5 \)
-- id: 17027
-  question: 'How many grams of compound X (molecular weight = 18.0) are required to
-    produce 900 ml of a 12 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 194.4
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 18.0 \times 12 \times 0.9 = 194.4 \)
-- id: 17028
-  question: 'How many grams of compound X (molecular weight = 18.0) are required to
-    produce 750 ml of a 7 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 94.5
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 18.0 \times 7 \times 0.75 = 94.5 \)
-- id: 17029
-  question: 'How many grams of compound X (molecular weight = 44.0) are required to
-    produce 350 ml of a 13 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 200.2
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 44.0 \times 13 \times 0.35 = 200.2 \)
-- id: 17030
-  question: 'How many grams of compound X (molecular weight = 62.5) are required to
-    produce 700 ml of a 10 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 437.5
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 62.5 \times 10 \times 0.7 = 437.5 \)
-- id: 17031
-  question: 'How many grams of compound X (molecular weight = 94.0) are required to
-    produce 700 ml of a 8 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 526.4
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 94.0 \times 8 \times 0.7 = 526.4 \)
-- id: 17032
-  question: 'How many grams of compound X (molecular weight = 93.5) are required to
-    produce 600 ml of a 12 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 673.2
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 93.5 \times 12 \times 0.6 = 673.2 \)
-- id: 17033
-  question: 'How many grams of compound X (molecular weight = 90.0) are required to
-    produce 700 ml of a 6 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 378.0
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 90.0 \times 6 \times 0.7 = 378.0 \)
-- id: 17034
-  question: 'How many grams of compound X (molecular weight = 60.0) are required to
-    produce 800 ml of a 14 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 672.0
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 60.0 \times 14 \times 0.8 = 672.0 \)
-- id: 17035
-  question: 'How many grams of compound X (molecular weight = 59.0) are required to
-    produce 400 ml of a 11 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 259.6
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 59.0 \times 11 \times 0.4 = 259.6 \)
-- id: 17036
-  question: 'How many grams of compound X (molecular weight = 42.5) are required to
     produce 500 ml of a 2 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 42.5
+  answer: 51.0
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 42.5 \times 2 \times 0.5 = 42.5 \)
-- id: 17037
-  question: 'How many grams of compound X (molecular weight = 59.5) are required to
-    produce 100 ml of a 10 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 59.5
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 59.5 \times 10 \times 0.1 = 59.5 \)
-- id: 17038
-  question: 'How many grams of compound X (molecular weight = 94.0) are required to
-    produce 950 ml of a 3 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 267.9
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 94.0 \times 3 \times 0.95 = 267.9 \)
-- id: 17039
-  question: 'How many grams of compound X (molecular weight = 10.0) are required to
-    produce 300 ml of a 9 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 27.0
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 10.0 \times 9 \times 0.3 = 27.0 \)
-- id: 17040
-  question: 'How many grams of compound X (molecular weight = 16.5) are required to
-    produce 250 ml of a 13 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 53.62
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 16.5 \times 13 \times 0.25 = 53.62 \)
-- id: 17041
-  question: 'How many grams of compound X (molecular weight = 85.0) are required to
-    produce 300 ml of a 4 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 102.0
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 85.0 \times 4 \times 0.3 = 102.0 \)
-- id: 17042
-  question: 'How many grams of compound X (molecular weight = 67.5) are required to
-    produce 900 ml of a 7 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 425.25
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 67.5 \times 7 \times 0.9 = 425.25 \)
-- id: 17043
-  question: 'How many grams of compound X (molecular weight = 81.0) are required to
-    produce 300 ml of a 3 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 72.9
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 81.0 \times 3 \times 0.3 = 72.9 \)
-- id: 17044
-  question: 'How many grams of compound X (molecular weight = 42.5) are required to
-    produce 750 ml of a 12 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 382.5
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 42.5 \times 12 \times 0.75 = 382.5 \)
-- id: 17045
-  question: 'How many grams of compound X (molecular weight = 49.5) are required to
-    produce 250 ml of a 9 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 111.38
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 49.5 \times 9 \times 0.25 = 111.38 \)
-- id: 17046
-  question: 'How many grams of compound X (molecular weight = 27.0) are required to
-    produce 450 ml of a 9 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 109.35
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 27.0 \times 9 \times 0.45 = 109.35 \)
-- id: 17047
-  question: 'How many grams of compound X (molecular weight = 25.0) are required to
-    produce 650 ml of a 12 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 195.0
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 25.0 \times 12 \times 0.65 = 195.0 \)
-- id: 17048
-  question: 'How many grams of compound X (molecular weight = 41.0) are required to
-    produce 850 ml of a 5 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 174.25
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 41.0 \times 5 \times 0.85 = 174.25 \)
-- id: 17049
-  question: 'How many grams of compound X (molecular weight = 39.5) are required to
-    produce 400 ml of a 1 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 15.8
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 39.5 \times 1 \times 0.4 = 15.8 \)
-- id: 17050
-  question: 'How many grams of compound X (molecular weight = 96.0) are required to
-    produce 750 ml of a 14 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 1008.0
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 96.0 \times 14 \times 0.75 = 1008.0 \)
-- id: 17051
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 51.0 \times 2 \times 0.5 = 51.0 \)
+- id: 17006
   question: 'How many grams of compound X (molecular weight = 24.0) are required to
-    produce 650 ml of a 4 molar solution? <br />
+    produce 950 ml of a 7 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 62.4
+  answer: 159.6
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 24.0 \times 4 \times 0.65 = 62.4 \)
-- id: 17052
-  question: 'How many grams of compound X (molecular weight = 22.0) are required to
-    produce 200 ml of a 2 molar solution? <br />
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 24.0 \times 7 \times 0.95 = 159.6 \)
+- id: 17007
+  question: 'How many grams of compound X (molecular weight = 28.0) are required to
+    produce 350 ml of a 14 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 8.8
+  answer: 137.2
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 22.0 \times 2 \times 0.2 = 8.8 \)
-- id: 17053
-  question: 'How many grams of compound X (molecular weight = 15.5) are required to
-    produce 350 ml of a 1 molar solution? <br />
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 28.0 \times 14 \times 0.35 = 137.2 \)
+- id: 17008
+  question: 'How many grams of compound X (molecular weight = 97.0) are required to
+    produce 250 ml of a 14 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 5.42
+  answer: 339.5
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 15.5 \times 1 \times 0.35 = 5.42 \)
-- id: 17054
-  question: 'How many grams of compound X (molecular weight = 72.0) are required to
-    produce 350 ml of a 2 molar solution? <br />
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 97.0 \times 14 \times 0.25 = 339.5 \)
+- id: 17009
+  question: 'How many grams of compound X (molecular weight = 58.0) are required to
+    produce 500 ml of a 1 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 50.4
+  answer: 29.0
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 72.0 \times 2 \times 0.35 = 50.4 \)
-- id: 17055
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 58.0 \times 1 \times 0.5 = 29.0 \)
+- id: 17010
+  question: 'How many grams of compound X (molecular weight = 47.0) are required to
+    produce 700 ml of a 11 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 361.9
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 47.0 \times 11 \times 0.7 = 361.9 \)
+- id: 17011
   question: 'How many grams of compound X (molecular weight = 23.0) are required to
-    produce 500 ml of a 13 molar solution? <br />
+    produce 950 ml of a 10 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 149.5
+  answer: 218.5
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 23.0 \times 13 \times 0.5 = 149.5 \)
-- id: 17056
-  question: 'How many grams of compound X (molecular weight = 9.0) are required to
-    produce 950 ml of a 4 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 34.2
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 9.0 \times 4 \times 0.95 = 34.2 \)
-- id: 17057
-  question: 'How many grams of compound X (molecular weight = 89.0) are required to
-    produce 300 ml of a 1 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 26.7
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 89.0 \times 1 \times 0.3 = 26.7 \)
-- id: 17058
-  question: 'How many grams of compound X (molecular weight = 50.5) are required to
-    produce 750 ml of a 3 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 113.62
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 50.5 \times 3 \times 0.75 = 113.62 \)
-- id: 17059
-  question: 'How many grams of compound X (molecular weight = 19.5) are required to
-    produce 450 ml of a 15 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 131.62
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 19.5 \times 15 \times 0.45 = 131.62 \)
-- id: 17060
-  question: 'How many grams of compound X (molecular weight = 5.5) are required to
-    produce 950 ml of a 3 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 15.67
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 5.5 \times 3 \times 0.95 = 15.67 \)
-- id: 17061
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 23.0 \times 10 \times 0.95 = 218.5 \)
+- id: 17012
   question: 'How many grams of compound X (molecular weight = 48.5) are required to
-    produce 800 ml of a 12 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 465.6
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 48.5 \times 12 \times 0.8 = 465.6 \)
-- id: 17062
-  question: 'How many grams of compound X (molecular weight = 81.5) are required to
-    produce 400 ml of a 7 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 228.2
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 81.5 \times 7 \times 0.4 = 228.2 \)
-- id: 17063
-  question: 'How many grams of compound X (molecular weight = 92.5) are required to
-    produce 700 ml of a 3 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 194.25
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 92.5 \times 3 \times 0.7 = 194.25 \)
-- id: 17064
-  question: 'How many grams of compound X (molecular weight = 57.0) are required to
-    produce 650 ml of a 2 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 74.1
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 57.0 \times 2 \times 0.65 = 74.1 \)
-- id: 17065
-  question: 'How many grams of compound X (molecular weight = 58.5) are required to
-    produce 400 ml of a 14 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 327.6
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 58.5 \times 14 \times 0.4 = 327.6 \)
-- id: 17066
-  question: 'How many grams of compound X (molecular weight = 15.0) are required to
-    produce 900 ml of a 4 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 54.0
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 15.0 \times 4 \times 0.9 = 54.0 \)
-- id: 17067
-  question: 'How many grams of compound X (molecular weight = 33.0) are required to
-    produce 400 ml of a 4 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 52.8
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 33.0 \times 4 \times 0.4 = 52.8 \)
-- id: 17068
-  question: 'How many grams of compound X (molecular weight = 99.5) are required to
-    produce 800 ml of a 12 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 955.2
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 99.5 \times 12 \times 0.8 = 955.2 \)
-- id: 17069
-  question: 'How many grams of compound X (molecular weight = 61.5) are required to
-    produce 900 ml of a 12 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 664.2
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 61.5 \times 12 \times 0.9 = 664.2 \)
-- id: 17070
-  question: 'How many grams of compound X (molecular weight = 79.0) are required to
-    produce 600 ml of a 13 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 616.2
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 79.0 \times 13 \times 0.6 = 616.2 \)
-- id: 17071
-  question: 'How many grams of compound X (molecular weight = 57.5) are required to
-    produce 200 ml of a 3 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 34.5
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 57.5 \times 3 \times 0.2 = 34.5 \)
-- id: 17072
-  question: 'How many grams of compound X (molecular weight = 23.0) are required to
-    produce 150 ml of a 7 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 24.15
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 23.0 \times 7 \times 0.15 = 24.15 \)
-- id: 17073
-  question: 'How many grams of compound X (molecular weight = 81.0) are required to
-    produce 550 ml of a 1 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 44.55
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 81.0 \times 1 \times 0.55 = 44.55 \)
-- id: 17074
-  question: 'How many grams of compound X (molecular weight = 35.0) are required to
-    produce 450 ml of a 14 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 220.5
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 35.0 \times 14 \times 0.45 = 220.5 \)
-- id: 17075
-  question: 'How many grams of compound X (molecular weight = 34.5) are required to
-    produce 150 ml of a 7 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 36.23
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 34.5 \times 7 \times 0.15 = 36.23 \)
-- id: 17076
-  question: 'How many grams of compound X (molecular weight = 37.0) are required to
-    produce 200 ml of a 5 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 37.0
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 37.0 \times 5 \times 0.2 = 37.0 \)
-- id: 17077
-  question: 'How many grams of compound X (molecular weight = 52.5) are required to
-    produce 650 ml of a 8 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 273.0
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 52.5 \times 8 \times 0.65 = 273.0 \)
-- id: 17078
-  question: 'How many grams of compound X (molecular weight = 92.5) are required to
-    produce 850 ml of a 11 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 864.88
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 92.5 \times 11 \times 0.85 = 864.88 \)
-- id: 17079
-  question: 'How many grams of compound X (molecular weight = 67.5) are required to
     produce 600 ml of a 15 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 607.5
+  answer: 436.5
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 67.5 \times 15 \times 0.6 = 607.5 \)
-- id: 17080
-  question: 'How many grams of compound X (molecular weight = 100.0) are required
-    to produce 400 ml of a 10 molar solution? <br />
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 48.5 \times 15 \times 0.6 = 436.5 \)
+- id: 17013
+  question: 'How many grams of compound X (molecular weight = 19.0) are required to
+    produce 900 ml of a 15 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 400.0
+  answer: 256.5
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 100.0 \times 10 \times 0.4 = 400.0 \)
-- id: 17081
-  question: 'How many grams of compound X (molecular weight = 32.0) are required to
-    produce 250 ml of a 11 molar solution? <br />
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 19.0 \times 15 \times 0.9 = 256.5 \)
+- id: 17014
+  question: 'How many grams of compound X (molecular weight = 83.0) are required to
+    produce 600 ml of a 11 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 88.0
+  answer: 547.8
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 32.0 \times 11 \times 0.25 = 88.0 \)
-- id: 17082
-  question: 'How many grams of compound X (molecular weight = 37.0) are required to
-    produce 150 ml of a 2 molar solution? <br />
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 83.0 \times 11 \times 0.6 = 547.8 \)
+- id: 17015
+  question: 'How many grams of compound X (molecular weight = 70.0) are required to
+    produce 300 ml of a 7 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 11.1
+  answer: 147.0
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 37.0 \times 2 \times 0.15 = 11.1 \)
-- id: 17083
-  question: 'How many grams of compound X (molecular weight = 65.5) are required to
-    produce 900 ml of a 6 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 353.7
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 65.5 \times 6 \times 0.9 = 353.7 \)
-- id: 17084
-  question: 'How many grams of compound X (molecular weight = 20.5) are required to
-    produce 750 ml of a 10 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 153.75
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 20.5 \times 10 \times 0.75 = 153.75 \)
-- id: 17085
-  question: 'How many grams of compound X (molecular weight = 54.5) are required to
-    produce 300 ml of a 14 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 228.9
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 54.5 \times 14 \times 0.3 = 228.9 \)
-- id: 17086
-  question: 'How many grams of compound X (molecular weight = 61.5) are required to
-    produce 700 ml of a 4 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 172.2
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 61.5 \times 4 \times 0.7 = 172.2 \)
-- id: 17087
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 70.0 \times 7 \times 0.3 = 147.0 \)
+- id: 17016
   question: 'How many grams of compound X (molecular weight = 33.5) are required to
-    produce 450 ml of a 7 molar solution? <br />
+    produce 850 ml of a 2 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 105.53
+  answer: 56.95
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 33.5 \times 7 \times 0.45 = 105.53 \)
-- id: 17088
-  question: 'How many grams of compound X (molecular weight = 66.0) are required to
-    produce 700 ml of a 4 molar solution? <br />
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 33.5 \times 2 \times 0.85 = 56.95 \)
+- id: 17017
+  question: 'How many grams of compound X (molecular weight = 87.0) are required to
+    produce 850 ml of a 7 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 517.65
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 87.0 \times 7 \times 0.85 = 517.65 \)
+- id: 17018
+  question: 'How many grams of compound X (molecular weight = 33.0) are required to
+    produce 700 ml of a 8 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
   answer: 184.8
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 66.0 \times 4 \times 0.7 = 184.8 \)
-- id: 17089
-  question: 'How many grams of compound X (molecular weight = 93.5) are required to
-    produce 800 ml of a 6 molar solution? <br />
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 33.0 \times 8 \times 0.7 = 184.8 \)
+- id: 17019
+  question: 'How many grams of compound X (molecular weight = 78.5) are required to
+    produce 150 ml of a 4 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 448.8
+  answer: 47.1
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 93.5 \times 6 \times 0.8 = 448.8 \)
-- id: 17090
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 78.5 \times 4 \times 0.15 = 47.1 \)
+- id: 17020
+  question: 'How many grams of compound X (molecular weight = 20.5) are required to
+    produce 900 ml of a 13 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 239.85
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 20.5 \times 13 \times 0.9 = 239.85 \)
+- id: 17021
+  question: 'How many grams of compound X (molecular weight = 46.5) are required to
+    produce 900 ml of a 15 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 627.75
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 46.5 \times 15 \times 0.9 = 627.75 \)
+- id: 17022
+  question: 'How many grams of compound X (molecular weight = 6.5) are required to
+    produce 650 ml of a 12 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 50.7
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 6.5 \times 12 \times 0.65 = 50.7 \)
+- id: 17023
+  question: 'How many grams of compound X (molecular weight = 71.0) are required to
+    produce 150 ml of a 8 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 85.2
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 71.0 \times 8 \times 0.15 = 85.2 \)
+- id: 17024
   question: 'How many grams of compound X (molecular weight = 81.5) are required to
-    produce 250 ml of a 15 molar solution? <br />
+    produce 150 ml of a 4 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 305.62
+  answer: 48.9
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 81.5 \times 15 \times 0.25 = 305.62 \)
-- id: 17091
-  question: 'How many grams of compound X (molecular weight = 86.0) are required to
-    produce 250 ml of a 3 molar solution? <br />
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 81.5 \times 4 \times 0.15 = 48.9 \)
+- id: 17025
+  question: 'How many grams of compound X (molecular weight = 97.0) are required to
+    produce 100 ml of a 15 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 64.5
+  answer: 145.5
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 86.0 \times 3 \times 0.25 = 64.5 \)
-- id: 17092
-  question: 'How many grams of compound X (molecular weight = 77.0) are required to
-    produce 800 ml of a 7 molar solution? <br />
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 97.0 \times 15 \times 0.1 = 145.5 \)
+- id: 17026
+  question: 'How many grams of compound X (molecular weight = 67.5) are required to
+    produce 700 ml of a 11 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 431.2
+  answer: 519.75
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 77.0 \times 7 \times 0.8 = 431.2 \)
-- id: 17093
-  question: 'How many grams of compound X (molecular weight = 99.0) are required to
-    produce 350 ml of a 14 molar solution? <br />
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 67.5 \times 11 \times 0.7 = 519.75 \)
+- id: 17027
+  question: 'How many grams of compound X (molecular weight = 39.0) are required to
+    produce 950 ml of a 3 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 485.1
+  answer: 111.15
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 99.0 \times 14 \times 0.35 = 485.1 \)
-- id: 17094
-  question: 'How many grams of compound X (molecular weight = 65.5) are required to
-    produce 200 ml of a 13 molar solution? <br />
-
-    Give the answer correct to 2 decimal places'
-  answer: 170.3
-  solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 65.5 \times 13 \times 0.2 = 170.3 \)
-- id: 17095
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 39.0 \times 3 \times 0.95 = 111.15 \)
+- id: 17028
   question: 'How many grams of compound X (molecular weight = 28.5) are required to
+    produce 200 ml of a 4 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 22.8
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 28.5 \times 4 \times 0.2 = 22.8 \)
+- id: 17029
+  question: 'How many grams of compound X (molecular weight = 5.0) are required to
+    produce 200 ml of a 14 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 14.0
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 5.0 \times 14 \times 0.2 = 14.0 \)
+- id: 17030
+  question: 'How many grams of compound X (molecular weight = 52.5) are required to
+    produce 150 ml of a 11 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 86.62
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 52.5 \times 11 \times 0.15 = 86.62 \)
+- id: 17031
+  question: 'How many grams of compound X (molecular weight = 27.0) are required to
+    produce 150 ml of a 15 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 60.75
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 27.0 \times 15 \times 0.15 = 60.75 \)
+- id: 17032
+  question: 'How many grams of compound X (molecular weight = 12.0) are required to
+    produce 200 ml of a 8 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 19.2
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 12.0 \times 8 \times 0.2 = 19.2 \)
+- id: 17033
+  question: 'How many grams of compound X (molecular weight = 67.0) are required to
+    produce 100 ml of a 7 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 46.9
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 67.0 \times 7 \times 0.1 = 46.9 \)
+- id: 17034
+  question: 'How many grams of compound X (molecular weight = 58.0) are required to
+    produce 900 ml of a 6 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 313.2
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 58.0 \times 6 \times 0.9 = 313.2 \)
+- id: 17035
+  question: 'How many grams of compound X (molecular weight = 45.5) are required to
+    produce 300 ml of a 1 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 13.65
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 45.5 \times 1 \times 0.3 = 13.65 \)
+- id: 17036
+  question: 'How many grams of compound X (molecular weight = 98.5) are required to
+    produce 650 ml of a 5 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 320.12
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 98.5 \times 5 \times 0.65 = 320.12 \)
+- id: 17037
+  question: 'How many grams of compound X (molecular weight = 44.5) are required to
+    produce 350 ml of a 11 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 171.32
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 44.5 \times 11 \times 0.35 = 171.32 \)
+- id: 17038
+  question: 'How many grams of compound X (molecular weight = 88.5) are required to
+    produce 800 ml of a 1 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 70.8
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 88.5 \times 1 \times 0.8 = 70.8 \)
+- id: 17039
+  question: 'How many grams of compound X (molecular weight = 44.0) are required to
+    produce 100 ml of a 14 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 61.6
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 44.0 \times 14 \times 0.1 = 61.6 \)
+- id: 17040
+  question: 'How many grams of compound X (molecular weight = 11.5) are required to
+    produce 900 ml of a 11 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 113.85
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 11.5 \times 11 \times 0.9 = 113.85 \)
+- id: 17041
+  question: 'How many grams of compound X (molecular weight = 76.5) are required to
+    produce 650 ml of a 7 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 348.07
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 76.5 \times 7 \times 0.65 = 348.07 \)
+- id: 17042
+  question: 'How many grams of compound X (molecular weight = 83.0) are required to
+    produce 350 ml of a 13 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 377.65
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 83.0 \times 13 \times 0.35 = 377.65 \)
+- id: 17043
+  question: 'How many grams of compound X (molecular weight = 49.5) are required to
+    produce 300 ml of a 1 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 14.85
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 49.5 \times 1 \times 0.3 = 14.85 \)
+- id: 17044
+  question: 'How many grams of compound X (molecular weight = 28.5) are required to
+    produce 900 ml of a 7 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 179.55
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 28.5 \times 7 \times 0.9 = 179.55 \)
+- id: 17045
+  question: 'How many grams of compound X (molecular weight = 47.0) are required to
+    produce 350 ml of a 9 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 148.05
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 47.0 \times 9 \times 0.35 = 148.05 \)
+- id: 17046
+  question: 'How many grams of compound X (molecular weight = 18.5) are required to
+    produce 450 ml of a 7 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 58.28
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 18.5 \times 7 \times 0.45 = 58.28 \)
+- id: 17047
+  question: 'How many grams of compound X (molecular weight = 39.5) are required to
+    produce 350 ml of a 8 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 110.6
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 39.5 \times 8 \times 0.35 = 110.6 \)
+- id: 17048
+  question: 'How many grams of compound X (molecular weight = 88.0) are required to
+    produce 300 ml of a 8 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 211.2
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 88.0 \times 8 \times 0.3 = 211.2 \)
+- id: 17049
+  question: 'How many grams of compound X (molecular weight = 93.0) are required to
+    produce 750 ml of a 12 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 837.0
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 93.0 \times 12 \times 0.75 = 837.0 \)
+- id: 17050
+  question: 'How many grams of compound X (molecular weight = 39.5) are required to
+    produce 450 ml of a 9 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 159.98
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 39.5 \times 9 \times 0.45 = 159.98 \)
+- id: 17051
+  question: 'How many grams of compound X (molecular weight = 76.5) are required to
+    produce 500 ml of a 14 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 535.5
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 76.5 \times 14 \times 0.5 = 535.5 \)
+- id: 17052
+  question: 'How many grams of compound X (molecular weight = 34.0) are required to
+    produce 250 ml of a 5 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 42.5
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 34.0 \times 5 \times 0.25 = 42.5 \)
+- id: 17053
+  question: 'How many grams of compound X (molecular weight = 93.0) are required to
+    produce 100 ml of a 5 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 46.5
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 93.0 \times 5 \times 0.1 = 46.5 \)
+- id: 17054
+  question: 'How many grams of compound X (molecular weight = 18.5) are required to
+    produce 300 ml of a 5 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 27.75
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 18.5 \times 5 \times 0.3 = 27.75 \)
+- id: 17055
+  question: 'How many grams of compound X (molecular weight = 87.0) are required to
+    produce 350 ml of a 10 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 304.5
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 87.0 \times 10 \times 0.35 = 304.5 \)
+- id: 17056
+  question: 'How many grams of compound X (molecular weight = 18.5) are required to
+    produce 900 ml of a 2 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 33.3
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 18.5 \times 2 \times 0.9 = 33.3 \)
+- id: 17057
+  question: 'How many grams of compound X (molecular weight = 87.0) are required to
+    produce 300 ml of a 5 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 130.5
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 87.0 \times 5 \times 0.3 = 130.5 \)
+- id: 17058
+  question: 'How many grams of compound X (molecular weight = 16.5) are required to
+    produce 550 ml of a 7 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 63.53
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 16.5 \times 7 \times 0.55 = 63.53 \)
+- id: 17059
+  question: 'How many grams of compound X (molecular weight = 5.0) are required to
+    produce 600 ml of a 11 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 33.0
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 5.0 \times 11 \times 0.6 = 33.0 \)
+- id: 17060
+  question: 'How many grams of compound X (molecular weight = 39.5) are required to
+    produce 300 ml of a 3 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 35.55
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 39.5 \times 3 \times 0.3 = 35.55 \)
+- id: 17061
+  question: 'How many grams of compound X (molecular weight = 69.5) are required to
+    produce 100 ml of a 10 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 69.5
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 69.5 \times 10 \times 0.1 = 69.5 \)
+- id: 17062
+  question: 'How many grams of compound X (molecular weight = 15.0) are required to
+    produce 100 ml of a 13 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 19.5
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 15.0 \times 13 \times 0.1 = 19.5 \)
+- id: 17063
+  question: 'How many grams of compound X (molecular weight = 53.0) are required to
+    produce 150 ml of a 8 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 63.6
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 53.0 \times 8 \times 0.15 = 63.6 \)
+- id: 17064
+  question: 'How many grams of compound X (molecular weight = 40.5) are required to
+    produce 500 ml of a 15 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 303.75
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 40.5 \times 15 \times 0.5 = 303.75 \)
+- id: 17065
+  question: 'How many grams of compound X (molecular weight = 19.0) are required to
+    produce 250 ml of a 11 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 52.25
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 19.0 \times 11 \times 0.25 = 52.25 \)
+- id: 17066
+  question: 'How many grams of compound X (molecular weight = 57.0) are required to
+    produce 900 ml of a 4 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 205.2
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 57.0 \times 4 \times 0.9 = 205.2 \)
+- id: 17067
+  question: 'How many grams of compound X (molecular weight = 46.5) are required to
+    produce 100 ml of a 9 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 41.85
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 46.5 \times 9 \times 0.1 = 41.85 \)
+- id: 17068
+  question: 'How many grams of compound X (molecular weight = 84.0) are required to
+    produce 750 ml of a 9 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 567.0
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 84.0 \times 9 \times 0.75 = 567.0 \)
+- id: 17069
+  question: 'How many grams of compound X (molecular weight = 82.5) are required to
+    produce 150 ml of a 5 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 61.88
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 82.5 \times 5 \times 0.15 = 61.88 \)
+- id: 17070
+  question: 'How many grams of compound X (molecular weight = 95.0) are required to
+    produce 250 ml of a 5 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 118.75
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 95.0 \times 5 \times 0.25 = 118.75 \)
+- id: 17071
+  question: 'How many grams of compound X (molecular weight = 31.0) are required to
+    produce 600 ml of a 5 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 93.0
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 31.0 \times 5 \times 0.6 = 93.0 \)
+- id: 17072
+  question: 'How many grams of compound X (molecular weight = 85.5) are required to
+    produce 650 ml of a 15 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 833.62
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 85.5 \times 15 \times 0.65 = 833.62 \)
+- id: 17073
+  question: 'How many grams of compound X (molecular weight = 60.5) are required to
+    produce 450 ml of a 8 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 217.8
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 60.5 \times 8 \times 0.45 = 217.8 \)
+- id: 17074
+  question: 'How many grams of compound X (molecular weight = 54.0) are required to
+    produce 750 ml of a 8 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 324.0
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 54.0 \times 8 \times 0.75 = 324.0 \)
+- id: 17075
+  question: 'How many grams of compound X (molecular weight = 29.0) are required to
+    produce 300 ml of a 7 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 60.9
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 29.0 \times 7 \times 0.3 = 60.9 \)
+- id: 17076
+  question: 'How many grams of compound X (molecular weight = 34.5) are required to
     produce 500 ml of a 9 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 128.25
+  answer: 155.25
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 28.5 \times 9 \times 0.5 = 128.25 \)
-- id: 17096
-  question: 'How many grams of compound X (molecular weight = 34.5) are required to
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 34.5 \times 9 \times 0.5 = 155.25 \)
+- id: 17077
+  question: 'How many grams of compound X (molecular weight = 78.5) are required to
+    produce 250 ml of a 13 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 255.12
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 78.5 \times 13 \times 0.25 = 255.12 \)
+- id: 17078
+  question: 'How many grams of compound X (molecular weight = 29.0) are required to
+    produce 550 ml of a 9 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 143.55
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 29.0 \times 9 \times 0.55 = 143.55 \)
+- id: 17079
+  question: 'How many grams of compound X (molecular weight = 47.0) are required to
     produce 150 ml of a 3 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 15.52
+  answer: 21.15
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 34.5 \times 3 \times 0.15 = 15.52 \)
-- id: 17097
-  question: 'How many grams of compound X (molecular weight = 69.0) are required to
-    produce 950 ml of a 10 molar solution? <br />
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 47.0 \times 3 \times 0.15 = 21.15 \)
+- id: 17080
+  question: 'How many grams of compound X (molecular weight = 5.5) are required to
+    produce 200 ml of a 5 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 655.5
+  answer: 5.5
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 69.0 \times 10 \times 0.95 = 655.5 \)
-- id: 17098
-  question: 'How many grams of compound X (molecular weight = 80.0) are required to
-    produce 450 ml of a 14 molar solution? <br />
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 5.5 \times 5 \times 0.2 = 5.5 \)
+- id: 17081
+  question: 'How many grams of compound X (molecular weight = 29.0) are required to
+    produce 350 ml of a 11 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 504.0
+  answer: 111.65
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 80.0 \times 14 \times 0.45 = 504.0 \)
-- id: 17099
-  question: 'How many grams of compound X (molecular weight = 33.5) are required to
-    produce 850 ml of a 4 molar solution? <br />
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 29.0 \times 11 \times 0.35 = 111.65 \)
+- id: 17082
+  question: 'How many grams of compound X (molecular weight = 92.0) are required to
+    produce 950 ml of a 3 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 113.9
+  answer: 262.2
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 33.5 \times 4 \times 0.85 = 113.9 \)
-- id: 17100
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 92.0 \times 3 \times 0.95 = 262.2 \)
+- id: 17083
+  question: 'How many grams of compound X (molecular weight = 44.0) are required to
+    produce 350 ml of a 1 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 15.4
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 44.0 \times 1 \times 0.35 = 15.4 \)
+- id: 17084
+  question: 'How many grams of compound X (molecular weight = 68.5) are required to
+    produce 650 ml of a 5 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 222.62
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 68.5 \times 5 \times 0.65 = 222.62 \)
+- id: 17085
+  question: 'How many grams of compound X (molecular weight = 91.0) are required to
+    produce 400 ml of a 13 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 473.2
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 91.0 \times 13 \times 0.4 = 473.2 \)
+- id: 17086
+  question: 'How many grams of compound X (molecular weight = 52.0) are required to
+    produce 300 ml of a 6 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 93.6
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 52.0 \times 6 \times 0.3 = 93.6 \)
+- id: 17087
+  question: 'How many grams of compound X (molecular weight = 22.0) are required to
+    produce 550 ml of a 9 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 108.9
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 22.0 \times 9 \times 0.55 = 108.9 \)
+- id: 17088
   question: 'How many grams of compound X (molecular weight = 38.0) are required to
+    produce 450 ml of a 6 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 102.6
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 38.0 \times 6 \times 0.45 = 102.6 \)
+- id: 17089
+  question: 'How many grams of compound X (molecular weight = 39.5) are required to
+    produce 550 ml of a 12 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 260.7
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 39.5 \times 12 \times 0.55 = 260.7 \)
+- id: 17090
+  question: 'How many grams of compound X (molecular weight = 81.5) are required to
+    produce 500 ml of a 5 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 203.75
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 81.5 \times 5 \times 0.5 = 203.75 \)
+- id: 17091
+  question: 'How many grams of compound X (molecular weight = 97.0) are required to
+    produce 900 ml of a 6 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 523.8
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 97.0 \times 6 \times 0.9 = 523.8 \)
+- id: 17092
+  question: 'How many grams of compound X (molecular weight = 34.0) are required to
+    produce 600 ml of a 13 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 265.2
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 34.0 \times 13 \times 0.6 = 265.2 \)
+- id: 17093
+  question: 'How many grams of compound X (molecular weight = 48.0) are required to
+    produce 200 ml of a 8 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 76.8
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 48.0 \times 8 \times 0.2 = 76.8 \)
+- id: 17094
+  question: 'How many grams of compound X (molecular weight = 77.5) are required to
+    produce 950 ml of a 15 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 1104.38
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 77.5 \times 15 \times 0.95 = 1104.38 \)
+- id: 17095
+  question: 'How many grams of compound X (molecular weight = 14.0) are required to
+    produce 750 ml of a 9 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 94.5
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 14.0 \times 9 \times 0.75 = 94.5 \)
+- id: 17096
+  question: 'How many grams of compound X (molecular weight = 95.5) are required to
+    produce 550 ml of a 1 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 52.53
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 95.5 \times 1 \times 0.55 = 52.53 \)
+- id: 17097
+  question: 'How many grams of compound X (molecular weight = 48.5) are required to
+    produce 450 ml of a 6 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 130.95
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 48.5 \times 6 \times 0.45 = 130.95 \)
+- id: 17098
+  question: 'How many grams of compound X (molecular weight = 96.5) are required to
     produce 750 ml of a 2 molar solution? <br />
 
     Give the answer correct to 2 decimal places'
-  answer: 57.0
+  answer: 144.75
   solution: |-
-    \( \text{mass g} = \text{MW g/mol } \times \text{Molarity mol/L } \times \text{Volume L} \) <br />
-    \( 38.0 \times 2 \times 0.75 = 57.0 \)
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 96.5 \times 2 \times 0.75 = 144.75 \)
+- id: 17099
+  question: 'How many grams of compound X (molecular weight = 18.5) are required to
+    produce 800 ml of a 4 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 59.2
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 18.5 \times 4 \times 0.8 = 59.2 \)
+- id: 17100
+  question: 'How many grams of compound X (molecular weight = 34.5) are required to
+    produce 500 ml of a 10 molar solution? <br />
+
+    Give the answer correct to 2 decimal places'
+  answer: 172.5
+  solution: |-
+    \( \text{mass (g)} = \text{MW (g/mol) } \times \text{Molarity (mol/L) } \times \text{Volume (L)} \) <br />
+    \( 34.5 \times 10 \times 0.5 = 172.5 \)
