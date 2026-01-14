@@ -1,0 +1,700 @@
+- id: 14001
+  question: Convert 0.00005540 g into mcg.
+  answer: 55.4
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00005540 \times 1000000 = 55.4 \) <br />
+    55.4
+- id: 14002
+  question: Convert 0.00249 mg into mcg.
+  answer: 2.49
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00249 \times 1000 = 2.49 \) <br />
+    2.49
+- id: 14003
+  question: Convert 0.06430 g into mg.
+  answer: 64.3
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.06430 \times 1000 = 64.3 \) <br />
+    64.3
+- id: 14004
+  question: Convert 0.07730 g into mg.
+  answer: 77.3
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.07730 \times 1000 = 77.3 \) <br />
+    77.3
+- id: 14005
+  question: Convert 0.00005390 kg into mg.
+  answer: 53.9
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00005390 \times 1000000 = 53.9 \) <br />
+    53.9
+- id: 14006
+  question: Convert 0.00000650 kg into mg.
+  answer: 6.5
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00000650 \times 1000000 = 6.5 \) <br />
+    6.5
+- id: 14007
+  question: Convert 0.01800 kg into g.
+  answer: 18.0
+  solution: |-
+    To convert kg into g, multiply by 1000 <br />
+    \(0.01800 \times 1000 = 18.0 \) <br />
+    18.0
+- id: 14008
+  question: Convert 0.00008980 kg into mg.
+  answer: 89.8
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00008980 \times 1000000 = 89.8 \) <br />
+    89.8
+- id: 14009
+  question: Convert 0.00000000969 kg into mcg.
+  answer: 9.69
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000000969 \times 1000000000 = 9.69 \) <br />
+    9.69
+- id: 14010
+  question: Convert 0.00000658 kg into mg.
+  answer: 6.58
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00000658 \times 1000000 = 6.58 \) <br />
+    6.58
+- id: 14011
+  question: Convert 0.00000193 g into mcg.
+  answer: 1.93
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000193 \times 1000000 = 1.93 \) <br />
+    1.93
+- id: 14012
+  question: Convert 0.00000002790 kg into mcg.
+  answer: 27.9
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000002790 \times 1000000000 = 27.9 \) <br />
+    27.9
+- id: 14013
+  question: Convert 0.00004850 kg into mg.
+  answer: 48.5
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00004850 \times 1000000 = 48.5 \) <br />
+    48.5
+- id: 14014
+  question: Convert 0.00188 g into mg.
+  answer: 1.88
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00188 \times 1000 = 1.88 \) <br />
+    1.88
+- id: 14015
+  question: Convert 0.00198 kg into g.
+  answer: 1.98
+  solution: |-
+    To convert kg into g, multiply by 1000 <br />
+    \(0.00198 \times 1000 = 1.98 \) <br />
+    1.98
+- id: 14016
+  question: Convert 0.00981 g into mg.
+  answer: 9.81
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00981 \times 1000 = 9.81 \) <br />
+    9.81
+- id: 14017
+  question: Convert 0.00000000305 kg into mcg.
+  answer: 3.05
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000000305 \times 1000000000 = 3.05 \) <br />
+    3.05
+- id: 14018
+  question: Convert 0.00000186 kg into mg.
+  answer: 1.86
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00000186 \times 1000000 = 1.86 \) <br />
+    1.86
+- id: 14019
+  question: Convert 0.00007570 kg into mg.
+  answer: 75.7
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00007570 \times 1000000 = 75.7 \) <br />
+    75.7
+- id: 14020
+  question: Convert 0.04810 g into mg.
+  answer: 48.1
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.04810 \times 1000 = 48.1 \) <br />
+    48.1
+- id: 14021
+  question: Convert 0.00002760 g into mcg.
+  answer: 27.6
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00002760 \times 1000000 = 27.6 \) <br />
+    27.6
+- id: 14022
+  question: Convert 0.00000008890 kg into mcg.
+  answer: 88.9
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000008890 \times 1000000000 = 88.9 \) <br />
+    88.9
+- id: 14023
+  question: Convert 0.00678 g into mg.
+  answer: 6.78
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00678 \times 1000 = 6.78 \) <br />
+    6.78
+- id: 14024
+  question: Convert 0.00000233 kg into mg.
+  answer: 2.33
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00000233 \times 1000000 = 2.33 \) <br />
+    2.33
+- id: 14025
+  question: Convert 0.00000000543 kg into mcg.
+  answer: 5.43
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000000543 \times 1000000000 = 5.43 \) <br />
+    5.43
+- id: 14026
+  question: Convert 0.00000000553 kg into mcg.
+  answer: 5.53
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000000553 \times 1000000000 = 5.53 \) <br />
+    5.53
+- id: 14027
+  question: Convert 0.00867 kg into g.
+  answer: 8.67
+  solution: |-
+    To convert kg into g, multiply by 1000 <br />
+    \(0.00867 \times 1000 = 8.67 \) <br />
+    8.67
+- id: 14028
+  question: Convert 0.00004270 kg into mg.
+  answer: 42.7
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00004270 \times 1000000 = 42.7 \) <br />
+    42.7
+- id: 14029
+  question: Convert 0.00000008140 kg into mcg.
+  answer: 81.4
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000008140 \times 1000000000 = 81.4 \) <br />
+    81.4
+- id: 14030
+  question: Convert 0.06940 mg into mcg.
+  answer: 69.4
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.06940 \times 1000 = 69.4 \) <br />
+    69.4
+- id: 14031
+  question: Convert 0.05910 mg into mcg.
+  answer: 59.1
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.05910 \times 1000 = 59.1 \) <br />
+    59.1
+- id: 14032
+  question: Convert 0.00357 g into mg.
+  answer: 3.57
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00357 \times 1000 = 3.57 \) <br />
+    3.57
+- id: 14033
+  question: Convert 0.00000008060 kg into mcg.
+  answer: 80.6
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000008060 \times 1000000000 = 80.6 \) <br />
+    80.6
+- id: 14034
+  question: Convert 0.00369 g into mg.
+  answer: 3.69
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00369 \times 1000 = 3.69 \) <br />
+    3.69
+- id: 14035
+  question: Convert 0.00000672 g into mcg.
+  answer: 6.72
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000672 \times 1000000 = 6.72 \) <br />
+    6.72
+- id: 14036
+  question: Convert 0.00002560 kg into mg.
+  answer: 25.6
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00002560 \times 1000000 = 25.6 \) <br />
+    25.6
+- id: 14037
+  question: Convert 0.00242 kg into g.
+  answer: 2.42
+  solution: |-
+    To convert kg into g, multiply by 1000 <br />
+    \(0.00242 \times 1000 = 2.42 \) <br />
+    2.42
+- id: 14038
+  question: Convert 0.00000085 kg into mg.
+  answer: 0.85
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00000085 \times 1000000 = 0.85 \) <br />
+    0.85
+- id: 14039
+  question: Convert 0.00625 mg into mcg.
+  answer: 6.25
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00625 \times 1000 = 6.25 \) <br />
+    6.25
+- id: 14040
+  question: Convert 0.00008070 g into mcg.
+  answer: 80.7
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00008070 \times 1000000 = 80.7 \) <br />
+    80.7
+- id: 14041
+  question: Convert 0.00000009680 kg into mcg.
+  answer: 96.8
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000009680 \times 1000000000 = 96.8 \) <br />
+    96.8
+- id: 14042
+  question: Convert 0.00005980 kg into mg.
+  answer: 59.8
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00005980 \times 1000000 = 59.8 \) <br />
+    59.8
+- id: 14043
+  question: Convert 0.02780 mg into mcg.
+  answer: 27.8
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.02780 \times 1000 = 27.8 \) <br />
+    27.8
+- id: 14044
+  question: Convert 0.09720 mg into mcg.
+  answer: 97.2
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.09720 \times 1000 = 97.2 \) <br />
+    97.2
+- id: 14045
+  question: Convert 0.00000904 kg into mg.
+  answer: 9.04
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00000904 \times 1000000 = 9.04 \) <br />
+    9.04
+- id: 14046
+  question: Convert 0.00000009740 kg into mcg.
+  answer: 97.4
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000009740 \times 1000000000 = 97.4 \) <br />
+    97.4
+- id: 14047
+  question: Convert 0.00328 g into mg.
+  answer: 3.28
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00328 \times 1000 = 3.28 \) <br />
+    3.28
+- id: 14048
+  question: Convert 0.00000003680 kg into mcg.
+  answer: 36.8
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000003680 \times 1000000000 = 36.8 \) <br />
+    36.8
+- id: 14049
+  question: Convert 0.00008780 g into mcg.
+  answer: 87.8
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00008780 \times 1000000 = 87.8 \) <br />
+    87.8
+- id: 14050
+  question: Convert 0.00000453 kg into mg.
+  answer: 4.53
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00000453 \times 1000000 = 4.53 \) <br />
+    4.53
+- id: 14051
+  question: Convert 0.02920 g into mg.
+  answer: 29.2
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.02920 \times 1000 = 29.2 \) <br />
+    29.2
+- id: 14052
+  question: Convert 0.00000000850 kg into mcg.
+  answer: 8.5
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000000850 \times 1000000000 = 8.5 \) <br />
+    8.5
+- id: 14053
+  question: Convert 0.00000752 kg into mg.
+  answer: 7.52
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00000752 \times 1000000 = 7.52 \) <br />
+    7.52
+- id: 14054
+  question: Convert 0.00000000318 kg into mcg.
+  answer: 3.18
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000000318 \times 1000000000 = 3.18 \) <br />
+    3.18
+- id: 14055
+  question: Convert 0.00008280 g into mcg.
+  answer: 82.8
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00008280 \times 1000000 = 82.8 \) <br />
+    82.8
+- id: 14056
+  question: Convert 0.00000000080 kg into mcg.
+  answer: 0.8
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000000080 \times 1000000000 = 0.8 \) <br />
+    0.8
+- id: 14057
+  question: Convert 0.00000009850 kg into mcg.
+  answer: 98.5
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000009850 \times 1000000000 = 98.5 \) <br />
+    98.5
+- id: 14058
+  question: Convert 0.00314 g into mg.
+  answer: 3.14
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00314 \times 1000 = 3.14 \) <br />
+    3.14
+- id: 14059
+  question: Convert 0.00000167 g into mcg.
+  answer: 1.67
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000167 \times 1000000 = 1.67 \) <br />
+    1.67
+- id: 14060
+  question: Convert 0.00293 g into mg.
+  answer: 2.93
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00293 \times 1000 = 2.93 \) <br />
+    2.93
+- id: 14061
+  question: Convert 0.00703 kg into g.
+  answer: 7.03
+  solution: |-
+    To convert kg into g, multiply by 1000 <br />
+    \(0.00703 \times 1000 = 7.03 \) <br />
+    7.03
+- id: 14062
+  question: Convert 0.00005060 g into mcg.
+  answer: 50.6
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00005060 \times 1000000 = 50.6 \) <br />
+    50.6
+- id: 14063
+  question: Convert 0.00000003870 kg into mcg.
+  answer: 38.7
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000003870 \times 1000000000 = 38.7 \) <br />
+    38.7
+- id: 14064
+  question: Convert 0.00007500 kg into mg.
+  answer: 75.0
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00007500 \times 1000000 = 75.0 \) <br />
+    75.0
+- id: 14065
+  question: Convert 0.08580 g into mg.
+  answer: 85.8
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.08580 \times 1000 = 85.8 \) <br />
+    85.8
+- id: 14066
+  question: Convert 0.00000560 kg into mg.
+  answer: 5.6
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00000560 \times 1000000 = 5.6 \) <br />
+    5.6
+- id: 14067
+  question: Convert 0.00000005870 kg into mcg.
+  answer: 58.7
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000005870 \times 1000000000 = 58.7 \) <br />
+    58.7
+- id: 14068
+  question: Convert 0.00386 g into mg.
+  answer: 3.86
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00386 \times 1000 = 3.86 \) <br />
+    3.86
+- id: 14069
+  question: Convert 0.00000077 kg into mg.
+  answer: 0.77
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00000077 \times 1000000 = 0.77 \) <br />
+    0.77
+- id: 14070
+  question: Convert 0.00000884 g into mcg.
+  answer: 8.84
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000884 \times 1000000 = 8.84 \) <br />
+    8.84
+- id: 14071
+  question: Convert 0.00000007830 kg into mcg.
+  answer: 78.3
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000007830 \times 1000000000 = 78.3 \) <br />
+    78.3
+- id: 14072
+  question: Convert 0.00000000055 kg into mcg.
+  answer: 0.55
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000000055 \times 1000000000 = 0.55 \) <br />
+    0.55
+- id: 14073
+  question: Convert 0.00000098 kg into mg.
+  answer: 0.98
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00000098 \times 1000000 = 0.98 \) <br />
+    0.98
+- id: 14074
+  question: Convert 0.00000003960 kg into mcg.
+  answer: 39.6
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000003960 \times 1000000000 = 39.6 \) <br />
+    39.6
+- id: 14075
+  question: Convert 0.00006020 kg into mg.
+  answer: 60.2
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00006020 \times 1000000 = 60.2 \) <br />
+    60.2
+- id: 14076
+  question: Convert 0.00882 g into mg.
+  answer: 8.82
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00882 \times 1000 = 8.82 \) <br />
+    8.82
+- id: 14077
+  question: Convert 0.00000690 g into mcg.
+  answer: 6.9
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000690 \times 1000000 = 6.9 \) <br />
+    6.9
+- id: 14078
+  question: Convert 0.00000513 kg into mg.
+  answer: 5.13
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00000513 \times 1000000 = 5.13 \) <br />
+    5.13
+- id: 14079
+  question: Convert 0.00245 mg into mcg.
+  answer: 2.45
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00245 \times 1000 = 2.45 \) <br />
+    2.45
+- id: 14080
+  question: Convert 0.09410 mg into mcg.
+  answer: 94.1
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.09410 \times 1000 = 94.1 \) <br />
+    94.1
+- id: 14081
+  question: Convert 0.00477 g into mg.
+  answer: 4.77
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00477 \times 1000 = 4.77 \) <br />
+    4.77
+- id: 14082
+  question: Convert 0.00000874 g into mcg.
+  answer: 8.74
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000874 \times 1000000 = 8.74 \) <br />
+    8.74
+- id: 14083
+  question: Convert 0.02280 g into mg.
+  answer: 22.8
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.02280 \times 1000 = 22.8 \) <br />
+    22.8
+- id: 14084
+  question: Convert 0.00124 g into mg.
+  answer: 1.24
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00124 \times 1000 = 1.24 \) <br />
+    1.24
+- id: 14085
+  question: Convert 0.00593 mg into mcg.
+  answer: 5.93
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00593 \times 1000 = 5.93 \) <br />
+    5.93
+- id: 14086
+  question: Convert 0.01060 mg into mcg.
+  answer: 10.6
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.01060 \times 1000 = 10.6 \) <br />
+    10.6
+- id: 14087
+  question: Convert 0.00000008060 kg into mcg.
+  answer: 80.6
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000008060 \times 1000000000 = 80.6 \) <br />
+    80.6
+- id: 14088
+  question: Convert 0.00451 g into mg.
+  answer: 4.51
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00451 \times 1000 = 4.51 \) <br />
+    4.51
+- id: 14089
+  question: Convert 0.00000000426 kg into mcg.
+  answer: 4.26
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000000426 \times 1000000000 = 4.26 \) <br />
+    4.26
+- id: 14090
+  question: Convert 0.00855 kg into g.
+  answer: 8.55
+  solution: |-
+    To convert kg into g, multiply by 1000 <br />
+    \(0.00855 \times 1000 = 8.55 \) <br />
+    8.55
+- id: 14091
+  question: Convert 0.00000120 kg into mg.
+  answer: 1.2
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00000120 \times 1000000 = 1.2 \) <br />
+    1.2
+- id: 14092
+  question: Convert 0.00000000566 kg into mcg.
+  answer: 5.66
+  solution: |-
+    To convert kg into mcg, multiply by 1000000000 <br />
+    \(0.00000000566 \times 1000000000 = 5.66 \) <br />
+    5.66
+- id: 14093
+  question: Convert 0.00006540 kg into mg.
+  answer: 65.4
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00006540 \times 1000000 = 65.4 \) <br />
+    65.4
+- id: 14094
+  question: Convert 0.05880 kg into g.
+  answer: 58.8
+  solution: |-
+    To convert kg into g, multiply by 1000 <br />
+    \(0.05880 \times 1000 = 58.8 \) <br />
+    58.8
+- id: 14095
+  question: Convert 0.02540 kg into g.
+  answer: 25.4
+  solution: |-
+    To convert kg into g, multiply by 1000 <br />
+    \(0.02540 \times 1000 = 25.4 \) <br />
+    25.4
+- id: 14096
+  question: Convert 0.00008180 g into mcg.
+  answer: 81.8
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00008180 \times 1000000 = 81.8 \) <br />
+    81.8
+- id: 14097
+  question: Convert 0.00000243 kg into mg.
+  answer: 2.43
+  solution: |-
+    To convert kg into mg, multiply by 1000000 <br />
+    \(0.00000243 \times 1000000 = 2.43 \) <br />
+    2.43
+- id: 14098
+  question: Convert 0.00839 g into mg.
+  answer: 8.39
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00839 \times 1000 = 8.39 \) <br />
+    8.39
+- id: 14099
+  question: Convert 0.00295 kg into g.
+  answer: 2.95
+  solution: |-
+    To convert kg into g, multiply by 1000 <br />
+    \(0.00295 \times 1000 = 2.95 \) <br />
+    2.95
+- id: 14100
+  question: Convert 0.00000708 g into mcg.
+  answer: 7.08
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000708 \times 1000000 = 7.08 \) <br />
+    7.08

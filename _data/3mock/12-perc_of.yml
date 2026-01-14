@@ -1,0 +1,900 @@
+- id: 12001
+  question: You have 350 ml of a solution that is 14 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 49
+  solution: |2-
+     **Answer** Find 14 percent: <br />
+     \( \frac{14}{100} \times 350 = 49.0 \) <br />
+    Round to nearest whole number if needed <br />
+    49
+- id: 12002
+  question: You have 325 ml of a solution that is 10 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 33
+  solution: |2-
+     **Answer** Find 10 percent: <br />
+     \( \frac{10}{100} \times 325 = 32.5 \) <br />
+    Round to nearest whole number if needed <br />
+    33
+- id: 12003
+  question: You have 500 ml of a solution that is 15 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 75
+  solution: |2-
+     **Answer** Find 15 percent: <br />
+     \( \frac{15}{100} \times 500 = 75.0 \) <br />
+    Round to nearest whole number if needed <br />
+    75
+- id: 12004
+  question: How many grams of active ingredient is there in 350 g of cream that is
+    16 % w/w? Give answer correct to the nearest whole number.
+  answer: 56
+  solution: |2-
+     **Answer** Find 16 percent: <br />
+     \( \frac{16}{100} \times 350 = 56.0 \) <br />
+    Round to nearest whole number if needed <br />
+    56
+- id: 12005
+  question: How many grams of active ingredient is there in 350 g of cream that is
+    4 % w/w? Give answer correct to the nearest whole number.
+  answer: 14
+  solution: |2-
+     **Answer** Find 4 percent: <br />
+     \( \frac{4}{100} \times 350 = 14.0 \) <br />
+    Round to nearest whole number if needed <br />
+    14
+- id: 12006
+  question: You have 250 ml of a solution that is 2 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 5
+  solution: |2-
+     **Answer** Find 2 percent: <br />
+     \( \frac{2}{100} \times 250 = 5.0 \) <br />
+    Round to nearest whole number if needed <br />
+    5
+- id: 12007
+  question: You have 250 ml of a solution that is 11 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 28
+  solution: |2-
+     **Answer** Find 11 percent: <br />
+     \( \frac{11}{100} \times 250 = 27.5 \) <br />
+    Round to nearest whole number if needed <br />
+    28
+- id: 12008
+  question: How many grams of active ingredient is there in 550 g of cream that is
+    8 % w/w? Give answer correct to the nearest whole number.
+  answer: 44
+  solution: |2-
+     **Answer** Find 8 percent: <br />
+     \( \frac{8}{100} \times 550 = 44.0 \) <br />
+    Round to nearest whole number if needed <br />
+    44
+- id: 12009
+  question: How many grams of active ingredient is there in 275 g of cream that is
+    15 % w/w? Give answer correct to the nearest whole number.
+  answer: 41
+  solution: |2-
+     **Answer** Find 15 percent: <br />
+     \( \frac{15}{100} \times 275 = 41.25 \) <br />
+    Round to nearest whole number if needed <br />
+    41
+- id: 12010
+  question: How many grams of active ingredient is there in 300 g of cream that is
+    19 % w/w? Give answer correct to the nearest whole number.
+  answer: 57
+  solution: |2-
+     **Answer** Find 19 percent: <br />
+     \( \frac{19}{100} \times 300 = 57.0 \) <br />
+    Round to nearest whole number if needed <br />
+    57
+- id: 12011
+  question: You have 100 ml of a solution that is 2 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 2
+  solution: |2-
+     **Answer** Find 2 percent: <br />
+     \( \frac{2}{100} \times 100 = 2.0 \) <br />
+    Round to nearest whole number if needed <br />
+    2
+- id: 12012
+  question: You have 200 ml of a solution that is 17 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 34
+  solution: |2-
+     **Answer** Find 17 percent: <br />
+     \( \frac{17}{100} \times 200 = 34.0 \) <br />
+    Round to nearest whole number if needed <br />
+    34
+- id: 12013
+  question: How many grams of active ingredient is there in 300 g of cream that is
+    1 % w/w? Give answer correct to the nearest whole number.
+  answer: 3
+  solution: |2-
+     **Answer** Find 1 percent: <br />
+     \( \frac{1}{100} \times 300 = 3.0 \) <br />
+    Round to nearest whole number if needed <br />
+    3
+- id: 12014
+  question: How many grams of active ingredient is there in 500 g of cream that is
+    19 % w/w? Give answer correct to the nearest whole number.
+  answer: 95
+  solution: |2-
+     **Answer** Find 19 percent: <br />
+     \( \frac{19}{100} \times 500 = 95.0 \) <br />
+    Round to nearest whole number if needed <br />
+    95
+- id: 12015
+  question: You have 350 ml of a solution that is 9 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 32
+  solution: |2-
+     **Answer** Find 9 percent: <br />
+     \( \frac{9}{100} \times 350 = 31.5 \) <br />
+    Round to nearest whole number if needed <br />
+    32
+- id: 12016
+  question: You have 325 ml of a solution that is 1 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 3
+  solution: |2-
+     **Answer** Find 1 percent: <br />
+     \( \frac{1}{100} \times 325 = 3.25 \) <br />
+    Round to nearest whole number if needed <br />
+    3
+- id: 12017
+  question: You have 350 ml of a solution that is 14 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 49
+  solution: |2-
+     **Answer** Find 14 percent: <br />
+     \( \frac{14}{100} \times 350 = 49.0 \) <br />
+    Round to nearest whole number if needed <br />
+    49
+- id: 12018
+  question: How many grams of active ingredient is there in 50 g of cream that is
+    2 % w/w? Give answer correct to the nearest whole number.
+  answer: 1
+  solution: |2-
+     **Answer** Find 2 percent: <br />
+     \( \frac{2}{100} \times 50 = 1.0 \) <br />
+    Round to nearest whole number if needed <br />
+    1
+- id: 12019
+  question: How many grams of active ingredient is there in 200 g of cream that is
+    15 % w/w? Give answer correct to the nearest whole number.
+  answer: 30
+  solution: |2-
+     **Answer** Find 15 percent: <br />
+     \( \frac{15}{100} \times 200 = 30.0 \) <br />
+    Round to nearest whole number if needed <br />
+    30
+- id: 12020
+  question: You have 525 ml of a solution that is 20 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 105
+  solution: |2-
+     **Answer** Find 20 percent: <br />
+     \( \frac{20}{100} \times 525 = 105.0 \) <br />
+    Round to nearest whole number if needed <br />
+    105
+- id: 12021
+  question: How many grams of active ingredient is there in 100 g of cream that is
+    10 % w/w? Give answer correct to the nearest whole number.
+  answer: 10
+  solution: |2-
+     **Answer** Find 10 percent: <br />
+     \( \frac{10}{100} \times 100 = 10.0 \) <br />
+    Round to nearest whole number if needed <br />
+    10
+- id: 12022
+  question: How many grams of active ingredient is there in 175 g of cream that is
+    3 % w/w? Give answer correct to the nearest whole number.
+  answer: 5
+  solution: |2-
+     **Answer** Find 3 percent: <br />
+     \( \frac{3}{100} \times 175 = 5.25 \) <br />
+    Round to nearest whole number if needed <br />
+    5
+- id: 12023
+  question: You have 475 ml of a solution that is 18 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 86
+  solution: |2-
+     **Answer** Find 18 percent: <br />
+     \( \frac{18}{100} \times 475 = 85.5 \) <br />
+    Round to nearest whole number if needed <br />
+    86
+- id: 12024
+  question: You have 75 ml of a solution that is 1 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 1
+  solution: |2-
+     **Answer** Find 1 percent: <br />
+     \( \frac{1}{100} \times 75 = 0.75 \) <br />
+    Round to nearest whole number if needed <br />
+    1
+- id: 12025
+  question: How many grams of active ingredient is there in 300 g of cream that is
+    2 % w/w? Give answer correct to the nearest whole number.
+  answer: 6
+  solution: |2-
+     **Answer** Find 2 percent: <br />
+     \( \frac{2}{100} \times 300 = 6.0 \) <br />
+    Round to nearest whole number if needed <br />
+    6
+- id: 12026
+  question: How many grams of active ingredient is there in 325 g of cream that is
+    9 % w/w? Give answer correct to the nearest whole number.
+  answer: 29
+  solution: |2-
+     **Answer** Find 9 percent: <br />
+     \( \frac{9}{100} \times 325 = 29.25 \) <br />
+    Round to nearest whole number if needed <br />
+    29
+- id: 12027
+  question: You have 575 ml of a solution that is 3 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 17
+  solution: |2-
+     **Answer** Find 3 percent: <br />
+     \( \frac{3}{100} \times 575 = 17.25 \) <br />
+    Round to nearest whole number if needed <br />
+    17
+- id: 12028
+  question: How many grams of active ingredient is there in 125 g of cream that is
+    9 % w/w? Give answer correct to the nearest whole number.
+  answer: 11
+  solution: |2-
+     **Answer** Find 9 percent: <br />
+     \( \frac{9}{100} \times 125 = 11.25 \) <br />
+    Round to nearest whole number if needed <br />
+    11
+- id: 12029
+  question: How many grams of active ingredient is there in 475 g of cream that is
+    18 % w/w? Give answer correct to the nearest whole number.
+  answer: 86
+  solution: |2-
+     **Answer** Find 18 percent: <br />
+     \( \frac{18}{100} \times 475 = 85.5 \) <br />
+    Round to nearest whole number if needed <br />
+    86
+- id: 12030
+  question: You have 400 ml of a solution that is 19 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 76
+  solution: |2-
+     **Answer** Find 19 percent: <br />
+     \( \frac{19}{100} \times 400 = 76.0 \) <br />
+    Round to nearest whole number if needed <br />
+    76
+- id: 12031
+  question: How many grams of active ingredient is there in 175 g of cream that is
+    20 % w/w? Give answer correct to the nearest whole number.
+  answer: 35
+  solution: |2-
+     **Answer** Find 20 percent: <br />
+     \( \frac{20}{100} \times 175 = 35.0 \) <br />
+    Round to nearest whole number if needed <br />
+    35
+- id: 12032
+  question: You have 25 ml of a solution that is 1 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 0
+  solution: |2-
+     **Answer** Find 1 percent: <br />
+     \( \frac{1}{100} \times 25 = 0.25 \) <br />
+    Round to nearest whole number if needed <br />
+    0
+- id: 12033
+  question: You have 400 ml of a solution that is 3 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 12
+  solution: |2-
+     **Answer** Find 3 percent: <br />
+     \( \frac{3}{100} \times 400 = 12.0 \) <br />
+    Round to nearest whole number if needed <br />
+    12
+- id: 12034
+  question: You have 350 ml of a solution that is 18 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 63
+  solution: |2-
+     **Answer** Find 18 percent: <br />
+     \( \frac{18}{100} \times 350 = 63.0 \) <br />
+    Round to nearest whole number if needed <br />
+    63
+- id: 12035
+  question: How many grams of active ingredient is there in 450 g of cream that is
+    10 % w/w? Give answer correct to the nearest whole number.
+  answer: 45
+  solution: |2-
+     **Answer** Find 10 percent: <br />
+     \( \frac{10}{100} \times 450 = 45.0 \) <br />
+    Round to nearest whole number if needed <br />
+    45
+- id: 12036
+  question: How many grams of active ingredient is there in 50 g of cream that is
+    20 % w/w? Give answer correct to the nearest whole number.
+  answer: 10
+  solution: |2-
+     **Answer** Find 20 percent: <br />
+     \( \frac{20}{100} \times 50 = 10.0 \) <br />
+    Round to nearest whole number if needed <br />
+    10
+- id: 12037
+  question: How many grams of active ingredient is there in 25 g of cream that is
+    14 % w/w? Give answer correct to the nearest whole number.
+  answer: 4
+  solution: |2-
+     **Answer** Find 14 percent: <br />
+     \( \frac{14}{100} \times 25 = 3.5 \) <br />
+    Round to nearest whole number if needed <br />
+    4
+- id: 12038
+  question: How many grams of active ingredient is there in 100 g of cream that is
+    18 % w/w? Give answer correct to the nearest whole number.
+  answer: 18
+  solution: |2-
+     **Answer** Find 18 percent: <br />
+     \( \frac{18}{100} \times 100 = 18.0 \) <br />
+    Round to nearest whole number if needed <br />
+    18
+- id: 12039
+  question: You have 475 ml of a solution that is 7 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 33
+  solution: |2-
+     **Answer** Find 7 percent: <br />
+     \( \frac{7}{100} \times 475 = 33.25 \) <br />
+    Round to nearest whole number if needed <br />
+    33
+- id: 12040
+  question: You have 550 ml of a solution that is 2 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 11
+  solution: |2-
+     **Answer** Find 2 percent: <br />
+     \( \frac{2}{100} \times 550 = 11.0 \) <br />
+    Round to nearest whole number if needed <br />
+    11
+- id: 12041
+  question: How many grams of active ingredient is there in 325 g of cream that is
+    1 % w/w? Give answer correct to the nearest whole number.
+  answer: 3
+  solution: |2-
+     **Answer** Find 1 percent: <br />
+     \( \frac{1}{100} \times 325 = 3.25 \) <br />
+    Round to nearest whole number if needed <br />
+    3
+- id: 12042
+  question: How many grams of active ingredient is there in 100 g of cream that is
+    9 % w/w? Give answer correct to the nearest whole number.
+  answer: 9
+  solution: |2-
+     **Answer** Find 9 percent: <br />
+     \( \frac{9}{100} \times 100 = 9.0 \) <br />
+    Round to nearest whole number if needed <br />
+    9
+- id: 12043
+  question: How many grams of active ingredient is there in 275 g of cream that is
+    18 % w/w? Give answer correct to the nearest whole number.
+  answer: 50
+  solution: |2-
+     **Answer** Find 18 percent: <br />
+     \( \frac{18}{100} \times 275 = 49.5 \) <br />
+    Round to nearest whole number if needed <br />
+    50
+- id: 12044
+  question: You have 275 ml of a solution that is 13 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 36
+  solution: |2-
+     **Answer** Find 13 percent: <br />
+     \( \frac{13}{100} \times 275 = 35.75 \) <br />
+    Round to nearest whole number if needed <br />
+    36
+- id: 12045
+  question: How many grams of active ingredient is there in 400 g of cream that is
+    3 % w/w? Give answer correct to the nearest whole number.
+  answer: 12
+  solution: |2-
+     **Answer** Find 3 percent: <br />
+     \( \frac{3}{100} \times 400 = 12.0 \) <br />
+    Round to nearest whole number if needed <br />
+    12
+- id: 12046
+  question: You have 400 ml of a solution that is 17 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 68
+  solution: |2-
+     **Answer** Find 17 percent: <br />
+     \( \frac{17}{100} \times 400 = 68.0 \) <br />
+    Round to nearest whole number if needed <br />
+    68
+- id: 12047
+  question: You have 50 ml of a solution that is 6 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 3
+  solution: |2-
+     **Answer** Find 6 percent: <br />
+     \( \frac{6}{100} \times 50 = 3.0 \) <br />
+    Round to nearest whole number if needed <br />
+    3
+- id: 12048
+  question: You have 600 ml of a solution that is 13 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 78
+  solution: |2-
+     **Answer** Find 13 percent: <br />
+     \( \frac{13}{100} \times 600 = 78.0 \) <br />
+    Round to nearest whole number if needed <br />
+    78
+- id: 12049
+  question: You have 300 ml of a solution that is 15 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 45
+  solution: |2-
+     **Answer** Find 15 percent: <br />
+     \( \frac{15}{100} \times 300 = 45.0 \) <br />
+    Round to nearest whole number if needed <br />
+    45
+- id: 12050
+  question: How many grams of active ingredient is there in 600 g of cream that is
+    3 % w/w? Give answer correct to the nearest whole number.
+  answer: 18
+  solution: |2-
+     **Answer** Find 3 percent: <br />
+     \( \frac{3}{100} \times 600 = 18.0 \) <br />
+    Round to nearest whole number if needed <br />
+    18
+- id: 12051
+  question: How many grams of active ingredient is there in 625 g of cream that is
+    13 % w/w? Give answer correct to the nearest whole number.
+  answer: 81
+  solution: |2-
+     **Answer** Find 13 percent: <br />
+     \( \frac{13}{100} \times 625 = 81.25 \) <br />
+    Round to nearest whole number if needed <br />
+    81
+- id: 12052
+  question: How many grams of active ingredient is there in 150 g of cream that is
+    13 % w/w? Give answer correct to the nearest whole number.
+  answer: 20
+  solution: |2-
+     **Answer** Find 13 percent: <br />
+     \( \frac{13}{100} \times 150 = 19.5 \) <br />
+    Round to nearest whole number if needed <br />
+    20
+- id: 12053
+  question: How many grams of active ingredient is there in 75 g of cream that is
+    14 % w/w? Give answer correct to the nearest whole number.
+  answer: 11
+  solution: |2-
+     **Answer** Find 14 percent: <br />
+     \( \frac{14}{100} \times 75 = 10.5 \) <br />
+    Round to nearest whole number if needed <br />
+    11
+- id: 12054
+  question: You have 75 ml of a solution that is 4 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 3
+  solution: |2-
+     **Answer** Find 4 percent: <br />
+     \( \frac{4}{100} \times 75 = 3.0 \) <br />
+    Round to nearest whole number if needed <br />
+    3
+- id: 12055
+  question: How many grams of active ingredient is there in 425 g of cream that is
+    14 % w/w? Give answer correct to the nearest whole number.
+  answer: 60
+  solution: |2-
+     **Answer** Find 14 percent: <br />
+     \( \frac{14}{100} \times 425 = 59.5 \) <br />
+    Round to nearest whole number if needed <br />
+    60
+- id: 12056
+  question: You have 500 ml of a solution that is 3 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 15
+  solution: |2-
+     **Answer** Find 3 percent: <br />
+     \( \frac{3}{100} \times 500 = 15.0 \) <br />
+    Round to nearest whole number if needed <br />
+    15
+- id: 12057
+  question: You have 600 ml of a solution that is 11 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 66
+  solution: |2-
+     **Answer** Find 11 percent: <br />
+     \( \frac{11}{100} \times 600 = 66.0 \) <br />
+    Round to nearest whole number if needed <br />
+    66
+- id: 12058
+  question: How many grams of active ingredient is there in 75 g of cream that is
+    2 % w/w? Give answer correct to the nearest whole number.
+  answer: 2
+  solution: |2-
+     **Answer** Find 2 percent: <br />
+     \( \frac{2}{100} \times 75 = 1.5 \) <br />
+    Round to nearest whole number if needed <br />
+    2
+- id: 12059
+  question: You have 100 ml of a solution that is 20 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 20
+  solution: |2-
+     **Answer** Find 20 percent: <br />
+     \( \frac{20}{100} \times 100 = 20.0 \) <br />
+    Round to nearest whole number if needed <br />
+    20
+- id: 12060
+  question: How many grams of active ingredient is there in 400 g of cream that is
+    12 % w/w? Give answer correct to the nearest whole number.
+  answer: 48
+  solution: |2-
+     **Answer** Find 12 percent: <br />
+     \( \frac{12}{100} \times 400 = 48.0 \) <br />
+    Round to nearest whole number if needed <br />
+    48
+- id: 12061
+  question: You have 550 ml of a solution that is 7 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 39
+  solution: |2-
+     **Answer** Find 7 percent: <br />
+     \( \frac{7}{100} \times 550 = 38.5 \) <br />
+    Round to nearest whole number if needed <br />
+    39
+- id: 12062
+  question: You have 50 ml of a solution that is 20 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 10
+  solution: |2-
+     **Answer** Find 20 percent: <br />
+     \( \frac{20}{100} \times 50 = 10.0 \) <br />
+    Round to nearest whole number if needed <br />
+    10
+- id: 12063
+  question: You have 425 ml of a solution that is 4 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 17
+  solution: |2-
+     **Answer** Find 4 percent: <br />
+     \( \frac{4}{100} \times 425 = 17.0 \) <br />
+    Round to nearest whole number if needed <br />
+    17
+- id: 12064
+  question: You have 75 ml of a solution that is 19 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 14
+  solution: |2-
+     **Answer** Find 19 percent: <br />
+     \( \frac{19}{100} \times 75 = 14.25 \) <br />
+    Round to nearest whole number if needed <br />
+    14
+- id: 12065
+  question: You have 550 ml of a solution that is 10 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 55
+  solution: |2-
+     **Answer** Find 10 percent: <br />
+     \( \frac{10}{100} \times 550 = 55.0 \) <br />
+    Round to nearest whole number if needed <br />
+    55
+- id: 12066
+  question: How many grams of active ingredient is there in 500 g of cream that is
+    9 % w/w? Give answer correct to the nearest whole number.
+  answer: 45
+  solution: |2-
+     **Answer** Find 9 percent: <br />
+     \( \frac{9}{100} \times 500 = 45.0 \) <br />
+    Round to nearest whole number if needed <br />
+    45
+- id: 12067
+  question: You have 300 ml of a solution that is 12 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 36
+  solution: |2-
+     **Answer** Find 12 percent: <br />
+     \( \frac{12}{100} \times 300 = 36.0 \) <br />
+    Round to nearest whole number if needed <br />
+    36
+- id: 12068
+  question: You have 200 ml of a solution that is 16 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 32
+  solution: |2-
+     **Answer** Find 16 percent: <br />
+     \( \frac{16}{100} \times 200 = 32.0 \) <br />
+    Round to nearest whole number if needed <br />
+    32
+- id: 12069
+  question: You have 175 ml of a solution that is 8 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 14
+  solution: |2-
+     **Answer** Find 8 percent: <br />
+     \( \frac{8}{100} \times 175 = 14.0 \) <br />
+    Round to nearest whole number if needed <br />
+    14
+- id: 12070
+  question: How many grams of active ingredient is there in 425 g of cream that is
+    1 % w/w? Give answer correct to the nearest whole number.
+  answer: 4
+  solution: |2-
+     **Answer** Find 1 percent: <br />
+     \( \frac{1}{100} \times 425 = 4.25 \) <br />
+    Round to nearest whole number if needed <br />
+    4
+- id: 12071
+  question: How many grams of active ingredient is there in 500 g of cream that is
+    12 % w/w? Give answer correct to the nearest whole number.
+  answer: 60
+  solution: |2-
+     **Answer** Find 12 percent: <br />
+     \( \frac{12}{100} \times 500 = 60.0 \) <br />
+    Round to nearest whole number if needed <br />
+    60
+- id: 12072
+  question: How many grams of active ingredient is there in 625 g of cream that is
+    12 % w/w? Give answer correct to the nearest whole number.
+  answer: 75
+  solution: |2-
+     **Answer** Find 12 percent: <br />
+     \( \frac{12}{100} \times 625 = 75.0 \) <br />
+    Round to nearest whole number if needed <br />
+    75
+- id: 12073
+  question: How many grams of active ingredient is there in 125 g of cream that is
+    12 % w/w? Give answer correct to the nearest whole number.
+  answer: 15
+  solution: |2-
+     **Answer** Find 12 percent: <br />
+     \( \frac{12}{100} \times 125 = 15.0 \) <br />
+    Round to nearest whole number if needed <br />
+    15
+- id: 12074
+  question: How many grams of active ingredient is there in 400 g of cream that is
+    17 % w/w? Give answer correct to the nearest whole number.
+  answer: 68
+  solution: |2-
+     **Answer** Find 17 percent: <br />
+     \( \frac{17}{100} \times 400 = 68.0 \) <br />
+    Round to nearest whole number if needed <br />
+    68
+- id: 12075
+  question: How many grams of active ingredient is there in 400 g of cream that is
+    1 % w/w? Give answer correct to the nearest whole number.
+  answer: 4
+  solution: |2-
+     **Answer** Find 1 percent: <br />
+     \( \frac{1}{100} \times 400 = 4.0 \) <br />
+    Round to nearest whole number if needed <br />
+    4
+- id: 12076
+  question: How many grams of active ingredient is there in 25 g of cream that is
+    15 % w/w? Give answer correct to the nearest whole number.
+  answer: 4
+  solution: |2-
+     **Answer** Find 15 percent: <br />
+     \( \frac{15}{100} \times 25 = 3.75 \) <br />
+    Round to nearest whole number if needed <br />
+    4
+- id: 12077
+  question: You have 475 ml of a solution that is 17 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 81
+  solution: |2-
+     **Answer** Find 17 percent: <br />
+     \( \frac{17}{100} \times 475 = 80.75 \) <br />
+    Round to nearest whole number if needed <br />
+    81
+- id: 12078
+  question: How many grams of active ingredient is there in 25 g of cream that is
+    20 % w/w? Give answer correct to the nearest whole number.
+  answer: 5
+  solution: |2-
+     **Answer** Find 20 percent: <br />
+     \( \frac{20}{100} \times 25 = 5.0 \) <br />
+    Round to nearest whole number if needed <br />
+    5
+- id: 12079
+  question: You have 250 ml of a solution that is 8 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 20
+  solution: |2-
+     **Answer** Find 8 percent: <br />
+     \( \frac{8}{100} \times 250 = 20.0 \) <br />
+    Round to nearest whole number if needed <br />
+    20
+- id: 12080
+  question: How many grams of active ingredient is there in 50 g of cream that is
+    13 % w/w? Give answer correct to the nearest whole number.
+  answer: 7
+  solution: |2-
+     **Answer** Find 13 percent: <br />
+     \( \frac{13}{100} \times 50 = 6.5 \) <br />
+    Round to nearest whole number if needed <br />
+    7
+- id: 12081
+  question: You have 250 ml of a solution that is 18 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 45
+  solution: |2-
+     **Answer** Find 18 percent: <br />
+     \( \frac{18}{100} \times 250 = 45.0 \) <br />
+    Round to nearest whole number if needed <br />
+    45
+- id: 12082
+  question: How many grams of active ingredient is there in 225 g of cream that is
+    20 % w/w? Give answer correct to the nearest whole number.
+  answer: 45
+  solution: |2-
+     **Answer** Find 20 percent: <br />
+     \( \frac{20}{100} \times 225 = 45.0 \) <br />
+    Round to nearest whole number if needed <br />
+    45
+- id: 12083
+  question: How many grams of active ingredient is there in 250 g of cream that is
+    13 % w/w? Give answer correct to the nearest whole number.
+  answer: 33
+  solution: |2-
+     **Answer** Find 13 percent: <br />
+     \( \frac{13}{100} \times 250 = 32.5 \) <br />
+    Round to nearest whole number if needed <br />
+    33
+- id: 12084
+  question: How many grams of active ingredient is there in 150 g of cream that is
+    12 % w/w? Give answer correct to the nearest whole number.
+  answer: 18
+  solution: |2-
+     **Answer** Find 12 percent: <br />
+     \( \frac{12}{100} \times 150 = 18.0 \) <br />
+    Round to nearest whole number if needed <br />
+    18
+- id: 12085
+  question: How many grams of active ingredient is there in 200 g of cream that is
+    16 % w/w? Give answer correct to the nearest whole number.
+  answer: 32
+  solution: |2-
+     **Answer** Find 16 percent: <br />
+     \( \frac{16}{100} \times 200 = 32.0 \) <br />
+    Round to nearest whole number if needed <br />
+    32
+- id: 12086
+  question: You have 350 ml of a solution that is 2 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 7
+  solution: |2-
+     **Answer** Find 2 percent: <br />
+     \( \frac{2}{100} \times 350 = 7.0 \) <br />
+    Round to nearest whole number if needed <br />
+    7
+- id: 12087
+  question: You have 425 ml of a solution that is 14 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 60
+  solution: |2-
+     **Answer** Find 14 percent: <br />
+     \( \frac{14}{100} \times 425 = 59.5 \) <br />
+    Round to nearest whole number if needed <br />
+    60
+- id: 12088
+  question: How many grams of active ingredient is there in 325 g of cream that is
+    13 % w/w? Give answer correct to the nearest whole number.
+  answer: 42
+  solution: |2-
+     **Answer** Find 13 percent: <br />
+     \( \frac{13}{100} \times 325 = 42.25 \) <br />
+    Round to nearest whole number if needed <br />
+    42
+- id: 12089
+  question: How many grams of active ingredient is there in 75 g of cream that is
+    7 % w/w? Give answer correct to the nearest whole number.
+  answer: 5
+  solution: |2-
+     **Answer** Find 7 percent: <br />
+     \( \frac{7}{100} \times 75 = 5.25 \) <br />
+    Round to nearest whole number if needed <br />
+    5
+- id: 12090
+  question: How many grams of active ingredient is there in 100 g of cream that is
+    9 % w/w? Give answer correct to the nearest whole number.
+  answer: 9
+  solution: |2-
+     **Answer** Find 9 percent: <br />
+     \( \frac{9}{100} \times 100 = 9.0 \) <br />
+    Round to nearest whole number if needed <br />
+    9
+- id: 12091
+  question: How many grams of active ingredient is there in 450 g of cream that is
+    4 % w/w? Give answer correct to the nearest whole number.
+  answer: 18
+  solution: |2-
+     **Answer** Find 4 percent: <br />
+     \( \frac{4}{100} \times 450 = 18.0 \) <br />
+    Round to nearest whole number if needed <br />
+    18
+- id: 12092
+  question: How many grams of active ingredient is there in 50 g of cream that is
+    2 % w/w? Give answer correct to the nearest whole number.
+  answer: 1
+  solution: |2-
+     **Answer** Find 2 percent: <br />
+     \( \frac{2}{100} \times 50 = 1.0 \) <br />
+    Round to nearest whole number if needed <br />
+    1
+- id: 12093
+  question: You have 425 ml of a solution that is 18 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 77
+  solution: |2-
+     **Answer** Find 18 percent: <br />
+     \( \frac{18}{100} \times 425 = 76.5 \) <br />
+    Round to nearest whole number if needed <br />
+    77
+- id: 12094
+  question: You have 50 ml of a solution that is 11 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 6
+  solution: |2-
+     **Answer** Find 11 percent: <br />
+     \( \frac{11}{100} \times 50 = 5.5 \) <br />
+    Round to nearest whole number if needed <br />
+    6
+- id: 12095
+  question: You have 450 ml of a solution that is 4 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 18
+  solution: |2-
+     **Answer** Find 4 percent: <br />
+     \( \frac{4}{100} \times 450 = 18.0 \) <br />
+    Round to nearest whole number if needed <br />
+    18
+- id: 12096
+  question: You have 75 ml of a solution that is 20 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 15
+  solution: |2-
+     **Answer** Find 20 percent: <br />
+     \( \frac{20}{100} \times 75 = 15.0 \) <br />
+    Round to nearest whole number if needed <br />
+    15
+- id: 12097
+  question: You have 75 ml of a solution that is 2 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 2
+  solution: |2-
+     **Answer** Find 2 percent: <br />
+     \( \frac{2}{100} \times 75 = 1.5 \) <br />
+    Round to nearest whole number if needed <br />
+    2
+- id: 12098
+  question: How many grams of active ingredient is there in 300 g of cream that is
+    16 % w/w? Give answer correct to the nearest whole number.
+  answer: 48
+  solution: |2-
+     **Answer** Find 16 percent: <br />
+     \( \frac{16}{100} \times 300 = 48.0 \) <br />
+    Round to nearest whole number if needed <br />
+    48
+- id: 12099
+  question: You have 575 ml of a solution that is 2 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 12
+  solution: |2-
+     **Answer** Find 2 percent: <br />
+     \( \frac{2}{100} \times 575 = 11.5 \) <br />
+    Round to nearest whole number if needed <br />
+    12
+- id: 12100
+  question: You have 450 ml of a solution that is 13 % w/v.  How many grams of active
+    indgredient are there? Give answer correct to the nearest whole number.
+  answer: 59
+  solution: |2-
+     **Answer** Find 13 percent: <br />
+     \( \frac{13}{100} \times 450 = 58.5 \) <br />
+    Round to nearest whole number if needed <br />
+    59
