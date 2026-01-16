@@ -1,1042 +1,1052 @@
 - id: 11001
-  question: A patients weight increases by 4.7 percent from an original weight of
-    62 kilograms. What is their new weight? Give the answer correct to the nearest
+  question: A patient's weight increases by 3.0 percent from an original weight of
+    72 kilograms. What is their new weight? Give the answer correct to the nearest
     whole number.
-  answer: 65
+  answer: 74
   solution: |2-
-     **Answer** Find 4.7 percent: <br />
-     \( \frac{4.7}{100} \times 62 = 0 \) <br />
+     **Answer** Find 3.0 percent: <br />
+     \( \frac{3.0}{100} \times 72 = 0 \) <br />
     Add: <br />
-     \( 62 + 0 = 64.91 \) <br />
-    Round to nearest whole number 65
+     \( 72 + 0 = 74.16 \) <br />
+    Round to nearest whole number 74
 - id: 11002
-  question: If your weekly wages are 348 and you recieve a 2.0 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 355
+  question: A patient's weight increases by 4.9 percent from an original weight of
+    78 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 82
   solution: |2-
-     **Answer** Find 2.0 percent: <br />
-     \( \frac{2.0}{100} \times 348 = 1 \) <br />
+     **Answer** Find 4.9 percent: <br />
+     \( \frac{4.9}{100} \times 78 = 1 \) <br />
     Add: <br />
-     \( 348 + 1 = 354.96 \) <br />
-    Round to nearest whole number 355
+     \( 78 + 1 = 81.82 \) <br />
+    Round to nearest whole number 82
 - id: 11003
-  question: If your weekly wages are 263 and you recieve a 3.8 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 273
+  question: A patient's weight increases by 3.4 percent from an original weight of
+    70 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 72
   solution: |2-
-     **Answer** Find 3.8 percent: <br />
-     \( \frac{3.8}{100} \times 263 = 2 \) <br />
+     **Answer** Find 3.4 percent: <br />
+     \( \frac{3.4}{100} \times 70 = 2 \) <br />
     Add: <br />
-     \( 263 + 2 = 272.99 \) <br />
-    Round to nearest whole number 273
+     \( 70 + 2 = 72.38 \) <br />
+    Round to nearest whole number 72
 - id: 11004
-  question: A patients weight increases by 3.8 percent from an original weight of
+  question: A patient's weight increases by 4.4 percent from an original weight of
+    56 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 58
+  solution: |2-
+     **Answer** Find 4.4 percent: <br />
+     \( \frac{4.4}{100} \times 56 = 3 \) <br />
+    Add: <br />
+     \( 56 + 3 = 58.46 \) <br />
+    Round to nearest whole number 58
+- id: 11005
+  question: A patient's weight increases by 3.7 percent from an original weight of
     64 kilograms. What is their new weight? Give the answer correct to the nearest
     whole number.
   answer: 66
   solution: |2-
-     **Answer** Find 3.8 percent: <br />
-     \( \frac{3.8}{100} \times 64 = 3 \) <br />
+     **Answer** Find 3.7 percent: <br />
+     \( \frac{3.7}{100} \times 64 = 4 \) <br />
     Add: <br />
-     \( 64 + 3 = 66.43 \) <br />
+     \( 64 + 4 = 66.37 \) <br />
     Round to nearest whole number 66
-- id: 11005
-  question: If your weekly wages are 353 and you recieve a 4.9 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 370
-  solution: |2-
-     **Answer** Find 4.9 percent: <br />
-     \( \frac{4.9}{100} \times 353 = 4 \) <br />
-    Add: <br />
-     \( 353 + 4 = 370.3 \) <br />
-    Round to nearest whole number 370
 - id: 11006
-  question: If your weekly wages are 268 and you recieve a 4.6 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 280
-  solution: |2-
-     **Answer** Find 4.6 percent: <br />
-     \( \frac{4.6}{100} \times 268 = 5 \) <br />
-    Add: <br />
-     \( 268 + 5 = 280.33 \) <br />
-    Round to nearest whole number 280
-- id: 11007
-  question: If your weekly wages are 295 and you recieve a 1.7 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 300
-  solution: |2-
-     **Answer** Find 1.7 percent: <br />
-     \( \frac{1.7}{100} \times 295 = 6 \) <br />
-    Add: <br />
-     \( 295 + 6 = 300.02 \) <br />
-    Round to nearest whole number 300
-- id: 11008
-  question: A patients weight increases by 3.5 percent from an original weight of
-    77 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 80
-  solution: |2-
-     **Answer** Find 3.5 percent: <br />
-     \( \frac{3.5}{100} \times 77 = 7 \) <br />
-    Add: <br />
-     \( 77 + 7 = 79.7 \) <br />
-    Round to nearest whole number 80
-- id: 11009
-  question: If your weekly wages are 252 and you recieve a 3.9 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 262
-  solution: |2-
-     **Answer** Find 3.9 percent: <br />
-     \( \frac{3.9}{100} \times 252 = 8 \) <br />
-    Add: <br />
-     \( 252 + 8 = 261.83 \) <br />
-    Round to nearest whole number 262
-- id: 11010
-  question: If your weekly wages are 377 and you recieve a 1.3 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 382
-  solution: |2-
-     **Answer** Find 1.3 percent: <br />
-     \( \frac{1.3}{100} \times 377 = 9 \) <br />
-    Add: <br />
-     \( 377 + 9 = 381.9 \) <br />
-    Round to nearest whole number 382
-- id: 11011
-  question: If your weekly wages are 259 and you recieve a 2.8 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 266
-  solution: |2-
-     **Answer** Find 2.8 percent: <br />
-     \( \frac{2.8}{100} \times 259 = 10 \) <br />
-    Add: <br />
-     \( 259 + 10 = 266.25 \) <br />
-    Round to nearest whole number 266
-- id: 11012
-  question: If your weekly wages are 314 and you recieve a 4.3 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 328
-  solution: |2-
-     **Answer** Find 4.3 percent: <br />
-     \( \frac{4.3}{100} \times 314 = 11 \) <br />
-    Add: <br />
-     \( 314 + 11 = 327.5 \) <br />
-    Round to nearest whole number 328
-- id: 11013
-  question: If your weekly wages are 350 and you recieve a 1.2 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 354
-  solution: |2-
-     **Answer** Find 1.2 percent: <br />
-     \( \frac{1.2}{100} \times 350 = 12 \) <br />
-    Add: <br />
-     \( 350 + 12 = 354.2 \) <br />
-    Round to nearest whole number 354
-- id: 11014
-  question: If your weekly wages are 311 and you recieve a 2.4 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 318
-  solution: |2-
-     **Answer** Find 2.4 percent: <br />
-     \( \frac{2.4}{100} \times 311 = 13 \) <br />
-    Add: <br />
-     \( 311 + 13 = 318.46 \) <br />
-    Round to nearest whole number 318
-- id: 11015
-  question: If your weekly wages are 332 and you recieve a 4.3 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 346
-  solution: |2-
-     **Answer** Find 4.3 percent: <br />
-     \( \frac{4.3}{100} \times 332 = 14 \) <br />
-    Add: <br />
-     \( 332 + 14 = 346.28 \) <br />
-    Round to nearest whole number 346
-- id: 11016
-  question: If your weekly wages are 254 and you recieve a 2.9 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 261
-  solution: |2-
-     **Answer** Find 2.9 percent: <br />
-     \( \frac{2.9}{100} \times 254 = 15 \) <br />
-    Add: <br />
-     \( 254 + 15 = 261.37 \) <br />
-    Round to nearest whole number 261
-- id: 11017
-  question: If your weekly wages are 400 and you recieve a 1.1 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 404
-  solution: |2-
-     **Answer** Find 1.1 percent: <br />
-     \( \frac{1.1}{100} \times 400 = 16 \) <br />
-    Add: <br />
-     \( 400 + 16 = 404.4 \) <br />
-    Round to nearest whole number 404
-- id: 11018
-  question: If your weekly wages are 309 and you recieve a 4.6 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 323
-  solution: |2-
-     **Answer** Find 4.6 percent: <br />
-     \( \frac{4.6}{100} \times 309 = 17 \) <br />
-    Add: <br />
-     \( 309 + 17 = 323.21 \) <br />
-    Round to nearest whole number 323
-- id: 11019
-  question: A patients weight increases by 1.1 percent from an original weight of
-    61 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 62
-  solution: |2-
-     **Answer** Find 1.1 percent: <br />
-     \( \frac{1.1}{100} \times 61 = 18 \) <br />
-    Add: <br />
-     \( 61 + 18 = 61.67 \) <br />
-    Round to nearest whole number 62
-- id: 11020
-  question: A patients weight increases by 1.4 percent from an original weight of
-    65 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 66
-  solution: |2-
-     **Answer** Find 1.4 percent: <br />
-     \( \frac{1.4}{100} \times 65 = 19 \) <br />
-    Add: <br />
-     \( 65 + 19 = 65.91 \) <br />
-    Round to nearest whole number 66
-- id: 11021
-  question: A patients weight increases by 1.5 percent from an original weight of
-    77 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 78
-  solution: |2-
-     **Answer** Find 1.5 percent: <br />
-     \( \frac{1.5}{100} \times 77 = 20 \) <br />
-    Add: <br />
-     \( 77 + 20 = 78.16 \) <br />
-    Round to nearest whole number 78
-- id: 11022
-  question: If your weekly wages are 292 and you recieve a 2.3 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 299
-  solution: |2-
-     **Answer** Find 2.3 percent: <br />
-     \( \frac{2.3}{100} \times 292 = 21 \) <br />
-    Add: <br />
-     \( 292 + 21 = 298.72 \) <br />
-    Round to nearest whole number 299
-- id: 11023
-  question: A patients weight increases by 1.5 percent from an original weight of
-    71 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 72
-  solution: |2-
-     **Answer** Find 1.5 percent: <br />
-     \( \frac{1.5}{100} \times 71 = 22 \) <br />
-    Add: <br />
-     \( 71 + 22 = 72.06 \) <br />
-    Round to nearest whole number 72
-- id: 11024
-  question: If your weekly wages are 359 and you recieve a 1.5 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 364
-  solution: |2-
-     **Answer** Find 1.5 percent: <br />
-     \( \frac{1.5}{100} \times 359 = 23 \) <br />
-    Add: <br />
-     \( 359 + 23 = 364.38 \) <br />
-    Round to nearest whole number 364
-- id: 11025
-  question: If your weekly wages are 367 and you recieve a 2.7 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 377
-  solution: |2-
-     **Answer** Find 2.7 percent: <br />
-     \( \frac{2.7}{100} \times 367 = 24 \) <br />
-    Add: <br />
-     \( 367 + 24 = 376.91 \) <br />
-    Round to nearest whole number 377
-- id: 11026
-  question: If your weekly wages are 377 and you recieve a 2.7 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 387
-  solution: |2-
-     **Answer** Find 2.7 percent: <br />
-     \( \frac{2.7}{100} \times 377 = 25 \) <br />
-    Add: <br />
-     \( 377 + 25 = 387.18 \) <br />
-    Round to nearest whole number 387
-- id: 11027
-  question: If your weekly wages are 371 and you recieve a 2.8 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 381
-  solution: |2-
-     **Answer** Find 2.8 percent: <br />
-     \( \frac{2.8}{100} \times 371 = 26 \) <br />
-    Add: <br />
-     \( 371 + 26 = 381.39 \) <br />
-    Round to nearest whole number 381
-- id: 11028
-  question: If your weekly wages are 342 and you recieve a 4.5 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 357
-  solution: |2-
-     **Answer** Find 4.5 percent: <br />
-     \( \frac{4.5}{100} \times 342 = 27 \) <br />
-    Add: <br />
-     \( 342 + 27 = 357.39 \) <br />
-    Round to nearest whole number 357
-- id: 11029
-  question: A patients weight increases by 2.2 percent from an original weight of
-    52 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 53
-  solution: |2-
-     **Answer** Find 2.2 percent: <br />
-     \( \frac{2.2}{100} \times 52 = 28 \) <br />
-    Add: <br />
-     \( 52 + 28 = 53.14 \) <br />
-    Round to nearest whole number 53
-- id: 11030
-  question: A patients weight increases by 2.1 percent from an original weight of
-    59 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 60
-  solution: |2-
-     **Answer** Find 2.1 percent: <br />
-     \( \frac{2.1}{100} \times 59 = 29 \) <br />
-    Add: <br />
-     \( 59 + 29 = 60.24 \) <br />
-    Round to nearest whole number 60
-- id: 11031
-  question: If your weekly wages are 326 and you recieve a 3.2 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 336
-  solution: |2-
-     **Answer** Find 3.2 percent: <br />
-     \( \frac{3.2}{100} \times 326 = 30 \) <br />
-    Add: <br />
-     \( 326 + 30 = 336.43 \) <br />
-    Round to nearest whole number 336
-- id: 11032
-  question: If your weekly wages are 287 and you recieve a 2.5 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 294
-  solution: |2-
-     **Answer** Find 2.5 percent: <br />
-     \( \frac{2.5}{100} \times 287 = 31 \) <br />
-    Add: <br />
-     \( 287 + 31 = 294.18 \) <br />
-    Round to nearest whole number 294
-- id: 11033
-  question: A patients weight increases by 4.3 percent from an original weight of
-    65 kilograms. What is their new weight? Give the answer correct to the nearest
+  question: A patient's weight increases by 2.4 percent from an original weight of
+    66 kilograms. What is their new weight? Give the answer correct to the nearest
     whole number.
   answer: 68
   solution: |2-
-     **Answer** Find 4.3 percent: <br />
-     \( \frac{4.3}{100} \times 65 = 32 \) <br />
-    Add: <br />
-     \( 65 + 32 = 67.79 \) <br />
-    Round to nearest whole number 68
-- id: 11034
-  question: A patients weight increases by 3.6 percent from an original weight of
-    78 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 81
-  solution: |2-
-     **Answer** Find 3.6 percent: <br />
-     \( \frac{3.6}{100} \times 78 = 33 \) <br />
-    Add: <br />
-     \( 78 + 33 = 80.81 \) <br />
-    Round to nearest whole number 81
-- id: 11035
-  question: A patients weight increases by 3.3 percent from an original weight of
-    76 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 79
-  solution: |2-
-     **Answer** Find 3.3 percent: <br />
-     \( \frac{3.3}{100} \times 76 = 34 \) <br />
-    Add: <br />
-     \( 76 + 34 = 78.51 \) <br />
-    Round to nearest whole number 79
-- id: 11036
-  question: A patients weight increases by 2.4 percent from an original weight of
-    70 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 72
-  solution: |2-
      **Answer** Find 2.4 percent: <br />
-     \( \frac{2.4}{100} \times 70 = 35 \) <br />
+     \( \frac{2.4}{100} \times 66 = 5 \) <br />
     Add: <br />
-     \( 70 + 35 = 71.68 \) <br />
-    Round to nearest whole number 72
-- id: 11037
-  question: If your weekly wages are 336 and you recieve a 4.2 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 350
-  solution: |2-
-     **Answer** Find 4.2 percent: <br />
-     \( \frac{4.2}{100} \times 336 = 36 \) <br />
-    Add: <br />
-     \( 336 + 36 = 350.11 \) <br />
-    Round to nearest whole number 350
-- id: 11038
-  question: A patients weight increases by 3.7 percent from an original weight of
-    68 kilograms. What is their new weight? Give the answer correct to the nearest
+     \( 66 + 5 = 67.58 \) <br />
+    Round to nearest whole number 68
+- id: 11007
+  question: A patient's weight increases by 3.8 percent from an original weight of
+    56 kilograms. What is their new weight? Give the answer correct to the nearest
     whole number.
-  answer: 71
+  answer: 58
   solution: |2-
-     **Answer** Find 3.7 percent: <br />
-     \( \frac{3.7}{100} \times 68 = 37 \) <br />
+     **Answer** Find 3.8 percent: <br />
+     \( \frac{3.8}{100} \times 56 = 6 \) <br />
     Add: <br />
-     \( 68 + 37 = 70.52 \) <br />
-    Round to nearest whole number 71
-- id: 11039
-  question: A patients weight increases by 2.3 percent from an original weight of
+     \( 56 + 6 = 58.13 \) <br />
+    Round to nearest whole number 58
+- id: 11008
+  question: A patient's weight increases by 2.9 percent from an original weight of
     67 kilograms. What is their new weight? Give the answer correct to the nearest
     whole number.
   answer: 69
   solution: |2-
-     **Answer** Find 2.3 percent: <br />
-     \( \frac{2.3}{100} \times 67 = 38 \) <br />
+     **Answer** Find 2.9 percent: <br />
+     \( \frac{2.9}{100} \times 67 = 7 \) <br />
     Add: <br />
-     \( 67 + 38 = 68.54 \) <br />
+     \( 67 + 7 = 68.94 \) <br />
     Round to nearest whole number 69
-- id: 11040
-  question: A patients weight increases by 1.9 percent from an original weight of
-    63 kilograms. What is their new weight? Give the answer correct to the nearest
+- id: 11009
+  question: A patient's weight increases by 4.8 percent from an original weight of
+    79 kilograms. What is their new weight? Give the answer correct to the nearest
     whole number.
-  answer: 64
+  answer: 83
   solution: |2-
-     **Answer** Find 1.9 percent: <br />
-     \( \frac{1.9}{100} \times 63 = 39 \) <br />
+     **Answer** Find 4.8 percent: <br />
+     \( \frac{4.8}{100} \times 79 = 8 \) <br />
     Add: <br />
-     \( 63 + 39 = 64.2 \) <br />
-    Round to nearest whole number 64
-- id: 11041
-  question: If your weekly wages are 250 and you recieve a 2.8 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 257
-  solution: |2-
-     **Answer** Find 2.8 percent: <br />
-     \( \frac{2.8}{100} \times 250 = 40 \) <br />
-    Add: <br />
-     \( 250 + 40 = 257.0 \) <br />
-    Round to nearest whole number 257
-- id: 11042
-  question: If your weekly wages are 293 and you recieve a 1.2 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 297
-  solution: |2-
-     **Answer** Find 1.2 percent: <br />
-     \( \frac{1.2}{100} \times 293 = 41 \) <br />
-    Add: <br />
-     \( 293 + 41 = 296.52 \) <br />
-    Round to nearest whole number 297
-- id: 11043
-  question: If your weekly wages are 269 and you recieve a 4.6 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 281
-  solution: |2-
-     **Answer** Find 4.6 percent: <br />
-     \( \frac{4.6}{100} \times 269 = 42 \) <br />
-    Add: <br />
-     \( 269 + 42 = 281.37 \) <br />
-    Round to nearest whole number 281
-- id: 11044
-  question: A patients weight increases by 1.9 percent from an original weight of
-    50 kilograms. What is their new weight? Give the answer correct to the nearest
+     \( 79 + 8 = 82.79 \) <br />
+    Round to nearest whole number 83
+- id: 11010
+  question: A patient's weight increases by 1.5 percent from an original weight of
+    74 kilograms. What is their new weight? Give the answer correct to the nearest
     whole number.
-  answer: 51
-  solution: |2-
-     **Answer** Find 1.9 percent: <br />
-     \( \frac{1.9}{100} \times 50 = 43 \) <br />
-    Add: <br />
-     \( 50 + 43 = 50.95 \) <br />
-    Round to nearest whole number 51
-- id: 11045
-  question: If your weekly wages are 283 and you recieve a 3.7 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 293
-  solution: |2-
-     **Answer** Find 3.7 percent: <br />
-     \( \frac{3.7}{100} \times 283 = 44 \) <br />
-    Add: <br />
-     \( 283 + 44 = 293.47 \) <br />
-    Round to nearest whole number 293
-- id: 11046
-  question: If your weekly wages are 278 and you recieve a 1.4 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 282
-  solution: |2-
-     **Answer** Find 1.4 percent: <br />
-     \( \frac{1.4}{100} \times 278 = 45 \) <br />
-    Add: <br />
-     \( 278 + 45 = 281.89 \) <br />
-    Round to nearest whole number 282
-- id: 11047
-  question: If your weekly wages are 289 and you recieve a 2.4 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 296
-  solution: |2-
-     **Answer** Find 2.4 percent: <br />
-     \( \frac{2.4}{100} \times 289 = 46 \) <br />
-    Add: <br />
-     \( 289 + 46 = 295.94 \) <br />
-    Round to nearest whole number 296
-- id: 11048
-  question: A patients weight increases by 4.5 percent from an original weight of
-    65 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 68
-  solution: |2-
-     **Answer** Find 4.5 percent: <br />
-     \( \frac{4.5}{100} \times 65 = 47 \) <br />
-    Add: <br />
-     \( 65 + 47 = 67.92 \) <br />
-    Round to nearest whole number 68
-- id: 11049
-  question: A patients weight increases by 2.3 percent from an original weight of
-    57 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 58
-  solution: |2-
-     **Answer** Find 2.3 percent: <br />
-     \( \frac{2.3}{100} \times 57 = 48 \) <br />
-    Add: <br />
-     \( 57 + 48 = 58.31 \) <br />
-    Round to nearest whole number 58
-- id: 11050
-  question: If your weekly wages are 320 and you recieve a 3.0 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 330
-  solution: |2-
-     **Answer** Find 3.0 percent: <br />
-     \( \frac{3.0}{100} \times 320 = 49 \) <br />
-    Add: <br />
-     \( 320 + 49 = 329.6 \) <br />
-    Round to nearest whole number 330
-- id: 11051
-  question: A patients weight increases by 1.5 percent from an original weight of
-    51 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 52
+  answer: 75
   solution: |2-
      **Answer** Find 1.5 percent: <br />
-     \( \frac{1.5}{100} \times 51 = 50 \) <br />
+     \( \frac{1.5}{100} \times 74 = 9 \) <br />
     Add: <br />
-     \( 51 + 50 = 51.77 \) <br />
-    Round to nearest whole number 52
-- id: 11052
-  question: If your weekly wages are 392 and you recieve a 4.2 percent pay increase,
+     \( 74 + 9 = 75.11 \) <br />
+    Round to nearest whole number 75
+- id: 11011
+  question: If your weekly wages are 259 and you recieve a 2.9 percent pay increase,
     what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 408
+  answer: 267
   solution: |2-
-     **Answer** Find 4.2 percent: <br />
-     \( \frac{4.2}{100} \times 392 = 51 \) <br />
+     **Answer** Find 2.9 percent: <br />
+     \( \frac{2.9}{100} \times 259 = 10 \) <br />
     Add: <br />
-     \( 392 + 51 = 408.46 \) <br />
-    Round to nearest whole number 408
-- id: 11053
-  question: If your weekly wages are 365 and you recieve a 3.0 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 376
-  solution: |2-
-     **Answer** Find 3.0 percent: <br />
-     \( \frac{3.0}{100} \times 365 = 52 \) <br />
-    Add: <br />
-     \( 365 + 52 = 375.95 \) <br />
-    Round to nearest whole number 376
-- id: 11054
-  question: If your weekly wages are 267 and you recieve a 3.0 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 275
-  solution: |2-
-     **Answer** Find 3.0 percent: <br />
-     \( \frac{3.0}{100} \times 267 = 53 \) <br />
-    Add: <br />
-     \( 267 + 53 = 275.01 \) <br />
-    Round to nearest whole number 275
-- id: 11055
-  question: If your weekly wages are 393 and you recieve a 2.3 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 402
-  solution: |2-
-     **Answer** Find 2.3 percent: <br />
-     \( \frac{2.3}{100} \times 393 = 54 \) <br />
-    Add: <br />
-     \( 393 + 54 = 402.04 \) <br />
-    Round to nearest whole number 402
-- id: 11056
-  question: If your weekly wages are 320 and you recieve a 3.4 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 331
-  solution: |2-
-     **Answer** Find 3.4 percent: <br />
-     \( \frac{3.4}{100} \times 320 = 55 \) <br />
-    Add: <br />
-     \( 320 + 55 = 330.88 \) <br />
-    Round to nearest whole number 331
-- id: 11057
-  question: If your weekly wages are 256 and you recieve a 2.2 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 262
-  solution: |2-
-     **Answer** Find 2.2 percent: <br />
-     \( \frac{2.2}{100} \times 256 = 56 \) <br />
-    Add: <br />
-     \( 256 + 56 = 261.63 \) <br />
-    Round to nearest whole number 262
-- id: 11058
-  question: A patients weight increases by 4.2 percent from an original weight of
-    54 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 56
-  solution: |2-
-     **Answer** Find 4.2 percent: <br />
-     \( \frac{4.2}{100} \times 54 = 57 \) <br />
-    Add: <br />
-     \( 54 + 57 = 56.27 \) <br />
-    Round to nearest whole number 56
-- id: 11059
-  question: If your weekly wages are 252 and you recieve a 4.0 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 262
-  solution: |2-
-     **Answer** Find 4.0 percent: <br />
-     \( \frac{4.0}{100} \times 252 = 58 \) <br />
-    Add: <br />
-     \( 252 + 58 = 262.08 \) <br />
-    Round to nearest whole number 262
-- id: 11060
-  question: If your weekly wages are 302 and you recieve a 1.4 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 306
-  solution: |2-
-     **Answer** Find 1.4 percent: <br />
-     \( \frac{1.4}{100} \times 302 = 59 \) <br />
-    Add: <br />
-     \( 302 + 59 = 306.23 \) <br />
-    Round to nearest whole number 306
-- id: 11061
-  question: A patients weight increases by 3.9 percent from an original weight of
-    75 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 78
-  solution: |2-
-     **Answer** Find 3.9 percent: <br />
-     \( \frac{3.9}{100} \times 75 = 60 \) <br />
-    Add: <br />
-     \( 75 + 60 = 77.92 \) <br />
-    Round to nearest whole number 78
-- id: 11062
-  question: If your weekly wages are 263 and you recieve a 4.3 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 274
-  solution: |2-
-     **Answer** Find 4.3 percent: <br />
-     \( \frac{4.3}{100} \times 263 = 61 \) <br />
-    Add: <br />
-     \( 263 + 61 = 274.31 \) <br />
-    Round to nearest whole number 274
-- id: 11063
-  question: A patients weight increases by 1.5 percent from an original weight of
-    69 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 70
-  solution: |2-
-     **Answer** Find 1.5 percent: <br />
-     \( \frac{1.5}{100} \times 69 = 62 \) <br />
-    Add: <br />
-     \( 69 + 62 = 70.03 \) <br />
-    Round to nearest whole number 70
-- id: 11064
-  question: A patients weight increases by 3.9 percent from an original weight of
-    60 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 62
-  solution: |2-
-     **Answer** Find 3.9 percent: <br />
-     \( \frac{3.9}{100} \times 60 = 63 \) <br />
-    Add: <br />
-     \( 60 + 63 = 62.34 \) <br />
-    Round to nearest whole number 62
-- id: 11065
-  question: A patients weight increases by 3.3 percent from an original weight of
-    75 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 77
-  solution: |2-
-     **Answer** Find 3.3 percent: <br />
-     \( \frac{3.3}{100} \times 75 = 64 \) <br />
-    Add: <br />
-     \( 75 + 64 = 77.48 \) <br />
-    Round to nearest whole number 77
-- id: 11066
-  question: If your weekly wages are 265 and you recieve a 4.3 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 276
-  solution: |2-
-     **Answer** Find 4.3 percent: <br />
-     \( \frac{4.3}{100} \times 265 = 65 \) <br />
-    Add: <br />
-     \( 265 + 65 = 276.39 \) <br />
-    Round to nearest whole number 276
-- id: 11067
-  question: A patients weight increases by 4.7 percent from an original weight of
-    71 kilograms. What is their new weight? Give the answer correct to the nearest
+     \( 259 + 10 = 266.51 \) <br />
+    Round to nearest whole number 267
+- id: 11012
+  question: A patient's weight increases by 1.8 percent from an original weight of
+    73 kilograms. What is their new weight? Give the answer correct to the nearest
     whole number.
   answer: 74
   solution: |2-
-     **Answer** Find 4.7 percent: <br />
-     \( \frac{4.7}{100} \times 71 = 66 \) <br />
+     **Answer** Find 1.8 percent: <br />
+     \( \frac{1.8}{100} \times 73 = 11 \) <br />
     Add: <br />
-     \( 71 + 66 = 74.34 \) <br />
+     \( 73 + 11 = 74.31 \) <br />
     Round to nearest whole number 74
-- id: 11068
-  question: If your weekly wages are 339 and you recieve a 3.1 percent pay increase,
+- id: 11013
+  question: If your weekly wages are 293 and you recieve a 2.4 percent pay increase,
     what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 350
+  answer: 300
   solution: |2-
-     **Answer** Find 3.1 percent: <br />
-     \( \frac{3.1}{100} \times 339 = 67 \) <br />
+     **Answer** Find 2.4 percent: <br />
+     \( \frac{2.4}{100} \times 293 = 12 \) <br />
     Add: <br />
-     \( 339 + 67 = 349.51 \) <br />
-    Round to nearest whole number 350
-- id: 11069
-  question: If your weekly wages are 346 and you recieve a 1.7 percent pay increase,
+     \( 293 + 12 = 300.03 \) <br />
+    Round to nearest whole number 300
+- id: 11014
+  question: If your weekly wages are 253 and you recieve a 4.8 percent pay increase,
     what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 352
+  answer: 265
   solution: |2-
-     **Answer** Find 1.7 percent: <br />
-     \( \frac{1.7}{100} \times 346 = 68 \) <br />
+     **Answer** Find 4.8 percent: <br />
+     \( \frac{4.8}{100} \times 253 = 13 \) <br />
     Add: <br />
-     \( 346 + 68 = 351.88 \) <br />
-    Round to nearest whole number 352
-- id: 11070
-  question: A patients weight increases by 1.9 percent from an original weight of
-    63 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 64
-  solution: |2-
-     **Answer** Find 1.9 percent: <br />
-     \( \frac{1.9}{100} \times 63 = 69 \) <br />
-    Add: <br />
-     \( 63 + 69 = 64.2 \) <br />
-    Round to nearest whole number 64
-- id: 11071
-  question: If your weekly wages are 320 and you recieve a 3.3 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 331
-  solution: |2-
-     **Answer** Find 3.3 percent: <br />
-     \( \frac{3.3}{100} \times 320 = 70 \) <br />
-    Add: <br />
-     \( 320 + 70 = 330.56 \) <br />
-    Round to nearest whole number 331
-- id: 11072
-  question: If your weekly wages are 310 and you recieve a 1.4 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 314
-  solution: |2-
-     **Answer** Find 1.4 percent: <br />
-     \( \frac{1.4}{100} \times 310 = 71 \) <br />
-    Add: <br />
-     \( 310 + 71 = 314.34 \) <br />
-    Round to nearest whole number 314
-- id: 11073
-  question: A patients weight increases by 2.0 percent from an original weight of
+     \( 253 + 13 = 265.14 \) <br />
+    Round to nearest whole number 265
+- id: 11015
+  question: A patient's weight increases by 1.3 percent from an original weight of
     55 kilograms. What is their new weight? Give the answer correct to the nearest
     whole number.
   answer: 56
   solution: |2-
-     **Answer** Find 2.0 percent: <br />
-     \( \frac{2.0}{100} \times 55 = 72 \) <br />
+     **Answer** Find 1.3 percent: <br />
+     \( \frac{1.3}{100} \times 55 = 14 \) <br />
     Add: <br />
-     \( 55 + 72 = 56.1 \) <br />
+     \( 55 + 14 = 55.72 \) <br />
     Round to nearest whole number 56
-- id: 11074
-  question: If your weekly wages are 360 and you recieve a 1.6 percent pay increase,
+- id: 11016
+  question: If your weekly wages are 307 and you recieve a 2.2 percent pay increase,
     what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 366
+  answer: 314
+  solution: |2-
+     **Answer** Find 2.2 percent: <br />
+     \( \frac{2.2}{100} \times 307 = 15 \) <br />
+    Add: <br />
+     \( 307 + 15 = 313.75 \) <br />
+    Round to nearest whole number 314
+- id: 11017
+  question: A patient's weight increases by 1.5 percent from an original weight of
+    50 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 51
+  solution: |2-
+     **Answer** Find 1.5 percent: <br />
+     \( \frac{1.5}{100} \times 50 = 16 \) <br />
+    Add: <br />
+     \( 50 + 16 = 50.75 \) <br />
+    Round to nearest whole number 51
+- id: 11018
+  question: If your weekly wages are 289 and you recieve a 4.5 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 302
+  solution: |2-
+     **Answer** Find 4.5 percent: <br />
+     \( \frac{4.5}{100} \times 289 = 17 \) <br />
+    Add: <br />
+     \( 289 + 17 = 302.0 \) <br />
+    Round to nearest whole number 302
+- id: 11019
+  question: If your weekly wages are 345 and you recieve a 3.4 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 357
+  solution: |2-
+     **Answer** Find 3.4 percent: <br />
+     \( \frac{3.4}{100} \times 345 = 18 \) <br />
+    Add: <br />
+     \( 345 + 18 = 356.73 \) <br />
+    Round to nearest whole number 357
+- id: 11020
+  question: If your weekly wages are 304 and you recieve a 4.7 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 318
+  solution: |2-
+     **Answer** Find 4.7 percent: <br />
+     \( \frac{4.7}{100} \times 304 = 19 \) <br />
+    Add: <br />
+     \( 304 + 19 = 318.29 \) <br />
+    Round to nearest whole number 318
+- id: 11021
+  question: A patient's weight increases by 4.9 percent from an original weight of
+    72 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 76
+  solution: |2-
+     **Answer** Find 4.9 percent: <br />
+     \( \frac{4.9}{100} \times 72 = 20 \) <br />
+    Add: <br />
+     \( 72 + 20 = 75.53 \) <br />
+    Round to nearest whole number 76
+- id: 11022
+  question: If your weekly wages are 351 and you recieve a 4.7 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 368
+  solution: |2-
+     **Answer** Find 4.7 percent: <br />
+     \( \frac{4.7}{100} \times 351 = 21 \) <br />
+    Add: <br />
+     \( 351 + 21 = 367.5 \) <br />
+    Round to nearest whole number 368
+- id: 11023
+  question: A patient's weight increases by 1.6 percent from an original weight of
+    75 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 76
   solution: |2-
      **Answer** Find 1.6 percent: <br />
-     \( \frac{1.6}{100} \times 360 = 73 \) <br />
+     \( \frac{1.6}{100} \times 75 = 22 \) <br />
     Add: <br />
-     \( 360 + 73 = 365.76 \) <br />
-    Round to nearest whole number 366
-- id: 11075
-  question: If your weekly wages are 324 and you recieve a 4.8 percent pay increase,
+     \( 75 + 22 = 76.2 \) <br />
+    Round to nearest whole number 76
+- id: 11024
+  question: If your weekly wages are 250 and you recieve a 2.9 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 257
+  solution: |2-
+     **Answer** Find 2.9 percent: <br />
+     \( \frac{2.9}{100} \times 250 = 23 \) <br />
+    Add: <br />
+     \( 250 + 23 = 257.25 \) <br />
+    Round to nearest whole number 257
+- id: 11025
+  question: A patient's weight increases by 2.4 percent from an original weight of
+    61 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 62
+  solution: |2-
+     **Answer** Find 2.4 percent: <br />
+     \( \frac{2.4}{100} \times 61 = 24 \) <br />
+    Add: <br />
+     \( 61 + 24 = 62.46 \) <br />
+    Round to nearest whole number 62
+- id: 11026
+  question: If your weekly wages are 397 and you recieve a 1.4 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 403
+  solution: |2-
+     **Answer** Find 1.4 percent: <br />
+     \( \frac{1.4}{100} \times 397 = 25 \) <br />
+    Add: <br />
+     \( 397 + 25 = 402.56 \) <br />
+    Round to nearest whole number 403
+- id: 11027
+  question: A patient's weight increases by 4.9 percent from an original weight of
+    79 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 83
+  solution: |2-
+     **Answer** Find 4.9 percent: <br />
+     \( \frac{4.9}{100} \times 79 = 26 \) <br />
+    Add: <br />
+     \( 79 + 26 = 82.87 \) <br />
+    Round to nearest whole number 83
+- id: 11028
+  question: If your weekly wages are 341 and you recieve a 2.1 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 348
+  solution: |2-
+     **Answer** Find 2.1 percent: <br />
+     \( \frac{2.1}{100} \times 341 = 27 \) <br />
+    Add: <br />
+     \( 341 + 27 = 348.16 \) <br />
+    Round to nearest whole number 348
+- id: 11029
+  question: A patient's weight increases by 1.4 percent from an original weight of
+    52 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 53
+  solution: |2-
+     **Answer** Find 1.4 percent: <br />
+     \( \frac{1.4}{100} \times 52 = 28 \) <br />
+    Add: <br />
+     \( 52 + 28 = 52.73 \) <br />
+    Round to nearest whole number 53
+- id: 11030
+  question: A patient's weight increases by 2.3 percent from an original weight of
+    62 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 63
+  solution: |2-
+     **Answer** Find 2.3 percent: <br />
+     \( \frac{2.3}{100} \times 62 = 29 \) <br />
+    Add: <br />
+     \( 62 + 29 = 63.43 \) <br />
+    Round to nearest whole number 63
+- id: 11031
+  question: A patient's weight increases by 4.0 percent from an original weight of
+    65 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 68
+  solution: |2-
+     **Answer** Find 4.0 percent: <br />
+     \( \frac{4.0}{100} \times 65 = 30 \) <br />
+    Add: <br />
+     \( 65 + 30 = 67.6 \) <br />
+    Round to nearest whole number 68
+- id: 11032
+  question: If your weekly wages are 271 and you recieve a 2.2 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 277
+  solution: |2-
+     **Answer** Find 2.2 percent: <br />
+     \( \frac{2.2}{100} \times 271 = 31 \) <br />
+    Add: <br />
+     \( 271 + 31 = 276.96 \) <br />
+    Round to nearest whole number 277
+- id: 11033
+  question: If your weekly wages are 393 and you recieve a 2.8 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 404
+  solution: |2-
+     **Answer** Find 2.8 percent: <br />
+     \( \frac{2.8}{100} \times 393 = 32 \) <br />
+    Add: <br />
+     \( 393 + 32 = 404.0 \) <br />
+    Round to nearest whole number 404
+- id: 11034
+  question: A patient's weight increases by 2.7 percent from an original weight of
+    52 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 53
+  solution: |2-
+     **Answer** Find 2.7 percent: <br />
+     \( \frac{2.7}{100} \times 52 = 33 \) <br />
+    Add: <br />
+     \( 52 + 33 = 53.4 \) <br />
+    Round to nearest whole number 53
+- id: 11035
+  question: A patient's weight increases by 4.1 percent from an original weight of
+    67 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 70
+  solution: |2-
+     **Answer** Find 4.1 percent: <br />
+     \( \frac{4.1}{100} \times 67 = 34 \) <br />
+    Add: <br />
+     \( 67 + 34 = 69.75 \) <br />
+    Round to nearest whole number 70
+- id: 11036
+  question: If your weekly wages are 286 and you recieve a 2.4 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 293
+  solution: |2-
+     **Answer** Find 2.4 percent: <br />
+     \( \frac{2.4}{100} \times 286 = 35 \) <br />
+    Add: <br />
+     \( 286 + 35 = 292.86 \) <br />
+    Round to nearest whole number 293
+- id: 11037
+  question: A patient's weight increases by 4.0 percent from an original weight of
+    61 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 63
+  solution: |2-
+     **Answer** Find 4.0 percent: <br />
+     \( \frac{4.0}{100} \times 61 = 36 \) <br />
+    Add: <br />
+     \( 61 + 36 = 63.44 \) <br />
+    Round to nearest whole number 63
+- id: 11038
+  question: If your weekly wages are 362 and you recieve a 2.2 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 370
+  solution: |2-
+     **Answer** Find 2.2 percent: <br />
+     \( \frac{2.2}{100} \times 362 = 37 \) <br />
+    Add: <br />
+     \( 362 + 37 = 369.96 \) <br />
+    Round to nearest whole number 370
+- id: 11039
+  question: A patient's weight increases by 3.6 percent from an original weight of
+    55 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 57
+  solution: |2-
+     **Answer** Find 3.6 percent: <br />
+     \( \frac{3.6}{100} \times 55 = 38 \) <br />
+    Add: <br />
+     \( 55 + 38 = 56.98 \) <br />
+    Round to nearest whole number 57
+- id: 11040
+  question: If your weekly wages are 295 and you recieve a 1.6 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 300
+  solution: |2-
+     **Answer** Find 1.6 percent: <br />
+     \( \frac{1.6}{100} \times 295 = 39 \) <br />
+    Add: <br />
+     \( 295 + 39 = 299.72 \) <br />
+    Round to nearest whole number 300
+- id: 11041
+  question: If your weekly wages are 393 and you recieve a 4.2 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 410
+  solution: |2-
+     **Answer** Find 4.2 percent: <br />
+     \( \frac{4.2}{100} \times 393 = 40 \) <br />
+    Add: <br />
+     \( 393 + 40 = 409.51 \) <br />
+    Round to nearest whole number 410
+- id: 11042
+  question: If your weekly wages are 385 and you recieve a 2.1 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 393
+  solution: |2-
+     **Answer** Find 2.1 percent: <br />
+     \( \frac{2.1}{100} \times 385 = 41 \) <br />
+    Add: <br />
+     \( 385 + 41 = 393.09 \) <br />
+    Round to nearest whole number 393
+- id: 11043
+  question: A patient's weight increases by 1.6 percent from an original weight of
+    74 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 75
+  solution: |2-
+     **Answer** Find 1.6 percent: <br />
+     \( \frac{1.6}{100} \times 74 = 42 \) <br />
+    Add: <br />
+     \( 74 + 42 = 75.18 \) <br />
+    Round to nearest whole number 75
+- id: 11044
+  question: A patient's weight increases by 4.0 percent from an original weight of
+    64 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 67
+  solution: |2-
+     **Answer** Find 4.0 percent: <br />
+     \( \frac{4.0}{100} \times 64 = 43 \) <br />
+    Add: <br />
+     \( 64 + 43 = 66.56 \) <br />
+    Round to nearest whole number 67
+- id: 11045
+  question: A patient's weight increases by 2.2 percent from an original weight of
+    55 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 56
+  solution: |2-
+     **Answer** Find 2.2 percent: <br />
+     \( \frac{2.2}{100} \times 55 = 44 \) <br />
+    Add: <br />
+     \( 55 + 44 = 56.21 \) <br />
+    Round to nearest whole number 56
+- id: 11046
+  question: If your weekly wages are 273 and you recieve a 1.7 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 278
+  solution: |2-
+     **Answer** Find 1.7 percent: <br />
+     \( \frac{1.7}{100} \times 273 = 45 \) <br />
+    Add: <br />
+     \( 273 + 45 = 277.64 \) <br />
+    Round to nearest whole number 278
+- id: 11047
+  question: A patient's weight increases by 4.1 percent from an original weight of
+    80 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 83
+  solution: |2-
+     **Answer** Find 4.1 percent: <br />
+     \( \frac{4.1}{100} \times 80 = 46 \) <br />
+    Add: <br />
+     \( 80 + 46 = 83.28 \) <br />
+    Round to nearest whole number 83
+- id: 11048
+  question: If your weekly wages are 279 and you recieve a 4.1 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 290
+  solution: |2-
+     **Answer** Find 4.1 percent: <br />
+     \( \frac{4.1}{100} \times 279 = 47 \) <br />
+    Add: <br />
+     \( 279 + 47 = 290.44 \) <br />
+    Round to nearest whole number 290
+- id: 11049
+  question: If your weekly wages are 264 and you recieve a 3.2 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 272
+  solution: |2-
+     **Answer** Find 3.2 percent: <br />
+     \( \frac{3.2}{100} \times 264 = 48 \) <br />
+    Add: <br />
+     \( 264 + 48 = 272.45 \) <br />
+    Round to nearest whole number 272
+- id: 11050
+  question: If your weekly wages are 262 and you recieve a 1.9 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 267
+  solution: |2-
+     **Answer** Find 1.9 percent: <br />
+     \( \frac{1.9}{100} \times 262 = 49 \) <br />
+    Add: <br />
+     \( 262 + 49 = 266.98 \) <br />
+    Round to nearest whole number 267
+- id: 11051
+  question: If your weekly wages are 370 and you recieve a 1.2 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 374
+  solution: |2-
+     **Answer** Find 1.2 percent: <br />
+     \( \frac{1.2}{100} \times 370 = 50 \) <br />
+    Add: <br />
+     \( 370 + 50 = 374.44 \) <br />
+    Round to nearest whole number 374
+- id: 11052
+  question: If your weekly wages are 288 and you recieve a 2.4 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 295
+  solution: |2-
+     **Answer** Find 2.4 percent: <br />
+     \( \frac{2.4}{100} \times 288 = 51 \) <br />
+    Add: <br />
+     \( 288 + 51 = 294.91 \) <br />
+    Round to nearest whole number 295
+- id: 11053
+  question: If your weekly wages are 374 and you recieve a 2.1 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 382
+  solution: |2-
+     **Answer** Find 2.1 percent: <br />
+     \( \frac{2.1}{100} \times 374 = 52 \) <br />
+    Add: <br />
+     \( 374 + 52 = 381.85 \) <br />
+    Round to nearest whole number 382
+- id: 11054
+  question: If your weekly wages are 378 and you recieve a 3.4 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 391
+  solution: |2-
+     **Answer** Find 3.4 percent: <br />
+     \( \frac{3.4}{100} \times 378 = 53 \) <br />
+    Add: <br />
+     \( 378 + 53 = 390.85 \) <br />
+    Round to nearest whole number 391
+- id: 11055
+  question: If your weekly wages are 283 and you recieve a 4.8 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 297
+  solution: |2-
+     **Answer** Find 4.8 percent: <br />
+     \( \frac{4.8}{100} \times 283 = 54 \) <br />
+    Add: <br />
+     \( 283 + 54 = 296.58 \) <br />
+    Round to nearest whole number 297
+- id: 11056
+  question: A patient's weight increases by 3.7 percent from an original weight of
+    71 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 74
+  solution: |2-
+     **Answer** Find 3.7 percent: <br />
+     \( \frac{3.7}{100} \times 71 = 55 \) <br />
+    Add: <br />
+     \( 71 + 55 = 73.63 \) <br />
+    Round to nearest whole number 74
+- id: 11057
+  question: If your weekly wages are 358 and you recieve a 3.4 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 370
+  solution: |2-
+     **Answer** Find 3.4 percent: <br />
+     \( \frac{3.4}{100} \times 358 = 56 \) <br />
+    Add: <br />
+     \( 358 + 56 = 370.17 \) <br />
+    Round to nearest whole number 370
+- id: 11058
+  question: A patient's weight increases by 2.0 percent from an original weight of
+    78 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 80
+  solution: |2-
+     **Answer** Find 2.0 percent: <br />
+     \( \frac{2.0}{100} \times 78 = 57 \) <br />
+    Add: <br />
+     \( 78 + 57 = 79.56 \) <br />
+    Round to nearest whole number 80
+- id: 11059
+  question: If your weekly wages are 329 and you recieve a 3.2 percent pay increase,
     what are your new weekly wages? Give answer correct to the nearest whole number.
   answer: 340
   solution: |2-
-     **Answer** Find 4.8 percent: <br />
-     \( \frac{4.8}{100} \times 324 = 74 \) <br />
+     **Answer** Find 3.2 percent: <br />
+     \( \frac{3.2}{100} \times 329 = 58 \) <br />
     Add: <br />
-     \( 324 + 74 = 339.55 \) <br />
+     \( 329 + 58 = 339.53 \) <br />
     Round to nearest whole number 340
-- id: 11076
-  question: A patients weight increases by 4.7 percent from an original weight of
-    63 kilograms. What is their new weight? Give the answer correct to the nearest
+- id: 11060
+  question: A patient's weight increases by 1.7 percent from an original weight of
+    57 kilograms. What is their new weight? Give the answer correct to the nearest
     whole number.
-  answer: 66
+  answer: 58
   solution: |2-
-     **Answer** Find 4.7 percent: <br />
-     \( \frac{4.7}{100} \times 63 = 75 \) <br />
+     **Answer** Find 1.7 percent: <br />
+     \( \frac{1.7}{100} \times 57 = 59 \) <br />
     Add: <br />
-     \( 63 + 75 = 65.96 \) <br />
-    Round to nearest whole number 66
-- id: 11077
-  question: A patients weight increases by 4.1 percent from an original weight of
-    62 kilograms. What is their new weight? Give the answer correct to the nearest
+     \( 57 + 59 = 57.97 \) <br />
+    Round to nearest whole number 58
+- id: 11061
+  question: A patient's weight increases by 4.0 percent from an original weight of
+    73 kilograms. What is their new weight? Give the answer correct to the nearest
     whole number.
-  answer: 65
-  solution: |2-
-     **Answer** Find 4.1 percent: <br />
-     \( \frac{4.1}{100} \times 62 = 76 \) <br />
-    Add: <br />
-     \( 62 + 76 = 64.54 \) <br />
-    Round to nearest whole number 65
-- id: 11078
-  question: A patients weight increases by 4.0 percent from an original weight of
-    50 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 52
+  answer: 76
   solution: |2-
      **Answer** Find 4.0 percent: <br />
-     \( \frac{4.0}{100} \times 50 = 77 \) <br />
+     \( \frac{4.0}{100} \times 73 = 60 \) <br />
     Add: <br />
-     \( 50 + 77 = 52.0 \) <br />
-    Round to nearest whole number 52
+     \( 73 + 60 = 75.92 \) <br />
+    Round to nearest whole number 76
+- id: 11062
+  question: If your weekly wages are 331 and you recieve a 3.8 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 344
+  solution: |2-
+     **Answer** Find 3.8 percent: <br />
+     \( \frac{3.8}{100} \times 331 = 61 \) <br />
+    Add: <br />
+     \( 331 + 61 = 343.58 \) <br />
+    Round to nearest whole number 344
+- id: 11063
+  question: A patient's weight increases by 4.5 percent from an original weight of
+    56 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 59
+  solution: |2-
+     **Answer** Find 4.5 percent: <br />
+     \( \frac{4.5}{100} \times 56 = 62 \) <br />
+    Add: <br />
+     \( 56 + 62 = 58.52 \) <br />
+    Round to nearest whole number 59
+- id: 11064
+  question: If your weekly wages are 336 and you recieve a 2.8 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 345
+  solution: |2-
+     **Answer** Find 2.8 percent: <br />
+     \( \frac{2.8}{100} \times 336 = 63 \) <br />
+    Add: <br />
+     \( 336 + 63 = 345.41 \) <br />
+    Round to nearest whole number 345
+- id: 11065
+  question: If your weekly wages are 274 and you recieve a 3.9 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 285
+  solution: |2-
+     **Answer** Find 3.9 percent: <br />
+     \( \frac{3.9}{100} \times 274 = 64 \) <br />
+    Add: <br />
+     \( 274 + 64 = 284.69 \) <br />
+    Round to nearest whole number 285
+- id: 11066
+  question: If your weekly wages are 364 and you recieve a 3.5 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 377
+  solution: |2-
+     **Answer** Find 3.5 percent: <br />
+     \( \frac{3.5}{100} \times 364 = 65 \) <br />
+    Add: <br />
+     \( 364 + 65 = 376.74 \) <br />
+    Round to nearest whole number 377
+- id: 11067
+  question: If your weekly wages are 301 and you recieve a 4.3 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 314
+  solution: |2-
+     **Answer** Find 4.3 percent: <br />
+     \( \frac{4.3}{100} \times 301 = 66 \) <br />
+    Add: <br />
+     \( 301 + 66 = 313.94 \) <br />
+    Round to nearest whole number 314
+- id: 11068
+  question: A patient's weight increases by 3.5 percent from an original weight of
+    68 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 70
+  solution: |2-
+     **Answer** Find 3.5 percent: <br />
+     \( \frac{3.5}{100} \times 68 = 67 \) <br />
+    Add: <br />
+     \( 68 + 67 = 70.38 \) <br />
+    Round to nearest whole number 70
+- id: 11069
+  question: If your weekly wages are 334 and you recieve a 1.4 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 339
+  solution: |2-
+     **Answer** Find 1.4 percent: <br />
+     \( \frac{1.4}{100} \times 334 = 68 \) <br />
+    Add: <br />
+     \( 334 + 68 = 338.68 \) <br />
+    Round to nearest whole number 339
+- id: 11070
+  question: If your weekly wages are 373 and you recieve a 1.8 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 380
+  solution: |2-
+     **Answer** Find 1.8 percent: <br />
+     \( \frac{1.8}{100} \times 373 = 69 \) <br />
+    Add: <br />
+     \( 373 + 69 = 379.71 \) <br />
+    Round to nearest whole number 380
+- id: 11071
+  question: If your weekly wages are 377 and you recieve a 2.4 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 386
+  solution: |2-
+     **Answer** Find 2.4 percent: <br />
+     \( \frac{2.4}{100} \times 377 = 70 \) <br />
+    Add: <br />
+     \( 377 + 70 = 386.05 \) <br />
+    Round to nearest whole number 386
+- id: 11072
+  question: If your weekly wages are 250 and you recieve a 1.9 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 255
+  solution: |2-
+     **Answer** Find 1.9 percent: <br />
+     \( \frac{1.9}{100} \times 250 = 71 \) <br />
+    Add: <br />
+     \( 250 + 71 = 254.75 \) <br />
+    Round to nearest whole number 255
+- id: 11073
+  question: If your weekly wages are 400 and you recieve a 4.9 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 420
+  solution: |2-
+     **Answer** Find 4.9 percent: <br />
+     \( \frac{4.9}{100} \times 400 = 72 \) <br />
+    Add: <br />
+     \( 400 + 72 = 419.6 \) <br />
+    Round to nearest whole number 420
+- id: 11074
+  question: A patient's weight increases by 1.5 percent from an original weight of
+    56 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 57
+  solution: |2-
+     **Answer** Find 1.5 percent: <br />
+     \( \frac{1.5}{100} \times 56 = 73 \) <br />
+    Add: <br />
+     \( 56 + 73 = 56.84 \) <br />
+    Round to nearest whole number 57
+- id: 11075
+  question: A patient's weight increases by 3.8 percent from an original weight of
+    67 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 70
+  solution: |2-
+     **Answer** Find 3.8 percent: <br />
+     \( \frac{3.8}{100} \times 67 = 74 \) <br />
+    Add: <br />
+     \( 67 + 74 = 69.55 \) <br />
+    Round to nearest whole number 70
+- id: 11076
+  question: A patient's weight increases by 3.7 percent from an original weight of
+    73 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 76
+  solution: |2-
+     **Answer** Find 3.7 percent: <br />
+     \( \frac{3.7}{100} \times 73 = 75 \) <br />
+    Add: <br />
+     \( 73 + 75 = 75.7 \) <br />
+    Round to nearest whole number 76
+- id: 11077
+  question: If your weekly wages are 356 and you recieve a 2.0 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 363
+  solution: |2-
+     **Answer** Find 2.0 percent: <br />
+     \( \frac{2.0}{100} \times 356 = 76 \) <br />
+    Add: <br />
+     \( 356 + 76 = 363.12 \) <br />
+    Round to nearest whole number 363
+- id: 11078
+  question: A patient's weight increases by 3.4 percent from an original weight of
+    55 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 57
+  solution: |2-
+     **Answer** Find 3.4 percent: <br />
+     \( \frac{3.4}{100} \times 55 = 77 \) <br />
+    Add: <br />
+     \( 55 + 77 = 56.87 \) <br />
+    Round to nearest whole number 57
 - id: 11079
-  question: A patients weight increases by 4.5 percent from an original weight of
+  question: If your weekly wages are 376 and you recieve a 3.1 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 388
+  solution: |2-
+     **Answer** Find 3.1 percent: <br />
+     \( \frac{3.1}{100} \times 376 = 78 \) <br />
+    Add: <br />
+     \( 376 + 78 = 387.66 \) <br />
+    Round to nearest whole number 388
+- id: 11080
+  question: A patient's weight increases by 3.1 percent from an original weight of
+    59 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 61
+  solution: |2-
+     **Answer** Find 3.1 percent: <br />
+     \( \frac{3.1}{100} \times 59 = 79 \) <br />
+    Add: <br />
+     \( 59 + 79 = 60.83 \) <br />
+    Round to nearest whole number 61
+- id: 11081
+  question: If your weekly wages are 285 and you recieve a 3.7 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 296
+  solution: |2-
+     **Answer** Find 3.7 percent: <br />
+     \( \frac{3.7}{100} \times 285 = 80 \) <br />
+    Add: <br />
+     \( 285 + 80 = 295.55 \) <br />
+    Round to nearest whole number 296
+- id: 11082
+  question: A patient's weight increases by 4.0 percent from an original weight of
+    73 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 76
+  solution: |2-
+     **Answer** Find 4.0 percent: <br />
+     \( \frac{4.0}{100} \times 73 = 81 \) <br />
+    Add: <br />
+     \( 73 + 81 = 75.92 \) <br />
+    Round to nearest whole number 76
+- id: 11083
+  question: A patient's weight increases by 3.7 percent from an original weight of
     72 kilograms. What is their new weight? Give the answer correct to the nearest
     whole number.
   answer: 75
   solution: |2-
-     **Answer** Find 4.5 percent: <br />
-     \( \frac{4.5}{100} \times 72 = 78 \) <br />
+     **Answer** Find 3.7 percent: <br />
+     \( \frac{3.7}{100} \times 72 = 82 \) <br />
     Add: <br />
-     \( 72 + 78 = 75.24 \) <br />
+     \( 72 + 82 = 74.66 \) <br />
     Round to nearest whole number 75
-- id: 11080
-  question: A patients weight increases by 4.1 percent from an original weight of
-    75 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 78
-  solution: |2-
-     **Answer** Find 4.1 percent: <br />
-     \( \frac{4.1}{100} \times 75 = 79 \) <br />
-    Add: <br />
-     \( 75 + 79 = 78.07 \) <br />
-    Round to nearest whole number 78
-- id: 11081
-  question: If your weekly wages are 372 and you recieve a 4.2 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 388
-  solution: |2-
-     **Answer** Find 4.2 percent: <br />
-     \( \frac{4.2}{100} \times 372 = 80 \) <br />
-    Add: <br />
-     \( 372 + 80 = 387.62 \) <br />
-    Round to nearest whole number 388
-- id: 11082
-  question: If your weekly wages are 368 and you recieve a 1.1 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 372
-  solution: |2-
-     **Answer** Find 1.1 percent: <br />
-     \( \frac{1.1}{100} \times 368 = 81 \) <br />
-    Add: <br />
-     \( 368 + 81 = 372.05 \) <br />
-    Round to nearest whole number 372
-- id: 11083
-  question: A patients weight increases by 1.4 percent from an original weight of
-    60 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 61
-  solution: |2-
-     **Answer** Find 1.4 percent: <br />
-     \( \frac{1.4}{100} \times 60 = 82 \) <br />
-    Add: <br />
-     \( 60 + 82 = 60.84 \) <br />
-    Round to nearest whole number 61
 - id: 11084
-  question: If your weekly wages are 271 and you recieve a 1.4 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 275
+  question: A patient's weight increases by 4.4 percent from an original weight of
+    52 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 54
   solution: |2-
-     **Answer** Find 1.4 percent: <br />
-     \( \frac{1.4}{100} \times 271 = 83 \) <br />
+     **Answer** Find 4.4 percent: <br />
+     \( \frac{4.4}{100} \times 52 = 83 \) <br />
     Add: <br />
-     \( 271 + 83 = 274.79 \) <br />
-    Round to nearest whole number 275
+     \( 52 + 83 = 54.29 \) <br />
+    Round to nearest whole number 54
 - id: 11085
-  question: A patients weight increases by 4.7 percent from an original weight of
+  question: If your weekly wages are 349 and you recieve a 2.8 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 359
+  solution: |2-
+     **Answer** Find 2.8 percent: <br />
+     \( \frac{2.8}{100} \times 349 = 84 \) <br />
+    Add: <br />
+     \( 349 + 84 = 358.77 \) <br />
+    Round to nearest whole number 359
+- id: 11086
+  question: A patient's weight increases by 3.6 percent from an original weight of
+    76 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 79
+  solution: |2-
+     **Answer** Find 3.6 percent: <br />
+     \( \frac{3.6}{100} \times 76 = 85 \) <br />
+    Add: <br />
+     \( 76 + 85 = 78.74 \) <br />
+    Round to nearest whole number 79
+- id: 11087
+  question: A patient's weight increases by 1.8 percent from an original weight of
+    80 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 81
+  solution: |2-
+     **Answer** Find 1.8 percent: <br />
+     \( \frac{1.8}{100} \times 80 = 86 \) <br />
+    Add: <br />
+     \( 80 + 86 = 81.44 \) <br />
+    Round to nearest whole number 81
+- id: 11088
+  question: If your weekly wages are 342 and you recieve a 2.5 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 351
+  solution: |2-
+     **Answer** Find 2.5 percent: <br />
+     \( \frac{2.5}{100} \times 342 = 87 \) <br />
+    Add: <br />
+     \( 342 + 87 = 350.55 \) <br />
+    Round to nearest whole number 351
+- id: 11089
+  question: A patient's weight increases by 2.8 percent from an original weight of
+    52 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 53
+  solution: |2-
+     **Answer** Find 2.8 percent: <br />
+     \( \frac{2.8}{100} \times 52 = 88 \) <br />
+    Add: <br />
+     \( 52 + 88 = 53.46 \) <br />
+    Round to nearest whole number 53
+- id: 11090
+  question: A patient's weight increases by 3.0 percent from an original weight of
+    72 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 74
+  solution: |2-
+     **Answer** Find 3.0 percent: <br />
+     \( \frac{3.0}{100} \times 72 = 89 \) <br />
+    Add: <br />
+     \( 72 + 89 = 74.16 \) <br />
+    Round to nearest whole number 74
+- id: 11091
+  question: A patient's weight increases by 3.5 percent from an original weight of
+    77 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 80
+  solution: |2-
+     **Answer** Find 3.5 percent: <br />
+     \( \frac{3.5}{100} \times 77 = 90 \) <br />
+    Add: <br />
+     \( 77 + 90 = 79.7 \) <br />
+    Round to nearest whole number 80
+- id: 11092
+  question: A patient's weight increases by 4.5 percent from an original weight of
+    65 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 68
+  solution: |2-
+     **Answer** Find 4.5 percent: <br />
+     \( \frac{4.5}{100} \times 65 = 91 \) <br />
+    Add: <br />
+     \( 65 + 91 = 67.92 \) <br />
+    Round to nearest whole number 68
+- id: 11093
+  question: A patient's weight increases by 4.8 percent from an original weight of
     63 kilograms. What is their new weight? Give the answer correct to the nearest
     whole number.
   answer: 66
   solution: |2-
-     **Answer** Find 4.7 percent: <br />
-     \( \frac{4.7}{100} \times 63 = 84 \) <br />
-    Add: <br />
-     \( 63 + 84 = 65.96 \) <br />
-    Round to nearest whole number 66
-- id: 11086
-  question: A patients weight increases by 4.8 percent from an original weight of
-    70 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 73
-  solution: |2-
      **Answer** Find 4.8 percent: <br />
-     \( \frac{4.8}{100} \times 70 = 85 \) <br />
+     \( \frac{4.8}{100} \times 63 = 92 \) <br />
     Add: <br />
-     \( 70 + 85 = 73.36 \) <br />
-    Round to nearest whole number 73
-- id: 11087
-  question: A patients weight increases by 2.3 percent from an original weight of
-    53 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 54
-  solution: |2-
-     **Answer** Find 2.3 percent: <br />
-     \( \frac{2.3}{100} \times 53 = 86 \) <br />
-    Add: <br />
-     \( 53 + 86 = 54.22 \) <br />
-    Round to nearest whole number 54
-- id: 11088
-  question: A patients weight increases by 1.3 percent from an original weight of
-    78 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 79
-  solution: |2-
-     **Answer** Find 1.3 percent: <br />
-     \( \frac{1.3}{100} \times 78 = 87 \) <br />
-    Add: <br />
-     \( 78 + 87 = 79.01 \) <br />
-    Round to nearest whole number 79
-- id: 11089
-  question: If your weekly wages are 274 and you recieve a 2.0 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 279
-  solution: |2-
-     **Answer** Find 2.0 percent: <br />
-     \( \frac{2.0}{100} \times 274 = 88 \) <br />
-    Add: <br />
-     \( 274 + 88 = 279.48 \) <br />
-    Round to nearest whole number 279
-- id: 11090
-  question: A patients weight increases by 1.1 percent from an original weight of
-    79 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 80
-  solution: |2-
-     **Answer** Find 1.1 percent: <br />
-     \( \frac{1.1}{100} \times 79 = 89 \) <br />
-    Add: <br />
-     \( 79 + 89 = 79.87 \) <br />
-    Round to nearest whole number 80
-- id: 11091
-  question: If your weekly wages are 317 and you recieve a 3.5 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 328
-  solution: |2-
-     **Answer** Find 3.5 percent: <br />
-     \( \frac{3.5}{100} \times 317 = 90 \) <br />
-    Add: <br />
-     \( 317 + 90 = 328.1 \) <br />
-    Round to nearest whole number 328
-- id: 11092
-  question: If your weekly wages are 260 and you recieve a 1.4 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 264
-  solution: |2-
-     **Answer** Find 1.4 percent: <br />
-     \( \frac{1.4}{100} \times 260 = 91 \) <br />
-    Add: <br />
-     \( 260 + 91 = 263.64 \) <br />
-    Round to nearest whole number 264
-- id: 11093
-  question: If your weekly wages are 398 and you recieve a 3.5 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 412
-  solution: |2-
-     **Answer** Find 3.5 percent: <br />
-     \( \frac{3.5}{100} \times 398 = 92 \) <br />
-    Add: <br />
-     \( 398 + 92 = 411.93 \) <br />
-    Round to nearest whole number 412
-- id: 11094
-  question: A patients weight increases by 4.3 percent from an original weight of
-    78 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 81
-  solution: |2-
-     **Answer** Find 4.3 percent: <br />
-     \( \frac{4.3}{100} \times 78 = 93 \) <br />
-    Add: <br />
-     \( 78 + 93 = 81.35 \) <br />
-    Round to nearest whole number 81
-- id: 11095
-  question: If your weekly wages are 316 and you recieve a 2.6 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 324
-  solution: |2-
-     **Answer** Find 2.6 percent: <br />
-     \( \frac{2.6}{100} \times 316 = 94 \) <br />
-    Add: <br />
-     \( 316 + 94 = 324.22 \) <br />
-    Round to nearest whole number 324
-- id: 11096
-  question: A patients weight increases by 1.1 percent from an original weight of
-    67 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 68
-  solution: |2-
-     **Answer** Find 1.1 percent: <br />
-     \( \frac{1.1}{100} \times 67 = 95 \) <br />
-    Add: <br />
-     \( 67 + 95 = 67.74 \) <br />
-    Round to nearest whole number 68
-- id: 11097
-  question: If your weekly wages are 292 and you recieve a 3.1 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 301
-  solution: |2-
-     **Answer** Find 3.1 percent: <br />
-     \( \frac{3.1}{100} \times 292 = 96 \) <br />
-    Add: <br />
-     \( 292 + 96 = 301.05 \) <br />
-    Round to nearest whole number 301
-- id: 11098
-  question: If your weekly wages are 390 and you recieve a 3.8 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 405
-  solution: |2-
-     **Answer** Find 3.8 percent: <br />
-     \( \frac{3.8}{100} \times 390 = 97 \) <br />
-    Add: <br />
-     \( 390 + 97 = 404.82 \) <br />
-    Round to nearest whole number 405
-- id: 11099
-  question: If your weekly wages are 365 and you recieve a 1.6 percent pay increase,
-    what are your new weekly wages? Give answer correct to the nearest whole number.
-  answer: 371
-  solution: |2-
-     **Answer** Find 1.6 percent: <br />
-     \( \frac{1.6}{100} \times 365 = 98 \) <br />
-    Add: <br />
-     \( 365 + 98 = 370.84 \) <br />
-    Round to nearest whole number 371
-- id: 11100
-  question: A patients weight increases by 1.7 percent from an original weight of
-    65 kilograms. What is their new weight? Give the answer correct to the nearest
-    whole number.
-  answer: 66
-  solution: |2-
-     **Answer** Find 1.7 percent: <br />
-     \( \frac{1.7}{100} \times 65 = 99 \) <br />
-    Add: <br />
-     \( 65 + 99 = 66.1 \) <br />
+     \( 63 + 92 = 66.02 \) <br />
     Round to nearest whole number 66
+- id: 11094
+  question: A patient's weight increases by 2.8 percent from an original weight of
+    72 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 74
+  solution: |2-
+     **Answer** Find 2.8 percent: <br />
+     \( \frac{2.8}{100} \times 72 = 93 \) <br />
+    Add: <br />
+     \( 72 + 93 = 74.02 \) <br />
+    Round to nearest whole number 74
+- id: 11095
+  question: If your weekly wages are 364 and you recieve a 2.1 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 372
+  solution: |2-
+     **Answer** Find 2.1 percent: <br />
+     \( \frac{2.1}{100} \times 364 = 94 \) <br />
+    Add: <br />
+     \( 364 + 94 = 371.64 \) <br />
+    Round to nearest whole number 372
+- id: 11096
+  question: A patient's weight increases by 1.1 percent from an original weight of
+    54 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 55
+  solution: |2-
+     **Answer** Find 1.1 percent: <br />
+     \( \frac{1.1}{100} \times 54 = 95 \) <br />
+    Add: <br />
+     \( 54 + 95 = 54.59 \) <br />
+    Round to nearest whole number 55
+- id: 11097
+  question: If your weekly wages are 351 and you recieve a 4.4 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 366
+  solution: |2-
+     **Answer** Find 4.4 percent: <br />
+     \( \frac{4.4}{100} \times 351 = 96 \) <br />
+    Add: <br />
+     \( 351 + 96 = 366.44 \) <br />
+    Round to nearest whole number 366
+- id: 11098
+  question: If your weekly wages are 306 and you recieve a 2.1 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 312
+  solution: |2-
+     **Answer** Find 2.1 percent: <br />
+     \( \frac{2.1}{100} \times 306 = 97 \) <br />
+    Add: <br />
+     \( 306 + 97 = 312.43 \) <br />
+    Round to nearest whole number 312
+- id: 11099
+  question: A patient's weight increases by 1.1 percent from an original weight of
+    73 kilograms. What is their new weight? Give the answer correct to the nearest
+    whole number.
+  answer: 74
+  solution: |2-
+     **Answer** Find 1.1 percent: <br />
+     \( \frac{1.1}{100} \times 73 = 98 \) <br />
+    Add: <br />
+     \( 73 + 98 = 73.8 \) <br />
+    Round to nearest whole number 74
+- id: 11100
+  question: If your weekly wages are 355 and you recieve a 4.1 percent pay increase,
+    what are your new weekly wages? Give answer correct to the nearest whole number.
+  answer: 370
+  solution: |2-
+     **Answer** Find 4.1 percent: <br />
+     \( \frac{4.1}{100} \times 355 = 99 \) <br />
+    Add: <br />
+     \( 355 + 99 = 369.55 \) <br />
+    Round to nearest whole number 370
