@@ -1,0 +1,1400 @@
+- id: 19001
+  question: A solution contains 4.5 g of solute per 50 ml of solution. 350 ml of this
+    solution is diluted by adding a further 1050 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 2.2
+  solution: |-
+    4.5 g of solute per 50 ml is <br />
+    31.5 g of solute per 350 ml (multiplying by 7.0) <br />
+    Add 1050 ml means 1400 ml <br />
+    31.5 g of solute per 1400 ml of solution <br />
+    For percentage need 100 ml, so divide through by 14.0 <br />
+    2.2 g of solute per 100 ml <br />
+    2.2 %w/v
+- id: 19002
+  question: A solution contains 0.5 g of solute per 50 ml of solution. 150 ml of this
+    solution is diluted by adding a further 300 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.3
+  solution: |-
+    0.5 g of solute per 50 ml is <br />
+    1.5 g of solute per 150 ml (multiplying by 3.0) <br />
+    Add 300 ml means 450 ml <br />
+    1.5 g of solute per 450 ml of solution <br />
+    For percentage need 100 ml, so divide through by 4.5 <br />
+    0.3 g of solute per 100 ml <br />
+    0.3 %w/v
+- id: 19003
+  question: A solution contains 6.0 g of solute per 100 ml of solution. 300 ml of
+    this solution is diluted by adding a further 300 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 3.0
+  solution: |-
+    6.0 g of solute per 100 ml is <br />
+    18.0 g of solute per 300 ml (multiplying by 3.0) <br />
+    Add 300 ml means 600 ml <br />
+    18.0 g of solute per 600 ml of solution <br />
+    For percentage need 100 ml, so divide through by 6.0 <br />
+    3.0 g of solute per 100 ml <br />
+    3.0 %w/v
+- id: 19004
+  question: A solution contains 3.0 g of solute per 100 ml of solution. 350 ml of
+    this solution is diluted by adding a further 2450 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.4
+  solution: |-
+    3.0 g of solute per 100 ml is <br />
+    10.5 g of solute per 350 ml (multiplying by 3.5) <br />
+    Add 2450 ml means 2800 ml <br />
+    10.5 g of solute per 2800 ml of solution <br />
+    For percentage need 100 ml, so divide through by 28.0 <br />
+    0.4 g of solute per 100 ml <br />
+    0.4 %w/v
+- id: 19005
+  question: A solution contains 3.0 g of solute per 50 ml of solution. 150 ml of this
+    solution is diluted by adding a further 300 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 2.0
+  solution: |-
+    3.0 g of solute per 50 ml is <br />
+    9.0 g of solute per 150 ml (multiplying by 3.0) <br />
+    Add 300 ml means 450 ml <br />
+    9.0 g of solute per 450 ml of solution <br />
+    For percentage need 100 ml, so divide through by 4.5 <br />
+    2.0 g of solute per 100 ml <br />
+    2.0 %w/v
+- id: 19006
+  question: A solution contains 6.0 g of solute per 50 ml of solution. 250 ml of this
+    solution is diluted by adding a further 1000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 2.4
+  solution: |-
+    6.0 g of solute per 50 ml is <br />
+    30.0 g of solute per 250 ml (multiplying by 5.0) <br />
+    Add 1000 ml means 1250 ml <br />
+    30.0 g of solute per 1250 ml of solution <br />
+    For percentage need 100 ml, so divide through by 12.5 <br />
+    2.4 g of solute per 100 ml <br />
+    2.4 %w/v
+- id: 19007
+  question: A solution contains 7.0 g of solute per 100 ml of solution. 150 ml of
+    this solution is diluted by adding a further 450 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.8
+  solution: |-
+    7.0 g of solute per 100 ml is <br />
+    10.5 g of solute per 150 ml (multiplying by 1.5) <br />
+    Add 450 ml means 600 ml <br />
+    10.5 g of solute per 600 ml of solution <br />
+    For percentage need 100 ml, so divide through by 6.0 <br />
+    1.8 g of solute per 100 ml <br />
+    1.8 %w/v
+- id: 19008
+  question: A solution contains 2.0 g of solute per 50 ml of solution. 200 ml of this
+    solution is diluted by adding a further 1000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.7
+  solution: |-
+    2.0 g of solute per 50 ml is <br />
+    8.0 g of solute per 200 ml (multiplying by 4.0) <br />
+    Add 1000 ml means 1200 ml <br />
+    8.0 g of solute per 1200 ml of solution <br />
+    For percentage need 100 ml, so divide through by 12.0 <br />
+    0.7 g of solute per 100 ml <br />
+    0.7 %w/v
+- id: 19009
+  question: A solution contains 1.5 g of solute per 100 ml of solution. 500 ml of
+    this solution is diluted by adding a further 1000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.5
+  solution: |-
+    1.5 g of solute per 100 ml is <br />
+    7.5 g of solute per 500 ml (multiplying by 5.0) <br />
+    Add 1000 ml means 1500 ml <br />
+    7.5 g of solute per 1500 ml of solution <br />
+    For percentage need 100 ml, so divide through by 15.0 <br />
+    0.5 g of solute per 100 ml <br />
+    0.5 %w/v
+- id: 19010
+  question: A solution contains 8.0 g of solute per 100 ml of solution. 350 ml of
+    this solution is diluted by adding a further 2450 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.0
+  solution: |-
+    8.0 g of solute per 100 ml is <br />
+    28.0 g of solute per 350 ml (multiplying by 3.5) <br />
+    Add 2450 ml means 2800 ml <br />
+    28.0 g of solute per 2800 ml of solution <br />
+    For percentage need 100 ml, so divide through by 28.0 <br />
+    1.0 g of solute per 100 ml <br />
+    1.0 %w/v
+- id: 19011
+  question: A solution contains 1.5 g of solute per 50 ml of solution. 200 ml of this
+    solution is diluted by adding a further 200 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.5
+  solution: |-
+    1.5 g of solute per 50 ml is <br />
+    6.0 g of solute per 200 ml (multiplying by 4.0) <br />
+    Add 200 ml means 400 ml <br />
+    6.0 g of solute per 400 ml of solution <br />
+    For percentage need 100 ml, so divide through by 4.0 <br />
+    1.5 g of solute per 100 ml <br />
+    1.5 %w/v
+- id: 19012
+  question: A solution contains 1.0 g of solute per 50 ml of solution. 500 ml of this
+    solution is diluted by adding a further 2000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.4
+  solution: |-
+    1.0 g of solute per 50 ml is <br />
+    10.0 g of solute per 500 ml (multiplying by 10.0) <br />
+    Add 2000 ml means 2500 ml <br />
+    10.0 g of solute per 2500 ml of solution <br />
+    For percentage need 100 ml, so divide through by 25.0 <br />
+    0.4 g of solute per 100 ml <br />
+    0.4 %w/v
+- id: 19013
+  question: A solution contains 1.0 g of solute per 50 ml of solution. 150 ml of this
+    solution is diluted by adding a further 300 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.7
+  solution: |-
+    1.0 g of solute per 50 ml is <br />
+    3.0 g of solute per 150 ml (multiplying by 3.0) <br />
+    Add 300 ml means 450 ml <br />
+    3.0 g of solute per 450 ml of solution <br />
+    For percentage need 100 ml, so divide through by 4.5 <br />
+    0.7 g of solute per 100 ml <br />
+    0.7 %w/v
+- id: 19014
+  question: A solution contains 2.0 g of solute per 100 ml of solution. 150 ml of
+    this solution is diluted by adding a further 750 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.3
+  solution: |-
+    2.0 g of solute per 100 ml is <br />
+    3.0 g of solute per 150 ml (multiplying by 1.5) <br />
+    Add 750 ml means 900 ml <br />
+    3.0 g of solute per 900 ml of solution <br />
+    For percentage need 100 ml, so divide through by 9.0 <br />
+    0.3 g of solute per 100 ml <br />
+    0.3 %w/v
+- id: 19015
+  question: A solution contains 7.0 g of solute per 100 ml of solution. 200 ml of
+    this solution is diluted by adding a further 800 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.4
+  solution: |-
+    7.0 g of solute per 100 ml is <br />
+    14.0 g of solute per 200 ml (multiplying by 2.0) <br />
+    Add 800 ml means 1000 ml <br />
+    14.0 g of solute per 1000 ml of solution <br />
+    For percentage need 100 ml, so divide through by 10.0 <br />
+    1.4 g of solute per 100 ml <br />
+    1.4 %w/v
+- id: 19016
+  question: A solution contains 1.5 g of solute per 100 ml of solution. 450 ml of
+    this solution is diluted by adding a further 2700 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.2
+  solution: |-
+    1.5 g of solute per 100 ml is <br />
+    6.75 g of solute per 450 ml (multiplying by 4.5) <br />
+    Add 2700 ml means 3150 ml <br />
+    6.75 g of solute per 3150 ml of solution <br />
+    For percentage need 100 ml, so divide through by 31.5 <br />
+    0.2 g of solute per 100 ml <br />
+    0.2 %w/v
+- id: 19017
+  question: A solution contains 6.5 g of solute per 100 ml of solution. 450 ml of
+    this solution is diluted by adding a further 2250 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.1
+  solution: |-
+    6.5 g of solute per 100 ml is <br />
+    29.25 g of solute per 450 ml (multiplying by 4.5) <br />
+    Add 2250 ml means 2700 ml <br />
+    29.25 g of solute per 2700 ml of solution <br />
+    For percentage need 100 ml, so divide through by 27.0 <br />
+    1.1 g of solute per 100 ml <br />
+    1.1 %w/v
+- id: 19018
+  question: A solution contains 3.0 g of solute per 50 ml of solution. 250 ml of this
+    solution is diluted by adding a further 1000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.2
+  solution: |-
+    3.0 g of solute per 50 ml is <br />
+    15.0 g of solute per 250 ml (multiplying by 5.0) <br />
+    Add 1000 ml means 1250 ml <br />
+    15.0 g of solute per 1250 ml of solution <br />
+    For percentage need 100 ml, so divide through by 12.5 <br />
+    1.2 g of solute per 100 ml <br />
+    1.2 %w/v
+- id: 19019
+  question: A solution contains 2.5 g of solute per 50 ml of solution. 350 ml of this
+    solution is diluted by adding a further 1750 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.8
+  solution: |-
+    2.5 g of solute per 50 ml is <br />
+    17.5 g of solute per 350 ml (multiplying by 7.0) <br />
+    Add 1750 ml means 2100 ml <br />
+    17.5 g of solute per 2100 ml of solution <br />
+    For percentage need 100 ml, so divide through by 21.0 <br />
+    0.8 g of solute per 100 ml <br />
+    0.8 %w/v
+- id: 19020
+  question: A solution contains 6.0 g of solute per 50 ml of solution. 350 ml of this
+    solution is diluted by adding a further 1400 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 2.4
+  solution: |-
+    6.0 g of solute per 50 ml is <br />
+    42.0 g of solute per 350 ml (multiplying by 7.0) <br />
+    Add 1400 ml means 1750 ml <br />
+    42.0 g of solute per 1750 ml of solution <br />
+    For percentage need 100 ml, so divide through by 17.5 <br />
+    2.4 g of solute per 100 ml <br />
+    2.4 %w/v
+- id: 19021
+  question: A solution contains 2.0 g of solute per 50 ml of solution. 450 ml of this
+    solution is diluted by adding a further 1350 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.0
+  solution: |-
+    2.0 g of solute per 50 ml is <br />
+    18.0 g of solute per 450 ml (multiplying by 9.0) <br />
+    Add 1350 ml means 1800 ml <br />
+    18.0 g of solute per 1800 ml of solution <br />
+    For percentage need 100 ml, so divide through by 18.0 <br />
+    1.0 g of solute per 100 ml <br />
+    1.0 %w/v
+- id: 19022
+  question: A solution contains 5.5 g of solute per 50 ml of solution. 150 ml of this
+    solution is diluted by adding a further 900 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.6
+  solution: |-
+    5.5 g of solute per 50 ml is <br />
+    16.5 g of solute per 150 ml (multiplying by 3.0) <br />
+    Add 900 ml means 1050 ml <br />
+    16.5 g of solute per 1050 ml of solution <br />
+    For percentage need 100 ml, so divide through by 10.5 <br />
+    1.6 g of solute per 100 ml <br />
+    1.6 %w/v
+- id: 19023
+  question: A solution contains 6.5 g of solute per 50 ml of solution. 350 ml of this
+    solution is diluted by adding a further 700 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 4.3
+  solution: |-
+    6.5 g of solute per 50 ml is <br />
+    45.5 g of solute per 350 ml (multiplying by 7.0) <br />
+    Add 700 ml means 1050 ml <br />
+    45.5 g of solute per 1050 ml of solution <br />
+    For percentage need 100 ml, so divide through by 10.5 <br />
+    4.3 g of solute per 100 ml <br />
+    4.3 %w/v
+- id: 19024
+  question: A solution contains 3.5 g of solute per 50 ml of solution. 350 ml of this
+    solution is diluted by adding a further 1400 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.4
+  solution: |-
+    3.5 g of solute per 50 ml is <br />
+    24.5 g of solute per 350 ml (multiplying by 7.0) <br />
+    Add 1400 ml means 1750 ml <br />
+    24.5 g of solute per 1750 ml of solution <br />
+    For percentage need 100 ml, so divide through by 17.5 <br />
+    1.4 g of solute per 100 ml <br />
+    1.4 %w/v
+- id: 19025
+  question: A solution contains 8.0 g of solute per 100 ml of solution. 400 ml of
+    this solution is diluted by adding a further 2800 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.0
+  solution: |-
+    8.0 g of solute per 100 ml is <br />
+    32.0 g of solute per 400 ml (multiplying by 4.0) <br />
+    Add 2800 ml means 3200 ml <br />
+    32.0 g of solute per 3200 ml of solution <br />
+    For percentage need 100 ml, so divide through by 32.0 <br />
+    1.0 g of solute per 100 ml <br />
+    1.0 %w/v
+- id: 19026
+  question: A solution contains 6.0 g of solute per 100 ml of solution. 150 ml of
+    this solution is diluted by adding a further 1050 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.8
+  solution: |-
+    6.0 g of solute per 100 ml is <br />
+    9.0 g of solute per 150 ml (multiplying by 1.5) <br />
+    Add 1050 ml means 1200 ml <br />
+    9.0 g of solute per 1200 ml of solution <br />
+    For percentage need 100 ml, so divide through by 12.0 <br />
+    0.8 g of solute per 100 ml <br />
+    0.8 %w/v
+- id: 19027
+  question: A solution contains 4.5 g of solute per 50 ml of solution. 300 ml of this
+    solution is diluted by adding a further 600 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 3.0
+  solution: |-
+    4.5 g of solute per 50 ml is <br />
+    27.0 g of solute per 300 ml (multiplying by 6.0) <br />
+    Add 600 ml means 900 ml <br />
+    27.0 g of solute per 900 ml of solution <br />
+    For percentage need 100 ml, so divide through by 9.0 <br />
+    3.0 g of solute per 100 ml <br />
+    3.0 %w/v
+- id: 19028
+  question: A solution contains 5.0 g of solute per 100 ml of solution. 500 ml of
+    this solution is diluted by adding a further 500 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 2.5
+  solution: |-
+    5.0 g of solute per 100 ml is <br />
+    25.0 g of solute per 500 ml (multiplying by 5.0) <br />
+    Add 500 ml means 1000 ml <br />
+    25.0 g of solute per 1000 ml of solution <br />
+    For percentage need 100 ml, so divide through by 10.0 <br />
+    2.5 g of solute per 100 ml <br />
+    2.5 %w/v
+- id: 19029
+  question: A solution contains 6.5 g of solute per 50 ml of solution. 450 ml of this
+    solution is diluted by adding a further 450 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 6.5
+  solution: |-
+    6.5 g of solute per 50 ml is <br />
+    58.5 g of solute per 450 ml (multiplying by 9.0) <br />
+    Add 450 ml means 900 ml <br />
+    58.5 g of solute per 900 ml of solution <br />
+    For percentage need 100 ml, so divide through by 9.0 <br />
+    6.5 g of solute per 100 ml <br />
+    6.5 %w/v
+- id: 19030
+  question: A solution contains 0.5 g of solute per 50 ml of solution. 500 ml of this
+    solution is diluted by adding a further 3000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.1
+  solution: |-
+    0.5 g of solute per 50 ml is <br />
+    5.0 g of solute per 500 ml (multiplying by 10.0) <br />
+    Add 3000 ml means 3500 ml <br />
+    5.0 g of solute per 3500 ml of solution <br />
+    For percentage need 100 ml, so divide through by 35.0 <br />
+    0.1 g of solute per 100 ml <br />
+    0.1 %w/v
+- id: 19031
+  question: A solution contains 8.5 g of solute per 50 ml of solution. 150 ml of this
+    solution is diluted by adding a further 300 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 5.7
+  solution: |-
+    8.5 g of solute per 50 ml is <br />
+    25.5 g of solute per 150 ml (multiplying by 3.0) <br />
+    Add 300 ml means 450 ml <br />
+    25.5 g of solute per 450 ml of solution <br />
+    For percentage need 100 ml, so divide through by 4.5 <br />
+    5.7 g of solute per 100 ml <br />
+    5.7 %w/v
+- id: 19032
+  question: A solution contains 2.5 g of solute per 100 ml of solution. 450 ml of
+    this solution is diluted by adding a further 900 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.8
+  solution: |-
+    2.5 g of solute per 100 ml is <br />
+    11.25 g of solute per 450 ml (multiplying by 4.5) <br />
+    Add 900 ml means 1350 ml <br />
+    11.25 g of solute per 1350 ml of solution <br />
+    For percentage need 100 ml, so divide through by 13.5 <br />
+    0.8 g of solute per 100 ml <br />
+    0.8 %w/v
+- id: 19033
+  question: A solution contains 9.0 g of solute per 100 ml of solution. 250 ml of
+    this solution is diluted by adding a further 1000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.8
+  solution: |-
+    9.0 g of solute per 100 ml is <br />
+    22.5 g of solute per 250 ml (multiplying by 2.5) <br />
+    Add 1000 ml means 1250 ml <br />
+    22.5 g of solute per 1250 ml of solution <br />
+    For percentage need 100 ml, so divide through by 12.5 <br />
+    1.8 g of solute per 100 ml <br />
+    1.8 %w/v
+- id: 19034
+  question: A solution contains 9.0 g of solute per 50 ml of solution. 400 ml of this
+    solution is diluted by adding a further 2800 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 2.2
+  solution: |-
+    9.0 g of solute per 50 ml is <br />
+    72.0 g of solute per 400 ml (multiplying by 8.0) <br />
+    Add 2800 ml means 3200 ml <br />
+    72.0 g of solute per 3200 ml of solution <br />
+    For percentage need 100 ml, so divide through by 32.0 <br />
+    2.2 g of solute per 100 ml <br />
+    2.2 %w/v
+- id: 19035
+  question: A solution contains 7.0 g of solute per 100 ml of solution. 250 ml of
+    this solution is diluted by adding a further 250 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 3.5
+  solution: |-
+    7.0 g of solute per 100 ml is <br />
+    17.5 g of solute per 250 ml (multiplying by 2.5) <br />
+    Add 250 ml means 500 ml <br />
+    17.5 g of solute per 500 ml of solution <br />
+    For percentage need 100 ml, so divide through by 5.0 <br />
+    3.5 g of solute per 100 ml <br />
+    3.5 %w/v
+- id: 19036
+  question: A solution contains 6.5 g of solute per 50 ml of solution. 150 ml of this
+    solution is diluted by adding a further 300 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 4.3
+  solution: |-
+    6.5 g of solute per 50 ml is <br />
+    19.5 g of solute per 150 ml (multiplying by 3.0) <br />
+    Add 300 ml means 450 ml <br />
+    19.5 g of solute per 450 ml of solution <br />
+    For percentage need 100 ml, so divide through by 4.5 <br />
+    4.3 g of solute per 100 ml <br />
+    4.3 %w/v
+- id: 19037
+  question: A solution contains 2.0 g of solute per 50 ml of solution. 250 ml of this
+    solution is diluted by adding a further 250 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 2.0
+  solution: |-
+    2.0 g of solute per 50 ml is <br />
+    10.0 g of solute per 250 ml (multiplying by 5.0) <br />
+    Add 250 ml means 500 ml <br />
+    10.0 g of solute per 500 ml of solution <br />
+    For percentage need 100 ml, so divide through by 5.0 <br />
+    2.0 g of solute per 100 ml <br />
+    2.0 %w/v
+- id: 19038
+  question: A solution contains 9.0 g of solute per 100 ml of solution. 350 ml of
+    this solution is diluted by adding a further 1750 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.5
+  solution: |-
+    9.0 g of solute per 100 ml is <br />
+    31.5 g of solute per 350 ml (multiplying by 3.5) <br />
+    Add 1750 ml means 2100 ml <br />
+    31.5 g of solute per 2100 ml of solution <br />
+    For percentage need 100 ml, so divide through by 21.0 <br />
+    1.5 g of solute per 100 ml <br />
+    1.5 %w/v
+- id: 19039
+  question: A solution contains 10.0 g of solute per 50 ml of solution. 250 ml of
+    this solution is diluted by adding a further 1250 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 3.3
+  solution: |-
+    10.0 g of solute per 50 ml is <br />
+    50.0 g of solute per 250 ml (multiplying by 5.0) <br />
+    Add 1250 ml means 1500 ml <br />
+    50.0 g of solute per 1500 ml of solution <br />
+    For percentage need 100 ml, so divide through by 15.0 <br />
+    3.3 g of solute per 100 ml <br />
+    3.3 %w/v
+- id: 19040
+  question: A solution contains 7.0 g of solute per 50 ml of solution. 400 ml of this
+    solution is diluted by adding a further 1600 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 2.8
+  solution: |-
+    7.0 g of solute per 50 ml is <br />
+    56.0 g of solute per 400 ml (multiplying by 8.0) <br />
+    Add 1600 ml means 2000 ml <br />
+    56.0 g of solute per 2000 ml of solution <br />
+    For percentage need 100 ml, so divide through by 20.0 <br />
+    2.8 g of solute per 100 ml <br />
+    2.8 %w/v
+- id: 19041
+  question: A solution contains 8.0 g of solute per 50 ml of solution. 200 ml of this
+    solution is diluted by adding a further 600 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 4.0
+  solution: |-
+    8.0 g of solute per 50 ml is <br />
+    32.0 g of solute per 200 ml (multiplying by 4.0) <br />
+    Add 600 ml means 800 ml <br />
+    32.0 g of solute per 800 ml of solution <br />
+    For percentage need 100 ml, so divide through by 8.0 <br />
+    4.0 g of solute per 100 ml <br />
+    4.0 %w/v
+- id: 19042
+  question: A solution contains 5.5 g of solute per 50 ml of solution. 250 ml of this
+    solution is diluted by adding a further 1000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 2.2
+  solution: |-
+    5.5 g of solute per 50 ml is <br />
+    27.5 g of solute per 250 ml (multiplying by 5.0) <br />
+    Add 1000 ml means 1250 ml <br />
+    27.5 g of solute per 1250 ml of solution <br />
+    For percentage need 100 ml, so divide through by 12.5 <br />
+    2.2 g of solute per 100 ml <br />
+    2.2 %w/v
+- id: 19043
+  question: A solution contains 9.0 g of solute per 50 ml of solution. 200 ml of this
+    solution is diluted by adding a further 1400 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 2.2
+  solution: |-
+    9.0 g of solute per 50 ml is <br />
+    36.0 g of solute per 200 ml (multiplying by 4.0) <br />
+    Add 1400 ml means 1600 ml <br />
+    36.0 g of solute per 1600 ml of solution <br />
+    For percentage need 100 ml, so divide through by 16.0 <br />
+    2.2 g of solute per 100 ml <br />
+    2.2 %w/v
+- id: 19044
+  question: A solution contains 9.0 g of solute per 50 ml of solution. 350 ml of this
+    solution is diluted by adding a further 700 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 6.0
+  solution: |-
+    9.0 g of solute per 50 ml is <br />
+    63.0 g of solute per 350 ml (multiplying by 7.0) <br />
+    Add 700 ml means 1050 ml <br />
+    63.0 g of solute per 1050 ml of solution <br />
+    For percentage need 100 ml, so divide through by 10.5 <br />
+    6.0 g of solute per 100 ml <br />
+    6.0 %w/v
+- id: 19045
+  question: A solution contains 4.5 g of solute per 50 ml of solution. 300 ml of this
+    solution is diluted by adding a further 600 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 3.0
+  solution: |-
+    4.5 g of solute per 50 ml is <br />
+    27.0 g of solute per 300 ml (multiplying by 6.0) <br />
+    Add 600 ml means 900 ml <br />
+    27.0 g of solute per 900 ml of solution <br />
+    For percentage need 100 ml, so divide through by 9.0 <br />
+    3.0 g of solute per 100 ml <br />
+    3.0 %w/v
+- id: 19046
+  question: A solution contains 1.0 g of solute per 50 ml of solution. 350 ml of this
+    solution is diluted by adding a further 2450 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.2
+  solution: |-
+    1.0 g of solute per 50 ml is <br />
+    7.0 g of solute per 350 ml (multiplying by 7.0) <br />
+    Add 2450 ml means 2800 ml <br />
+    7.0 g of solute per 2800 ml of solution <br />
+    For percentage need 100 ml, so divide through by 28.0 <br />
+    0.2 g of solute per 100 ml <br />
+    0.2 %w/v
+- id: 19047
+  question: A solution contains 9.0 g of solute per 100 ml of solution. 250 ml of
+    this solution is diluted by adding a further 1000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.8
+  solution: |-
+    9.0 g of solute per 100 ml is <br />
+    22.5 g of solute per 250 ml (multiplying by 2.5) <br />
+    Add 1000 ml means 1250 ml <br />
+    22.5 g of solute per 1250 ml of solution <br />
+    For percentage need 100 ml, so divide through by 12.5 <br />
+    1.8 g of solute per 100 ml <br />
+    1.8 %w/v
+- id: 19048
+  question: A solution contains 8.0 g of solute per 50 ml of solution. 300 ml of this
+    solution is diluted by adding a further 1500 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 2.7
+  solution: |-
+    8.0 g of solute per 50 ml is <br />
+    48.0 g of solute per 300 ml (multiplying by 6.0) <br />
+    Add 1500 ml means 1800 ml <br />
+    48.0 g of solute per 1800 ml of solution <br />
+    For percentage need 100 ml, so divide through by 18.0 <br />
+    2.7 g of solute per 100 ml <br />
+    2.7 %w/v
+- id: 19049
+  question: A solution contains 10.0 g of solute per 50 ml of solution. 500 ml of
+    this solution is diluted by adding a further 3000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 2.9
+  solution: |-
+    10.0 g of solute per 50 ml is <br />
+    100.0 g of solute per 500 ml (multiplying by 10.0) <br />
+    Add 3000 ml means 3500 ml <br />
+    100.0 g of solute per 3500 ml of solution <br />
+    For percentage need 100 ml, so divide through by 35.0 <br />
+    2.9 g of solute per 100 ml <br />
+    2.9 %w/v
+- id: 19050
+  question: A solution contains 4.5 g of solute per 100 ml of solution. 300 ml of
+    this solution is diluted by adding a further 300 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 2.2
+  solution: |-
+    4.5 g of solute per 100 ml is <br />
+    13.5 g of solute per 300 ml (multiplying by 3.0) <br />
+    Add 300 ml means 600 ml <br />
+    13.5 g of solute per 600 ml of solution <br />
+    For percentage need 100 ml, so divide through by 6.0 <br />
+    2.2 g of solute per 100 ml <br />
+    2.2 %w/v
+- id: 19051
+  question: A solution contains 3.0 g of solute per 100 ml of solution. 300 ml of
+    this solution is diluted by adding a further 1800 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.4
+  solution: |-
+    3.0 g of solute per 100 ml is <br />
+    9.0 g of solute per 300 ml (multiplying by 3.0) <br />
+    Add 1800 ml means 2100 ml <br />
+    9.0 g of solute per 2100 ml of solution <br />
+    For percentage need 100 ml, so divide through by 21.0 <br />
+    0.4 g of solute per 100 ml <br />
+    0.4 %w/v
+- id: 19052
+  question: A solution contains 5.0 g of solute per 50 ml of solution. 250 ml of this
+    solution is diluted by adding a further 1750 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.2
+  solution: |-
+    5.0 g of solute per 50 ml is <br />
+    25.0 g of solute per 250 ml (multiplying by 5.0) <br />
+    Add 1750 ml means 2000 ml <br />
+    25.0 g of solute per 2000 ml of solution <br />
+    For percentage need 100 ml, so divide through by 20.0 <br />
+    1.2 g of solute per 100 ml <br />
+    1.2 %w/v
+- id: 19053
+  question: A solution contains 7.5 g of solute per 100 ml of solution. 350 ml of
+    this solution is diluted by adding a further 2100 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.1
+  solution: |-
+    7.5 g of solute per 100 ml is <br />
+    26.25 g of solute per 350 ml (multiplying by 3.5) <br />
+    Add 2100 ml means 2450 ml <br />
+    26.25 g of solute per 2450 ml of solution <br />
+    For percentage need 100 ml, so divide through by 24.5 <br />
+    1.1 g of solute per 100 ml <br />
+    1.1 %w/v
+- id: 19054
+  question: A solution contains 4.0 g of solute per 50 ml of solution. 500 ml of this
+    solution is diluted by adding a further 3000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.1
+  solution: |-
+    4.0 g of solute per 50 ml is <br />
+    40.0 g of solute per 500 ml (multiplying by 10.0) <br />
+    Add 3000 ml means 3500 ml <br />
+    40.0 g of solute per 3500 ml of solution <br />
+    For percentage need 100 ml, so divide through by 35.0 <br />
+    1.1 g of solute per 100 ml <br />
+    1.1 %w/v
+- id: 19055
+  question: A solution contains 9.0 g of solute per 100 ml of solution. 300 ml of
+    this solution is diluted by adding a further 600 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 3.0
+  solution: |-
+    9.0 g of solute per 100 ml is <br />
+    27.0 g of solute per 300 ml (multiplying by 3.0) <br />
+    Add 600 ml means 900 ml <br />
+    27.0 g of solute per 900 ml of solution <br />
+    For percentage need 100 ml, so divide through by 9.0 <br />
+    3.0 g of solute per 100 ml <br />
+    3.0 %w/v
+- id: 19056
+  question: A solution contains 10.0 g of solute per 100 ml of solution. 300 ml of
+    this solution is diluted by adding a further 2100 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.2
+  solution: |-
+    10.0 g of solute per 100 ml is <br />
+    30.0 g of solute per 300 ml (multiplying by 3.0) <br />
+    Add 2100 ml means 2400 ml <br />
+    30.0 g of solute per 2400 ml of solution <br />
+    For percentage need 100 ml, so divide through by 24.0 <br />
+    1.2 g of solute per 100 ml <br />
+    1.2 %w/v
+- id: 19057
+  question: A solution contains 9.5 g of solute per 100 ml of solution. 200 ml of
+    this solution is diluted by adding a further 400 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 3.2
+  solution: |-
+    9.5 g of solute per 100 ml is <br />
+    19.0 g of solute per 200 ml (multiplying by 2.0) <br />
+    Add 400 ml means 600 ml <br />
+    19.0 g of solute per 600 ml of solution <br />
+    For percentage need 100 ml, so divide through by 6.0 <br />
+    3.2 g of solute per 100 ml <br />
+    3.2 %w/v
+- id: 19058
+  question: A solution contains 7.5 g of solute per 100 ml of solution. 350 ml of
+    this solution is diluted by adding a further 2450 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.9
+  solution: |-
+    7.5 g of solute per 100 ml is <br />
+    26.25 g of solute per 350 ml (multiplying by 3.5) <br />
+    Add 2450 ml means 2800 ml <br />
+    26.25 g of solute per 2800 ml of solution <br />
+    For percentage need 100 ml, so divide through by 28.0 <br />
+    0.9 g of solute per 100 ml <br />
+    0.9 %w/v
+- id: 19059
+  question: A solution contains 3.5 g of solute per 50 ml of solution. 150 ml of this
+    solution is diluted by adding a further 450 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.8
+  solution: |-
+    3.5 g of solute per 50 ml is <br />
+    10.5 g of solute per 150 ml (multiplying by 3.0) <br />
+    Add 450 ml means 600 ml <br />
+    10.5 g of solute per 600 ml of solution <br />
+    For percentage need 100 ml, so divide through by 6.0 <br />
+    1.8 g of solute per 100 ml <br />
+    1.8 %w/v
+- id: 19060
+  question: A solution contains 8.5 g of solute per 100 ml of solution. 300 ml of
+    this solution is diluted by adding a further 2100 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.1
+  solution: |-
+    8.5 g of solute per 100 ml is <br />
+    25.5 g of solute per 300 ml (multiplying by 3.0) <br />
+    Add 2100 ml means 2400 ml <br />
+    25.5 g of solute per 2400 ml of solution <br />
+    For percentage need 100 ml, so divide through by 24.0 <br />
+    1.1 g of solute per 100 ml <br />
+    1.1 %w/v
+- id: 19061
+  question: A solution contains 6.0 g of solute per 50 ml of solution. 400 ml of this
+    solution is diluted by adding a further 2000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 2.0
+  solution: |-
+    6.0 g of solute per 50 ml is <br />
+    48.0 g of solute per 400 ml (multiplying by 8.0) <br />
+    Add 2000 ml means 2400 ml <br />
+    48.0 g of solute per 2400 ml of solution <br />
+    For percentage need 100 ml, so divide through by 24.0 <br />
+    2.0 g of solute per 100 ml <br />
+    2.0 %w/v
+- id: 19062
+  question: A solution contains 10.0 g of solute per 50 ml of solution. 300 ml of
+    this solution is diluted by adding a further 1500 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 3.3
+  solution: |-
+    10.0 g of solute per 50 ml is <br />
+    60.0 g of solute per 300 ml (multiplying by 6.0) <br />
+    Add 1500 ml means 1800 ml <br />
+    60.0 g of solute per 1800 ml of solution <br />
+    For percentage need 100 ml, so divide through by 18.0 <br />
+    3.3 g of solute per 100 ml <br />
+    3.3 %w/v
+- id: 19063
+  question: A solution contains 7.5 g of solute per 100 ml of solution. 150 ml of
+    this solution is diluted by adding a further 600 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.5
+  solution: |-
+    7.5 g of solute per 100 ml is <br />
+    11.25 g of solute per 150 ml (multiplying by 1.5) <br />
+    Add 600 ml means 750 ml <br />
+    11.25 g of solute per 750 ml of solution <br />
+    For percentage need 100 ml, so divide through by 7.5 <br />
+    1.5 g of solute per 100 ml <br />
+    1.5 %w/v
+- id: 19064
+  question: A solution contains 4.0 g of solute per 100 ml of solution. 450 ml of
+    this solution is diluted by adding a further 2700 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.6
+  solution: |-
+    4.0 g of solute per 100 ml is <br />
+    18.0 g of solute per 450 ml (multiplying by 4.5) <br />
+    Add 2700 ml means 3150 ml <br />
+    18.0 g of solute per 3150 ml of solution <br />
+    For percentage need 100 ml, so divide through by 31.5 <br />
+    0.6 g of solute per 100 ml <br />
+    0.6 %w/v
+- id: 19065
+  question: A solution contains 1.0 g of solute per 50 ml of solution. 150 ml of this
+    solution is diluted by adding a further 750 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.3
+  solution: |-
+    1.0 g of solute per 50 ml is <br />
+    3.0 g of solute per 150 ml (multiplying by 3.0) <br />
+    Add 750 ml means 900 ml <br />
+    3.0 g of solute per 900 ml of solution <br />
+    For percentage need 100 ml, so divide through by 9.0 <br />
+    0.3 g of solute per 100 ml <br />
+    0.3 %w/v
+- id: 19066
+  question: A solution contains 1.5 g of solute per 100 ml of solution. 500 ml of
+    this solution is diluted by adding a further 2500 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.2
+  solution: |-
+    1.5 g of solute per 100 ml is <br />
+    7.5 g of solute per 500 ml (multiplying by 5.0) <br />
+    Add 2500 ml means 3000 ml <br />
+    7.5 g of solute per 3000 ml of solution <br />
+    For percentage need 100 ml, so divide through by 30.0 <br />
+    0.2 g of solute per 100 ml <br />
+    0.2 %w/v
+- id: 19067
+  question: A solution contains 6.5 g of solute per 50 ml of solution. 200 ml of this
+    solution is diluted by adding a further 200 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 6.5
+  solution: |-
+    6.5 g of solute per 50 ml is <br />
+    26.0 g of solute per 200 ml (multiplying by 4.0) <br />
+    Add 200 ml means 400 ml <br />
+    26.0 g of solute per 400 ml of solution <br />
+    For percentage need 100 ml, so divide through by 4.0 <br />
+    6.5 g of solute per 100 ml <br />
+    6.5 %w/v
+- id: 19068
+  question: A solution contains 3.5 g of solute per 50 ml of solution. 200 ml of this
+    solution is diluted by adding a further 1000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.2
+  solution: |-
+    3.5 g of solute per 50 ml is <br />
+    14.0 g of solute per 200 ml (multiplying by 4.0) <br />
+    Add 1000 ml means 1200 ml <br />
+    14.0 g of solute per 1200 ml of solution <br />
+    For percentage need 100 ml, so divide through by 12.0 <br />
+    1.2 g of solute per 100 ml <br />
+    1.2 %w/v
+- id: 19069
+  question: A solution contains 3.5 g of solute per 50 ml of solution. 350 ml of this
+    solution is diluted by adding a further 350 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 3.5
+  solution: |-
+    3.5 g of solute per 50 ml is <br />
+    24.5 g of solute per 350 ml (multiplying by 7.0) <br />
+    Add 350 ml means 700 ml <br />
+    24.5 g of solute per 700 ml of solution <br />
+    For percentage need 100 ml, so divide through by 7.0 <br />
+    3.5 g of solute per 100 ml <br />
+    3.5 %w/v
+- id: 19070
+  question: A solution contains 1.5 g of solute per 50 ml of solution. 200 ml of this
+    solution is diluted by adding a further 1000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.5
+  solution: |-
+    1.5 g of solute per 50 ml is <br />
+    6.0 g of solute per 200 ml (multiplying by 4.0) <br />
+    Add 1000 ml means 1200 ml <br />
+    6.0 g of solute per 1200 ml of solution <br />
+    For percentage need 100 ml, so divide through by 12.0 <br />
+    0.5 g of solute per 100 ml <br />
+    0.5 %w/v
+- id: 19071
+  question: A solution contains 9.5 g of solute per 50 ml of solution. 300 ml of this
+    solution is diluted by adding a further 600 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 6.3
+  solution: |-
+    9.5 g of solute per 50 ml is <br />
+    57.0 g of solute per 300 ml (multiplying by 6.0) <br />
+    Add 600 ml means 900 ml <br />
+    57.0 g of solute per 900 ml of solution <br />
+    For percentage need 100 ml, so divide through by 9.0 <br />
+    6.3 g of solute per 100 ml <br />
+    6.3 %w/v
+- id: 19072
+  question: A solution contains 4.0 g of solute per 50 ml of solution. 250 ml of this
+    solution is diluted by adding a further 1000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.6
+  solution: |-
+    4.0 g of solute per 50 ml is <br />
+    20.0 g of solute per 250 ml (multiplying by 5.0) <br />
+    Add 1000 ml means 1250 ml <br />
+    20.0 g of solute per 1250 ml of solution <br />
+    For percentage need 100 ml, so divide through by 12.5 <br />
+    1.6 g of solute per 100 ml <br />
+    1.6 %w/v
+- id: 19073
+  question: A solution contains 1.5 g of solute per 50 ml of solution. 350 ml of this
+    solution is diluted by adding a further 350 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.5
+  solution: |-
+    1.5 g of solute per 50 ml is <br />
+    10.5 g of solute per 350 ml (multiplying by 7.0) <br />
+    Add 350 ml means 700 ml <br />
+    10.5 g of solute per 700 ml of solution <br />
+    For percentage need 100 ml, so divide through by 7.0 <br />
+    1.5 g of solute per 100 ml <br />
+    1.5 %w/v
+- id: 19074
+  question: A solution contains 0.5 g of solute per 100 ml of solution. 500 ml of
+    this solution is diluted by adding a further 3000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.1
+  solution: |-
+    0.5 g of solute per 100 ml is <br />
+    2.5 g of solute per 500 ml (multiplying by 5.0) <br />
+    Add 3000 ml means 3500 ml <br />
+    2.5 g of solute per 3500 ml of solution <br />
+    For percentage need 100 ml, so divide through by 35.0 <br />
+    0.1 g of solute per 100 ml <br />
+    0.1 %w/v
+- id: 19075
+  question: A solution contains 1.5 g of solute per 100 ml of solution. 500 ml of
+    this solution is diluted by adding a further 2500 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.2
+  solution: |-
+    1.5 g of solute per 100 ml is <br />
+    7.5 g of solute per 500 ml (multiplying by 5.0) <br />
+    Add 2500 ml means 3000 ml <br />
+    7.5 g of solute per 3000 ml of solution <br />
+    For percentage need 100 ml, so divide through by 30.0 <br />
+    0.2 g of solute per 100 ml <br />
+    0.2 %w/v
+- id: 19076
+  question: A solution contains 3.0 g of solute per 100 ml of solution. 500 ml of
+    this solution is diluted by adding a further 500 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.5
+  solution: |-
+    3.0 g of solute per 100 ml is <br />
+    15.0 g of solute per 500 ml (multiplying by 5.0) <br />
+    Add 500 ml means 1000 ml <br />
+    15.0 g of solute per 1000 ml of solution <br />
+    For percentage need 100 ml, so divide through by 10.0 <br />
+    1.5 g of solute per 100 ml <br />
+    1.5 %w/v
+- id: 19077
+  question: A solution contains 6.0 g of solute per 50 ml of solution. 450 ml of this
+    solution is diluted by adding a further 2250 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 2.0
+  solution: |-
+    6.0 g of solute per 50 ml is <br />
+    54.0 g of solute per 450 ml (multiplying by 9.0) <br />
+    Add 2250 ml means 2700 ml <br />
+    54.0 g of solute per 2700 ml of solution <br />
+    For percentage need 100 ml, so divide through by 27.0 <br />
+    2.0 g of solute per 100 ml <br />
+    2.0 %w/v
+- id: 19078
+  question: A solution contains 3.0 g of solute per 50 ml of solution. 300 ml of this
+    solution is diluted by adding a further 1500 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.0
+  solution: |-
+    3.0 g of solute per 50 ml is <br />
+    18.0 g of solute per 300 ml (multiplying by 6.0) <br />
+    Add 1500 ml means 1800 ml <br />
+    18.0 g of solute per 1800 ml of solution <br />
+    For percentage need 100 ml, so divide through by 18.0 <br />
+    1.0 g of solute per 100 ml <br />
+    1.0 %w/v
+- id: 19079
+  question: A solution contains 9.0 g of solute per 50 ml of solution. 250 ml of this
+    solution is diluted by adding a further 1250 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 3.0
+  solution: |-
+    9.0 g of solute per 50 ml is <br />
+    45.0 g of solute per 250 ml (multiplying by 5.0) <br />
+    Add 1250 ml means 1500 ml <br />
+    45.0 g of solute per 1500 ml of solution <br />
+    For percentage need 100 ml, so divide through by 15.0 <br />
+    3.0 g of solute per 100 ml <br />
+    3.0 %w/v
+- id: 19080
+  question: A solution contains 2.0 g of solute per 100 ml of solution. 500 ml of
+    this solution is diluted by adding a further 2000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.4
+  solution: |-
+    2.0 g of solute per 100 ml is <br />
+    10.0 g of solute per 500 ml (multiplying by 5.0) <br />
+    Add 2000 ml means 2500 ml <br />
+    10.0 g of solute per 2500 ml of solution <br />
+    For percentage need 100 ml, so divide through by 25.0 <br />
+    0.4 g of solute per 100 ml <br />
+    0.4 %w/v
+- id: 19081
+  question: A solution contains 2.5 g of solute per 50 ml of solution. 400 ml of this
+    solution is diluted by adding a further 1600 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.0
+  solution: |-
+    2.5 g of solute per 50 ml is <br />
+    20.0 g of solute per 400 ml (multiplying by 8.0) <br />
+    Add 1600 ml means 2000 ml <br />
+    20.0 g of solute per 2000 ml of solution <br />
+    For percentage need 100 ml, so divide through by 20.0 <br />
+    1.0 g of solute per 100 ml <br />
+    1.0 %w/v
+- id: 19082
+  question: A solution contains 0.5 g of solute per 100 ml of solution. 450 ml of
+    this solution is diluted by adding a further 1800 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.1
+  solution: |-
+    0.5 g of solute per 100 ml is <br />
+    2.25 g of solute per 450 ml (multiplying by 4.5) <br />
+    Add 1800 ml means 2250 ml <br />
+    2.25 g of solute per 2250 ml of solution <br />
+    For percentage need 100 ml, so divide through by 22.5 <br />
+    0.1 g of solute per 100 ml <br />
+    0.1 %w/v
+- id: 19083
+  question: A solution contains 6.0 g of solute per 100 ml of solution. 200 ml of
+    this solution is diluted by adding a further 1400 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.8
+  solution: |-
+    6.0 g of solute per 100 ml is <br />
+    12.0 g of solute per 200 ml (multiplying by 2.0) <br />
+    Add 1400 ml means 1600 ml <br />
+    12.0 g of solute per 1600 ml of solution <br />
+    For percentage need 100 ml, so divide through by 16.0 <br />
+    0.8 g of solute per 100 ml <br />
+    0.8 %w/v
+- id: 19084
+  question: A solution contains 5.5 g of solute per 100 ml of solution. 250 ml of
+    this solution is diluted by adding a further 1750 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.7
+  solution: |-
+    5.5 g of solute per 100 ml is <br />
+    13.75 g of solute per 250 ml (multiplying by 2.5) <br />
+    Add 1750 ml means 2000 ml <br />
+    13.75 g of solute per 2000 ml of solution <br />
+    For percentage need 100 ml, so divide through by 20.0 <br />
+    0.7 g of solute per 100 ml <br />
+    0.7 %w/v
+- id: 19085
+  question: A solution contains 2.5 g of solute per 50 ml of solution. 150 ml of this
+    solution is diluted by adding a further 150 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 2.5
+  solution: |-
+    2.5 g of solute per 50 ml is <br />
+    7.5 g of solute per 150 ml (multiplying by 3.0) <br />
+    Add 150 ml means 300 ml <br />
+    7.5 g of solute per 300 ml of solution <br />
+    For percentage need 100 ml, so divide through by 3.0 <br />
+    2.5 g of solute per 100 ml <br />
+    2.5 %w/v
+- id: 19086
+  question: A solution contains 10.0 g of solute per 50 ml of solution. 400 ml of
+    this solution is diluted by adding a further 2000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 3.3
+  solution: |-
+    10.0 g of solute per 50 ml is <br />
+    80.0 g of solute per 400 ml (multiplying by 8.0) <br />
+    Add 2000 ml means 2400 ml <br />
+    80.0 g of solute per 2400 ml of solution <br />
+    For percentage need 100 ml, so divide through by 24.0 <br />
+    3.3 g of solute per 100 ml <br />
+    3.3 %w/v
+- id: 19087
+  question: A solution contains 8.5 g of solute per 50 ml of solution. 250 ml of this
+    solution is diluted by adding a further 1000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 3.4
+  solution: |-
+    8.5 g of solute per 50 ml is <br />
+    42.5 g of solute per 250 ml (multiplying by 5.0) <br />
+    Add 1000 ml means 1250 ml <br />
+    42.5 g of solute per 1250 ml of solution <br />
+    For percentage need 100 ml, so divide through by 12.5 <br />
+    3.4 g of solute per 100 ml <br />
+    3.4 %w/v
+- id: 19088
+  question: A solution contains 10.0 g of solute per 100 ml of solution. 300 ml of
+    this solution is diluted by adding a further 300 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 5.0
+  solution: |-
+    10.0 g of solute per 100 ml is <br />
+    30.0 g of solute per 300 ml (multiplying by 3.0) <br />
+    Add 300 ml means 600 ml <br />
+    30.0 g of solute per 600 ml of solution <br />
+    For percentage need 100 ml, so divide through by 6.0 <br />
+    5.0 g of solute per 100 ml <br />
+    5.0 %w/v
+- id: 19089
+  question: A solution contains 8.0 g of solute per 50 ml of solution. 450 ml of this
+    solution is diluted by adding a further 3150 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 2.0
+  solution: |-
+    8.0 g of solute per 50 ml is <br />
+    72.0 g of solute per 450 ml (multiplying by 9.0) <br />
+    Add 3150 ml means 3600 ml <br />
+    72.0 g of solute per 3600 ml of solution <br />
+    For percentage need 100 ml, so divide through by 36.0 <br />
+    2.0 g of solute per 100 ml <br />
+    2.0 %w/v
+- id: 19090
+  question: A solution contains 6.0 g of solute per 100 ml of solution. 200 ml of
+    this solution is diluted by adding a further 1400 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.8
+  solution: |-
+    6.0 g of solute per 100 ml is <br />
+    12.0 g of solute per 200 ml (multiplying by 2.0) <br />
+    Add 1400 ml means 1600 ml <br />
+    12.0 g of solute per 1600 ml of solution <br />
+    For percentage need 100 ml, so divide through by 16.0 <br />
+    0.8 g of solute per 100 ml <br />
+    0.8 %w/v
+- id: 19091
+  question: A solution contains 4.0 g of solute per 50 ml of solution. 150 ml of this
+    solution is diluted by adding a further 300 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 2.7
+  solution: |-
+    4.0 g of solute per 50 ml is <br />
+    12.0 g of solute per 150 ml (multiplying by 3.0) <br />
+    Add 300 ml means 450 ml <br />
+    12.0 g of solute per 450 ml of solution <br />
+    For percentage need 100 ml, so divide through by 4.5 <br />
+    2.7 g of solute per 100 ml <br />
+    2.7 %w/v
+- id: 19092
+  question: A solution contains 4.0 g of solute per 100 ml of solution. 150 ml of
+    this solution is diluted by adding a further 900 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 0.6
+  solution: |-
+    4.0 g of solute per 100 ml is <br />
+    6.0 g of solute per 150 ml (multiplying by 1.5) <br />
+    Add 900 ml means 1050 ml <br />
+    6.0 g of solute per 1050 ml of solution <br />
+    For percentage need 100 ml, so divide through by 10.5 <br />
+    0.6 g of solute per 100 ml <br />
+    0.6 %w/v
+- id: 19093
+  question: A solution contains 8.5 g of solute per 100 ml of solution. 450 ml of
+    this solution is diluted by adding a further 2700 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.2
+  solution: |-
+    8.5 g of solute per 100 ml is <br />
+    38.25 g of solute per 450 ml (multiplying by 4.5) <br />
+    Add 2700 ml means 3150 ml <br />
+    38.25 g of solute per 3150 ml of solution <br />
+    For percentage need 100 ml, so divide through by 31.5 <br />
+    1.2 g of solute per 100 ml <br />
+    1.2 %w/v
+- id: 19094
+  question: A solution contains 5.0 g of solute per 50 ml of solution. 250 ml of this
+    solution is diluted by adding a further 500 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 3.3
+  solution: |-
+    5.0 g of solute per 50 ml is <br />
+    25.0 g of solute per 250 ml (multiplying by 5.0) <br />
+    Add 500 ml means 750 ml <br />
+    25.0 g of solute per 750 ml of solution <br />
+    For percentage need 100 ml, so divide through by 7.5 <br />
+    3.3 g of solute per 100 ml <br />
+    3.3 %w/v
+- id: 19095
+  question: A solution contains 4.0 g of solute per 50 ml of solution. 450 ml of this
+    solution is diluted by adding a further 1350 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 2.0
+  solution: |-
+    4.0 g of solute per 50 ml is <br />
+    36.0 g of solute per 450 ml (multiplying by 9.0) <br />
+    Add 1350 ml means 1800 ml <br />
+    36.0 g of solute per 1800 ml of solution <br />
+    For percentage need 100 ml, so divide through by 18.0 <br />
+    2.0 g of solute per 100 ml <br />
+    2.0 %w/v
+- id: 19096
+  question: A solution contains 8.5 g of solute per 100 ml of solution. 200 ml of
+    this solution is diluted by adding a further 200 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 4.2
+  solution: |-
+    8.5 g of solute per 100 ml is <br />
+    17.0 g of solute per 200 ml (multiplying by 2.0) <br />
+    Add 200 ml means 400 ml <br />
+    17.0 g of solute per 400 ml of solution <br />
+    For percentage need 100 ml, so divide through by 4.0 <br />
+    4.2 g of solute per 100 ml <br />
+    4.2 %w/v
+- id: 19097
+  question: A solution contains 9.5 g of solute per 100 ml of solution. 500 ml of
+    this solution is diluted by adding a further 2000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.9
+  solution: |-
+    9.5 g of solute per 100 ml is <br />
+    47.5 g of solute per 500 ml (multiplying by 5.0) <br />
+    Add 2000 ml means 2500 ml <br />
+    47.5 g of solute per 2500 ml of solution <br />
+    For percentage need 100 ml, so divide through by 25.0 <br />
+    1.9 g of solute per 100 ml <br />
+    1.9 %w/v
+- id: 19098
+  question: A solution contains 5.0 g of solute per 50 ml of solution. 250 ml of this
+    solution is diluted by adding a further 1000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 2.0
+  solution: |-
+    5.0 g of solute per 50 ml is <br />
+    25.0 g of solute per 250 ml (multiplying by 5.0) <br />
+    Add 1000 ml means 1250 ml <br />
+    25.0 g of solute per 1250 ml of solution <br />
+    For percentage need 100 ml, so divide through by 12.5 <br />
+    2.0 g of solute per 100 ml <br />
+    2.0 %w/v
+- id: 19099
+  question: A solution contains 8.5 g of solute per 100 ml of solution. 400 ml of
+    this solution is diluted by adding a further 2000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.4
+  solution: |-
+    8.5 g of solute per 100 ml is <br />
+    34.0 g of solute per 400 ml (multiplying by 4.0) <br />
+    Add 2000 ml means 2400 ml <br />
+    34.0 g of solute per 2400 ml of solution <br />
+    For percentage need 100 ml, so divide through by 24.0 <br />
+    1.4 g of solute per 100 ml <br />
+    1.4 %w/v
+- id: 19100
+  question: A solution contains 6.0 g of solute per 50 ml of solution. 500 ml of this
+    solution is diluted by adding a further 3000 ml of water. What is the resulting
+    percentage strength of the new solution expressed as % w/v? Give the answer correct
+    to 1 decimal place.
+  answer: 1.7
+  solution: |-
+    6.0 g of solute per 50 ml is <br />
+    60.0 g of solute per 500 ml (multiplying by 10.0) <br />
+    Add 3000 ml means 3500 ml <br />
+    60.0 g of solute per 3500 ml of solution <br />
+    For percentage need 100 ml, so divide through by 35.0 <br />
+    1.7 g of solute per 100 ml <br />
+    1.7 %w/v

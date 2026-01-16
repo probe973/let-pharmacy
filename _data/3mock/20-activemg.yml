@@ -1,0 +1,1000 @@
+- id: 20001
+  question: A liquid medication contains 0.5 % active ingredient. How many milligrams
+    would there be in a 78 ml dose?
+  answer: 390
+  solution: |-
+    0.5 % of 78 ml is <br />
+    \( \frac{0.5}{100} \times 78 = 0.39\) <br />
+    This is 0.39 g, so convert to mg: <br />
+    \( 0.39 \times 1000 = 390 \) <br />
+    390 mg
+- id: 20002
+  question: A liquid medication contains 3.0 % active ingredient. How many milligrams
+    would there be in a 16 ml dose?
+  answer: 480
+  solution: |-
+    3.0 % of 16 ml is <br />
+    \( \frac{3.0}{100} \times 16 = 0.48\) <br />
+    This is 0.48 g, so convert to mg: <br />
+    \( 0.48 \times 1000 = 480 \) <br />
+    480 mg
+- id: 20003
+  question: A liquid medication contains 4.5 % active ingredient. How many milligrams
+    would there be in a 14 ml dose?
+  answer: 630
+  solution: |-
+    4.5 % of 14 ml is <br />
+    \( \frac{4.5}{100} \times 14 = 0.63\) <br />
+    This is 0.63 g, so convert to mg: <br />
+    \( 0.63 \times 1000 = 630 \) <br />
+    630 mg
+- id: 20004
+  question: A liquid medication contains 0.5 % active ingredient. How many milligrams
+    would there be in a 58 ml dose?
+  answer: 290
+  solution: |-
+    0.5 % of 58 ml is <br />
+    \( \frac{0.5}{100} \times 58 = 0.29\) <br />
+    This is 0.29 g, so convert to mg: <br />
+    \( 0.29 \times 1000 = 290 \) <br />
+    290 mg
+- id: 20005
+  question: A liquid medication contains 0.5 % active ingredient. How many milligrams
+    would there be in a 16 ml dose?
+  answer: 80
+  solution: |-
+    0.5 % of 16 ml is <br />
+    \( \frac{0.5}{100} \times 16 = 0.08\) <br />
+    This is 0.08 g, so convert to mg: <br />
+    \( 0.08 \times 1000 = 80 \) <br />
+    80 mg
+- id: 20006
+  question: A liquid medication contains 3.0 % active ingredient. How many milligrams
+    would there be in a 10 ml dose?
+  answer: 300
+  solution: |-
+    3.0 % of 10 ml is <br />
+    \( \frac{3.0}{100} \times 10 = 0.3\) <br />
+    This is 0.3 g, so convert to mg: <br />
+    \( 0.3 \times 1000 = 300 \) <br />
+    300 mg
+- id: 20007
+  question: A liquid medication contains 0.5 % active ingredient. How many milligrams
+    would there be in a 98 ml dose?
+  answer: 490
+  solution: |-
+    0.5 % of 98 ml is <br />
+    \( \frac{0.5}{100} \times 98 = 0.49\) <br />
+    This is 0.49 g, so convert to mg: <br />
+    \( 0.49 \times 1000 = 490 \) <br />
+    490 mg
+- id: 20008
+  question: A liquid medication contains 8.0 % active ingredient. How many milligrams
+    would there be in a 6 ml dose?
+  answer: 480
+  solution: |-
+    8.0 % of 6 ml is <br />
+    \( \frac{8.0}{100} \times 6 = 0.48\) <br />
+    This is 0.48 g, so convert to mg: <br />
+    \( 0.48 \times 1000 = 480 \) <br />
+    480 mg
+- id: 20009
+  question: A liquid medication contains 2.0 % active ingredient. How many milligrams
+    would there be in a 48 ml dose?
+  answer: 960
+  solution: |-
+    2.0 % of 48 ml is <br />
+    \( \frac{2.0}{100} \times 48 = 0.96\) <br />
+    This is 0.96 g, so convert to mg: <br />
+    \( 0.96 \times 1000 = 960 \) <br />
+    960 mg
+- id: 20010
+  question: A liquid medication contains 4.5 % active ingredient. How many milligrams
+    would there be in a 18 ml dose?
+  answer: 810
+  solution: |-
+    4.5 % of 18 ml is <br />
+    \( \frac{4.5}{100} \times 18 = 0.81\) <br />
+    This is 0.81 g, so convert to mg: <br />
+    \( 0.81 \times 1000 = 810 \) <br />
+    810 mg
+- id: 20011
+  question: A liquid medication contains 2.5 % active ingredient. How many milligrams
+    would there be in a 8 ml dose?
+  answer: 200
+  solution: |-
+    2.5 % of 8 ml is <br />
+    \( \frac{2.5}{100} \times 8 = 0.2\) <br />
+    This is 0.2 g, so convert to mg: <br />
+    \( 0.2 \times 1000 = 200 \) <br />
+    200 mg
+- id: 20012
+  question: A liquid medication contains 7.5 % active ingredient. How many milligrams
+    would there be in a 12 ml dose?
+  answer: 900
+  solution: |-
+    7.5 % of 12 ml is <br />
+    \( \frac{7.5}{100} \times 12 = 0.9\) <br />
+    This is 0.9 g, so convert to mg: <br />
+    \( 0.9 \times 1000 = 900 \) <br />
+    900 mg
+- id: 20013
+  question: A liquid medication contains 6.5 % active ingredient. How many milligrams
+    would there be in a 15 ml dose?
+  answer: 975
+  solution: |-
+    6.5 % of 15 ml is <br />
+    \( \frac{6.5}{100} \times 15 = 0.975\) <br />
+    This is 0.975 g, so convert to mg: <br />
+    \( 0.975 \times 1000 = 975 \) <br />
+    975 mg
+- id: 20014
+  question: A liquid medication contains 2.0 % active ingredient. How many milligrams
+    would there be in a 25 ml dose?
+  answer: 500
+  solution: |-
+    2.0 % of 25 ml is <br />
+    \( \frac{2.0}{100} \times 25 = 0.5\) <br />
+    This is 0.5 g, so convert to mg: <br />
+    \( 0.5 \times 1000 = 500 \) <br />
+    500 mg
+- id: 20015
+  question: A liquid medication contains 3.5 % active ingredient. How many milligrams
+    would there be in a 12 ml dose?
+  answer: 420
+  solution: |-
+    3.5 % of 12 ml is <br />
+    \( \frac{3.5}{100} \times 12 = 0.42\) <br />
+    This is 0.42 g, so convert to mg: <br />
+    \( 0.42 \times 1000 = 420 \) <br />
+    420 mg
+- id: 20016
+  question: A liquid medication contains 3.0 % active ingredient. How many milligrams
+    would there be in a 24 ml dose?
+  answer: 720
+  solution: |-
+    3.0 % of 24 ml is <br />
+    \( \frac{3.0}{100} \times 24 = 0.72\) <br />
+    This is 0.72 g, so convert to mg: <br />
+    \( 0.72 \times 1000 = 720 \) <br />
+    720 mg
+- id: 20017
+  question: A liquid medication contains 2.5 % active ingredient. How many milligrams
+    would there be in a 36 ml dose?
+  answer: 900
+  solution: |-
+    2.5 % of 36 ml is <br />
+    \( \frac{2.5}{100} \times 36 = 0.9\) <br />
+    This is 0.9 g, so convert to mg: <br />
+    \( 0.9 \times 1000 = 900 \) <br />
+    900 mg
+- id: 20018
+  question: A liquid medication contains 6.0 % active ingredient. How many milligrams
+    would there be in a 10 ml dose?
+  answer: 600
+  solution: |-
+    6.0 % of 10 ml is <br />
+    \( \frac{6.0}{100} \times 10 = 0.6\) <br />
+    This is 0.6 g, so convert to mg: <br />
+    \( 0.6 \times 1000 = 600 \) <br />
+    600 mg
+- id: 20019
+  question: A liquid medication contains 3.5 % active ingredient. How many milligrams
+    would there be in a 10 ml dose?
+  answer: 350
+  solution: |-
+    3.5 % of 10 ml is <br />
+    \( \frac{3.5}{100} \times 10 = 0.35\) <br />
+    This is 0.35 g, so convert to mg: <br />
+    \( 0.35 \times 1000 = 350 \) <br />
+    350 mg
+- id: 20020
+  question: A liquid medication contains 1.5 % active ingredient. How many milligrams
+    would there be in a 25 ml dose?
+  answer: 375
+  solution: |-
+    1.5 % of 25 ml is <br />
+    \( \frac{1.5}{100} \times 25 = 0.375\) <br />
+    This is 0.375 g, so convert to mg: <br />
+    \( 0.375 \times 1000 = 375 \) <br />
+    375 mg
+- id: 20021
+  question: A liquid medication contains 1.5 % active ingredient. How many milligrams
+    would there be in a 36 ml dose?
+  answer: 540
+  solution: |-
+    1.5 % of 36 ml is <br />
+    \( \frac{1.5}{100} \times 36 = 0.54\) <br />
+    This is 0.54 g, so convert to mg: <br />
+    \( 0.54 \times 1000 = 540 \) <br />
+    540 mg
+- id: 20022
+  question: A liquid medication contains 2.5 % active ingredient. How many milligrams
+    would there be in a 26 ml dose?
+  answer: 650
+  solution: |-
+    2.5 % of 26 ml is <br />
+    \( \frac{2.5}{100} \times 26 = 0.65\) <br />
+    This is 0.65 g, so convert to mg: <br />
+    \( 0.65 \times 1000 = 650 \) <br />
+    650 mg
+- id: 20023
+  question: A liquid medication contains 3.5 % active ingredient. How many milligrams
+    would there be in a 10 ml dose?
+  answer: 350
+  solution: |-
+    3.5 % of 10 ml is <br />
+    \( \frac{3.5}{100} \times 10 = 0.35\) <br />
+    This is 0.35 g, so convert to mg: <br />
+    \( 0.35 \times 1000 = 350 \) <br />
+    350 mg
+- id: 20024
+  question: A liquid medication contains 2.5 % active ingredient. How many milligrams
+    would there be in a 18 ml dose?
+  answer: 450
+  solution: |-
+    2.5 % of 18 ml is <br />
+    \( \frac{2.5}{100} \times 18 = 0.45\) <br />
+    This is 0.45 g, so convert to mg: <br />
+    \( 0.45 \times 1000 = 450 \) <br />
+    450 mg
+- id: 20025
+  question: A liquid medication contains 0.5 % active ingredient. How many milligrams
+    would there be in a 15 ml dose?
+  answer: 75
+  solution: |-
+    0.5 % of 15 ml is <br />
+    \( \frac{0.5}{100} \times 15 = 0.075\) <br />
+    This is 0.075 g, so convert to mg: <br />
+    \( 0.075 \times 1000 = 75 \) <br />
+    75 mg
+- id: 20026
+  question: A liquid medication contains 6.0 % active ingredient. How many milligrams
+    would there be in a 6 ml dose?
+  answer: 360
+  solution: |-
+    6.0 % of 6 ml is <br />
+    \( \frac{6.0}{100} \times 6 = 0.36\) <br />
+    This is 0.36 g, so convert to mg: <br />
+    \( 0.36 \times 1000 = 360 \) <br />
+    360 mg
+- id: 20027
+  question: A liquid medication contains 4.5 % active ingredient. How many milligrams
+    would there be in a 22 ml dose?
+  answer: 990
+  solution: |-
+    4.5 % of 22 ml is <br />
+    \( \frac{4.5}{100} \times 22 = 0.99\) <br />
+    This is 0.99 g, so convert to mg: <br />
+    \( 0.99 \times 1000 = 990 \) <br />
+    990 mg
+- id: 20028
+  question: A liquid medication contains 1.5 % active ingredient. How many milligrams
+    would there be in a 15 ml dose?
+  answer: 225
+  solution: |-
+    1.5 % of 15 ml is <br />
+    \( \frac{1.5}{100} \times 15 = 0.225\) <br />
+    This is 0.225 g, so convert to mg: <br />
+    \( 0.225 \times 1000 = 225 \) <br />
+    225 mg
+- id: 20029
+  question: A liquid medication contains 2.5 % active ingredient. How many milligrams
+    would there be in a 26 ml dose?
+  answer: 650
+  solution: |-
+    2.5 % of 26 ml is <br />
+    \( \frac{2.5}{100} \times 26 = 0.65\) <br />
+    This is 0.65 g, so convert to mg: <br />
+    \( 0.65 \times 1000 = 650 \) <br />
+    650 mg
+- id: 20030
+  question: A liquid medication contains 1.5 % active ingredient. How many milligrams
+    would there be in a 38 ml dose?
+  answer: 570
+  solution: |-
+    1.5 % of 38 ml is <br />
+    \( \frac{1.5}{100} \times 38 = 0.57\) <br />
+    This is 0.57 g, so convert to mg: <br />
+    \( 0.57 \times 1000 = 570 \) <br />
+    570 mg
+- id: 20031
+  question: A liquid medication contains 6.0 % active ingredient. How many milligrams
+    would there be in a 8 ml dose?
+  answer: 480
+  solution: |-
+    6.0 % of 8 ml is <br />
+    \( \frac{6.0}{100} \times 8 = 0.48\) <br />
+    This is 0.48 g, so convert to mg: <br />
+    \( 0.48 \times 1000 = 480 \) <br />
+    480 mg
+- id: 20032
+  question: A liquid medication contains 10.0 % active ingredient. How many milligrams
+    would there be in a 6 ml dose?
+  answer: 600
+  solution: |-
+    10.0 % of 6 ml is <br />
+    \( \frac{10.0}{100} \times 6 = 0.6\) <br />
+    This is 0.6 g, so convert to mg: <br />
+    \( 0.6 \times 1000 = 600 \) <br />
+    600 mg
+- id: 20033
+  question: A liquid medication contains 9.0 % active ingredient. How many milligrams
+    would there be in a 10 ml dose?
+  answer: 900
+  solution: |-
+    9.0 % of 10 ml is <br />
+    \( \frac{9.0}{100} \times 10 = 0.9\) <br />
+    This is 0.9 g, so convert to mg: <br />
+    \( 0.9 \times 1000 = 900 \) <br />
+    900 mg
+- id: 20034
+  question: A liquid medication contains 0.5 % active ingredient. How many milligrams
+    would there be in a 94 ml dose?
+  answer: 470
+  solution: |-
+    0.5 % of 94 ml is <br />
+    \( \frac{0.5}{100} \times 94 = 0.47\) <br />
+    This is 0.47 g, so convert to mg: <br />
+    \( 0.47 \times 1000 = 470 \) <br />
+    470 mg
+- id: 20035
+  question: A liquid medication contains 3.0 % active ingredient. How many milligrams
+    would there be in a 30 ml dose?
+  answer: 900
+  solution: |-
+    3.0 % of 30 ml is <br />
+    \( \frac{3.0}{100} \times 30 = 0.9\) <br />
+    This is 0.9 g, so convert to mg: <br />
+    \( 0.9 \times 1000 = 900 \) <br />
+    900 mg
+- id: 20036
+  question: A liquid medication contains 0.5 % active ingredient. How many milligrams
+    would there be in a 60 ml dose?
+  answer: 300
+  solution: |-
+    0.5 % of 60 ml is <br />
+    \( \frac{0.5}{100} \times 60 = 0.3\) <br />
+    This is 0.3 g, so convert to mg: <br />
+    \( 0.3 \times 1000 = 300 \) <br />
+    300 mg
+- id: 20037
+  question: A liquid medication contains 4.5 % active ingredient. How many milligrams
+    would there be in a 15 ml dose?
+  answer: 675
+  solution: |-
+    4.5 % of 15 ml is <br />
+    \( \frac{4.5}{100} \times 15 = 0.675\) <br />
+    This is 0.675 g, so convert to mg: <br />
+    \( 0.675 \times 1000 = 675 \) <br />
+    675 mg
+- id: 20038
+  question: A liquid medication contains 0.5 % active ingredient. How many milligrams
+    would there be in a 92 ml dose?
+  answer: 460
+  solution: |-
+    0.5 % of 92 ml is <br />
+    \( \frac{0.5}{100} \times 92 = 0.46\) <br />
+    This is 0.46 g, so convert to mg: <br />
+    \( 0.46 \times 1000 = 460 \) <br />
+    460 mg
+- id: 20039
+  question: A liquid medication contains 3.0 % active ingredient. How many milligrams
+    would there be in a 10 ml dose?
+  answer: 300
+  solution: |-
+    3.0 % of 10 ml is <br />
+    \( \frac{3.0}{100} \times 10 = 0.3\) <br />
+    This is 0.3 g, so convert to mg: <br />
+    \( 0.3 \times 1000 = 300 \) <br />
+    300 mg
+- id: 20040
+  question: A liquid medication contains 4.0 % active ingredient. How many milligrams
+    would there be in a 10 ml dose?
+  answer: 400
+  solution: |-
+    4.0 % of 10 ml is <br />
+    \( \frac{4.0}{100} \times 10 = 0.4\) <br />
+    This is 0.4 g, so convert to mg: <br />
+    \( 0.4 \times 1000 = 400 \) <br />
+    400 mg
+- id: 20041
+  question: A liquid medication contains 1.5 % active ingredient. How many milligrams
+    would there be in a 64 ml dose?
+  answer: 960
+  solution: |-
+    1.5 % of 64 ml is <br />
+    \( \frac{1.5}{100} \times 64 = 0.96\) <br />
+    This is 0.96 g, so convert to mg: <br />
+    \( 0.96 \times 1000 = 960 \) <br />
+    960 mg
+- id: 20042
+  question: A liquid medication contains 1.5 % active ingredient. How many milligrams
+    would there be in a 24 ml dose?
+  answer: 360
+  solution: |-
+    1.5 % of 24 ml is <br />
+    \( \frac{1.5}{100} \times 24 = 0.36\) <br />
+    This is 0.36 g, so convert to mg: <br />
+    \( 0.36 \times 1000 = 360 \) <br />
+    360 mg
+- id: 20043
+  question: A liquid medication contains 5.5 % active ingredient. How many milligrams
+    would there be in a 12 ml dose?
+  answer: 660
+  solution: |-
+    5.5 % of 12 ml is <br />
+    \( \frac{5.5}{100} \times 12 = 0.66\) <br />
+    This is 0.66 g, so convert to mg: <br />
+    \( 0.66 \times 1000 = 660 \) <br />
+    660 mg
+- id: 20044
+  question: A liquid medication contains 2.5 % active ingredient. How many milligrams
+    would there be in a 6 ml dose?
+  answer: 150
+  solution: |-
+    2.5 % of 6 ml is <br />
+    \( \frac{2.5}{100} \times 6 = 0.15\) <br />
+    This is 0.15 g, so convert to mg: <br />
+    \( 0.15 \times 1000 = 150 \) <br />
+    150 mg
+- id: 20045
+  question: A liquid medication contains 0.5 % active ingredient. How many milligrams
+    would there be in a 92 ml dose?
+  answer: 460
+  solution: |-
+    0.5 % of 92 ml is <br />
+    \( \frac{0.5}{100} \times 92 = 0.46\) <br />
+    This is 0.46 g, so convert to mg: <br />
+    \( 0.46 \times 1000 = 460 \) <br />
+    460 mg
+- id: 20046
+  question: A liquid medication contains 5.0 % active ingredient. How many milligrams
+    would there be in a 5 ml dose?
+  answer: 250
+  solution: |-
+    5.0 % of 5 ml is <br />
+    \( \frac{5.0}{100} \times 5 = 0.25\) <br />
+    This is 0.25 g, so convert to mg: <br />
+    \( 0.25 \times 1000 = 250 \) <br />
+    250 mg
+- id: 20047
+  question: A liquid medication contains 4.0 % active ingredient. How many milligrams
+    would there be in a 18 ml dose?
+  answer: 720
+  solution: |-
+    4.0 % of 18 ml is <br />
+    \( \frac{4.0}{100} \times 18 = 0.72\) <br />
+    This is 0.72 g, so convert to mg: <br />
+    \( 0.72 \times 1000 = 720 \) <br />
+    720 mg
+- id: 20048
+  question: A liquid medication contains 2.0 % active ingredient. How many milligrams
+    would there be in a 28 ml dose?
+  answer: 560
+  solution: |-
+    2.0 % of 28 ml is <br />
+    \( \frac{2.0}{100} \times 28 = 0.56\) <br />
+    This is 0.56 g, so convert to mg: <br />
+    \( 0.56 \times 1000 = 560 \) <br />
+    560 mg
+- id: 20049
+  question: A liquid medication contains 4.0 % active ingredient. How many milligrams
+    would there be in a 5 ml dose?
+  answer: 200
+  solution: |-
+    4.0 % of 5 ml is <br />
+    \( \frac{4.0}{100} \times 5 = 0.2\) <br />
+    This is 0.2 g, so convert to mg: <br />
+    \( 0.2 \times 1000 = 200 \) <br />
+    200 mg
+- id: 20050
+  question: A liquid medication contains 1.5 % active ingredient. How many milligrams
+    would there be in a 62 ml dose?
+  answer: 930
+  solution: |-
+    1.5 % of 62 ml is <br />
+    \( \frac{1.5}{100} \times 62 = 0.93\) <br />
+    This is 0.93 g, so convert to mg: <br />
+    \( 0.93 \times 1000 = 930 \) <br />
+    930 mg
+- id: 20051
+  question: A liquid medication contains 0.5 % active ingredient. How many milligrams
+    would there be in a 88 ml dose?
+  answer: 440
+  solution: |-
+    0.5 % of 88 ml is <br />
+    \( \frac{0.5}{100} \times 88 = 0.44\) <br />
+    This is 0.44 g, so convert to mg: <br />
+    \( 0.44 \times 1000 = 440 \) <br />
+    440 mg
+- id: 20052
+  question: A liquid medication contains 4.5 % active ingredient. How many milligrams
+    would there be in a 5 ml dose?
+  answer: 225
+  solution: |-
+    4.5 % of 5 ml is <br />
+    \( \frac{4.5}{100} \times 5 = 0.225\) <br />
+    This is 0.225 g, so convert to mg: <br />
+    \( 0.225 \times 1000 = 225 \) <br />
+    225 mg
+- id: 20053
+  question: A liquid medication contains 0.5 % active ingredient. How many milligrams
+    would there be in a 8 ml dose?
+  answer: 40
+  solution: |-
+    0.5 % of 8 ml is <br />
+    \( \frac{0.5}{100} \times 8 = 0.04\) <br />
+    This is 0.04 g, so convert to mg: <br />
+    \( 0.04 \times 1000 = 40 \) <br />
+    40 mg
+- id: 20054
+  question: A liquid medication contains 3.0 % active ingredient. How many milligrams
+    would there be in a 14 ml dose?
+  answer: 420
+  solution: |-
+    3.0 % of 14 ml is <br />
+    \( \frac{3.0}{100} \times 14 = 0.42\) <br />
+    This is 0.42 g, so convert to mg: <br />
+    \( 0.42 \times 1000 = 420 \) <br />
+    420 mg
+- id: 20055
+  question: A liquid medication contains 0.5 % active ingredient. How many milligrams
+    would there be in a 58 ml dose?
+  answer: 290
+  solution: |-
+    0.5 % of 58 ml is <br />
+    \( \frac{0.5}{100} \times 58 = 0.29\) <br />
+    This is 0.29 g, so convert to mg: <br />
+    \( 0.29 \times 1000 = 290 \) <br />
+    290 mg
+- id: 20056
+  question: A liquid medication contains 10.0 % active ingredient. How many milligrams
+    would there be in a 4 ml dose?
+  answer: 400
+  solution: |-
+    10.0 % of 4 ml is <br />
+    \( \frac{10.0}{100} \times 4 = 0.4\) <br />
+    This is 0.4 g, so convert to mg: <br />
+    \( 0.4 \times 1000 = 400 \) <br />
+    400 mg
+- id: 20057
+  question: A liquid medication contains 9.5 % active ingredient. How many milligrams
+    would there be in a 6 ml dose?
+  answer: 570
+  solution: |-
+    9.5 % of 6 ml is <br />
+    \( \frac{9.5}{100} \times 6 = 0.57\) <br />
+    This is 0.57 g, so convert to mg: <br />
+    \( 0.57 \times 1000 = 570 \) <br />
+    570 mg
+- id: 20058
+  question: A liquid medication contains 4.0 % active ingredient. How many milligrams
+    would there be in a 5 ml dose?
+  answer: 200
+  solution: |-
+    4.0 % of 5 ml is <br />
+    \( \frac{4.0}{100} \times 5 = 0.2\) <br />
+    This is 0.2 g, so convert to mg: <br />
+    \( 0.2 \times 1000 = 200 \) <br />
+    200 mg
+- id: 20059
+  question: A liquid medication contains 3.5 % active ingredient. How many milligrams
+    would there be in a 6 ml dose?
+  answer: 210
+  solution: |-
+    3.5 % of 6 ml is <br />
+    \( \frac{3.5}{100} \times 6 = 0.21\) <br />
+    This is 0.21 g, so convert to mg: <br />
+    \( 0.21 \times 1000 = 210 \) <br />
+    210 mg
+- id: 20060
+  question: A liquid medication contains 2.0 % active ingredient. How many milligrams
+    would there be in a 45 ml dose?
+  answer: 900
+  solution: |-
+    2.0 % of 45 ml is <br />
+    \( \frac{2.0}{100} \times 45 = 0.9\) <br />
+    This is 0.9 g, so convert to mg: <br />
+    \( 0.9 \times 1000 = 900 \) <br />
+    900 mg
+- id: 20061
+  question: A liquid medication contains 1.5 % active ingredient. How many milligrams
+    would there be in a 58 ml dose?
+  answer: 870
+  solution: |-
+    1.5 % of 58 ml is <br />
+    \( \frac{1.5}{100} \times 58 = 0.87\) <br />
+    This is 0.87 g, so convert to mg: <br />
+    \( 0.87 \times 1000 = 870 \) <br />
+    870 mg
+- id: 20062
+  question: A liquid medication contains 6.0 % active ingredient. How many milligrams
+    would there be in a 12 ml dose?
+  answer: 720
+  solution: |-
+    6.0 % of 12 ml is <br />
+    \( \frac{6.0}{100} \times 12 = 0.72\) <br />
+    This is 0.72 g, so convert to mg: <br />
+    \( 0.72 \times 1000 = 720 \) <br />
+    720 mg
+- id: 20063
+  question: A liquid medication contains 8.0 % active ingredient. How many milligrams
+    would there be in a 6 ml dose?
+  answer: 480
+  solution: |-
+    8.0 % of 6 ml is <br />
+    \( \frac{8.0}{100} \times 6 = 0.48\) <br />
+    This is 0.48 g, so convert to mg: <br />
+    \( 0.48 \times 1000 = 480 \) <br />
+    480 mg
+- id: 20064
+  question: A liquid medication contains 1.5 % active ingredient. How many milligrams
+    would there be in a 8 ml dose?
+  answer: 120
+  solution: |-
+    1.5 % of 8 ml is <br />
+    \( \frac{1.5}{100} \times 8 = 0.12\) <br />
+    This is 0.12 g, so convert to mg: <br />
+    \( 0.12 \times 1000 = 120 \) <br />
+    120 mg
+- id: 20065
+  question: A liquid medication contains 0.5 % active ingredient. How many milligrams
+    would there be in a 40 ml dose?
+  answer: 200
+  solution: |-
+    0.5 % of 40 ml is <br />
+    \( \frac{0.5}{100} \times 40 = 0.2\) <br />
+    This is 0.2 g, so convert to mg: <br />
+    \( 0.2 \times 1000 = 200 \) <br />
+    200 mg
+- id: 20066
+  question: A liquid medication contains 1.5 % active ingredient. How many milligrams
+    would there be in a 54 ml dose?
+  answer: 810
+  solution: |-
+    1.5 % of 54 ml is <br />
+    \( \frac{1.5}{100} \times 54 = 0.81\) <br />
+    This is 0.81 g, so convert to mg: <br />
+    \( 0.81 \times 1000 = 810 \) <br />
+    810 mg
+- id: 20067
+  question: A liquid medication contains 3.5 % active ingredient. How many milligrams
+    would there be in a 26 ml dose?
+  answer: 910
+  solution: |-
+    3.5 % of 26 ml is <br />
+    \( \frac{3.5}{100} \times 26 = 0.91\) <br />
+    This is 0.91 g, so convert to mg: <br />
+    \( 0.91 \times 1000 = 910 \) <br />
+    910 mg
+- id: 20068
+  question: A liquid medication contains 0.5 % active ingredient. How many milligrams
+    would there be in a 62 ml dose?
+  answer: 310
+  solution: |-
+    0.5 % of 62 ml is <br />
+    \( \frac{0.5}{100} \times 62 = 0.31\) <br />
+    This is 0.31 g, so convert to mg: <br />
+    \( 0.31 \times 1000 = 310 \) <br />
+    310 mg
+- id: 20069
+  question: A liquid medication contains 3.5 % active ingredient. How many milligrams
+    would there be in a 22 ml dose?
+  answer: 770
+  solution: |-
+    3.5 % of 22 ml is <br />
+    \( \frac{3.5}{100} \times 22 = 0.77\) <br />
+    This is 0.77 g, so convert to mg: <br />
+    \( 0.77 \times 1000 = 770 \) <br />
+    770 mg
+- id: 20070
+  question: A liquid medication contains 2.0 % active ingredient. How many milligrams
+    would there be in a 48 ml dose?
+  answer: 960
+  solution: |-
+    2.0 % of 48 ml is <br />
+    \( \frac{2.0}{100} \times 48 = 0.96\) <br />
+    This is 0.96 g, so convert to mg: <br />
+    \( 0.96 \times 1000 = 960 \) <br />
+    960 mg
+- id: 20071
+  question: A liquid medication contains 8.0 % active ingredient. How many milligrams
+    would there be in a 8 ml dose?
+  answer: 640
+  solution: |-
+    8.0 % of 8 ml is <br />
+    \( \frac{8.0}{100} \times 8 = 0.64\) <br />
+    This is 0.64 g, so convert to mg: <br />
+    \( 0.64 \times 1000 = 640 \) <br />
+    640 mg
+- id: 20072
+  question: A liquid medication contains 2.5 % active ingredient. How many milligrams
+    would there be in a 12 ml dose?
+  answer: 300
+  solution: |-
+    2.5 % of 12 ml is <br />
+    \( \frac{2.5}{100} \times 12 = 0.3\) <br />
+    This is 0.3 g, so convert to mg: <br />
+    \( 0.3 \times 1000 = 300 \) <br />
+    300 mg
+- id: 20073
+  question: A liquid medication contains 0.5 % active ingredient. How many milligrams
+    would there be in a 16 ml dose?
+  answer: 80
+  solution: |-
+    0.5 % of 16 ml is <br />
+    \( \frac{0.5}{100} \times 16 = 0.08\) <br />
+    This is 0.08 g, so convert to mg: <br />
+    \( 0.08 \times 1000 = 80 \) <br />
+    80 mg
+- id: 20074
+  question: A liquid medication contains 0.5 % active ingredient. How many milligrams
+    would there be in a 70 ml dose?
+  answer: 350
+  solution: |-
+    0.5 % of 70 ml is <br />
+    \( \frac{0.5}{100} \times 70 = 0.35\) <br />
+    This is 0.35 g, so convert to mg: <br />
+    \( 0.35 \times 1000 = 350 \) <br />
+    350 mg
+- id: 20075
+  question: A liquid medication contains 5.5 % active ingredient. How many milligrams
+    would there be in a 5 ml dose?
+  answer: 275
+  solution: |-
+    5.5 % of 5 ml is <br />
+    \( \frac{5.5}{100} \times 5 = 0.275\) <br />
+    This is 0.275 g, so convert to mg: <br />
+    \( 0.275 \times 1000 = 275 \) <br />
+    275 mg
+- id: 20076
+  question: A liquid medication contains 7.0 % active ingredient. How many milligrams
+    would there be in a 10 ml dose?
+  answer: 700
+  solution: |-
+    7.0 % of 10 ml is <br />
+    \( \frac{7.0}{100} \times 10 = 0.7\) <br />
+    This is 0.7 g, so convert to mg: <br />
+    \( 0.7 \times 1000 = 700 \) <br />
+    700 mg
+- id: 20077
+  question: A liquid medication contains 3.0 % active ingredient. How many milligrams
+    would there be in a 14 ml dose?
+  answer: 420
+  solution: |-
+    3.0 % of 14 ml is <br />
+    \( \frac{3.0}{100} \times 14 = 0.42\) <br />
+    This is 0.42 g, so convert to mg: <br />
+    \( 0.42 \times 1000 = 420 \) <br />
+    420 mg
+- id: 20078
+  question: A liquid medication contains 2.5 % active ingredient. How many milligrams
+    would there be in a 16 ml dose?
+  answer: 400
+  solution: |-
+    2.5 % of 16 ml is <br />
+    \( \frac{2.5}{100} \times 16 = 0.4\) <br />
+    This is 0.4 g, so convert to mg: <br />
+    \( 0.4 \times 1000 = 400 \) <br />
+    400 mg
+- id: 20079
+  question: A liquid medication contains 3.0 % active ingredient. How many milligrams
+    would there be in a 5 ml dose?
+  answer: 150
+  solution: |-
+    3.0 % of 5 ml is <br />
+    \( \frac{3.0}{100} \times 5 = 0.15\) <br />
+    This is 0.15 g, so convert to mg: <br />
+    \( 0.15 \times 1000 = 150 \) <br />
+    150 mg
+- id: 20080
+  question: A liquid medication contains 3.5 % active ingredient. How many milligrams
+    would there be in a 12 ml dose?
+  answer: 420
+  solution: |-
+    3.5 % of 12 ml is <br />
+    \( \frac{3.5}{100} \times 12 = 0.42\) <br />
+    This is 0.42 g, so convert to mg: <br />
+    \( 0.42 \times 1000 = 420 \) <br />
+    420 mg
+- id: 20081
+  question: A liquid medication contains 2.5 % active ingredient. How many milligrams
+    would there be in a 16 ml dose?
+  answer: 400
+  solution: |-
+    2.5 % of 16 ml is <br />
+    \( \frac{2.5}{100} \times 16 = 0.4\) <br />
+    This is 0.4 g, so convert to mg: <br />
+    \( 0.4 \times 1000 = 400 \) <br />
+    400 mg
+- id: 20082
+  question: A liquid medication contains 3.5 % active ingredient. How many milligrams
+    would there be in a 10 ml dose?
+  answer: 350
+  solution: |-
+    3.5 % of 10 ml is <br />
+    \( \frac{3.5}{100} \times 10 = 0.35\) <br />
+    This is 0.35 g, so convert to mg: <br />
+    \( 0.35 \times 1000 = 350 \) <br />
+    350 mg
+- id: 20083
+  question: A liquid medication contains 1.5 % active ingredient. How many milligrams
+    would there be in a 5 ml dose?
+  answer: 75
+  solution: |-
+    1.5 % of 5 ml is <br />
+    \( \frac{1.5}{100} \times 5 = 0.075\) <br />
+    This is 0.075 g, so convert to mg: <br />
+    \( 0.075 \times 1000 = 75 \) <br />
+    75 mg
+- id: 20084
+  question: A liquid medication contains 5.5 % active ingredient. How many milligrams
+    would there be in a 14 ml dose?
+  answer: 770
+  solution: |-
+    5.5 % of 14 ml is <br />
+    \( \frac{5.5}{100} \times 14 = 0.77\) <br />
+    This is 0.77 g, so convert to mg: <br />
+    \( 0.77 \times 1000 = 770 \) <br />
+    770 mg
+- id: 20085
+  question: A liquid medication contains 1.5 % active ingredient. How many milligrams
+    would there be in a 66 ml dose?
+  answer: 990
+  solution: |-
+    1.5 % of 66 ml is <br />
+    \( \frac{1.5}{100} \times 66 = 0.99\) <br />
+    This is 0.99 g, so convert to mg: <br />
+    \( 0.99 \times 1000 = 990 \) <br />
+    990 mg
+- id: 20086
+  question: A liquid medication contains 1.5 % active ingredient. How many milligrams
+    would there be in a 45 ml dose?
+  answer: 675
+  solution: |-
+    1.5 % of 45 ml is <br />
+    \( \frac{1.5}{100} \times 45 = 0.675\) <br />
+    This is 0.675 g, so convert to mg: <br />
+    \( 0.675 \times 1000 = 675 \) <br />
+    675 mg
+- id: 20087
+  question: A liquid medication contains 4.5 % active ingredient. How many milligrams
+    would there be in a 10 ml dose?
+  answer: 450
+  solution: |-
+    4.5 % of 10 ml is <br />
+    \( \frac{4.5}{100} \times 10 = 0.45\) <br />
+    This is 0.45 g, so convert to mg: <br />
+    \( 0.45 \times 1000 = 450 \) <br />
+    450 mg
+- id: 20088
+  question: A liquid medication contains 3.5 % active ingredient. How many milligrams
+    would there be in a 8 ml dose?
+  answer: 280
+  solution: |-
+    3.5 % of 8 ml is <br />
+    \( \frac{3.5}{100} \times 8 = 0.28\) <br />
+    This is 0.28 g, so convert to mg: <br />
+    \( 0.28 \times 1000 = 280 \) <br />
+    280 mg
+- id: 20089
+  question: A liquid medication contains 1.5 % active ingredient. How many milligrams
+    would there be in a 4 ml dose?
+  answer: 60
+  solution: |-
+    1.5 % of 4 ml is <br />
+    \( \frac{1.5}{100} \times 4 = 0.06\) <br />
+    This is 0.06 g, so convert to mg: <br />
+    \( 0.06 \times 1000 = 60 \) <br />
+    60 mg
+- id: 20090
+  question: A liquid medication contains 6.5 % active ingredient. How many milligrams
+    would there be in a 10 ml dose?
+  answer: 650
+  solution: |-
+    6.5 % of 10 ml is <br />
+    \( \frac{6.5}{100} \times 10 = 0.65\) <br />
+    This is 0.65 g, so convert to mg: <br />
+    \( 0.65 \times 1000 = 650 \) <br />
+    650 mg
+- id: 20091
+  question: A liquid medication contains 2.5 % active ingredient. How many milligrams
+    would there be in a 34 ml dose?
+  answer: 850
+  solution: |-
+    2.5 % of 34 ml is <br />
+    \( \frac{2.5}{100} \times 34 = 0.85\) <br />
+    This is 0.85 g, so convert to mg: <br />
+    \( 0.85 \times 1000 = 850 \) <br />
+    850 mg
+- id: 20092
+  question: A liquid medication contains 3.5 % active ingredient. How many milligrams
+    would there be in a 25 ml dose?
+  answer: 875
+  solution: |-
+    3.5 % of 25 ml is <br />
+    \( \frac{3.5}{100} \times 25 = 0.875\) <br />
+    This is 0.875 g, so convert to mg: <br />
+    \( 0.875 \times 1000 = 875 \) <br />
+    875 mg
+- id: 20093
+  question: A liquid medication contains 4.0 % active ingredient. How many milligrams
+    would there be in a 4 ml dose?
+  answer: 160
+  solution: |-
+    4.0 % of 4 ml is <br />
+    \( \frac{4.0}{100} \times 4 = 0.16\) <br />
+    This is 0.16 g, so convert to mg: <br />
+    \( 0.16 \times 1000 = 160 \) <br />
+    160 mg
+- id: 20094
+  question: A liquid medication contains 4.5 % active ingredient. How many milligrams
+    would there be in a 6 ml dose?
+  answer: 270
+  solution: |-
+    4.5 % of 6 ml is <br />
+    \( \frac{4.5}{100} \times 6 = 0.27\) <br />
+    This is 0.27 g, so convert to mg: <br />
+    \( 0.27 \times 1000 = 270 \) <br />
+    270 mg
+- id: 20095
+  question: A liquid medication contains 0.5 % active ingredient. How many milligrams
+    would there be in a 28 ml dose?
+  answer: 140
+  solution: |-
+    0.5 % of 28 ml is <br />
+    \( \frac{0.5}{100} \times 28 = 0.14\) <br />
+    This is 0.14 g, so convert to mg: <br />
+    \( 0.14 \times 1000 = 140 \) <br />
+    140 mg
+- id: 20096
+  question: A liquid medication contains 3.0 % active ingredient. How many milligrams
+    would there be in a 20 ml dose?
+  answer: 600
+  solution: |-
+    3.0 % of 20 ml is <br />
+    \( \frac{3.0}{100} \times 20 = 0.6\) <br />
+    This is 0.6 g, so convert to mg: <br />
+    \( 0.6 \times 1000 = 600 \) <br />
+    600 mg
+- id: 20097
+  question: A liquid medication contains 7.0 % active ingredient. How many milligrams
+    would there be in a 6 ml dose?
+  answer: 420
+  solution: |-
+    7.0 % of 6 ml is <br />
+    \( \frac{7.0}{100} \times 6 = 0.42\) <br />
+    This is 0.42 g, so convert to mg: <br />
+    \( 0.42 \times 1000 = 420 \) <br />
+    420 mg
+- id: 20098
+  question: A liquid medication contains 2.0 % active ingredient. How many milligrams
+    would there be in a 18 ml dose?
+  answer: 360
+  solution: |-
+    2.0 % of 18 ml is <br />
+    \( \frac{2.0}{100} \times 18 = 0.36\) <br />
+    This is 0.36 g, so convert to mg: <br />
+    \( 0.36 \times 1000 = 360 \) <br />
+    360 mg
+- id: 20099
+  question: A liquid medication contains 2.5 % active ingredient. How many milligrams
+    would there be in a 26 ml dose?
+  answer: 650
+  solution: |-
+    2.5 % of 26 ml is <br />
+    \( \frac{2.5}{100} \times 26 = 0.65\) <br />
+    This is 0.65 g, so convert to mg: <br />
+    \( 0.65 \times 1000 = 650 \) <br />
+    650 mg
+- id: 20100
+  question: A liquid medication contains 0.5 % active ingredient. How many milligrams
+    would there be in a 15 ml dose?
+  answer: 75
+  solution: |-
+    0.5 % of 15 ml is <br />
+    \( \frac{0.5}{100} \times 15 = 0.075\) <br />
+    This is 0.075 g, so convert to mg: <br />
+    \( 0.075 \times 1000 = 75 \) <br />
+    75 mg
