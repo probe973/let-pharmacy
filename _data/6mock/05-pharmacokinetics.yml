@@ -262,7 +262,7 @@
 
 - id: 132
   question: "A patient with heart failure is being transitioned from digoxin 50 microg/mL elixir to tablets to improve medication adherence. The current dose is 2.8 mL once daily (F = 0.8). What dose of digoxin tablets (F = 0.6), in micrograms, provides the equivalent dose? Round your answer to the nearest 125 microg."
-  answer: 250
+  answer: 125
   solution: |
     **Step 1: Calculate amount currently absorbed (Target)** <br />
     Current dose: 2.8 mL x 50 microg/mL = 140 microg <br />
@@ -271,7 +271,7 @@
     **Step 2: Calculate equivalent new dose** <br />
     New Dose = 112 microg / 0.6 = 186.67 microg <br />
     <br />
-    **Answer:** 250 (186.67 is closer to 250 than 125)
+    **Answer:** 125 (186.67 is closer to 125 than 250)
 
 - id: 133
   question: "A patient requires a switch from IV ciclosporin to oral ciclosporin following clinical improvement. The current IV dose is 210 mg daily (F = 1.0). Calculate the equivalent daily oral dose (F = 0.35) in milligrams. Round your answer to the nearest 50 mg."
@@ -312,7 +312,7 @@
 
 - id: 136
   question: "A patient is transitioning from digoxin 50 microg/mL elixir to tablets prior to hospital discharge. The current dose is 4.8 mL once daily (F = 0.8). What dose of digoxin tablets (F = 0.6), in micrograms, provides the equivalent dose? Round your answer to the nearest 125 microg."
-  answer: 250
+  answer: 375
   solution: |
     **Step 1: Calculate amount currently absorbed (Target)** <br />
     Current dose: 4.8 mL x 50 microg/mL = 240 microg <br />
@@ -321,7 +321,7 @@
     **Step 2: Calculate equivalent new dose** <br />
     New Dose = 192 microg / 0.6 = 320 microg <br />
     <br />
-    **Answer:** 250 (320 is closer to 250 than 375)
+    **Answer:** 375 (320 is closer to 375 than 250)
 
 - id: 137
   question: "A patient is switching from 150 mg of an oral drug (F = 0.6) to a new formulation with a bioavailability of 0.9. Calculate the equivalent daily dose in milligrams. Round your answer to the nearest 50 mg."
