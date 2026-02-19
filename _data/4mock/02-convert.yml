@@ -1,0 +1,3500 @@
+- id: 2001
+  question: Convert 0.03780 g into mg. Give your answer correct to 2 decimal places.
+  answer: 37.8
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.03780 \times 1000 = 37.8 \) <br />
+    37.8
+- id: 2002
+  question: Convert 0.00530 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.3
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00530 \times 1000 = 5.3 \) <br />
+    5.3
+- id: 2003
+  question: Convert 0.04100 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 41.0
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.04100 \times 1000 = 41.0 \) <br />
+    41.0
+- id: 2004
+  question: Convert 0.00003670 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 36.7
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00003670 \times 1000000 = 36.7 \) <br />
+    36.7
+- id: 2005
+  question: Convert 0.09160 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 91.6
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.09160 \times 1000 = 91.6 \) <br />
+    91.6
+- id: 2006
+  question: Convert 0.03390 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 33.9
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.03390 \times 1000 = 33.9 \) <br />
+    33.9
+- id: 2007
+  question: Convert 0.00000483 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 4.83
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000483 \times 1000000 = 4.83 \) <br />
+    4.83
+- id: 2008
+  question: Convert 0.00000763 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.63
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000763 \times 1000000 = 7.63 \) <br />
+    7.63
+- id: 2009
+  question: Convert 0.00007950 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 79.5
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00007950 \times 1000000 = 79.5 \) <br />
+    79.5
+- id: 2010
+  question: Convert 0.05330 g into mg. Give your answer correct to 2 decimal places.
+  answer: 53.3
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.05330 \times 1000 = 53.3 \) <br />
+    53.3
+- id: 2011
+  question: Convert 0.00160 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 1.6
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00160 \times 1000 = 1.6 \) <br />
+    1.6
+- id: 2012
+  question: Convert 0.00000883 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.83
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000883 \times 1000000 = 8.83 \) <br />
+    8.83
+- id: 2013
+  question: Convert 0.00007710 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 77.1
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00007710 \times 1000000 = 77.1 \) <br />
+    77.1
+- id: 2014
+  question: Convert 0.00005590 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 55.9
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00005590 \times 1000000 = 55.9 \) <br />
+    55.9
+- id: 2015
+  question: Convert 0.00760 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.6
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00760 \times 1000 = 7.6 \) <br />
+    7.6
+- id: 2016
+  question: Convert 0.00006550 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 65.5
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00006550 \times 1000000 = 65.5 \) <br />
+    65.5
+- id: 2017
+  question: Convert 0.00000819 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.19
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000819 \times 1000000 = 8.19 \) <br />
+    8.19
+- id: 2018
+  question: Convert 0.00002470 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 24.7
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00002470 \times 1000000 = 24.7 \) <br />
+    24.7
+- id: 2019
+  question: Convert 0.00643 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 6.43
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00643 \times 1000 = 6.43 \) <br />
+    6.43
+- id: 2020
+  question: Convert 0.05670 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 56.7
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.05670 \times 1000 = 56.7 \) <br />
+    56.7
+- id: 2021
+  question: Convert 0.00295 g into mg. Give your answer correct to 2 decimal places.
+  answer: 2.95
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00295 \times 1000 = 2.95 \) <br />
+    2.95
+- id: 2022
+  question: Convert 0.00007310 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 73.1
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00007310 \times 1000000 = 73.1 \) <br />
+    73.1
+- id: 2023
+  question: Convert 0.00717 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.17
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00717 \times 1000 = 7.17 \) <br />
+    7.17
+- id: 2024
+  question: Convert 0.07190 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 71.9
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.07190 \times 1000 = 71.9 \) <br />
+    71.9
+- id: 2025
+  question: Convert 0.00002300 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 23.0
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00002300 \times 1000000 = 23.0 \) <br />
+    23.0
+- id: 2026
+  question: Convert 0.00133 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 1.33
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00133 \times 1000 = 1.33 \) <br />
+    1.33
+- id: 2027
+  question: Convert 0.00007430 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 74.3
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00007430 \times 1000000 = 74.3 \) <br />
+    74.3
+- id: 2028
+  question: Convert 0.00000452 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 4.52
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000452 \times 1000000 = 4.52 \) <br />
+    4.52
+- id: 2029
+  question: Convert 0.00004190 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 41.9
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00004190 \times 1000000 = 41.9 \) <br />
+    41.9
+- id: 2030
+  question: Convert 0.00292 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 2.92
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00292 \times 1000 = 2.92 \) <br />
+    2.92
+- id: 2031
+  question: Convert 0.01800 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 18.0
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.01800 \times 1000 = 18.0 \) <br />
+    18.0
+- id: 2032
+  question: Convert 0.00871 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.71
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00871 \times 1000 = 8.71 \) <br />
+    8.71
+- id: 2033
+  question: Convert 0.00000987 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 9.87
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000987 \times 1000000 = 9.87 \) <br />
+    9.87
+- id: 2034
+  question: Convert 0.03830 g into mg. Give your answer correct to 2 decimal places.
+  answer: 38.3
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.03830 \times 1000 = 38.3 \) <br />
+    38.3
+- id: 2035
+  question: Convert 0.09210 g into mg. Give your answer correct to 2 decimal places.
+  answer: 92.1
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.09210 \times 1000 = 92.1 \) <br />
+    92.1
+- id: 2036
+  question: Convert 0.00000510 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.1
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000510 \times 1000000 = 5.1 \) <br />
+    5.1
+- id: 2037
+  question: Convert 0.00119 g into mg. Give your answer correct to 2 decimal places.
+  answer: 1.19
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00119 \times 1000 = 1.19 \) <br />
+    1.19
+- id: 2038
+  question: Convert 0.00007680 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 76.8
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00007680 \times 1000000 = 76.8 \) <br />
+    76.8
+- id: 2039
+  question: Convert 0.00000854 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.54
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000854 \times 1000000 = 8.54 \) <br />
+    8.54
+- id: 2040
+  question: Convert 0.06920 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 69.2
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.06920 \times 1000 = 69.2 \) <br />
+    69.2
+- id: 2041
+  question: Convert 0.00467 g into mg. Give your answer correct to 2 decimal places.
+  answer: 4.67
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00467 \times 1000 = 4.67 \) <br />
+    4.67
+- id: 2042
+  question: Convert 0.00003180 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 31.8
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00003180 \times 1000000 = 31.8 \) <br />
+    31.8
+- id: 2043
+  question: Convert 0.00943 g into mg. Give your answer correct to 2 decimal places.
+  answer: 9.43
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00943 \times 1000 = 9.43 \) <br />
+    9.43
+- id: 2044
+  question: Convert 0.00007870 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 78.7
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00007870 \times 1000000 = 78.7 \) <br />
+    78.7
+- id: 2045
+  question: Convert 0.06870 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 68.7
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.06870 \times 1000 = 68.7 \) <br />
+    68.7
+- id: 2046
+  question: Convert 0.00600 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 6.0
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00600 \times 1000 = 6.0 \) <br />
+    6.0
+- id: 2047
+  question: Convert 0.00004500 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 45.0
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00004500 \times 1000000 = 45.0 \) <br />
+    45.0
+- id: 2048
+  question: Convert 0.00194 g into mg. Give your answer correct to 2 decimal places.
+  answer: 1.94
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00194 \times 1000 = 1.94 \) <br />
+    1.94
+- id: 2049
+  question: Convert 0.00000127 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 1.27
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000127 \times 1000000 = 1.27 \) <br />
+    1.27
+- id: 2050
+  question: Convert 0.00340 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 3.4
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00340 \times 1000 = 3.4 \) <br />
+    3.4
+- id: 2051
+  question: Convert 0.00000312 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 3.12
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000312 \times 1000000 = 3.12 \) <br />
+    3.12
+- id: 2052
+  question: Convert 0.00130 g into mg. Give your answer correct to 2 decimal places.
+  answer: 1.3
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00130 \times 1000 = 1.3 \) <br />
+    1.3
+- id: 2053
+  question: Convert 0.00270 g into mg. Give your answer correct to 2 decimal places.
+  answer: 2.7
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00270 \times 1000 = 2.7 \) <br />
+    2.7
+- id: 2054
+  question: Convert 0.00148 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 1.48
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00148 \times 1000 = 1.48 \) <br />
+    1.48
+- id: 2055
+  question: Convert 0.00553 g into mg. Give your answer correct to 2 decimal places.
+  answer: 5.53
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00553 \times 1000 = 5.53 \) <br />
+    5.53
+- id: 2056
+  question: Convert 0.00365 g into mg. Give your answer correct to 2 decimal places.
+  answer: 3.65
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00365 \times 1000 = 3.65 \) <br />
+    3.65
+- id: 2057
+  question: Convert 0.05100 g into mg. Give your answer correct to 2 decimal places.
+  answer: 51.0
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.05100 \times 1000 = 51.0 \) <br />
+    51.0
+- id: 2058
+  question: Convert 0.00743 g into mg. Give your answer correct to 2 decimal places.
+  answer: 7.43
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00743 \times 1000 = 7.43 \) <br />
+    7.43
+- id: 2059
+  question: Convert 0.00038 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 0.38
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00038 \times 1000 = 0.38 \) <br />
+    0.38
+- id: 2060
+  question: Convert 0.05720 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 57.2
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.05720 \times 1000 = 57.2 \) <br />
+    57.2
+- id: 2061
+  question: Convert 0.00000421 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 4.21
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000421 \times 1000000 = 4.21 \) <br />
+    4.21
+- id: 2062
+  question: Convert 0.00055 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 0.55
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00055 \times 1000 = 0.55 \) <br />
+    0.55
+- id: 2063
+  question: Convert 0.07180 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 71.8
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.07180 \times 1000 = 71.8 \) <br />
+    71.8
+- id: 2064
+  question: Convert 0.00285 g into mg. Give your answer correct to 2 decimal places.
+  answer: 2.85
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00285 \times 1000 = 2.85 \) <br />
+    2.85
+- id: 2065
+  question: Convert 0.00007330 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 73.3
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00007330 \times 1000000 = 73.3 \) <br />
+    73.3
+- id: 2066
+  question: Convert 0.00000935 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 9.35
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000935 \times 1000000 = 9.35 \) <br />
+    9.35
+- id: 2067
+  question: Convert 0.03400 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 34.0
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.03400 \times 1000 = 34.0 \) <br />
+    34.0
+- id: 2068
+  question: Convert 0.00000378 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 3.78
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000378 \times 1000000 = 3.78 \) <br />
+    3.78
+- id: 2069
+  question: Convert 0.00304 g into mg. Give your answer correct to 2 decimal places.
+  answer: 3.04
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00304 \times 1000 = 3.04 \) <br />
+    3.04
+- id: 2070
+  question: Convert 0.06720 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 67.2
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.06720 \times 1000 = 67.2 \) <br />
+    67.2
+- id: 2071
+  question: Convert 0.06020 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 60.2
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.06020 \times 1000 = 60.2 \) <br />
+    60.2
+- id: 2072
+  question: Convert 0.00000910 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 9.1
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000910 \times 1000000 = 9.1 \) <br />
+    9.1
+- id: 2073
+  question: Convert 0.00008570 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 85.7
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00008570 \times 1000000 = 85.7 \) <br />
+    85.7
+- id: 2074
+  question: Convert 0.00472 g into mg. Give your answer correct to 2 decimal places.
+  answer: 4.72
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00472 \times 1000 = 4.72 \) <br />
+    4.72
+- id: 2075
+  question: Convert 0.03500 g into mg. Give your answer correct to 2 decimal places.
+  answer: 35.0
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.03500 \times 1000 = 35.0 \) <br />
+    35.0
+- id: 2076
+  question: Convert 0.01560 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 15.6
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.01560 \times 1000 = 15.6 \) <br />
+    15.6
+- id: 2077
+  question: Convert 0.00000330 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 3.3
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000330 \times 1000000 = 3.3 \) <br />
+    3.3
+- id: 2078
+  question: Convert 0.03860 g into mg. Give your answer correct to 2 decimal places.
+  answer: 38.6
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.03860 \times 1000 = 38.6 \) <br />
+    38.6
+- id: 2079
+  question: Convert 0.00720 g into mg. Give your answer correct to 2 decimal places.
+  answer: 7.2
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00720 \times 1000 = 7.2 \) <br />
+    7.2
+- id: 2080
+  question: Convert 0.05420 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 54.2
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.05420 \times 1000 = 54.2 \) <br />
+    54.2
+- id: 2081
+  question: Convert 0.09990 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 99.9
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.09990 \times 1000 = 99.9 \) <br />
+    99.9
+- id: 2082
+  question: Convert 0.00008730 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 87.3
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00008730 \times 1000000 = 87.3 \) <br />
+    87.3
+- id: 2083
+  question: Convert 0.00000166 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 1.66
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000166 \times 1000000 = 1.66 \) <br />
+    1.66
+- id: 2084
+  question: Convert 0.04760 g into mg. Give your answer correct to 2 decimal places.
+  answer: 47.6
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.04760 \times 1000 = 47.6 \) <br />
+    47.6
+- id: 2085
+  question: Convert 0.00002350 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 23.5
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00002350 \times 1000000 = 23.5 \) <br />
+    23.5
+- id: 2086
+  question: Convert 0.03840 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 38.4
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.03840 \times 1000 = 38.4 \) <br />
+    38.4
+- id: 2087
+  question: Convert 0.00009240 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 92.4
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00009240 \times 1000000 = 92.4 \) <br />
+    92.4
+- id: 2088
+  question: Convert 0.00985 g into mg. Give your answer correct to 2 decimal places.
+  answer: 9.85
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00985 \times 1000 = 9.85 \) <br />
+    9.85
+- id: 2089
+  question: Convert 0.00001010 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 10.1
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00001010 \times 1000000 = 10.1 \) <br />
+    10.1
+- id: 2090
+  question: Convert 0.00000700 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.0
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000700 \times 1000000 = 7.0 \) <br />
+    7.0
+- id: 2091
+  question: Convert 0.09670 g into mg. Give your answer correct to 2 decimal places.
+  answer: 96.7
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.09670 \times 1000 = 96.7 \) <br />
+    96.7
+- id: 2092
+  question: Convert 0.00388 g into mg. Give your answer correct to 2 decimal places.
+  answer: 3.88
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00388 \times 1000 = 3.88 \) <br />
+    3.88
+- id: 2093
+  question: Convert 0.06410 g into mg. Give your answer correct to 2 decimal places.
+  answer: 64.1
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.06410 \times 1000 = 64.1 \) <br />
+    64.1
+- id: 2094
+  question: Convert 0.04880 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 48.8
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.04880 \times 1000 = 48.8 \) <br />
+    48.8
+- id: 2095
+  question: Convert 0.00487 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 4.87
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00487 \times 1000 = 4.87 \) <br />
+    4.87
+- id: 2096
+  question: Convert 0.05600 g into mg. Give your answer correct to 2 decimal places.
+  answer: 56.0
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.05600 \times 1000 = 56.0 \) <br />
+    56.0
+- id: 2097
+  question: Convert 0.00132 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 1.32
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00132 \times 1000 = 1.32 \) <br />
+    1.32
+- id: 2098
+  question: Convert 0.00008090 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 80.9
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00008090 \times 1000000 = 80.9 \) <br />
+    80.9
+- id: 2099
+  question: Convert 0.09710 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 97.1
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.09710 \times 1000 = 97.1 \) <br />
+    97.1
+- id: 2100
+  question: Convert 0.04120 g into mg. Give your answer correct to 2 decimal places.
+  answer: 41.2
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.04120 \times 1000 = 41.2 \) <br />
+    41.2
+- id: 2101
+  question: Convert 0.00000789 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.89
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000789 \times 1000000 = 7.89 \) <br />
+    7.89
+- id: 2102
+  question: Convert 0.00004800 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 48.0
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00004800 \times 1000000 = 48.0 \) <br />
+    48.0
+- id: 2103
+  question: Convert 0.00763 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.63
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00763 \times 1000 = 7.63 \) <br />
+    7.63
+- id: 2104
+  question: Convert 0.04970 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 49.7
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.04970 \times 1000 = 49.7 \) <br />
+    49.7
+- id: 2105
+  question: Convert 0.06620 g into mg. Give your answer correct to 2 decimal places.
+  answer: 66.2
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.06620 \times 1000 = 66.2 \) <br />
+    66.2
+- id: 2106
+  question: Convert 0.00372 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 3.72
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00372 \times 1000 = 3.72 \) <br />
+    3.72
+- id: 2107
+  question: Convert 0.03470 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 34.7
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.03470 \times 1000 = 34.7 \) <br />
+    34.7
+- id: 2108
+  question: Convert 0.03870 g into mg. Give your answer correct to 2 decimal places.
+  answer: 38.7
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.03870 \times 1000 = 38.7 \) <br />
+    38.7
+- id: 2109
+  question: Convert 0.00009570 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 95.7
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00009570 \times 1000000 = 95.7 \) <br />
+    95.7
+- id: 2110
+  question: Convert 0.00390 g into mg. Give your answer correct to 2 decimal places.
+  answer: 3.9
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00390 \times 1000 = 3.9 \) <br />
+    3.9
+- id: 2111
+  question: Convert 0.00009400 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 94.0
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00009400 \times 1000000 = 94.0 \) <br />
+    94.0
+- id: 2112
+  question: Convert 0.00000350 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 3.5
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000350 \times 1000000 = 3.5 \) <br />
+    3.5
+- id: 2113
+  question: Convert 0.00003840 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 38.4
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00003840 \times 1000000 = 38.4 \) <br />
+    38.4
+- id: 2114
+  question: Convert 0.00555 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.55
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00555 \times 1000 = 5.55 \) <br />
+    5.55
+- id: 2115
+  question: Convert 0.00000374 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 3.74
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000374 \times 1000000 = 3.74 \) <br />
+    3.74
+- id: 2116
+  question: Convert 0.00008730 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 87.3
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00008730 \times 1000000 = 87.3 \) <br />
+    87.3
+- id: 2117
+  question: Convert 0.00476 g into mg. Give your answer correct to 2 decimal places.
+  answer: 4.76
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00476 \times 1000 = 4.76 \) <br />
+    4.76
+- id: 2118
+  question: Convert 0.00806 g into mg. Give your answer correct to 2 decimal places.
+  answer: 8.06
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00806 \times 1000 = 8.06 \) <br />
+    8.06
+- id: 2119
+  question: Convert 0.00008970 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 89.7
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00008970 \times 1000000 = 89.7 \) <br />
+    89.7
+- id: 2120
+  question: Convert 0.04940 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 49.4
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.04940 \times 1000 = 49.4 \) <br />
+    49.4
+- id: 2121
+  question: Convert 0.00381 g into mg. Give your answer correct to 2 decimal places.
+  answer: 3.81
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00381 \times 1000 = 3.81 \) <br />
+    3.81
+- id: 2122
+  question: Convert 0.00512 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.12
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00512 \times 1000 = 5.12 \) <br />
+    5.12
+- id: 2123
+  question: Convert 0.00000517 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.17
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000517 \times 1000000 = 5.17 \) <br />
+    5.17
+- id: 2124
+  question: Convert 0.00000654 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 6.54
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000654 \times 1000000 = 6.54 \) <br />
+    6.54
+- id: 2125
+  question: Convert 0.03110 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 31.1
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.03110 \times 1000 = 31.1 \) <br />
+    31.1
+- id: 2126
+  question: Convert 0.00265 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 2.65
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00265 \times 1000 = 2.65 \) <br />
+    2.65
+- id: 2127
+  question: Convert 0.07480 g into mg. Give your answer correct to 2 decimal places.
+  answer: 74.8
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.07480 \times 1000 = 74.8 \) <br />
+    74.8
+- id: 2128
+  question: Convert 0.00005590 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 55.9
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00005590 \times 1000000 = 55.9 \) <br />
+    55.9
+- id: 2129
+  question: Convert 0.00845 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.45
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00845 \times 1000 = 8.45 \) <br />
+    8.45
+- id: 2130
+  question: Convert 0.00970 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 9.7
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00970 \times 1000 = 9.7 \) <br />
+    9.7
+- id: 2131
+  question: Convert 0.03270 g into mg. Give your answer correct to 2 decimal places.
+  answer: 32.7
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.03270 \times 1000 = 32.7 \) <br />
+    32.7
+- id: 2132
+  question: Convert 0.00002280 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 22.8
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00002280 \times 1000000 = 22.8 \) <br />
+    22.8
+- id: 2133
+  question: Convert 0.00845 g into mg. Give your answer correct to 2 decimal places.
+  answer: 8.45
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00845 \times 1000 = 8.45 \) <br />
+    8.45
+- id: 2134
+  question: Convert 0.01730 g into mg. Give your answer correct to 2 decimal places.
+  answer: 17.3
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.01730 \times 1000 = 17.3 \) <br />
+    17.3
+- id: 2135
+  question: Convert 0.00004560 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 45.6
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00004560 \times 1000000 = 45.6 \) <br />
+    45.6
+- id: 2136
+  question: Convert 0.00504 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.04
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00504 \times 1000 = 5.04 \) <br />
+    5.04
+- id: 2137
+  question: Convert 0.00000840 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.4
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000840 \times 1000000 = 8.4 \) <br />
+    8.4
+- id: 2138
+  question: Convert 0.00209 g into mg. Give your answer correct to 2 decimal places.
+  answer: 2.09
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00209 \times 1000 = 2.09 \) <br />
+    2.09
+- id: 2139
+  question: Convert 0.00000354 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 3.54
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000354 \times 1000000 = 3.54 \) <br />
+    3.54
+- id: 2140
+  question: Convert 0.00007030 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 70.3
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00007030 \times 1000000 = 70.3 \) <br />
+    70.3
+- id: 2141
+  question: Convert 0.00315 g into mg. Give your answer correct to 2 decimal places.
+  answer: 3.15
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00315 \times 1000 = 3.15 \) <br />
+    3.15
+- id: 2142
+  question: Convert 0.06830 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 68.3
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.06830 \times 1000 = 68.3 \) <br />
+    68.3
+- id: 2143
+  question: Convert 0.00117 g into mg. Give your answer correct to 2 decimal places.
+  answer: 1.17
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00117 \times 1000 = 1.17 \) <br />
+    1.17
+- id: 2144
+  question: Convert 0.00009940 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 99.4
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00009940 \times 1000000 = 99.4 \) <br />
+    99.4
+- id: 2145
+  question: Convert 0.00000729 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.29
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000729 \times 1000000 = 7.29 \) <br />
+    7.29
+- id: 2146
+  question: Convert 0.00006540 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 65.4
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00006540 \times 1000000 = 65.4 \) <br />
+    65.4
+- id: 2147
+  question: Convert 0.03640 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 36.4
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.03640 \times 1000 = 36.4 \) <br />
+    36.4
+- id: 2148
+  question: Convert 0.00007690 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 76.9
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00007690 \times 1000000 = 76.9 \) <br />
+    76.9
+- id: 2149
+  question: Convert 0.00004890 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 48.9
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00004890 \times 1000000 = 48.9 \) <br />
+    48.9
+- id: 2150
+  question: Convert 0.00504 g into mg. Give your answer correct to 2 decimal places.
+  answer: 5.04
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00504 \times 1000 = 5.04 \) <br />
+    5.04
+- id: 2151
+  question: Convert 0.00000210 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 2.1
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000210 \times 1000000 = 2.1 \) <br />
+    2.1
+- id: 2152
+  question: Convert 0.04460 g into mg. Give your answer correct to 2 decimal places.
+  answer: 44.6
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.04460 \times 1000 = 44.6 \) <br />
+    44.6
+- id: 2153
+  question: Convert 0.06130 g into mg. Give your answer correct to 2 decimal places.
+  answer: 61.3
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.06130 \times 1000 = 61.3 \) <br />
+    61.3
+- id: 2154
+  question: Convert 0.09340 g into mg. Give your answer correct to 2 decimal places.
+  answer: 93.4
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.09340 \times 1000 = 93.4 \) <br />
+    93.4
+- id: 2155
+  question: Convert 0.02180 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 21.8
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.02180 \times 1000 = 21.8 \) <br />
+    21.8
+- id: 2156
+  question: Convert 0.00000605 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 6.05
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000605 \times 1000000 = 6.05 \) <br />
+    6.05
+- id: 2157
+  question: Convert 0.00520 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.2
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00520 \times 1000 = 5.2 \) <br />
+    5.2
+- id: 2158
+  question: Convert 0.00608 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 6.08
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00608 \times 1000 = 6.08 \) <br />
+    6.08
+- id: 2159
+  question: Convert 0.00553 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.53
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00553 \times 1000 = 5.53 \) <br />
+    5.53
+- id: 2160
+  question: Convert 0.00460 g into mg. Give your answer correct to 2 decimal places.
+  answer: 4.6
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00460 \times 1000 = 4.6 \) <br />
+    4.6
+- id: 2161
+  question: Convert 0.00250 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 2.5
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00250 \times 1000 = 2.5 \) <br />
+    2.5
+- id: 2162
+  question: Convert 0.06110 g into mg. Give your answer correct to 2 decimal places.
+  answer: 61.1
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.06110 \times 1000 = 61.1 \) <br />
+    61.1
+- id: 2163
+  question: Convert 0.00476 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 4.76
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00476 \times 1000 = 4.76 \) <br />
+    4.76
+- id: 2164
+  question: Convert 0.00156 g into mg. Give your answer correct to 2 decimal places.
+  answer: 1.56
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00156 \times 1000 = 1.56 \) <br />
+    1.56
+- id: 2165
+  question: Convert 0.00707 g into mg. Give your answer correct to 2 decimal places.
+  answer: 7.07
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00707 \times 1000 = 7.07 \) <br />
+    7.07
+- id: 2166
+  question: Convert 0.00761 g into mg. Give your answer correct to 2 decimal places.
+  answer: 7.61
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00761 \times 1000 = 7.61 \) <br />
+    7.61
+- id: 2167
+  question: Convert 0.00346 g into mg. Give your answer correct to 2 decimal places.
+  answer: 3.46
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00346 \times 1000 = 3.46 \) <br />
+    3.46
+- id: 2168
+  question: Convert 0.00000285 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 2.85
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000285 \times 1000000 = 2.85 \) <br />
+    2.85
+- id: 2169
+  question: Convert 0.02150 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 21.5
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.02150 \times 1000 = 21.5 \) <br />
+    21.5
+- id: 2170
+  question: Convert 0.07510 g into mg. Give your answer correct to 2 decimal places.
+  answer: 75.1
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.07510 \times 1000 = 75.1 \) <br />
+    75.1
+- id: 2171
+  question: Convert 0.00767 g into mg. Give your answer correct to 2 decimal places.
+  answer: 7.67
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00767 \times 1000 = 7.67 \) <br />
+    7.67
+- id: 2172
+  question: Convert 0.00008480 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 84.8
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00008480 \times 1000000 = 84.8 \) <br />
+    84.8
+- id: 2173
+  question: Convert 0.00007070 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 70.7
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00007070 \times 1000000 = 70.7 \) <br />
+    70.7
+- id: 2174
+  question: Convert 0.00001050 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 10.5
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00001050 \times 1000000 = 10.5 \) <br />
+    10.5
+- id: 2175
+  question: Convert 0.00971 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 9.71
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00971 \times 1000 = 9.71 \) <br />
+    9.71
+- id: 2176
+  question: Convert 0.03580 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 35.8
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.03580 \times 1000 = 35.8 \) <br />
+    35.8
+- id: 2177
+  question: Convert 0.02120 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 21.2
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.02120 \times 1000 = 21.2 \) <br />
+    21.2
+- id: 2178
+  question: Convert 0.00000800 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.0
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000800 \times 1000000 = 8.0 \) <br />
+    8.0
+- id: 2179
+  question: Convert 0.00437 g into mg. Give your answer correct to 2 decimal places.
+  answer: 4.37
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00437 \times 1000 = 4.37 \) <br />
+    4.37
+- id: 2180
+  question: Convert 0.01430 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 14.3
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.01430 \times 1000 = 14.3 \) <br />
+    14.3
+- id: 2181
+  question: Convert 0.00000669 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 6.69
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000669 \times 1000000 = 6.69 \) <br />
+    6.69
+- id: 2182
+  question: Convert 0.00942 g into mg. Give your answer correct to 2 decimal places.
+  answer: 9.42
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00942 \times 1000 = 9.42 \) <br />
+    9.42
+- id: 2183
+  question: Convert 0.00001400 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 14.0
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00001400 \times 1000000 = 14.0 \) <br />
+    14.0
+- id: 2184
+  question: Convert 0.05700 g into mg. Give your answer correct to 2 decimal places.
+  answer: 57.0
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.05700 \times 1000 = 57.0 \) <br />
+    57.0
+- id: 2185
+  question: Convert 0.00262 g into mg. Give your answer correct to 2 decimal places.
+  answer: 2.62
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00262 \times 1000 = 2.62 \) <br />
+    2.62
+- id: 2186
+  question: Convert 0.00000037 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 0.37
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000037 \times 1000000 = 0.37 \) <br />
+    0.37
+- id: 2187
+  question: Convert 0.00125 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 1.25
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00125 \times 1000 = 1.25 \) <br />
+    1.25
+- id: 2188
+  question: Convert 0.00122 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 1.22
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00122 \times 1000 = 1.22 \) <br />
+    1.22
+- id: 2189
+  question: Convert 0.00078 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 0.78
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00078 \times 1000 = 0.78 \) <br />
+    0.78
+- id: 2190
+  question: Convert 0.08490 g into mg. Give your answer correct to 2 decimal places.
+  answer: 84.9
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.08490 \times 1000 = 84.9 \) <br />
+    84.9
+- id: 2191
+  question: Convert 0.02310 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 23.1
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.02310 \times 1000 = 23.1 \) <br />
+    23.1
+- id: 2192
+  question: Convert 0.00000842 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.42
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000842 \times 1000000 = 8.42 \) <br />
+    8.42
+- id: 2193
+  question: Convert 0.06100 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 61.0
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.06100 \times 1000 = 61.0 \) <br />
+    61.0
+- id: 2194
+  question: Convert 0.00410 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 4.1
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00410 \times 1000 = 4.1 \) <br />
+    4.1
+- id: 2195
+  question: Convert 0.03570 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 35.7
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.03570 \times 1000 = 35.7 \) <br />
+    35.7
+- id: 2196
+  question: Convert 0.00000707 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.07
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000707 \times 1000000 = 7.07 \) <br />
+    7.07
+- id: 2197
+  question: Convert 0.00951 g into mg. Give your answer correct to 2 decimal places.
+  answer: 9.51
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00951 \times 1000 = 9.51 \) <br />
+    9.51
+- id: 2198
+  question: Convert 0.00278 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 2.78
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00278 \times 1000 = 2.78 \) <br />
+    2.78
+- id: 2199
+  question: Convert 0.00041 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 0.41
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00041 \times 1000 = 0.41 \) <br />
+    0.41
+- id: 2200
+  question: Convert 0.01360 g into mg. Give your answer correct to 2 decimal places.
+  answer: 13.6
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.01360 \times 1000 = 13.6 \) <br />
+    13.6
+- id: 2201
+  question: Convert 0.06040 g into mg. Give your answer correct to 2 decimal places.
+  answer: 60.4
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.06040 \times 1000 = 60.4 \) <br />
+    60.4
+- id: 2202
+  question: Convert 0.00847 g into mg. Give your answer correct to 2 decimal places.
+  answer: 8.47
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00847 \times 1000 = 8.47 \) <br />
+    8.47
+- id: 2203
+  question: Convert 0.00062 g into mg. Give your answer correct to 2 decimal places.
+  answer: 0.62
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00062 \times 1000 = 0.62 \) <br />
+    0.62
+- id: 2204
+  question: Convert 0.00071 g into mg. Give your answer correct to 2 decimal places.
+  answer: 0.71
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00071 \times 1000 = 0.71 \) <br />
+    0.71
+- id: 2205
+  question: Convert 0.00003830 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 38.3
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00003830 \times 1000000 = 38.3 \) <br />
+    38.3
+- id: 2206
+  question: Convert 0.00003080 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 30.8
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00003080 \times 1000000 = 30.8 \) <br />
+    30.8
+- id: 2207
+  question: Convert 0.00092 g into mg. Give your answer correct to 2 decimal places.
+  answer: 0.92
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00092 \times 1000 = 0.92 \) <br />
+    0.92
+- id: 2208
+  question: Convert 0.00000424 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 4.24
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000424 \times 1000000 = 4.24 \) <br />
+    4.24
+- id: 2209
+  question: Convert 0.04440 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 44.4
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.04440 \times 1000 = 44.4 \) <br />
+    44.4
+- id: 2210
+  question: Convert 0.08820 g into mg. Give your answer correct to 2 decimal places.
+  answer: 88.2
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.08820 \times 1000 = 88.2 \) <br />
+    88.2
+- id: 2211
+  question: Convert 0.02160 g into mg. Give your answer correct to 2 decimal places.
+  answer: 21.6
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.02160 \times 1000 = 21.6 \) <br />
+    21.6
+- id: 2212
+  question: Convert 0.00556 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.56
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00556 \times 1000 = 5.56 \) <br />
+    5.56
+- id: 2213
+  question: Convert 0.09780 g into mg. Give your answer correct to 2 decimal places.
+  answer: 97.8
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.09780 \times 1000 = 97.8 \) <br />
+    97.8
+- id: 2214
+  question: Convert 0.09680 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 96.8
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.09680 \times 1000 = 96.8 \) <br />
+    96.8
+- id: 2215
+  question: Convert 0.00007660 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 76.6
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00007660 \times 1000000 = 76.6 \) <br />
+    76.6
+- id: 2216
+  question: Convert 0.00386 g into mg. Give your answer correct to 2 decimal places.
+  answer: 3.86
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00386 \times 1000 = 3.86 \) <br />
+    3.86
+- id: 2217
+  question: Convert 0.00913 g into mg. Give your answer correct to 2 decimal places.
+  answer: 9.13
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00913 \times 1000 = 9.13 \) <br />
+    9.13
+- id: 2218
+  question: Convert 0.05960 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 59.6
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.05960 \times 1000 = 59.6 \) <br />
+    59.6
+- id: 2219
+  question: Convert 0.00718 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.18
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00718 \times 1000 = 7.18 \) <br />
+    7.18
+- id: 2220
+  question: Convert 0.00799 g into mg. Give your answer correct to 2 decimal places.
+  answer: 7.99
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00799 \times 1000 = 7.99 \) <br />
+    7.99
+- id: 2221
+  question: Convert 0.00006230 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 62.3
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00006230 \times 1000000 = 62.3 \) <br />
+    62.3
+- id: 2222
+  question: Convert 0.00000974 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 9.74
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000974 \times 1000000 = 9.74 \) <br />
+    9.74
+- id: 2223
+  question: Convert 0.00000052 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 0.52
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000052 \times 1000000 = 0.52 \) <br />
+    0.52
+- id: 2224
+  question: Convert 0.00008860 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 88.6
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00008860 \times 1000000 = 88.6 \) <br />
+    88.6
+- id: 2225
+  question: Convert 0.00444 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 4.44
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00444 \times 1000 = 4.44 \) <br />
+    4.44
+- id: 2226
+  question: Convert 0.00735 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.35
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00735 \times 1000 = 7.35 \) <br />
+    7.35
+- id: 2227
+  question: Convert 0.08570 g into mg. Give your answer correct to 2 decimal places.
+  answer: 85.7
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.08570 \times 1000 = 85.7 \) <br />
+    85.7
+- id: 2228
+  question: Convert 0.04490 g into mg. Give your answer correct to 2 decimal places.
+  answer: 44.9
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.04490 \times 1000 = 44.9 \) <br />
+    44.9
+- id: 2229
+  question: Convert 0.07510 g into mg. Give your answer correct to 2 decimal places.
+  answer: 75.1
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.07510 \times 1000 = 75.1 \) <br />
+    75.1
+- id: 2230
+  question: Convert 0.08500 g into mg. Give your answer correct to 2 decimal places.
+  answer: 85.0
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.08500 \times 1000 = 85.0 \) <br />
+    85.0
+- id: 2231
+  question: Convert 0.09140 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 91.4
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.09140 \times 1000 = 91.4 \) <br />
+    91.4
+- id: 2232
+  question: Convert 0.00006890 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 68.9
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00006890 \times 1000000 = 68.9 \) <br />
+    68.9
+- id: 2233
+  question: Convert 0.00411 g into mg. Give your answer correct to 2 decimal places.
+  answer: 4.11
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00411 \times 1000 = 4.11 \) <br />
+    4.11
+- id: 2234
+  question: Convert 0.00007840 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 78.4
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00007840 \times 1000000 = 78.4 \) <br />
+    78.4
+- id: 2235
+  question: Convert 0.00251 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 2.51
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00251 \times 1000 = 2.51 \) <br />
+    2.51
+- id: 2236
+  question: Convert 0.00000081 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 0.81
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000081 \times 1000000 = 0.81 \) <br />
+    0.81
+- id: 2237
+  question: Convert 0.05000 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 50.0
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.05000 \times 1000 = 50.0 \) <br />
+    50.0
+- id: 2238
+  question: Convert 0.00866 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.66
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00866 \times 1000 = 8.66 \) <br />
+    8.66
+- id: 2239
+  question: Convert 0.00000071 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 0.71
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000071 \times 1000000 = 0.71 \) <br />
+    0.71
+- id: 2240
+  question: Convert 0.02190 g into mg. Give your answer correct to 2 decimal places.
+  answer: 21.9
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.02190 \times 1000 = 21.9 \) <br />
+    21.9
+- id: 2241
+  question: Convert 0.00907 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 9.07
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00907 \times 1000 = 9.07 \) <br />
+    9.07
+- id: 2242
+  question: Convert 0.01340 g into mg. Give your answer correct to 2 decimal places.
+  answer: 13.4
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.01340 \times 1000 = 13.4 \) <br />
+    13.4
+- id: 2243
+  question: Convert 0.01940 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 19.4
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.01940 \times 1000 = 19.4 \) <br />
+    19.4
+- id: 2244
+  question: Convert 0.02050 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 20.5
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.02050 \times 1000 = 20.5 \) <br />
+    20.5
+- id: 2245
+  question: Convert 0.00052 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 0.52
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00052 \times 1000 = 0.52 \) <br />
+    0.52
+- id: 2246
+  question: Convert 0.00000880 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.8
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000880 \times 1000000 = 8.8 \) <br />
+    8.8
+- id: 2247
+  question: Convert 0.00699 g into mg. Give your answer correct to 2 decimal places.
+  answer: 6.99
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00699 \times 1000 = 6.99 \) <br />
+    6.99
+- id: 2248
+  question: Convert 0.00007300 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 73.0
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00007300 \times 1000000 = 73.0 \) <br />
+    73.0
+- id: 2249
+  question: Convert 0.00004840 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 48.4
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00004840 \times 1000000 = 48.4 \) <br />
+    48.4
+- id: 2250
+  question: Convert 0.00310 g into mg. Give your answer correct to 2 decimal places.
+  answer: 3.1
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00310 \times 1000 = 3.1 \) <br />
+    3.1
+- id: 2251
+  question: Convert 0.00657 g into mg. Give your answer correct to 2 decimal places.
+  answer: 6.57
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00657 \times 1000 = 6.57 \) <br />
+    6.57
+- id: 2252
+  question: Convert 0.01770 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 17.7
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.01770 \times 1000 = 17.7 \) <br />
+    17.7
+- id: 2253
+  question: Convert 0.03360 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 33.6
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.03360 \times 1000 = 33.6 \) <br />
+    33.6
+- id: 2254
+  question: Convert 0.00861 g into mg. Give your answer correct to 2 decimal places.
+  answer: 8.61
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00861 \times 1000 = 8.61 \) <br />
+    8.61
+- id: 2255
+  question: Convert 0.06510 g into mg. Give your answer correct to 2 decimal places.
+  answer: 65.1
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.06510 \times 1000 = 65.1 \) <br />
+    65.1
+- id: 2256
+  question: Convert 0.01330 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 13.3
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.01330 \times 1000 = 13.3 \) <br />
+    13.3
+- id: 2257
+  question: Convert 0.04150 g into mg. Give your answer correct to 2 decimal places.
+  answer: 41.5
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.04150 \times 1000 = 41.5 \) <br />
+    41.5
+- id: 2258
+  question: Convert 0.00198 g into mg. Give your answer correct to 2 decimal places.
+  answer: 1.98
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00198 \times 1000 = 1.98 \) <br />
+    1.98
+- id: 2259
+  question: Convert 0.00002040 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 20.4
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00002040 \times 1000000 = 20.4 \) <br />
+    20.4
+- id: 2260
+  question: Convert 0.06970 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 69.7
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.06970 \times 1000 = 69.7 \) <br />
+    69.7
+- id: 2261
+  question: Convert 0.00000660 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 6.6
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000660 \times 1000000 = 6.6 \) <br />
+    6.6
+- id: 2262
+  question: Convert 0.00000836 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.36
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000836 \times 1000000 = 8.36 \) <br />
+    8.36
+- id: 2263
+  question: Convert 0.00627 g into mg. Give your answer correct to 2 decimal places.
+  answer: 6.27
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00627 \times 1000 = 6.27 \) <br />
+    6.27
+- id: 2264
+  question: Convert 0.00424 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 4.24
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00424 \times 1000 = 4.24 \) <br />
+    4.24
+- id: 2265
+  question: Convert 0.00005130 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 51.3
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00005130 \times 1000000 = 51.3 \) <br />
+    51.3
+- id: 2266
+  question: Convert 0.00601 g into mg. Give your answer correct to 2 decimal places.
+  answer: 6.01
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00601 \times 1000 = 6.01 \) <br />
+    6.01
+- id: 2267
+  question: Convert 0.00219 g into mg. Give your answer correct to 2 decimal places.
+  answer: 2.19
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00219 \times 1000 = 2.19 \) <br />
+    2.19
+- id: 2268
+  question: Convert 0.00000092 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 0.92
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000092 \times 1000000 = 0.92 \) <br />
+    0.92
+- id: 2269
+  question: Convert 0.08260 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 82.6
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.08260 \times 1000 = 82.6 \) <br />
+    82.6
+- id: 2270
+  question: Convert 0.00000975 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 9.75
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000975 \times 1000000 = 9.75 \) <br />
+    9.75
+- id: 2271
+  question: Convert 0.00028 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 0.28
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00028 \times 1000 = 0.28 \) <br />
+    0.28
+- id: 2272
+  question: Convert 0.00524 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.24
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00524 \times 1000 = 5.24 \) <br />
+    5.24
+- id: 2273
+  question: Convert 0.03990 g into mg. Give your answer correct to 2 decimal places.
+  answer: 39.9
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.03990 \times 1000 = 39.9 \) <br />
+    39.9
+- id: 2274
+  question: Convert 0.07150 g into mg. Give your answer correct to 2 decimal places.
+  answer: 71.5
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.07150 \times 1000 = 71.5 \) <br />
+    71.5
+- id: 2275
+  question: Convert 0.00008690 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 86.9
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00008690 \times 1000000 = 86.9 \) <br />
+    86.9
+- id: 2276
+  question: Convert 0.03560 g into mg. Give your answer correct to 2 decimal places.
+  answer: 35.6
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.03560 \times 1000 = 35.6 \) <br />
+    35.6
+- id: 2277
+  question: Convert 0.09060 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 90.6
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.09060 \times 1000 = 90.6 \) <br />
+    90.6
+- id: 2278
+  question: Convert 0.05820 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 58.2
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.05820 \times 1000 = 58.2 \) <br />
+    58.2
+- id: 2279
+  question: Convert 0.00496 g into mg. Give your answer correct to 2 decimal places.
+  answer: 4.96
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00496 \times 1000 = 4.96 \) <br />
+    4.96
+- id: 2280
+  question: Convert 0.00000653 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 6.53
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000653 \times 1000000 = 6.53 \) <br />
+    6.53
+- id: 2281
+  question: Convert 0.02200 g into mg. Give your answer correct to 2 decimal places.
+  answer: 22.0
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.02200 \times 1000 = 22.0 \) <br />
+    22.0
+- id: 2282
+  question: Convert 0.00167 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 1.67
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00167 \times 1000 = 1.67 \) <br />
+    1.67
+- id: 2283
+  question: Convert 0.00000527 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.27
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000527 \times 1000000 = 5.27 \) <br />
+    5.27
+- id: 2284
+  question: Convert 0.00723 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.23
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00723 \times 1000 = 7.23 \) <br />
+    7.23
+- id: 2285
+  question: Convert 0.00843 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.43
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00843 \times 1000 = 8.43 \) <br />
+    8.43
+- id: 2286
+  question: Convert 0.00881 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.81
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00881 \times 1000 = 8.81 \) <br />
+    8.81
+- id: 2287
+  question: Convert 0.00000143 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 1.43
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000143 \times 1000000 = 1.43 \) <br />
+    1.43
+- id: 2288
+  question: Convert 0.07590 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 75.9
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.07590 \times 1000 = 75.9 \) <br />
+    75.9
+- id: 2289
+  question: Convert 0.03060 g into mg. Give your answer correct to 2 decimal places.
+  answer: 30.6
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.03060 \times 1000 = 30.6 \) <br />
+    30.6
+- id: 2290
+  question: Convert 0.00000342 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 3.42
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000342 \times 1000000 = 3.42 \) <br />
+    3.42
+- id: 2291
+  question: Convert 0.06860 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 68.6
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.06860 \times 1000 = 68.6 \) <br />
+    68.6
+- id: 2292
+  question: Convert 0.00000484 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 4.84
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000484 \times 1000000 = 4.84 \) <br />
+    4.84
+- id: 2293
+  question: Convert 0.00005270 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 52.7
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00005270 \times 1000000 = 52.7 \) <br />
+    52.7
+- id: 2294
+  question: Convert 0.00009420 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 94.2
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00009420 \times 1000000 = 94.2 \) <br />
+    94.2
+- id: 2295
+  question: Convert 0.00246 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 2.46
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00246 \times 1000 = 2.46 \) <br />
+    2.46
+- id: 2296
+  question: Convert 0.00009840 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 98.4
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00009840 \times 1000000 = 98.4 \) <br />
+    98.4
+- id: 2297
+  question: Convert 0.00000925 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 9.25
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000925 \times 1000000 = 9.25 \) <br />
+    9.25
+- id: 2298
+  question: Convert 0.00000685 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 6.85
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000685 \times 1000000 = 6.85 \) <br />
+    6.85
+- id: 2299
+  question: Convert 0.00000184 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 1.84
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000184 \times 1000000 = 1.84 \) <br />
+    1.84
+- id: 2300
+  question: Convert 0.00856 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.56
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00856 \times 1000 = 8.56 \) <br />
+    8.56
+- id: 2301
+  question: Convert 0.00434 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 4.34
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00434 \times 1000 = 4.34 \) <br />
+    4.34
+- id: 2302
+  question: Convert 0.00001420 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 14.2
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00001420 \times 1000000 = 14.2 \) <br />
+    14.2
+- id: 2303
+  question: Convert 0.00859 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.59
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00859 \times 1000 = 8.59 \) <br />
+    8.59
+- id: 2304
+  question: Convert 0.00719 g into mg. Give your answer correct to 2 decimal places.
+  answer: 7.19
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00719 \times 1000 = 7.19 \) <br />
+    7.19
+- id: 2305
+  question: Convert 0.00000630 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 6.3
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000630 \times 1000000 = 6.3 \) <br />
+    6.3
+- id: 2306
+  question: Convert 0.05020 g into mg. Give your answer correct to 2 decimal places.
+  answer: 50.2
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.05020 \times 1000 = 50.2 \) <br />
+    50.2
+- id: 2307
+  question: Convert 0.00276 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 2.76
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00276 \times 1000 = 2.76 \) <br />
+    2.76
+- id: 2308
+  question: Convert 0.00009770 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 97.7
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00009770 \times 1000000 = 97.7 \) <br />
+    97.7
+- id: 2309
+  question: Convert 0.00002680 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 26.8
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00002680 \times 1000000 = 26.8 \) <br />
+    26.8
+- id: 2310
+  question: Convert 0.00721 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.21
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00721 \times 1000 = 7.21 \) <br />
+    7.21
+- id: 2311
+  question: Convert 0.07700 g into mg. Give your answer correct to 2 decimal places.
+  answer: 77.0
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.07700 \times 1000 = 77.0 \) <br />
+    77.0
+- id: 2312
+  question: Convert 0.00508 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.08
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00508 \times 1000 = 5.08 \) <br />
+    5.08
+- id: 2313
+  question: Convert 0.00440 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 4.4
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00440 \times 1000 = 4.4 \) <br />
+    4.4
+- id: 2314
+  question: Convert 0.03780 g into mg. Give your answer correct to 2 decimal places.
+  answer: 37.8
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.03780 \times 1000 = 37.8 \) <br />
+    37.8
+- id: 2315
+  question: Convert 0.05870 g into mg. Give your answer correct to 2 decimal places.
+  answer: 58.7
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.05870 \times 1000 = 58.7 \) <br />
+    58.7
+- id: 2316
+  question: Convert 0.00000791 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.91
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000791 \times 1000000 = 7.91 \) <br />
+    7.91
+- id: 2317
+  question: Convert 0.00000760 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.6
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000760 \times 1000000 = 7.6 \) <br />
+    7.6
+- id: 2318
+  question: Convert 0.00065 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 0.65
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00065 \times 1000 = 0.65 \) <br />
+    0.65
+- id: 2319
+  question: Convert 0.00000762 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.62
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000762 \times 1000000 = 7.62 \) <br />
+    7.62
+- id: 2320
+  question: Convert 0.09000 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 90.0
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.09000 \times 1000 = 90.0 \) <br />
+    90.0
+- id: 2321
+  question: Convert 0.06470 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 64.7
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.06470 \times 1000 = 64.7 \) <br />
+    64.7
+- id: 2322
+  question: Convert 0.05430 g into mg. Give your answer correct to 2 decimal places.
+  answer: 54.3
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.05430 \times 1000 = 54.3 \) <br />
+    54.3
+- id: 2323
+  question: Convert 0.00007270 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 72.7
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00007270 \times 1000000 = 72.7 \) <br />
+    72.7
+- id: 2324
+  question: Convert 0.03450 g into mg. Give your answer correct to 2 decimal places.
+  answer: 34.5
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.03450 \times 1000 = 34.5 \) <br />
+    34.5
+- id: 2325
+  question: Convert 0.00567 g into mg. Give your answer correct to 2 decimal places.
+  answer: 5.67
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00567 \times 1000 = 5.67 \) <br />
+    5.67
+- id: 2326
+  question: Convert 0.02200 g into mg. Give your answer correct to 2 decimal places.
+  answer: 22.0
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.02200 \times 1000 = 22.0 \) <br />
+    22.0
+- id: 2327
+  question: Convert 0.00862 g into mg. Give your answer correct to 2 decimal places.
+  answer: 8.62
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00862 \times 1000 = 8.62 \) <br />
+    8.62
+- id: 2328
+  question: Convert 0.00920 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 9.2
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00920 \times 1000 = 9.2 \) <br />
+    9.2
+- id: 2329
+  question: Convert 0.00614 g into mg. Give your answer correct to 2 decimal places.
+  answer: 6.14
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00614 \times 1000 = 6.14 \) <br />
+    6.14
+- id: 2330
+  question: Convert 0.00714 g into mg. Give your answer correct to 2 decimal places.
+  answer: 7.14
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00714 \times 1000 = 7.14 \) <br />
+    7.14
+- id: 2331
+  question: Convert 0.00079 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 0.79
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00079 \times 1000 = 0.79 \) <br />
+    0.79
+- id: 2332
+  question: Convert 0.00000618 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 6.18
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000618 \times 1000000 = 6.18 \) <br />
+    6.18
+- id: 2333
+  question: Convert 0.00000807 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.07
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000807 \times 1000000 = 8.07 \) <br />
+    8.07
+- id: 2334
+  question: Convert 0.00355 g into mg. Give your answer correct to 2 decimal places.
+  answer: 3.55
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00355 \times 1000 = 3.55 \) <br />
+    3.55
+- id: 2335
+  question: Convert 0.00484 g into mg. Give your answer correct to 2 decimal places.
+  answer: 4.84
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00484 \times 1000 = 4.84 \) <br />
+    4.84
+- id: 2336
+  question: Convert 0.00819 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.19
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00819 \times 1000 = 8.19 \) <br />
+    8.19
+- id: 2337
+  question: Convert 0.00002450 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 24.5
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00002450 \times 1000000 = 24.5 \) <br />
+    24.5
+- id: 2338
+  question: Convert 0.00009140 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 91.4
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00009140 \times 1000000 = 91.4 \) <br />
+    91.4
+- id: 2339
+  question: Convert 0.07410 g into mg. Give your answer correct to 2 decimal places.
+  answer: 74.1
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.07410 \times 1000 = 74.1 \) <br />
+    74.1
+- id: 2340
+  question: Convert 0.00004990 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 49.9
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00004990 \times 1000000 = 49.9 \) <br />
+    49.9
+- id: 2341
+  question: Convert 0.00238 g into mg. Give your answer correct to 2 decimal places.
+  answer: 2.38
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00238 \times 1000 = 2.38 \) <br />
+    2.38
+- id: 2342
+  question: Convert 0.07630 g into mg. Give your answer correct to 2 decimal places.
+  answer: 76.3
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.07630 \times 1000 = 76.3 \) <br />
+    76.3
+- id: 2343
+  question: Convert 0.00002950 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 29.5
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00002950 \times 1000000 = 29.5 \) <br />
+    29.5
+- id: 2344
+  question: Convert 0.07350 g into mg. Give your answer correct to 2 decimal places.
+  answer: 73.5
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.07350 \times 1000 = 73.5 \) <br />
+    73.5
+- id: 2345
+  question: Convert 0.00423 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 4.23
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00423 \times 1000 = 4.23 \) <br />
+    4.23
+- id: 2346
+  question: Convert 0.03900 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 39.0
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.03900 \times 1000 = 39.0 \) <br />
+    39.0
+- id: 2347
+  question: Convert 0.00524 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.24
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00524 \times 1000 = 5.24 \) <br />
+    5.24
+- id: 2348
+  question: Convert 0.08900 g into mg. Give your answer correct to 2 decimal places.
+  answer: 89.0
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.08900 \times 1000 = 89.0 \) <br />
+    89.0
+- id: 2349
+  question: Convert 0.00449 g into mg. Give your answer correct to 2 decimal places.
+  answer: 4.49
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00449 \times 1000 = 4.49 \) <br />
+    4.49
+- id: 2350
+  question: Convert 0.00009450 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 94.5
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00009450 \times 1000000 = 94.5 \) <br />
+    94.5
+- id: 2351
+  question: Convert 0.06570 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 65.7
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.06570 \times 1000 = 65.7 \) <br />
+    65.7
+- id: 2352
+  question: Convert 0.00157 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 1.57
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00157 \times 1000 = 1.57 \) <br />
+    1.57
+- id: 2353
+  question: Convert 0.07660 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 76.6
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.07660 \times 1000 = 76.6 \) <br />
+    76.6
+- id: 2354
+  question: Convert 0.04150 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 41.5
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.04150 \times 1000 = 41.5 \) <br />
+    41.5
+- id: 2355
+  question: Convert 0.04710 g into mg. Give your answer correct to 2 decimal places.
+  answer: 47.1
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.04710 \times 1000 = 47.1 \) <br />
+    47.1
+- id: 2356
+  question: Convert 0.00000641 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 6.41
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000641 \times 1000000 = 6.41 \) <br />
+    6.41
+- id: 2357
+  question: Convert 0.00702 g into mg. Give your answer correct to 2 decimal places.
+  answer: 7.02
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00702 \times 1000 = 7.02 \) <br />
+    7.02
+- id: 2358
+  question: Convert 0.00020 g into mg. Give your answer correct to 2 decimal places.
+  answer: 0.2
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00020 \times 1000 = 0.2 \) <br />
+    0.2
+- id: 2359
+  question: Convert 0.00319 g into mg. Give your answer correct to 2 decimal places.
+  answer: 3.19
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00319 \times 1000 = 3.19 \) <br />
+    3.19
+- id: 2360
+  question: Convert 0.00000902 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 9.02
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000902 \times 1000000 = 9.02 \) <br />
+    9.02
+- id: 2361
+  question: Convert 0.08950 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 89.5
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.08950 \times 1000 = 89.5 \) <br />
+    89.5
+- id: 2362
+  question: Convert 0.00756 g into mg. Give your answer correct to 2 decimal places.
+  answer: 7.56
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00756 \times 1000 = 7.56 \) <br />
+    7.56
+- id: 2363
+  question: Convert 0.00309 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 3.09
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00309 \times 1000 = 3.09 \) <br />
+    3.09
+- id: 2364
+  question: Convert 0.00551 g into mg. Give your answer correct to 2 decimal places.
+  answer: 5.51
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00551 \times 1000 = 5.51 \) <br />
+    5.51
+- id: 2365
+  question: Convert 0.04690 g into mg. Give your answer correct to 2 decimal places.
+  answer: 46.9
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.04690 \times 1000 = 46.9 \) <br />
+    46.9
+- id: 2366
+  question: Convert 0.00385 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 3.85
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00385 \times 1000 = 3.85 \) <br />
+    3.85
+- id: 2367
+  question: Convert 0.00000052 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 0.52
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000052 \times 1000000 = 0.52 \) <br />
+    0.52
+- id: 2368
+  question: Convert 0.00000112 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 1.12
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000112 \times 1000000 = 1.12 \) <br />
+    1.12
+- id: 2369
+  question: Convert 0.05200 g into mg. Give your answer correct to 2 decimal places.
+  answer: 52.0
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.05200 \times 1000 = 52.0 \) <br />
+    52.0
+- id: 2370
+  question: Convert 0.05050 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 50.5
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.05050 \times 1000 = 50.5 \) <br />
+    50.5
+- id: 2371
+  question: Convert 0.00473 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 4.73
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00473 \times 1000 = 4.73 \) <br />
+    4.73
+- id: 2372
+  question: Convert 0.03160 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 31.6
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.03160 \times 1000 = 31.6 \) <br />
+    31.6
+- id: 2373
+  question: Convert 0.06360 g into mg. Give your answer correct to 2 decimal places.
+  answer: 63.6
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.06360 \times 1000 = 63.6 \) <br />
+    63.6
+- id: 2374
+  question: Convert 0.00008740 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 87.4
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00008740 \times 1000000 = 87.4 \) <br />
+    87.4
+- id: 2375
+  question: Convert 0.03390 g into mg. Give your answer correct to 2 decimal places.
+  answer: 33.9
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.03390 \times 1000 = 33.9 \) <br />
+    33.9
+- id: 2376
+  question: Convert 0.00002230 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 22.3
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00002230 \times 1000000 = 22.3 \) <br />
+    22.3
+- id: 2377
+  question: Convert 0.01400 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 14.0
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.01400 \times 1000 = 14.0 \) <br />
+    14.0
+- id: 2378
+  question: Convert 0.00556 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.56
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00556 \times 1000 = 5.56 \) <br />
+    5.56
+- id: 2379
+  question: Convert 0.00363 g into mg. Give your answer correct to 2 decimal places.
+  answer: 3.63
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00363 \times 1000 = 3.63 \) <br />
+    3.63
+- id: 2380
+  question: Convert 0.00545 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.45
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00545 \times 1000 = 5.45 \) <br />
+    5.45
+- id: 2381
+  question: Convert 0.00000387 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 3.87
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000387 \times 1000000 = 3.87 \) <br />
+    3.87
+- id: 2382
+  question: Convert 0.06080 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 60.8
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.06080 \times 1000 = 60.8 \) <br />
+    60.8
+- id: 2383
+  question: Convert 0.00000143 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 1.43
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000143 \times 1000000 = 1.43 \) <br />
+    1.43
+- id: 2384
+  question: Convert 0.09050 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 90.5
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.09050 \times 1000 = 90.5 \) <br />
+    90.5
+- id: 2385
+  question: Convert 0.00710 g into mg. Give your answer correct to 2 decimal places.
+  answer: 7.1
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00710 \times 1000 = 7.1 \) <br />
+    7.1
+- id: 2386
+  question: Convert 0.00808 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.08
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00808 \times 1000 = 8.08 \) <br />
+    8.08
+- id: 2387
+  question: Convert 0.00867 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.67
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00867 \times 1000 = 8.67 \) <br />
+    8.67
+- id: 2388
+  question: Convert 0.00321 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 3.21
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00321 \times 1000 = 3.21 \) <br />
+    3.21
+- id: 2389
+  question: Convert 0.00009010 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 90.1
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00009010 \times 1000000 = 90.1 \) <br />
+    90.1
+- id: 2390
+  question: Convert 0.02740 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 27.4
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.02740 \times 1000 = 27.4 \) <br />
+    27.4
+- id: 2391
+  question: Convert 0.00000610 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 6.1
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000610 \times 1000000 = 6.1 \) <br />
+    6.1
+- id: 2392
+  question: Convert 0.00467 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 4.67
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00467 \times 1000 = 4.67 \) <br />
+    4.67
+- id: 2393
+  question: Convert 0.00732 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.32
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00732 \times 1000 = 7.32 \) <br />
+    7.32
+- id: 2394
+  question: Convert 0.00149 g into mg. Give your answer correct to 2 decimal places.
+  answer: 1.49
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00149 \times 1000 = 1.49 \) <br />
+    1.49
+- id: 2395
+  question: Convert 0.01520 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 15.2
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.01520 \times 1000 = 15.2 \) <br />
+    15.2
+- id: 2396
+  question: Convert 0.08970 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 89.7
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.08970 \times 1000 = 89.7 \) <br />
+    89.7
+- id: 2397
+  question: Convert 0.00544 g into mg. Give your answer correct to 2 decimal places.
+  answer: 5.44
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00544 \times 1000 = 5.44 \) <br />
+    5.44
+- id: 2398
+  question: Convert 0.00000316 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 3.16
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000316 \times 1000000 = 3.16 \) <br />
+    3.16
+- id: 2399
+  question: Convert 0.00766 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.66
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00766 \times 1000 = 7.66 \) <br />
+    7.66
+- id: 2400
+  question: Convert 0.06240 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 62.4
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.06240 \times 1000 = 62.4 \) <br />
+    62.4
+- id: 2401
+  question: Convert 0.00170 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 1.7
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00170 \times 1000 = 1.7 \) <br />
+    1.7
+- id: 2402
+  question: Convert 0.00009320 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 93.2
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00009320 \times 1000000 = 93.2 \) <br />
+    93.2
+- id: 2403
+  question: Convert 0.04150 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 41.5
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.04150 \times 1000 = 41.5 \) <br />
+    41.5
+- id: 2404
+  question: Convert 0.00000615 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 6.15
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000615 \times 1000000 = 6.15 \) <br />
+    6.15
+- id: 2405
+  question: Convert 0.09150 g into mg. Give your answer correct to 2 decimal places.
+  answer: 91.5
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.09150 \times 1000 = 91.5 \) <br />
+    91.5
+- id: 2406
+  question: Convert 0.01050 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 10.5
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.01050 \times 1000 = 10.5 \) <br />
+    10.5
+- id: 2407
+  question: Convert 0.00006800 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 68.0
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00006800 \times 1000000 = 68.0 \) <br />
+    68.0
+- id: 2408
+  question: Convert 0.00898 g into mg. Give your answer correct to 2 decimal places.
+  answer: 8.98
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00898 \times 1000 = 8.98 \) <br />
+    8.98
+- id: 2409
+  question: Convert 0.00005430 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 54.3
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00005430 \times 1000000 = 54.3 \) <br />
+    54.3
+- id: 2410
+  question: Convert 0.05690 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 56.9
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.05690 \times 1000 = 56.9 \) <br />
+    56.9
+- id: 2411
+  question: Convert 0.00000028 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 0.28
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000028 \times 1000000 = 0.28 \) <br />
+    0.28
+- id: 2412
+  question: Convert 0.06580 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 65.8
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.06580 \times 1000 = 65.8 \) <br />
+    65.8
+- id: 2413
+  question: Convert 0.03710 g into mg. Give your answer correct to 2 decimal places.
+  answer: 37.1
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.03710 \times 1000 = 37.1 \) <br />
+    37.1
+- id: 2414
+  question: Convert 0.00476 g into mg. Give your answer correct to 2 decimal places.
+  answer: 4.76
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00476 \times 1000 = 4.76 \) <br />
+    4.76
+- id: 2415
+  question: Convert 0.06060 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 60.6
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.06060 \times 1000 = 60.6 \) <br />
+    60.6
+- id: 2416
+  question: Convert 0.00381 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 3.81
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00381 \times 1000 = 3.81 \) <br />
+    3.81
+- id: 2417
+  question: Convert 0.00000522 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.22
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000522 \times 1000000 = 5.22 \) <br />
+    5.22
+- id: 2418
+  question: Convert 0.00005210 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 52.1
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00005210 \times 1000000 = 52.1 \) <br />
+    52.1
+- id: 2419
+  question: Convert 0.09340 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 93.4
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.09340 \times 1000 = 93.4 \) <br />
+    93.4
+- id: 2420
+  question: Convert 0.04060 g into mg. Give your answer correct to 2 decimal places.
+  answer: 40.6
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.04060 \times 1000 = 40.6 \) <br />
+    40.6
+- id: 2421
+  question: Convert 0.00000031 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 0.31
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000031 \times 1000000 = 0.31 \) <br />
+    0.31
+- id: 2422
+  question: Convert 0.05750 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 57.5
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.05750 \times 1000 = 57.5 \) <br />
+    57.5
+- id: 2423
+  question: Convert 0.00660 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 6.6
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00660 \times 1000 = 6.6 \) <br />
+    6.6
+- id: 2424
+  question: Convert 0.00000993 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 9.93
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000993 \times 1000000 = 9.93 \) <br />
+    9.93
+- id: 2425
+  question: Convert 0.06050 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 60.5
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.06050 \times 1000 = 60.5 \) <br />
+    60.5
+- id: 2426
+  question: Convert 0.00000305 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 3.05
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000305 \times 1000000 = 3.05 \) <br />
+    3.05
+- id: 2427
+  question: Convert 0.00000564 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.64
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000564 \times 1000000 = 5.64 \) <br />
+    5.64
+- id: 2428
+  question: Convert 0.03320 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 33.2
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.03320 \times 1000 = 33.2 \) <br />
+    33.2
+- id: 2429
+  question: Convert 0.00183 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 1.83
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00183 \times 1000 = 1.83 \) <br />
+    1.83
+- id: 2430
+  question: Convert 0.00410 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 4.1
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00410 \times 1000 = 4.1 \) <br />
+    4.1
+- id: 2431
+  question: Convert 0.09970 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 99.7
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.09970 \times 1000 = 99.7 \) <br />
+    99.7
+- id: 2432
+  question: Convert 0.00435 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 4.35
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00435 \times 1000 = 4.35 \) <br />
+    4.35
+- id: 2433
+  question: Convert 0.00389 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 3.89
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00389 \times 1000 = 3.89 \) <br />
+    3.89
+- id: 2434
+  question: Convert 0.00008630 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 86.3
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00008630 \times 1000000 = 86.3 \) <br />
+    86.3
+- id: 2435
+  question: Convert 0.00327 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 3.27
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00327 \times 1000 = 3.27 \) <br />
+    3.27
+- id: 2436
+  question: Convert 0.00000526 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.26
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000526 \times 1000000 = 5.26 \) <br />
+    5.26
+- id: 2437
+  question: Convert 0.00486 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 4.86
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00486 \times 1000 = 4.86 \) <br />
+    4.86
+- id: 2438
+  question: Convert 0.00000270 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 2.7
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000270 \times 1000000 = 2.7 \) <br />
+    2.7
+- id: 2439
+  question: Convert 0.00000794 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.94
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000794 \times 1000000 = 7.94 \) <br />
+    7.94
+- id: 2440
+  question: Convert 0.00606 g into mg. Give your answer correct to 2 decimal places.
+  answer: 6.06
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00606 \times 1000 = 6.06 \) <br />
+    6.06
+- id: 2441
+  question: Convert 0.00004240 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 42.4
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00004240 \times 1000000 = 42.4 \) <br />
+    42.4
+- id: 2442
+  question: Convert 0.00000530 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.3
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000530 \times 1000000 = 5.3 \) <br />
+    5.3
+- id: 2443
+  question: Convert 0.00000197 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 1.97
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000197 \times 1000000 = 1.97 \) <br />
+    1.97
+- id: 2444
+  question: Convert 0.08510 g into mg. Give your answer correct to 2 decimal places.
+  answer: 85.1
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.08510 \times 1000 = 85.1 \) <br />
+    85.1
+- id: 2445
+  question: Convert 0.00331 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 3.31
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00331 \times 1000 = 3.31 \) <br />
+    3.31
+- id: 2446
+  question: Convert 0.05430 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 54.3
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.05430 \times 1000 = 54.3 \) <br />
+    54.3
+- id: 2447
+  question: Convert 0.00960 g into mg. Give your answer correct to 2 decimal places.
+  answer: 9.6
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00960 \times 1000 = 9.6 \) <br />
+    9.6
+- id: 2448
+  question: Convert 0.00005020 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 50.2
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00005020 \times 1000000 = 50.2 \) <br />
+    50.2
+- id: 2449
+  question: Convert 0.04620 g into mg. Give your answer correct to 2 decimal places.
+  answer: 46.2
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.04620 \times 1000 = 46.2 \) <br />
+    46.2
+- id: 2450
+  question: Convert 0.09360 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 93.6
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.09360 \times 1000 = 93.6 \) <br />
+    93.6
+- id: 2451
+  question: Convert 0.00004270 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 42.7
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00004270 \times 1000000 = 42.7 \) <br />
+    42.7
+- id: 2452
+  question: Convert 0.03480 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 34.8
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.03480 \times 1000 = 34.8 \) <br />
+    34.8
+- id: 2453
+  question: Convert 0.00763 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.63
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00763 \times 1000 = 7.63 \) <br />
+    7.63
+- id: 2454
+  question: Convert 0.00000870 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.7
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000870 \times 1000000 = 8.7 \) <br />
+    8.7
+- id: 2455
+  question: Convert 0.00000088 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 0.88
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000088 \times 1000000 = 0.88 \) <br />
+    0.88
+- id: 2456
+  question: Convert 0.00165 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 1.65
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00165 \times 1000 = 1.65 \) <br />
+    1.65
+- id: 2457
+  question: Convert 0.04660 g into mg. Give your answer correct to 2 decimal places.
+  answer: 46.6
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.04660 \times 1000 = 46.6 \) <br />
+    46.6
+- id: 2458
+  question: Convert 0.08050 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 80.5
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.08050 \times 1000 = 80.5 \) <br />
+    80.5
+- id: 2459
+  question: Convert 0.00000763 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.63
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000763 \times 1000000 = 7.63 \) <br />
+    7.63
+- id: 2460
+  question: Convert 0.00805 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.05
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00805 \times 1000 = 8.05 \) <br />
+    8.05
+- id: 2461
+  question: Convert 0.00667 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 6.67
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00667 \times 1000 = 6.67 \) <br />
+    6.67
+- id: 2462
+  question: Convert 0.00273 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 2.73
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00273 \times 1000 = 2.73 \) <br />
+    2.73
+- id: 2463
+  question: Convert 0.09200 g into mg. Give your answer correct to 2 decimal places.
+  answer: 92.0
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.09200 \times 1000 = 92.0 \) <br />
+    92.0
+- id: 2464
+  question: Convert 0.00966 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 9.66
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00966 \times 1000 = 9.66 \) <br />
+    9.66
+- id: 2465
+  question: Convert 0.07110 g into mg. Give your answer correct to 2 decimal places.
+  answer: 71.1
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.07110 \times 1000 = 71.1 \) <br />
+    71.1
+- id: 2466
+  question: Convert 0.05640 g into mg. Give your answer correct to 2 decimal places.
+  answer: 56.4
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.05640 \times 1000 = 56.4 \) <br />
+    56.4
+- id: 2467
+  question: Convert 0.00000953 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 9.53
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000953 \times 1000000 = 9.53 \) <br />
+    9.53
+- id: 2468
+  question: Convert 0.08160 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 81.6
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.08160 \times 1000 = 81.6 \) <br />
+    81.6
+- id: 2469
+  question: Convert 0.00062 g into mg. Give your answer correct to 2 decimal places.
+  answer: 0.62
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00062 \times 1000 = 0.62 \) <br />
+    0.62
+- id: 2470
+  question: Convert 0.00154 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 1.54
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00154 \times 1000 = 1.54 \) <br />
+    1.54
+- id: 2471
+  question: Convert 0.00561 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.61
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00561 \times 1000 = 5.61 \) <br />
+    5.61
+- id: 2472
+  question: Convert 0.00120 g into mg. Give your answer correct to 2 decimal places.
+  answer: 1.2
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00120 \times 1000 = 1.2 \) <br />
+    1.2
+- id: 2473
+  question: Convert 0.00000892 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 8.92
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000892 \times 1000000 = 8.92 \) <br />
+    8.92
+- id: 2474
+  question: Convert 0.00351 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 3.51
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00351 \times 1000 = 3.51 \) <br />
+    3.51
+- id: 2475
+  question: Convert 0.00751 g into mg. Give your answer correct to 2 decimal places.
+  answer: 7.51
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00751 \times 1000 = 7.51 \) <br />
+    7.51
+- id: 2476
+  question: Convert 0.00920 g into mg. Give your answer correct to 2 decimal places.
+  answer: 9.2
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00920 \times 1000 = 9.2 \) <br />
+    9.2
+- id: 2477
+  question: Convert 0.00360 g into mg. Give your answer correct to 2 decimal places.
+  answer: 3.6
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00360 \times 1000 = 3.6 \) <br />
+    3.6
+- id: 2478
+  question: Convert 0.00569 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 5.69
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00569 \times 1000 = 5.69 \) <br />
+    5.69
+- id: 2479
+  question: Convert 0.00000022 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 0.22
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000022 \times 1000000 = 0.22 \) <br />
+    0.22
+- id: 2480
+  question: Convert 0.00000044 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 0.44
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000044 \times 1000000 = 0.44 \) <br />
+    0.44
+- id: 2481
+  question: Convert 0.00630 g into mg. Give your answer correct to 2 decimal places.
+  answer: 6.3
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00630 \times 1000 = 6.3 \) <br />
+    6.3
+- id: 2482
+  question: Convert 0.06100 g into mg. Give your answer correct to 2 decimal places.
+  answer: 61.0
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.06100 \times 1000 = 61.0 \) <br />
+    61.0
+- id: 2483
+  question: Convert 0.05540 g into mg. Give your answer correct to 2 decimal places.
+  answer: 55.4
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.05540 \times 1000 = 55.4 \) <br />
+    55.4
+- id: 2484
+  question: Convert 0.02540 g into mg. Give your answer correct to 2 decimal places.
+  answer: 25.4
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.02540 \times 1000 = 25.4 \) <br />
+    25.4
+- id: 2485
+  question: Convert 0.06310 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 63.1
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.06310 \times 1000 = 63.1 \) <br />
+    63.1
+- id: 2486
+  question: Convert 0.04700 g into mg. Give your answer correct to 2 decimal places.
+  answer: 47.0
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.04700 \times 1000 = 47.0 \) <br />
+    47.0
+- id: 2487
+  question: Convert 0.07640 g into mg. Give your answer correct to 2 decimal places.
+  answer: 76.4
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.07640 \times 1000 = 76.4 \) <br />
+    76.4
+- id: 2488
+  question: Convert 0.00664 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 6.64
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00664 \times 1000 = 6.64 \) <br />
+    6.64
+- id: 2489
+  question: Convert 0.09450 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 94.5
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.09450 \times 1000 = 94.5 \) <br />
+    94.5
+- id: 2490
+  question: Convert 0.00000217 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 2.17
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000217 \times 1000000 = 2.17 \) <br />
+    2.17
+- id: 2491
+  question: Convert 0.00308 g into mg. Give your answer correct to 2 decimal places.
+  answer: 3.08
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00308 \times 1000 = 3.08 \) <br />
+    3.08
+- id: 2492
+  question: Convert 0.00000094 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 0.94
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000094 \times 1000000 = 0.94 \) <br />
+    0.94
+- id: 2493
+  question: Convert 0.00000630 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 6.3
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000630 \times 1000000 = 6.3 \) <br />
+    6.3
+- id: 2494
+  question: Convert 0.00005020 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 50.2
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00005020 \times 1000000 = 50.2 \) <br />
+    50.2
+- id: 2495
+  question: Convert 0.03060 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 30.6
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.03060 \times 1000 = 30.6 \) <br />
+    30.6
+- id: 2496
+  question: Convert 0.00000106 g into mcg. Give your answer correct to 2 decimal places.
+  answer: 1.06
+  solution: |-
+    To convert g into mcg, multiply by 1000000 <br />
+    \(0.00000106 \times 1000000 = 1.06 \) <br />
+    1.06
+- id: 2497
+  question: Convert 0.05820 g into mg. Give your answer correct to 2 decimal places.
+  answer: 58.2
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.05820 \times 1000 = 58.2 \) <br />
+    58.2
+- id: 2498
+  question: Convert 0.00431 g into mg. Give your answer correct to 2 decimal places.
+  answer: 4.31
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00431 \times 1000 = 4.31 \) <br />
+    4.31
+- id: 2499
+  question: Convert 0.00785 mg into mcg. Give your answer correct to 2 decimal places.
+  answer: 7.85
+  solution: |-
+    To convert mg into mcg, multiply by 1000 <br />
+    \(0.00785 \times 1000 = 7.85 \) <br />
+    7.85
+- id: 2500
+  question: Convert 0.00240 g into mg. Give your answer correct to 2 decimal places.
+  answer: 2.4
+  solution: |-
+    To convert g into mg, multiply by 1000 <br />
+    \(0.00240 \times 1000 = 2.4 \) <br />
+    2.4
