@@ -1,0 +1,745 @@
+- id: 3001
+  question: Convert 1 in 50 into % w/v. Give your answer to 2 decimal places
+  answer: 2.0
+  solution: |-
+    This means 1 g in 50 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{50 \text{ ml}} \times 100 \text{ ml} = 2.0 \) <br />
+    2.0
+- id: 3002
+  question: Convert 1 in 5 into mg/ml.  Give your answer to 1 decimal place
+  answer: 200.0
+  solution: |-
+    This means 1 g in 5 ml <br />
+    Convert to mg to get 1000 mg in 5 ml or \( \frac{1000}{5} \text{mg/ml} \) <br />
+    200.0 mg/ml
+- id: 3003
+  question: Convert 1 in 8 into mg/ml.  Give your answer to 1 decimal place
+  answer: 125.0
+  solution: |-
+    This means 1 g in 8 ml <br />
+    Convert to mg to get 1000 mg in 8 ml or \( \frac{1000}{8} \text{mg/ml} \) <br />
+    125.0 mg/ml
+- id: 3004
+  question: Convert 1 in 625 into mg/ml.  Give your answer to 1 decimal place
+  answer: 1.6
+  solution: |-
+    This means 1 g in 625 ml <br />
+    Convert to mg to get 1000 mg in 625 ml or \( \frac{1000}{625} \text{mg/ml} \) <br />
+    1.6 mg/ml
+- id: 3005
+  question: Convert 1 in 400 into mg/ml.  Give your answer to 1 decimal place
+  answer: 2.5
+  solution: |-
+    This means 1 g in 400 ml <br />
+    Convert to mg to get 1000 mg in 400 ml or \( \frac{1000}{400} \text{mg/ml} \) <br />
+    2.5 mg/ml
+- id: 3006
+  question: Convert 1 in 250 into % w/v. Give your answer to 2 decimal places
+  answer: 0.4
+  solution: |-
+    This means 1 g in 250 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{250 \text{ ml}} \times 100 \text{ ml} = 0.4 \) <br />
+    0.4
+- id: 3007
+  question: Convert 1 in 625 into % w/v. Give your answer to 2 decimal places
+  answer: 0.16
+  solution: |-
+    This means 1 g in 625 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{625 \text{ ml}} \times 100 \text{ ml} = 0.16 \) <br />
+    0.16
+- id: 3008
+  question: Convert 1 in 25 into mg/ml.  Give your answer to 1 decimal place
+  answer: 40.0
+  solution: |-
+    This means 1 g in 25 ml <br />
+    Convert to mg to get 1000 mg in 25 ml or \( \frac{1000}{25} \text{mg/ml} \) <br />
+    40.0 mg/ml
+- id: 3009
+  question: Convert 1 in 200 into % w/v. Give your answer to 2 decimal places
+  answer: 0.5
+  solution: |-
+    This means 1 g in 200 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{200 \text{ ml}} \times 100 \text{ ml} = 0.5 \) <br />
+    0.5
+- id: 3010
+  question: Convert 1 in 250 into mg/ml.  Give your answer to 1 decimal place
+  answer: 4.0
+  solution: |-
+    This means 1 g in 250 ml <br />
+    Convert to mg to get 1000 mg in 250 ml or \( \frac{1000}{250} \text{mg/ml} \) <br />
+    4.0 mg/ml
+- id: 3011
+  question: Convert 1 in 16 into mg/ml.  Give your answer to 1 decimal place
+  answer: 62.5
+  solution: |-
+    This means 1 g in 16 ml <br />
+    Convert to mg to get 1000 mg in 16 ml or \( \frac{1000}{16} \text{mg/ml} \) <br />
+    62.5 mg/ml
+- id: 3012
+  question: Convert 1 in 25 into mg/ml.  Give your answer to 1 decimal place
+  answer: 40.0
+  solution: |-
+    This means 1 g in 25 ml <br />
+    Convert to mg to get 1000 mg in 25 ml or \( \frac{1000}{25} \text{mg/ml} \) <br />
+    40.0 mg/ml
+- id: 3013
+  question: Convert 1 in 500 into % w/v. Give your answer to 2 decimal places
+  answer: 0.2
+  solution: |-
+    This means 1 g in 500 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{500 \text{ ml}} \times 100 \text{ ml} = 0.2 \) <br />
+    0.2
+- id: 3014
+  question: Convert 1 in 10000 into % w/v. Give your answer to 2 decimal places
+  answer: 0.01
+  solution: |-
+    This means 1 g in 10000 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{10000 \text{ ml}} \times 100 \text{ ml} = 0.01 \) <br />
+    0.01
+- id: 3015
+  question: Convert 1 in 20 into mg/ml.  Give your answer to 1 decimal place
+  answer: 50.0
+  solution: |-
+    This means 1 g in 20 ml <br />
+    Convert to mg to get 1000 mg in 20 ml or \( \frac{1000}{20} \text{mg/ml} \) <br />
+    50.0 mg/ml
+- id: 3016
+  question: Convert 1 in 8 into mg/ml.  Give your answer to 1 decimal place
+  answer: 125.0
+  solution: |-
+    This means 1 g in 8 ml <br />
+    Convert to mg to get 1000 mg in 8 ml or \( \frac{1000}{8} \text{mg/ml} \) <br />
+    125.0 mg/ml
+- id: 3017
+  question: Convert 1 in 125 into mg/ml.  Give your answer to 1 decimal place
+  answer: 8.0
+  solution: |-
+    This means 1 g in 125 ml <br />
+    Convert to mg to get 1000 mg in 125 ml or \( \frac{1000}{125} \text{mg/ml} \) <br />
+    8.0 mg/ml
+- id: 3018
+  question: Convert 1 in 125 into % w/v. Give your answer to 2 decimal places
+  answer: 0.8
+  solution: |-
+    This means 1 g in 125 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{125 \text{ ml}} \times 100 \text{ ml} = 0.8 \) <br />
+    0.8
+- id: 3019
+  question: Convert 1 in 500 into mg/ml.  Give your answer to 1 decimal place
+  answer: 2.0
+  solution: |-
+    This means 1 g in 500 ml <br />
+    Convert to mg to get 1000 mg in 500 ml or \( \frac{1000}{500} \text{mg/ml} \) <br />
+    2.0 mg/ml
+- id: 3020
+  question: Convert 1 in 125 into mg/ml.  Give your answer to 1 decimal place
+  answer: 8.0
+  solution: |-
+    This means 1 g in 125 ml <br />
+    Convert to mg to get 1000 mg in 125 ml or \( \frac{1000}{125} \text{mg/ml} \) <br />
+    8.0 mg/ml
+- id: 3021
+  question: Convert 1 in 40 into mg/ml.  Give your answer to 1 decimal place
+  answer: 25.0
+  solution: |-
+    This means 1 g in 40 ml <br />
+    Convert to mg to get 1000 mg in 40 ml or \( \frac{1000}{40} \text{mg/ml} \) <br />
+    25.0 mg/ml
+- id: 3022
+  question: Convert 1 in 625 into mg/ml.  Give your answer to 1 decimal place
+  answer: 1.6
+  solution: |-
+    This means 1 g in 625 ml <br />
+    Convert to mg to get 1000 mg in 625 ml or \( \frac{1000}{625} \text{mg/ml} \) <br />
+    1.6 mg/ml
+- id: 3023
+  question: Convert 1 in 5 into % w/v. Give your answer to 2 decimal places
+  answer: 20.0
+  solution: |-
+    This means 1 g in 5 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{5 \text{ ml}} \times 100 \text{ ml} = 20.0 \) <br />
+    20.0
+- id: 3024
+  question: Convert 1 in 8 into % w/v. Give your answer to 2 decimal places
+  answer: 12.5
+  solution: |-
+    This means 1 g in 8 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{8 \text{ ml}} \times 100 \text{ ml} = 12.5 \) <br />
+    12.5
+- id: 3025
+  question: Convert 1 in 8 into % w/v. Give your answer to 2 decimal places
+  answer: 12.5
+  solution: |-
+    This means 1 g in 8 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{8 \text{ ml}} \times 100 \text{ ml} = 12.5 \) <br />
+    12.5
+- id: 3026
+  question: Convert 1 in 500 into % w/v. Give your answer to 2 decimal places
+  answer: 0.2
+  solution: |-
+    This means 1 g in 500 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{500 \text{ ml}} \times 100 \text{ ml} = 0.2 \) <br />
+    0.2
+- id: 3027
+  question: Convert 1 in 50 into mg/ml.  Give your answer to 1 decimal place
+  answer: 20.0
+  solution: |-
+    This means 1 g in 50 ml <br />
+    Convert to mg to get 1000 mg in 50 ml or \( \frac{1000}{50} \text{mg/ml} \) <br />
+    20.0 mg/ml
+- id: 3028
+  question: Convert 1 in 625 into % w/v. Give your answer to 2 decimal places
+  answer: 0.16
+  solution: |-
+    This means 1 g in 625 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{625 \text{ ml}} \times 100 \text{ ml} = 0.16 \) <br />
+    0.16
+- id: 3029
+  question: Convert 1 in 16 into % w/v. Give your answer to 2 decimal places
+  answer: 6.25
+  solution: |-
+    This means 1 g in 16 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{16 \text{ ml}} \times 100 \text{ ml} = 6.25 \) <br />
+    6.25
+- id: 3030
+  question: Convert 1 in 25 into mg/ml.  Give your answer to 1 decimal place
+  answer: 40.0
+  solution: |-
+    This means 1 g in 25 ml <br />
+    Convert to mg to get 1000 mg in 25 ml or \( \frac{1000}{25} \text{mg/ml} \) <br />
+    40.0 mg/ml
+- id: 3031
+  question: Convert 1 in 100 into % w/v. Give your answer to 2 decimal places
+  answer: 1.0
+  solution: |-
+    This means 1 g in 100 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{100 \text{ ml}} \times 100 \text{ ml} = 1.0 \) <br />
+    1.0
+- id: 3032
+  question: Convert 1 in 400 into % w/v. Give your answer to 2 decimal places
+  answer: 0.25
+  solution: |-
+    This means 1 g in 400 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{400 \text{ ml}} \times 100 \text{ ml} = 0.25 \) <br />
+    0.25
+- id: 3033
+  question: Convert 1 in 200 into mg/ml.  Give your answer to 1 decimal place
+  answer: 5.0
+  solution: |-
+    This means 1 g in 200 ml <br />
+    Convert to mg to get 1000 mg in 200 ml or \( \frac{1000}{200} \text{mg/ml} \) <br />
+    5.0 mg/ml
+- id: 3034
+  question: Convert 1 in 2000 into mg/ml.  Give your answer to 1 decimal place
+  answer: 0.5
+  solution: |-
+    This means 1 g in 2000 ml <br />
+    Convert to mg to get 1000 mg in 2000 ml or \( \frac{1000}{2000} \text{mg/ml} \) <br />
+    0.5 mg/ml
+- id: 3035
+  question: Convert 1 in 10000 into mg/ml.  Give your answer to 1 decimal place
+  answer: 0.1
+  solution: |-
+    This means 1 g in 10000 ml <br />
+    Convert to mg to get 1000 mg in 10000 ml or \( \frac{1000}{10000} \text{mg/ml} \) <br />
+    0.1 mg/ml
+- id: 3036
+  question: Convert 1 in 500 into % w/v. Give your answer to 2 decimal places
+  answer: 0.2
+  solution: |-
+    This means 1 g in 500 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{500 \text{ ml}} \times 100 \text{ ml} = 0.2 \) <br />
+    0.2
+- id: 3037
+  question: Convert 1 in 400 into % w/v. Give your answer to 2 decimal places
+  answer: 0.25
+  solution: |-
+    This means 1 g in 400 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{400 \text{ ml}} \times 100 \text{ ml} = 0.25 \) <br />
+    0.25
+- id: 3038
+  question: Convert 1 in 2000 into mg/ml.  Give your answer to 1 decimal place
+  answer: 0.5
+  solution: |-
+    This means 1 g in 2000 ml <br />
+    Convert to mg to get 1000 mg in 2000 ml or \( \frac{1000}{2000} \text{mg/ml} \) <br />
+    0.5 mg/ml
+- id: 3039
+  question: Convert 1 in 250 into mg/ml.  Give your answer to 1 decimal place
+  answer: 4.0
+  solution: |-
+    This means 1 g in 250 ml <br />
+    Convert to mg to get 1000 mg in 250 ml or \( \frac{1000}{250} \text{mg/ml} \) <br />
+    4.0 mg/ml
+- id: 3040
+  question: Convert 1 in 2000 into mg/ml.  Give your answer to 1 decimal place
+  answer: 0.5
+  solution: |-
+    This means 1 g in 2000 ml <br />
+    Convert to mg to get 1000 mg in 2000 ml or \( \frac{1000}{2000} \text{mg/ml} \) <br />
+    0.5 mg/ml
+- id: 3041
+  question: Convert 1 in 20 into % w/v. Give your answer to 2 decimal places
+  answer: 5.0
+  solution: |-
+    This means 1 g in 20 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{20 \text{ ml}} \times 100 \text{ ml} = 5.0 \) <br />
+    5.0
+- id: 3042
+  question: Convert 1 in 625 into % w/v. Give your answer to 2 decimal places
+  answer: 0.16
+  solution: |-
+    This means 1 g in 625 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{625 \text{ ml}} \times 100 \text{ ml} = 0.16 \) <br />
+    0.16
+- id: 3043
+  question: Convert 1 in 100 into mg/ml.  Give your answer to 1 decimal place
+  answer: 10.0
+  solution: |-
+    This means 1 g in 100 ml <br />
+    Convert to mg to get 1000 mg in 100 ml or \( \frac{1000}{100} \text{mg/ml} \) <br />
+    10.0 mg/ml
+- id: 3044
+  question: Convert 1 in 40 into % w/v. Give your answer to 2 decimal places
+  answer: 2.5
+  solution: |-
+    This means 1 g in 40 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{40 \text{ ml}} \times 100 \text{ ml} = 2.5 \) <br />
+    2.5
+- id: 3045
+  question: Convert 1 in 625 into % w/v. Give your answer to 2 decimal places
+  answer: 0.16
+  solution: |-
+    This means 1 g in 625 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{625 \text{ ml}} \times 100 \text{ ml} = 0.16 \) <br />
+    0.16
+- id: 3046
+  question: Convert 1 in 20 into mg/ml.  Give your answer to 1 decimal place
+  answer: 50.0
+  solution: |-
+    This means 1 g in 20 ml <br />
+    Convert to mg to get 1000 mg in 20 ml or \( \frac{1000}{20} \text{mg/ml} \) <br />
+    50.0 mg/ml
+- id: 3047
+  question: Convert 1 in 250 into % w/v. Give your answer to 2 decimal places
+  answer: 0.4
+  solution: |-
+    This means 1 g in 250 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{250 \text{ ml}} \times 100 \text{ ml} = 0.4 \) <br />
+    0.4
+- id: 3048
+  question: Convert 1 in 100 into mg/ml.  Give your answer to 1 decimal place
+  answer: 10.0
+  solution: |-
+    This means 1 g in 100 ml <br />
+    Convert to mg to get 1000 mg in 100 ml or \( \frac{1000}{100} \text{mg/ml} \) <br />
+    10.0 mg/ml
+- id: 3049
+  question: Convert 1 in 400 into mg/ml.  Give your answer to 1 decimal place
+  answer: 2.5
+  solution: |-
+    This means 1 g in 400 ml <br />
+    Convert to mg to get 1000 mg in 400 ml or \( \frac{1000}{400} \text{mg/ml} \) <br />
+    2.5 mg/ml
+- id: 3050
+  question: Convert 1 in 10000 into mg/ml.  Give your answer to 1 decimal place
+  answer: 0.1
+  solution: |-
+    This means 1 g in 10000 ml <br />
+    Convert to mg to get 1000 mg in 10000 ml or \( \frac{1000}{10000} \text{mg/ml} \) <br />
+    0.1 mg/ml
+- id: 3051
+  question: Convert 1 in 2000 into % w/v. Give your answer to 2 decimal places
+  answer: 0.05
+  solution: |-
+    This means 1 g in 2000 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{2000 \text{ ml}} \times 100 \text{ ml} = 0.05 \) <br />
+    0.05
+- id: 3052
+  question: Convert 1 in 625 into mg/ml.  Give your answer to 1 decimal place
+  answer: 1.6
+  solution: |-
+    This means 1 g in 625 ml <br />
+    Convert to mg to get 1000 mg in 625 ml or \( \frac{1000}{625} \text{mg/ml} \) <br />
+    1.6 mg/ml
+- id: 3053
+  question: Convert 1 in 25 into mg/ml.  Give your answer to 1 decimal place
+  answer: 40.0
+  solution: |-
+    This means 1 g in 25 ml <br />
+    Convert to mg to get 1000 mg in 25 ml or \( \frac{1000}{25} \text{mg/ml} \) <br />
+    40.0 mg/ml
+- id: 3054
+  question: Convert 1 in 5 into mg/ml.  Give your answer to 1 decimal place
+  answer: 200.0
+  solution: |-
+    This means 1 g in 5 ml <br />
+    Convert to mg to get 1000 mg in 5 ml or \( \frac{1000}{5} \text{mg/ml} \) <br />
+    200.0 mg/ml
+- id: 3055
+  question: Convert 1 in 5 into mg/ml.  Give your answer to 1 decimal place
+  answer: 200.0
+  solution: |-
+    This means 1 g in 5 ml <br />
+    Convert to mg to get 1000 mg in 5 ml or \( \frac{1000}{5} \text{mg/ml} \) <br />
+    200.0 mg/ml
+- id: 3056
+  question: Convert 1 in 10000 into % w/v. Give your answer to 2 decimal places
+  answer: 0.01
+  solution: |-
+    This means 1 g in 10000 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{10000 \text{ ml}} \times 100 \text{ ml} = 0.01 \) <br />
+    0.01
+- id: 3057
+  question: Convert 1 in 400 into % w/v. Give your answer to 2 decimal places
+  answer: 0.25
+  solution: |-
+    This means 1 g in 400 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{400 \text{ ml}} \times 100 \text{ ml} = 0.25 \) <br />
+    0.25
+- id: 3058
+  question: Convert 1 in 10000 into % w/v. Give your answer to 2 decimal places
+  answer: 0.01
+  solution: |-
+    This means 1 g in 10000 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{10000 \text{ ml}} \times 100 \text{ ml} = 0.01 \) <br />
+    0.01
+- id: 3059
+  question: Convert 1 in 500 into % w/v. Give your answer to 2 decimal places
+  answer: 0.2
+  solution: |-
+    This means 1 g in 500 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{500 \text{ ml}} \times 100 \text{ ml} = 0.2 \) <br />
+    0.2
+- id: 3060
+  question: Convert 1 in 8 into mg/ml.  Give your answer to 1 decimal place
+  answer: 125.0
+  solution: |-
+    This means 1 g in 8 ml <br />
+    Convert to mg to get 1000 mg in 8 ml or \( \frac{1000}{8} \text{mg/ml} \) <br />
+    125.0 mg/ml
+- id: 3061
+  question: Convert 1 in 500 into mg/ml.  Give your answer to 1 decimal place
+  answer: 2.0
+  solution: |-
+    This means 1 g in 500 ml <br />
+    Convert to mg to get 1000 mg in 500 ml or \( \frac{1000}{500} \text{mg/ml} \) <br />
+    2.0 mg/ml
+- id: 3062
+  question: Convert 1 in 8 into mg/ml.  Give your answer to 1 decimal place
+  answer: 125.0
+  solution: |-
+    This means 1 g in 8 ml <br />
+    Convert to mg to get 1000 mg in 8 ml or \( \frac{1000}{8} \text{mg/ml} \) <br />
+    125.0 mg/ml
+- id: 3063
+  question: Convert 1 in 100 into mg/ml.  Give your answer to 1 decimal place
+  answer: 10.0
+  solution: |-
+    This means 1 g in 100 ml <br />
+    Convert to mg to get 1000 mg in 100 ml or \( \frac{1000}{100} \text{mg/ml} \) <br />
+    10.0 mg/ml
+- id: 3064
+  question: Convert 1 in 100 into mg/ml.  Give your answer to 1 decimal place
+  answer: 10.0
+  solution: |-
+    This means 1 g in 100 ml <br />
+    Convert to mg to get 1000 mg in 100 ml or \( \frac{1000}{100} \text{mg/ml} \) <br />
+    10.0 mg/ml
+- id: 3065
+  question: Convert 1 in 80 into mg/ml.  Give your answer to 1 decimal place
+  answer: 12.5
+  solution: |-
+    This means 1 g in 80 ml <br />
+    Convert to mg to get 1000 mg in 80 ml or \( \frac{1000}{80} \text{mg/ml} \) <br />
+    12.5 mg/ml
+- id: 3066
+  question: Convert 1 in 125 into % w/v. Give your answer to 2 decimal places
+  answer: 0.8
+  solution: |-
+    This means 1 g in 125 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{125 \text{ ml}} \times 100 \text{ ml} = 0.8 \) <br />
+    0.8
+- id: 3067
+  question: Convert 1 in 500 into % w/v. Give your answer to 2 decimal places
+  answer: 0.2
+  solution: |-
+    This means 1 g in 500 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{500 \text{ ml}} \times 100 \text{ ml} = 0.2 \) <br />
+    0.2
+- id: 3068
+  question: Convert 1 in 400 into mg/ml.  Give your answer to 1 decimal place
+  answer: 2.5
+  solution: |-
+    This means 1 g in 400 ml <br />
+    Convert to mg to get 1000 mg in 400 ml or \( \frac{1000}{400} \text{mg/ml} \) <br />
+    2.5 mg/ml
+- id: 3069
+  question: Convert 1 in 20 into % w/v. Give your answer to 2 decimal places
+  answer: 5.0
+  solution: |-
+    This means 1 g in 20 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{20 \text{ ml}} \times 100 \text{ ml} = 5.0 \) <br />
+    5.0
+- id: 3070
+  question: Convert 1 in 40 into mg/ml.  Give your answer to 1 decimal place
+  answer: 25.0
+  solution: |-
+    This means 1 g in 40 ml <br />
+    Convert to mg to get 1000 mg in 40 ml or \( \frac{1000}{40} \text{mg/ml} \) <br />
+    25.0 mg/ml
+- id: 3071
+  question: Convert 1 in 2000 into % w/v. Give your answer to 2 decimal places
+  answer: 0.05
+  solution: |-
+    This means 1 g in 2000 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{2000 \text{ ml}} \times 100 \text{ ml} = 0.05 \) <br />
+    0.05
+- id: 3072
+  question: Convert 1 in 625 into % w/v. Give your answer to 2 decimal places
+  answer: 0.16
+  solution: |-
+    This means 1 g in 625 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{625 \text{ ml}} \times 100 \text{ ml} = 0.16 \) <br />
+    0.16
+- id: 3073
+  question: Convert 1 in 500 into % w/v. Give your answer to 2 decimal places
+  answer: 0.2
+  solution: |-
+    This means 1 g in 500 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{500 \text{ ml}} \times 100 \text{ ml} = 0.2 \) <br />
+    0.2
+- id: 3074
+  question: Convert 1 in 400 into % w/v. Give your answer to 2 decimal places
+  answer: 0.25
+  solution: |-
+    This means 1 g in 400 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{400 \text{ ml}} \times 100 \text{ ml} = 0.25 \) <br />
+    0.25
+- id: 3075
+  question: Convert 1 in 40 into % w/v. Give your answer to 2 decimal places
+  answer: 2.5
+  solution: |-
+    This means 1 g in 40 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{40 \text{ ml}} \times 100 \text{ ml} = 2.5 \) <br />
+    2.5
+- id: 3076
+  question: Convert 1 in 200 into % w/v. Give your answer to 2 decimal places
+  answer: 0.5
+  solution: |-
+    This means 1 g in 200 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{200 \text{ ml}} \times 100 \text{ ml} = 0.5 \) <br />
+    0.5
+- id: 3077
+  question: Convert 1 in 25 into % w/v. Give your answer to 2 decimal places
+  answer: 4.0
+  solution: |-
+    This means 1 g in 25 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{25 \text{ ml}} \times 100 \text{ ml} = 4.0 \) <br />
+    4.0
+- id: 3078
+  question: Convert 1 in 20 into mg/ml.  Give your answer to 1 decimal place
+  answer: 50.0
+  solution: |-
+    This means 1 g in 20 ml <br />
+    Convert to mg to get 1000 mg in 20 ml or \( \frac{1000}{20} \text{mg/ml} \) <br />
+    50.0 mg/ml
+- id: 3079
+  question: Convert 1 in 50 into mg/ml.  Give your answer to 1 decimal place
+  answer: 20.0
+  solution: |-
+    This means 1 g in 50 ml <br />
+    Convert to mg to get 1000 mg in 50 ml or \( \frac{1000}{50} \text{mg/ml} \) <br />
+    20.0 mg/ml
+- id: 3080
+  question: Convert 1 in 2000 into mg/ml.  Give your answer to 1 decimal place
+  answer: 0.5
+  solution: |-
+    This means 1 g in 2000 ml <br />
+    Convert to mg to get 1000 mg in 2000 ml or \( \frac{1000}{2000} \text{mg/ml} \) <br />
+    0.5 mg/ml
+- id: 3081
+  question: Convert 1 in 2000 into % w/v. Give your answer to 2 decimal places
+  answer: 0.05
+  solution: |-
+    This means 1 g in 2000 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{2000 \text{ ml}} \times 100 \text{ ml} = 0.05 \) <br />
+    0.05
+- id: 3082
+  question: Convert 1 in 100 into % w/v. Give your answer to 2 decimal places
+  answer: 1.0
+  solution: |-
+    This means 1 g in 100 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{100 \text{ ml}} \times 100 \text{ ml} = 1.0 \) <br />
+    1.0
+- id: 3083
+  question: Convert 1 in 200 into mg/ml.  Give your answer to 1 decimal place
+  answer: 5.0
+  solution: |-
+    This means 1 g in 200 ml <br />
+    Convert to mg to get 1000 mg in 200 ml or \( \frac{1000}{200} \text{mg/ml} \) <br />
+    5.0 mg/ml
+- id: 3084
+  question: Convert 1 in 40 into mg/ml.  Give your answer to 1 decimal place
+  answer: 25.0
+  solution: |-
+    This means 1 g in 40 ml <br />
+    Convert to mg to get 1000 mg in 40 ml or \( \frac{1000}{40} \text{mg/ml} \) <br />
+    25.0 mg/ml
+- id: 3085
+  question: Convert 1 in 200 into % w/v. Give your answer to 2 decimal places
+  answer: 0.5
+  solution: |-
+    This means 1 g in 200 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{200 \text{ ml}} \times 100 \text{ ml} = 0.5 \) <br />
+    0.5
+- id: 3086
+  question: Convert 1 in 400 into mg/ml.  Give your answer to 1 decimal place
+  answer: 2.5
+  solution: |-
+    This means 1 g in 400 ml <br />
+    Convert to mg to get 1000 mg in 400 ml or \( \frac{1000}{400} \text{mg/ml} \) <br />
+    2.5 mg/ml
+- id: 3087
+  question: Convert 1 in 250 into mg/ml.  Give your answer to 1 decimal place
+  answer: 4.0
+  solution: |-
+    This means 1 g in 250 ml <br />
+    Convert to mg to get 1000 mg in 250 ml or \( \frac{1000}{250} \text{mg/ml} \) <br />
+    4.0 mg/ml
+- id: 3088
+  question: Convert 1 in 100 into % w/v. Give your answer to 2 decimal places
+  answer: 1.0
+  solution: |-
+    This means 1 g in 100 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{100 \text{ ml}} \times 100 \text{ ml} = 1.0 \) <br />
+    1.0
+- id: 3089
+  question: Convert 1 in 10000 into mg/ml.  Give your answer to 1 decimal place
+  answer: 0.1
+  solution: |-
+    This means 1 g in 10000 ml <br />
+    Convert to mg to get 1000 mg in 10000 ml or \( \frac{1000}{10000} \text{mg/ml} \) <br />
+    0.1 mg/ml
+- id: 3090
+  question: Convert 1 in 5000 into mg/ml.  Give your answer to 1 decimal place
+  answer: 0.2
+  solution: |-
+    This means 1 g in 5000 ml <br />
+    Convert to mg to get 1000 mg in 5000 ml or \( \frac{1000}{5000} \text{mg/ml} \) <br />
+    0.2 mg/ml
+- id: 3091
+  question: Convert 1 in 20 into % w/v. Give your answer to 2 decimal places
+  answer: 5.0
+  solution: |-
+    This means 1 g in 20 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{20 \text{ ml}} \times 100 \text{ ml} = 5.0 \) <br />
+    5.0
+- id: 3092
+  question: Convert 1 in 2000 into mg/ml.  Give your answer to 1 decimal place
+  answer: 0.5
+  solution: |-
+    This means 1 g in 2000 ml <br />
+    Convert to mg to get 1000 mg in 2000 ml or \( \frac{1000}{2000} \text{mg/ml} \) <br />
+    0.5 mg/ml
+- id: 3093
+  question: Convert 1 in 8 into % w/v. Give your answer to 2 decimal places
+  answer: 12.5
+  solution: |-
+    This means 1 g in 8 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{8 \text{ ml}} \times 100 \text{ ml} = 12.5 \) <br />
+    12.5
+- id: 3094
+  question: Convert 1 in 10000 into mg/ml.  Give your answer to 1 decimal place
+  answer: 0.1
+  solution: |-
+    This means 1 g in 10000 ml <br />
+    Convert to mg to get 1000 mg in 10000 ml or \( \frac{1000}{10000} \text{mg/ml} \) <br />
+    0.1 mg/ml
+- id: 3095
+  question: Convert 1 in 10000 into mg/ml.  Give your answer to 1 decimal place
+  answer: 0.1
+  solution: |-
+    This means 1 g in 10000 ml <br />
+    Convert to mg to get 1000 mg in 10000 ml or \( \frac{1000}{10000} \text{mg/ml} \) <br />
+    0.1 mg/ml
+- id: 3096
+  question: Convert 1 in 625 into % w/v. Give your answer to 2 decimal places
+  answer: 0.16
+  solution: |-
+    This means 1 g in 625 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{625 \text{ ml}} \times 100 \text{ ml} = 0.16 \) <br />
+    0.16
+- id: 3097
+  question: Convert 1 in 40 into % w/v. Give your answer to 2 decimal places
+  answer: 2.5
+  solution: |-
+    This means 1 g in 40 ml <br />
+    For percentage weight volume, you need g per 100 ml <br />
+    \(\frac{1 \text{ g}}{40 \text{ ml}} \times 100 \text{ ml} = 2.5 \) <br />
+    2.5
+- id: 3098
+  question: Convert 1 in 5000 into mg/ml.  Give your answer to 1 decimal place
+  answer: 0.2
+  solution: |-
+    This means 1 g in 5000 ml <br />
+    Convert to mg to get 1000 mg in 5000 ml or \( \frac{1000}{5000} \text{mg/ml} \) <br />
+    0.2 mg/ml
+- id: 3099
+  question: Convert 1 in 16 into mg/ml.  Give your answer to 1 decimal place
+  answer: 62.5
+  solution: |-
+    This means 1 g in 16 ml <br />
+    Convert to mg to get 1000 mg in 16 ml or \( \frac{1000}{16} \text{mg/ml} \) <br />
+    62.5 mg/ml
+- id: 3100
+  question: Convert 1 in 500 into mg/ml.  Give your answer to 1 decimal place
+  answer: 2.0
+  solution: |-
+    This means 1 g in 500 ml <br />
+    Convert to mg to get 1000 mg in 500 ml or \( \frac{1000}{500} \text{mg/ml} \) <br />
+    2.0 mg/ml
