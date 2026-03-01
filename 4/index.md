@@ -13,8 +13,8 @@ title: Year 1 Home
     <a href="{{ "/4/mock.html" | relative_url }}" class="card">
         <div class="card-content">
             <div class="card-text">
-                <h3>Practice Test for 4001Y</h3>
-                <p>Randomly generated each time questions for the 4001Y calculations course.</p>
+                <h3>Practice Test for 4010Y</h3>
+                <p>Randomly generated each time questions for the 4010Y calculations course.</p>
             </div>
         </div>
     </a>
