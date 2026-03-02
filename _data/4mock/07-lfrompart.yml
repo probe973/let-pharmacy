@@ -1,0 +1,5000 @@
+- id: 7001
+  question: How many litres are required to provide a dose of 89 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4.5'
+  solution: |-
+    1 g in 50 ml <br />
+    89 g in 50 × 89 ml <br />
+    50 × 89 = 4450 ml = 4.45 l <br />
+    Round: 4.5 l
+- id: 7002
+  question: How many litres are required to provide a dose of 50 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '35'
+  solution: |-
+    1 g in 700 ml <br />
+    50 g in 700 × 50 ml <br />
+    700 × 50 = 35000 ml = 35 l <br />
+    Round: 35 l
+- id: 7003
+  question: How many litres are required to provide a dose of 58 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.9'
+  solution: |-
+    1 g in 50 ml <br />
+    58 g in 50 × 58 ml <br />
+    50 × 58 = 2900 ml = 2.9 l <br />
+    Round: 2.9 l
+- id: 7004
+  question: How many litres are required to provide a dose of 49 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '14.7'
+  solution: |-
+    1 g in 300 ml <br />
+    49 g in 300 × 49 ml <br />
+    300 × 49 = 14700 ml = 14.7 l <br />
+    Round: 14.7 l
+- id: 7005
+  question: How many litres are required to provide a dose of 39 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '8.8'
+  solution: |-
+    1 g in 225 ml <br />
+    39 g in 225 × 39 ml <br />
+    225 × 39 = 8775 ml = 8.775 l <br />
+    Round: 8.8 l
+- id: 7006
+  question: How many litres are required to provide a dose of 33 g from a drug described
+    as 1 part in 20?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '0.7'
+  solution: |-
+    1 g in 20 ml <br />
+    33 g in 20 × 33 ml <br />
+    20 × 33 = 660 ml = 0.66 l <br />
+    Round: 0.7 l
+- id: 7007
+  question: How many litres are required to provide a dose of 80 g from a drug described
+    as 1 part in 20?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.6'
+  solution: |-
+    1 g in 20 ml <br />
+    80 g in 20 × 80 ml <br />
+    20 × 80 = 1600 ml = 1.6 l <br />
+    Round: 1.6 l
+- id: 7008
+  question: How many litres are required to provide a dose of 87 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '13.1'
+  solution: |-
+    1 g in 150 ml <br />
+    87 g in 150 × 87 ml <br />
+    150 × 87 = 13050 ml = 13.05 l <br />
+    Round: 13.1 l
+- id: 7009
+  question: How many litres are required to provide a dose of 59 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '29.5'
+  solution: |-
+    1 g in 500 ml <br />
+    59 g in 500 × 59 ml <br />
+    500 × 59 = 29500 ml = 29.5 l <br />
+    Round: 29.5 l
+- id: 7010
+  question: How many litres are required to provide a dose of 56 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.2'
+  solution: |-
+    1 g in 40 ml <br />
+    56 g in 40 × 56 ml <br />
+    40 × 56 = 2240 ml = 2.24 l <br />
+    Round: 2.2 l
+- id: 7011
+  question: How many litres are required to provide a dose of 61 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '9.2'
+  solution: |-
+    1 g in 150 ml <br />
+    61 g in 150 × 61 ml <br />
+    150 × 61 = 9150 ml = 9.15 l <br />
+    Round: 9.2 l
+- id: 7012
+  question: How many litres are required to provide a dose of 88 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '66'
+  solution: |-
+    1 g in 750 ml <br />
+    88 g in 750 × 88 ml <br />
+    750 × 88 = 66000 ml = 66 l <br />
+    Round: 66 l
+- id: 7013
+  question: How many litres are required to provide a dose of 30 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '6.8'
+  solution: |-
+    1 g in 225 ml <br />
+    30 g in 225 × 30 ml <br />
+    225 × 30 = 6750 ml = 6.75 l <br />
+    Round: 6.8 l
+- id: 7014
+  question: How many litres are required to provide a dose of 22 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4.4'
+  solution: |-
+    1 g in 200 ml <br />
+    22 g in 200 × 22 ml <br />
+    200 × 22 = 4400 ml = 4.4 l <br />
+    Round: 4.4 l
+- id: 7015
+  question: How many litres are required to provide a dose of 58 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '7.3'
+  solution: |-
+    1 g in 125 ml <br />
+    58 g in 125 × 58 ml <br />
+    125 × 58 = 7250 ml = 7.25 l <br />
+    Round: 7.3 l
+- id: 7016
+  question: How many litres are required to provide a dose of 63 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '14.2'
+  solution: |-
+    1 g in 225 ml <br />
+    63 g in 225 × 63 ml <br />
+    225 × 63 = 14175 ml = 14.175 l <br />
+    Round: 14.2 l
+- id: 7017
+  question: How many litres are required to provide a dose of 23 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4.6'
+  solution: |-
+    1 g in 200 ml <br />
+    23 g in 200 × 23 ml <br />
+    200 × 23 = 4600 ml = 4.6 l <br />
+    Round: 4.6 l
+- id: 7018
+  question: How many litres are required to provide a dose of 19 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '5.7'
+  solution: |-
+    1 g in 300 ml <br />
+    19 g in 300 × 19 ml <br />
+    300 × 19 = 5700 ml = 5.7 l <br />
+    Round: 5.7 l
+- id: 7019
+  question: How many litres are required to provide a dose of 82 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '16.4'
+  solution: |-
+    1 g in 200 ml <br />
+    82 g in 200 × 82 ml <br />
+    200 × 82 = 16400 ml = 16.4 l <br />
+    Round: 16.4 l
+- id: 7020
+  question: How many litres are required to provide a dose of 37 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '18.5'
+  solution: |-
+    1 g in 500 ml <br />
+    37 g in 500 × 37 ml <br />
+    500 × 37 = 18500 ml = 18.5 l <br />
+    Round: 18.5 l
+- id: 7021
+  question: How many litres are required to provide a dose of 26 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '19.5'
+  solution: |-
+    1 g in 750 ml <br />
+    26 g in 750 × 26 ml <br />
+    750 × 26 = 19500 ml = 19.5 l <br />
+    Round: 19.5 l
+- id: 7022
+  question: How many litres are required to provide a dose of 57 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '51.3'
+  solution: |-
+    1 g in 900 ml <br />
+    57 g in 900 × 57 ml <br />
+    900 × 57 = 51300 ml = 51.3 l <br />
+    Round: 51.3 l
+- id: 7023
+  question: How many litres are required to provide a dose of 63 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.5'
+  solution: |-
+    1 g in 40 ml <br />
+    63 g in 40 × 63 ml <br />
+    40 × 63 = 2520 ml = 2.52 l <br />
+    Round: 2.5 l
+- id: 7024
+  question: How many litres are required to provide a dose of 28 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.5'
+  solution: |-
+    1 g in 125 ml <br />
+    28 g in 125 × 28 ml <br />
+    125 × 28 = 3500 ml = 3.5 l <br />
+    Round: 3.5 l
+- id: 7025
+  question: How many litres are required to provide a dose of 11 g from a drug described
+    as 1 part in 25?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '0.3'
+  solution: |-
+    1 g in 25 ml <br />
+    11 g in 25 × 11 ml <br />
+    25 × 11 = 275 ml = 0.275 l <br />
+    Round: 0.3 l
+- id: 7026
+  question: How many litres are required to provide a dose of 84 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '12.6'
+  solution: |-
+    1 g in 150 ml <br />
+    84 g in 150 × 84 ml <br />
+    150 × 84 = 12600 ml = 12.6 l <br />
+    Round: 12.6 l
+- id: 7027
+  question: How many litres are required to provide a dose of 24 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.6'
+  solution: |-
+    1 g in 150 ml <br />
+    24 g in 150 × 24 ml <br />
+    150 × 24 = 3600 ml = 3.6 l <br />
+    Round: 3.6 l
+- id: 7028
+  question: How many litres are required to provide a dose of 39 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '11.7'
+  solution: |-
+    1 g in 300 ml <br />
+    39 g in 300 × 39 ml <br />
+    300 × 39 = 11700 ml = 11.7 l <br />
+    Round: 11.7 l
+- id: 7029
+  question: How many litres are required to provide a dose of 77 g from a drug described
+    as 1 part in 20?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.5'
+  solution: |-
+    1 g in 20 ml <br />
+    77 g in 20 × 77 ml <br />
+    20 × 77 = 1540 ml = 1.54 l <br />
+    Round: 1.5 l
+- id: 7030
+  question: How many litres are required to provide a dose of 87 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '52.2'
+  solution: |-
+    1 g in 600 ml <br />
+    87 g in 600 × 87 ml <br />
+    600 × 87 = 52200 ml = 52.2 l <br />
+    Round: 52.2 l
+- id: 7031
+  question: How many litres are required to provide a dose of 34 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '11.9'
+  solution: |-
+    1 g in 350 ml <br />
+    34 g in 350 × 34 ml <br />
+    350 × 34 = 11900 ml = 11.9 l <br />
+    Round: 11.9 l
+- id: 7032
+  question: How many litres are required to provide a dose of 77 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '23.1'
+  solution: |-
+    1 g in 300 ml <br />
+    77 g in 300 × 77 ml <br />
+    300 × 77 = 23100 ml = 23.1 l <br />
+    Round: 23.1 l
+- id: 7033
+  question: How many litres are required to provide a dose of 59 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '20.7'
+  solution: |-
+    1 g in 350 ml <br />
+    59 g in 350 × 59 ml <br />
+    350 × 59 = 20650 ml = 20.65 l <br />
+    Round: 20.7 l
+- id: 7034
+  question: How many litres are required to provide a dose of 41 g from a drug described
+    as 1 part in 400?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '16.4'
+  solution: |-
+    1 g in 400 ml <br />
+    41 g in 400 × 41 ml <br />
+    400 × 41 = 16400 ml = 16.4 l <br />
+    Round: 16.4 l
+- id: 7035
+  question: How many litres are required to provide a dose of 60 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '54'
+  solution: |-
+    1 g in 900 ml <br />
+    60 g in 900 × 60 ml <br />
+    900 × 60 = 54000 ml = 54 l <br />
+    Round: 54 l
+- id: 7036
+  question: How many litres are required to provide a dose of 79 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '17.8'
+  solution: |-
+    1 g in 225 ml <br />
+    79 g in 225 × 79 ml <br />
+    225 × 79 = 17775 ml = 17.775 l <br />
+    Round: 17.8 l
+- id: 7037
+  question: How many litres are required to provide a dose of 85 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '10.6'
+  solution: |-
+    1 g in 125 ml <br />
+    85 g in 125 × 85 ml <br />
+    125 × 85 = 10625 ml = 10.625 l <br />
+    Round: 10.6 l
+- id: 7038
+  question: How many litres are required to provide a dose of 20 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '5'
+  solution: |-
+    1 g in 250 ml <br />
+    20 g in 250 × 20 ml <br />
+    250 × 20 = 5000 ml = 5 l <br />
+    Round: 5 l
+- id: 7039
+  question: How many litres are required to provide a dose of 46 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '23'
+  solution: |-
+    1 g in 500 ml <br />
+    46 g in 500 × 46 ml <br />
+    500 × 46 = 23000 ml = 23 l <br />
+    Round: 23 l
+- id: 7040
+  question: How many litres are required to provide a dose of 73 g from a drug described
+    as 1 part in 20?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.5'
+  solution: |-
+    1 g in 20 ml <br />
+    73 g in 20 × 73 ml <br />
+    20 × 73 = 1460 ml = 1.46 l <br />
+    Round: 1.5 l
+- id: 7041
+  question: How many litres are required to provide a dose of 67 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '46.9'
+  solution: |-
+    1 g in 700 ml <br />
+    67 g in 700 × 67 ml <br />
+    700 × 67 = 46900 ml = 46.9 l <br />
+    Round: 46.9 l
+- id: 7042
+  question: How many litres are required to provide a dose of 36 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '27'
+  solution: |-
+    1 g in 750 ml <br />
+    36 g in 750 × 36 ml <br />
+    750 × 36 = 27000 ml = 27 l <br />
+    Round: 27 l
+- id: 7043
+  question: How many litres are required to provide a dose of 46 g from a drug described
+    as 1 part in 20?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '0.9'
+  solution: |-
+    1 g in 20 ml <br />
+    46 g in 20 × 46 ml <br />
+    20 × 46 = 920 ml = 0.92 l <br />
+    Round: 0.9 l
+- id: 7044
+  question: How many litres are required to provide a dose of 80 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '6.4'
+  solution: |-
+    1 g in 80 ml <br />
+    80 g in 80 × 80 ml <br />
+    80 × 80 = 6400 ml = 6.4 l <br />
+    Round: 6.4 l
+- id: 7045
+  question: How many litres are required to provide a dose of 33 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '16.5'
+  solution: |-
+    1 g in 500 ml <br />
+    33 g in 500 × 33 ml <br />
+    500 × 33 = 16500 ml = 16.5 l <br />
+    Round: 16.5 l
+- id: 7046
+  question: How many litres are required to provide a dose of 45 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '9'
+  solution: |-
+    1 g in 200 ml <br />
+    45 g in 200 × 45 ml <br />
+    200 × 45 = 9000 ml = 9 l <br />
+    Round: 9 l
+- id: 7047
+  question: How many litres are required to provide a dose of 61 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.4'
+  solution: |-
+    1 g in 40 ml <br />
+    61 g in 40 × 61 ml <br />
+    40 × 61 = 2440 ml = 2.44 l <br />
+    Round: 2.4 l
+- id: 7048
+  question: How many litres are required to provide a dose of 77 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '69.3'
+  solution: |-
+    1 g in 900 ml <br />
+    77 g in 900 × 77 ml <br />
+    900 × 77 = 69300 ml = 69.3 l <br />
+    Round: 69.3 l
+- id: 7049
+  question: How many litres are required to provide a dose of 25 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '15'
+  solution: |-
+    1 g in 600 ml <br />
+    25 g in 600 × 25 ml <br />
+    600 × 25 = 15000 ml = 15 l <br />
+    Round: 15 l
+- id: 7050
+  question: How many litres are required to provide a dose of 52 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '36.4'
+  solution: |-
+    1 g in 700 ml <br />
+    52 g in 700 × 52 ml <br />
+    700 × 52 = 36400 ml = 36.4 l <br />
+    Round: 36.4 l
+- id: 7051
+  question: How many litres are required to provide a dose of 24 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4.8'
+  solution: |-
+    1 g in 200 ml <br />
+    24 g in 200 × 24 ml <br />
+    200 × 24 = 4800 ml = 4.8 l <br />
+    Round: 4.8 l
+- id: 7052
+  question: How many litres are required to provide a dose of 82 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '26.7'
+  solution: |-
+    1 g in 325 ml <br />
+    82 g in 325 × 82 ml <br />
+    325 × 82 = 26650 ml = 26.65 l <br />
+    Round: 26.7 l
+- id: 7053
+  question: How many litres are required to provide a dose of 47 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.4'
+  solution: |-
+    1 g in 50 ml <br />
+    47 g in 50 × 47 ml <br />
+    50 × 47 = 2350 ml = 2.35 l <br />
+    Round: 2.4 l
+- id: 7054
+  question: How many litres are required to provide a dose of 84 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '58.8'
+  solution: |-
+    1 g in 700 ml <br />
+    84 g in 700 × 84 ml <br />
+    700 × 84 = 58800 ml = 58.8 l <br />
+    Round: 58.8 l
+- id: 7055
+  question: How many litres are required to provide a dose of 52 g from a drug described
+    as 1 part in 400?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '20.8'
+  solution: |-
+    1 g in 400 ml <br />
+    52 g in 400 × 52 ml <br />
+    400 × 52 = 20800 ml = 20.8 l <br />
+    Round: 20.8 l
+- id: 7056
+  question: How many litres are required to provide a dose of 40 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '28'
+  solution: |-
+    1 g in 700 ml <br />
+    40 g in 700 × 40 ml <br />
+    700 × 40 = 28000 ml = 28 l <br />
+    Round: 28 l
+- id: 7057
+  question: How many litres are required to provide a dose of 88 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '66'
+  solution: |-
+    1 g in 750 ml <br />
+    88 g in 750 × 88 ml <br />
+    750 × 88 = 66000 ml = 66 l <br />
+    Round: 66 l
+- id: 7058
+  question: How many litres are required to provide a dose of 16 g from a drug described
+    as 1 part in 20?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '0.3'
+  solution: |-
+    1 g in 20 ml <br />
+    16 g in 20 × 16 ml <br />
+    20 × 16 = 320 ml = 0.32 l <br />
+    Round: 0.3 l
+- id: 7059
+  question: How many litres are required to provide a dose of 20 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '6'
+  solution: |-
+    1 g in 300 ml <br />
+    20 g in 300 × 20 ml <br />
+    300 × 20 = 6000 ml = 6 l <br />
+    Round: 6 l
+- id: 7060
+  question: How many litres are required to provide a dose of 48 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '28.8'
+  solution: |-
+    1 g in 600 ml <br />
+    48 g in 600 × 48 ml <br />
+    600 × 48 = 28800 ml = 28.8 l <br />
+    Round: 28.8 l
+- id: 7061
+  question: How many litres are required to provide a dose of 45 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.8'
+  solution: |-
+    1 g in 40 ml <br />
+    45 g in 40 × 45 ml <br />
+    40 × 45 = 1800 ml = 1.8 l <br />
+    Round: 1.8 l
+- id: 7062
+  question: How many litres are required to provide a dose of 39 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '27.3'
+  solution: |-
+    1 g in 700 ml <br />
+    39 g in 700 × 39 ml <br />
+    700 × 39 = 27300 ml = 27.3 l <br />
+    Round: 27.3 l
+- id: 7063
+  question: How many litres are required to provide a dose of 75 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '45'
+  solution: |-
+    1 g in 600 ml <br />
+    75 g in 600 × 75 ml <br />
+    600 × 75 = 45000 ml = 45 l <br />
+    Round: 45 l
+- id: 7064
+  question: How many litres are required to provide a dose of 79 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '19.8'
+  solution: |-
+    1 g in 250 ml <br />
+    79 g in 250 × 79 ml <br />
+    250 × 79 = 19750 ml = 19.75 l <br />
+    Round: 19.8 l
+- id: 7065
+  question: How many litres are required to provide a dose of 51 g from a drug described
+    as 1 part in 400?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '20.4'
+  solution: |-
+    1 g in 400 ml <br />
+    51 g in 400 × 51 ml <br />
+    400 × 51 = 20400 ml = 20.4 l <br />
+    Round: 20.4 l
+- id: 7066
+  question: How many litres are required to provide a dose of 69 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '48.3'
+  solution: |-
+    1 g in 700 ml <br />
+    69 g in 700 × 69 ml <br />
+    700 × 69 = 48300 ml = 48.3 l <br />
+    Round: 48.3 l
+- id: 7067
+  question: How many litres are required to provide a dose of 17 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.4'
+  solution: |-
+    1 g in 80 ml <br />
+    17 g in 80 × 17 ml <br />
+    80 × 17 = 1360 ml = 1.36 l <br />
+    Round: 1.4 l
+- id: 7068
+  question: How many litres are required to provide a dose of 67 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '30.2'
+  solution: |-
+    1 g in 450 ml <br />
+    67 g in 450 × 67 ml <br />
+    450 × 67 = 30150 ml = 30.15 l <br />
+    Round: 30.2 l
+- id: 7069
+  question: How many litres are required to provide a dose of 84 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '50.4'
+  solution: |-
+    1 g in 600 ml <br />
+    84 g in 600 × 84 ml <br />
+    600 × 84 = 50400 ml = 50.4 l <br />
+    Round: 50.4 l
+- id: 7070
+  question: How many litres are required to provide a dose of 90 g from a drug described
+    as 1 part in 20?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.8'
+  solution: |-
+    1 g in 20 ml <br />
+    90 g in 20 × 90 ml <br />
+    20 × 90 = 1800 ml = 1.8 l <br />
+    Round: 1.8 l
+- id: 7071
+  question: How many litres are required to provide a dose of 51 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '45.9'
+  solution: |-
+    1 g in 900 ml <br />
+    51 g in 900 × 51 ml <br />
+    900 × 51 = 45900 ml = 45.9 l <br />
+    Round: 45.9 l
+- id: 7072
+  question: How many litres are required to provide a dose of 25 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '22.5'
+  solution: |-
+    1 g in 900 ml <br />
+    25 g in 900 × 25 ml <br />
+    900 × 25 = 22500 ml = 22.5 l <br />
+    Round: 22.5 l
+- id: 7073
+  question: How many litres are required to provide a dose of 86 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '77.4'
+  solution: |-
+    1 g in 900 ml <br />
+    86 g in 900 × 86 ml <br />
+    900 × 86 = 77400 ml = 77.4 l <br />
+    Round: 77.4 l
+- id: 7074
+  question: How many litres are required to provide a dose of 36 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '25.2'
+  solution: |-
+    1 g in 700 ml <br />
+    36 g in 700 × 36 ml <br />
+    700 × 36 = 25200 ml = 25.2 l <br />
+    Round: 25.2 l
+- id: 7075
+  question: How many litres are required to provide a dose of 12 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.7'
+  solution: |-
+    1 g in 225 ml <br />
+    12 g in 225 × 12 ml <br />
+    225 × 12 = 2700 ml = 2.7 l <br />
+    Round: 2.7 l
+- id: 7076
+  question: How many litres are required to provide a dose of 31 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '27.9'
+  solution: |-
+    1 g in 900 ml <br />
+    31 g in 900 × 31 ml <br />
+    900 × 31 = 27900 ml = 27.9 l <br />
+    Round: 27.9 l
+- id: 7077
+  question: How many litres are required to provide a dose of 59 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '53.1'
+  solution: |-
+    1 g in 900 ml <br />
+    59 g in 900 × 59 ml <br />
+    900 × 59 = 53100 ml = 53.1 l <br />
+    Round: 53.1 l
+- id: 7078
+  question: How many litres are required to provide a dose of 26 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '9.1'
+  solution: |-
+    1 g in 350 ml <br />
+    26 g in 350 × 26 ml <br />
+    350 × 26 = 9100 ml = 9.1 l <br />
+    Round: 9.1 l
+- id: 7079
+  question: How many litres are required to provide a dose of 87 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '19.6'
+  solution: |-
+    1 g in 225 ml <br />
+    87 g in 225 × 87 ml <br />
+    225 × 87 = 19575 ml = 19.575 l <br />
+    Round: 19.6 l
+- id: 7080
+  question: How many litres are required to provide a dose of 63 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '56.7'
+  solution: |-
+    1 g in 900 ml <br />
+    63 g in 900 × 63 ml <br />
+    900 × 63 = 56700 ml = 56.7 l <br />
+    Round: 56.7 l
+- id: 7081
+  question: How many litres are required to provide a dose of 73 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '21.9'
+  solution: |-
+    1 g in 300 ml <br />
+    73 g in 300 × 73 ml <br />
+    300 × 73 = 21900 ml = 21.9 l <br />
+    Round: 21.9 l
+- id: 7082
+  question: How many litres are required to provide a dose of 15 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '9'
+  solution: |-
+    1 g in 600 ml <br />
+    15 g in 600 × 15 ml <br />
+    600 × 15 = 9000 ml = 9 l <br />
+    Round: 9 l
+- id: 7083
+  question: How many litres are required to provide a dose of 23 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '11.5'
+  solution: |-
+    1 g in 500 ml <br />
+    23 g in 500 × 23 ml <br />
+    500 × 23 = 11500 ml = 11.5 l <br />
+    Round: 11.5 l
+- id: 7084
+  question: How many litres are required to provide a dose of 83 g from a drug described
+    as 1 part in 400?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '33.2'
+  solution: |-
+    1 g in 400 ml <br />
+    83 g in 400 × 83 ml <br />
+    400 × 83 = 33200 ml = 33.2 l <br />
+    Round: 33.2 l
+- id: 7085
+  question: How many litres are required to provide a dose of 87 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '65.3'
+  solution: |-
+    1 g in 750 ml <br />
+    87 g in 750 × 87 ml <br />
+    750 × 87 = 65250 ml = 65.25 l <br />
+    Round: 65.3 l
+- id: 7086
+  question: How many litres are required to provide a dose of 46 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '10.4'
+  solution: |-
+    1 g in 225 ml <br />
+    46 g in 225 × 46 ml <br />
+    225 × 46 = 10350 ml = 10.35 l <br />
+    Round: 10.4 l
+- id: 7087
+  question: How many litres are required to provide a dose of 11 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '5.5'
+  solution: |-
+    1 g in 500 ml <br />
+    11 g in 500 × 11 ml <br />
+    500 × 11 = 5500 ml = 5.5 l <br />
+    Round: 5.5 l
+- id: 7088
+  question: How many litres are required to provide a dose of 25 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - 2E+1
+  solution: |-
+    1 g in 800 ml <br />
+    25 g in 800 × 25 ml <br />
+    800 × 25 = 20000 ml = 2E+1 l <br />
+    Round: 2E+1 l
+- id: 7089
+  question: How many litres are required to provide a dose of 48 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '12'
+  solution: |-
+    1 g in 250 ml <br />
+    48 g in 250 × 48 ml <br />
+    250 × 48 = 12000 ml = 12 l <br />
+    Round: 12 l
+- id: 7090
+  question: How many litres are required to provide a dose of 49 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '39.2'
+  solution: |-
+    1 g in 800 ml <br />
+    49 g in 800 × 49 ml <br />
+    800 × 49 = 39200 ml = 39.2 l <br />
+    Round: 39.2 l
+- id: 7091
+  question: How many litres are required to provide a dose of 74 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '9.3'
+  solution: |-
+    1 g in 125 ml <br />
+    74 g in 125 × 74 ml <br />
+    125 × 74 = 9250 ml = 9.25 l <br />
+    Round: 9.3 l
+- id: 7092
+  question: How many litres are required to provide a dose of 24 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '16.8'
+  solution: |-
+    1 g in 700 ml <br />
+    24 g in 700 × 24 ml <br />
+    700 × 24 = 16800 ml = 16.8 l <br />
+    Round: 16.8 l
+- id: 7093
+  question: How many litres are required to provide a dose of 17 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '5.1'
+  solution: |-
+    1 g in 300 ml <br />
+    17 g in 300 × 17 ml <br />
+    300 × 17 = 5100 ml = 5.1 l <br />
+    Round: 5.1 l
+- id: 7094
+  question: How many litres are required to provide a dose of 10 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.5'
+  solution: |-
+    1 g in 350 ml <br />
+    10 g in 350 × 10 ml <br />
+    350 × 10 = 3500 ml = 3.5 l <br />
+    Round: 3.5 l
+- id: 7095
+  question: How many litres are required to provide a dose of 90 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '31.5'
+  solution: |-
+    1 g in 350 ml <br />
+    90 g in 350 × 90 ml <br />
+    350 × 90 = 31500 ml = 31.5 l <br />
+    Round: 31.5 l
+- id: 7096
+  question: How many litres are required to provide a dose of 47 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '5.9'
+  solution: |-
+    1 g in 125 ml <br />
+    47 g in 125 × 47 ml <br />
+    125 × 47 = 5875 ml = 5.875 l <br />
+    Round: 5.9 l
+- id: 7097
+  question: How many litres are required to provide a dose of 71 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '56.8'
+  solution: |-
+    1 g in 800 ml <br />
+    71 g in 800 × 71 ml <br />
+    800 × 71 = 56800 ml = 56.8 l <br />
+    Round: 56.8 l
+- id: 7098
+  question: How many litres are required to provide a dose of 16 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4'
+  solution: |-
+    1 g in 250 ml <br />
+    16 g in 250 × 16 ml <br />
+    250 × 16 = 4000 ml = 4 l <br />
+    Round: 4 l
+- id: 7099
+  question: How many litres are required to provide a dose of 44 g from a drug described
+    as 1 part in 20?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '0.9'
+  solution: |-
+    1 g in 20 ml <br />
+    44 g in 20 × 44 ml <br />
+    20 × 44 = 880 ml = 0.88 l <br />
+    Round: 0.9 l
+- id: 7100
+  question: How many litres are required to provide a dose of 15 g from a drug described
+    as 1 part in 400?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '6'
+  solution: |-
+    1 g in 400 ml <br />
+    15 g in 400 × 15 ml <br />
+    400 × 15 = 6000 ml = 6 l <br />
+    Round: 6 l
+- id: 7101
+  question: How many litres are required to provide a dose of 58 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '11.6'
+  solution: |-
+    1 g in 200 ml <br />
+    58 g in 200 × 58 ml <br />
+    200 × 58 = 11600 ml = 11.6 l <br />
+    Round: 11.6 l
+- id: 7102
+  question: How many litres are required to provide a dose of 25 g from a drug described
+    as 1 part in 400?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - 1E+1
+  solution: |-
+    1 g in 400 ml <br />
+    25 g in 400 × 25 ml <br />
+    400 × 25 = 10000 ml = 1E+1 l <br />
+    Round: 1E+1 l
+- id: 7103
+  question: How many litres are required to provide a dose of 40 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '28'
+  solution: |-
+    1 g in 700 ml <br />
+    40 g in 700 × 40 ml <br />
+    700 × 40 = 28000 ml = 28 l <br />
+    Round: 28 l
+- id: 7104
+  question: How many litres are required to provide a dose of 79 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4'
+  solution: |-
+    1 g in 50 ml <br />
+    79 g in 50 × 79 ml <br />
+    50 × 79 = 3950 ml = 3.95 l <br />
+    Round: 4 l
+- id: 7105
+  question: How many litres are required to provide a dose of 39 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '29.3'
+  solution: |-
+    1 g in 750 ml <br />
+    39 g in 750 × 39 ml <br />
+    750 × 39 = 29250 ml = 29.25 l <br />
+    Round: 29.3 l
+- id: 7106
+  question: How many litres are required to provide a dose of 47 g from a drug described
+    as 1 part in 25?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.2'
+  solution: |-
+    1 g in 25 ml <br />
+    47 g in 25 × 47 ml <br />
+    25 × 47 = 1175 ml = 1.175 l <br />
+    Round: 1.2 l
+- id: 7107
+  question: How many litres are required to provide a dose of 59 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '35.4'
+  solution: |-
+    1 g in 600 ml <br />
+    59 g in 600 × 59 ml <br />
+    600 × 59 = 35400 ml = 35.4 l <br />
+    Round: 35.4 l
+- id: 7108
+  question: How many litres are required to provide a dose of 36 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '8.1'
+  solution: |-
+    1 g in 225 ml <br />
+    36 g in 225 × 36 ml <br />
+    225 × 36 = 8100 ml = 8.1 l <br />
+    Round: 8.1 l
+- id: 7109
+  question: How many litres are required to provide a dose of 63 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '15.8'
+  solution: |-
+    1 g in 250 ml <br />
+    63 g in 250 × 63 ml <br />
+    250 × 63 = 15750 ml = 15.75 l <br />
+    Round: 15.8 l
+- id: 7110
+  question: How many litres are required to provide a dose of 76 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '9.5'
+  solution: |-
+    1 g in 125 ml <br />
+    76 g in 125 × 76 ml <br />
+    125 × 76 = 9500 ml = 9.5 l <br />
+    Round: 9.5 l
+- id: 7111
+  question: How many litres are required to provide a dose of 76 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '11.4'
+  solution: |-
+    1 g in 150 ml <br />
+    76 g in 150 × 76 ml <br />
+    150 × 76 = 11400 ml = 11.4 l <br />
+    Round: 11.4 l
+- id: 7112
+  question: How many litres are required to provide a dose of 51 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '7.7'
+  solution: |-
+    1 g in 150 ml <br />
+    51 g in 150 × 51 ml <br />
+    150 × 51 = 7650 ml = 7.65 l <br />
+    Round: 7.7 l
+- id: 7113
+  question: How many litres are required to provide a dose of 36 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '32.4'
+  solution: |-
+    1 g in 900 ml <br />
+    36 g in 900 × 36 ml <br />
+    900 × 36 = 32400 ml = 32.4 l <br />
+    Round: 32.4 l
+- id: 7114
+  question: How many litres are required to provide a dose of 23 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '10.4'
+  solution: |-
+    1 g in 450 ml <br />
+    23 g in 450 × 23 ml <br />
+    450 × 23 = 10350 ml = 10.35 l <br />
+    Round: 10.4 l
+- id: 7115
+  question: How many litres are required to provide a dose of 27 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.1'
+  solution: |-
+    1 g in 40 ml <br />
+    27 g in 40 × 27 ml <br />
+    40 × 27 = 1080 ml = 1.08 l <br />
+    Round: 1.1 l
+- id: 7116
+  question: How many litres are required to provide a dose of 34 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '6.8'
+  solution: |-
+    1 g in 200 ml <br />
+    34 g in 200 × 34 ml <br />
+    200 × 34 = 6800 ml = 6.8 l <br />
+    Round: 6.8 l
+- id: 7117
+  question: How many litres are required to provide a dose of 47 g from a drug described
+    as 1 part in 25?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.2'
+  solution: |-
+    1 g in 25 ml <br />
+    47 g in 25 × 47 ml <br />
+    25 × 47 = 1175 ml = 1.175 l <br />
+    Round: 1.2 l
+- id: 7118
+  question: How many litres are required to provide a dose of 27 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '8.8'
+  solution: |-
+    1 g in 325 ml <br />
+    27 g in 325 × 27 ml <br />
+    325 × 27 = 8775 ml = 8.775 l <br />
+    Round: 8.8 l
+- id: 7119
+  question: How many litres are required to provide a dose of 52 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4.2'
+  solution: |-
+    1 g in 80 ml <br />
+    52 g in 80 × 52 ml <br />
+    80 × 52 = 4160 ml = 4.16 l <br />
+    Round: 4.2 l
+- id: 7120
+  question: How many litres are required to provide a dose of 21 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '15.8'
+  solution: |-
+    1 g in 750 ml <br />
+    21 g in 750 × 21 ml <br />
+    750 × 21 = 15750 ml = 15.75 l <br />
+    Round: 15.8 l
+- id: 7121
+  question: How many litres are required to provide a dose of 22 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '16.5'
+  solution: |-
+    1 g in 750 ml <br />
+    22 g in 750 × 22 ml <br />
+    750 × 22 = 16500 ml = 16.5 l <br />
+    Round: 16.5 l
+- id: 7122
+  question: How many litres are required to provide a dose of 73 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '18.3'
+  solution: |-
+    1 g in 250 ml <br />
+    73 g in 250 × 73 ml <br />
+    250 × 73 = 18250 ml = 18.25 l <br />
+    Round: 18.3 l
+- id: 7123
+  question: How many litres are required to provide a dose of 75 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '67.5'
+  solution: |-
+    1 g in 900 ml <br />
+    75 g in 900 × 75 ml <br />
+    900 × 75 = 67500 ml = 67.5 l <br />
+    Round: 67.5 l
+- id: 7124
+  question: How many litres are required to provide a dose of 51 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '40.8'
+  solution: |-
+    1 g in 800 ml <br />
+    51 g in 800 × 51 ml <br />
+    800 × 51 = 40800 ml = 40.8 l <br />
+    Round: 40.8 l
+- id: 7125
+  question: How many litres are required to provide a dose of 39 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '17.6'
+  solution: |-
+    1 g in 450 ml <br />
+    39 g in 450 × 39 ml <br />
+    450 × 39 = 17550 ml = 17.55 l <br />
+    Round: 17.6 l
+- id: 7126
+  question: How many litres are required to provide a dose of 77 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '61.6'
+  solution: |-
+    1 g in 800 ml <br />
+    77 g in 800 × 77 ml <br />
+    800 × 77 = 61600 ml = 61.6 l <br />
+    Round: 61.6 l
+- id: 7127
+  question: How many litres are required to provide a dose of 27 g from a drug described
+    as 1 part in 20?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '0.5'
+  solution: |-
+    1 g in 20 ml <br />
+    27 g in 20 × 27 ml <br />
+    20 × 27 = 540 ml = 0.54 l <br />
+    Round: 0.5 l
+- id: 7128
+  question: How many litres are required to provide a dose of 73 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '21.9'
+  solution: |-
+    1 g in 300 ml <br />
+    73 g in 300 × 73 ml <br />
+    300 × 73 = 21900 ml = 21.9 l <br />
+    Round: 21.9 l
+- id: 7129
+  question: How many litres are required to provide a dose of 37 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '27.8'
+  solution: |-
+    1 g in 750 ml <br />
+    37 g in 750 × 37 ml <br />
+    750 × 37 = 27750 ml = 27.75 l <br />
+    Round: 27.8 l
+- id: 7130
+  question: How many litres are required to provide a dose of 66 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '5.3'
+  solution: |-
+    1 g in 80 ml <br />
+    66 g in 80 × 66 ml <br />
+    80 × 66 = 5280 ml = 5.28 l <br />
+    Round: 5.3 l
+- id: 7131
+  question: How many litres are required to provide a dose of 29 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.2'
+  solution: |-
+    1 g in 40 ml <br />
+    29 g in 40 × 29 ml <br />
+    40 × 29 = 1160 ml = 1.16 l <br />
+    Round: 1.2 l
+- id: 7132
+  question: How many litres are required to provide a dose of 78 g from a drug described
+    as 1 part in 25?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2'
+  solution: |-
+    1 g in 25 ml <br />
+    78 g in 25 × 78 ml <br />
+    25 × 78 = 1950 ml = 1.95 l <br />
+    Round: 2 l
+- id: 7133
+  question: How many litres are required to provide a dose of 29 g from a drug described
+    as 1 part in 20?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '0.6'
+  solution: |-
+    1 g in 20 ml <br />
+    29 g in 20 × 29 ml <br />
+    20 × 29 = 580 ml = 0.58 l <br />
+    Round: 0.6 l
+- id: 7134
+  question: How many litres are required to provide a dose of 72 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '43.2'
+  solution: |-
+    1 g in 600 ml <br />
+    72 g in 600 × 72 ml <br />
+    600 × 72 = 43200 ml = 43.2 l <br />
+    Round: 43.2 l
+- id: 7135
+  question: How many litres are required to provide a dose of 34 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '23.8'
+  solution: |-
+    1 g in 700 ml <br />
+    34 g in 700 × 34 ml <br />
+    700 × 34 = 23800 ml = 23.8 l <br />
+    Round: 23.8 l
+- id: 7136
+  question: How many litres are required to provide a dose of 30 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.8'
+  solution: |-
+    1 g in 125 ml <br />
+    30 g in 125 × 30 ml <br />
+    125 × 30 = 3750 ml = 3.75 l <br />
+    Round: 3.8 l
+- id: 7137
+  question: How many litres are required to provide a dose of 73 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '16.4'
+  solution: |-
+    1 g in 225 ml <br />
+    73 g in 225 × 73 ml <br />
+    225 × 73 = 16425 ml = 16.425 l <br />
+    Round: 16.4 l
+- id: 7138
+  question: How many litres are required to provide a dose of 83 g from a drug described
+    as 1 part in 25?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.1'
+  solution: |-
+    1 g in 25 ml <br />
+    83 g in 25 × 83 ml <br />
+    25 × 83 = 2075 ml = 2.075 l <br />
+    Round: 2.1 l
+- id: 7139
+  question: How many litres are required to provide a dose of 35 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.8'
+  solution: |-
+    1 g in 80 ml <br />
+    35 g in 80 × 35 ml <br />
+    80 × 35 = 2800 ml = 2.8 l <br />
+    Round: 2.8 l
+- id: 7140
+  question: How many litres are required to provide a dose of 38 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '13.3'
+  solution: |-
+    1 g in 350 ml <br />
+    38 g in 350 × 38 ml <br />
+    350 × 38 = 13300 ml = 13.3 l <br />
+    Round: 13.3 l
+- id: 7141
+  question: How many litres are required to provide a dose of 30 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '9.8'
+  solution: |-
+    1 g in 325 ml <br />
+    30 g in 325 × 30 ml <br />
+    325 × 30 = 9750 ml = 9.75 l <br />
+    Round: 9.8 l
+- id: 7142
+  question: How many litres are required to provide a dose of 46 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.7'
+  solution: |-
+    1 g in 80 ml <br />
+    46 g in 80 × 46 ml <br />
+    80 × 46 = 3680 ml = 3.68 l <br />
+    Round: 3.7 l
+- id: 7143
+  question: How many litres are required to provide a dose of 32 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '8'
+  solution: |-
+    1 g in 250 ml <br />
+    32 g in 250 × 32 ml <br />
+    250 × 32 = 8000 ml = 8 l <br />
+    Round: 8 l
+- id: 7144
+  question: How many litres are required to provide a dose of 85 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '21.3'
+  solution: |-
+    1 g in 250 ml <br />
+    85 g in 250 × 85 ml <br />
+    250 × 85 = 21250 ml = 21.25 l <br />
+    Round: 21.3 l
+- id: 7145
+  question: How many litres are required to provide a dose of 28 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '14'
+  solution: |-
+    1 g in 500 ml <br />
+    28 g in 500 × 28 ml <br />
+    500 × 28 = 14000 ml = 14 l <br />
+    Round: 14 l
+- id: 7146
+  question: How many litres are required to provide a dose of 47 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '15.3'
+  solution: |-
+    1 g in 325 ml <br />
+    47 g in 325 × 47 ml <br />
+    325 × 47 = 15275 ml = 15.275 l <br />
+    Round: 15.3 l
+- id: 7147
+  question: How many litres are required to provide a dose of 75 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - 6E+1
+  solution: |-
+    1 g in 800 ml <br />
+    75 g in 800 × 75 ml <br />
+    800 × 75 = 60000 ml = 6E+1 l <br />
+    Round: 6E+1 l
+- id: 7148
+  question: How many litres are required to provide a dose of 38 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '17.1'
+  solution: |-
+    1 g in 450 ml <br />
+    38 g in 450 × 38 ml <br />
+    450 × 38 = 17100 ml = 17.1 l <br />
+    Round: 17.1 l
+- id: 7149
+  question: How many litres are required to provide a dose of 45 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '14.6'
+  solution: |-
+    1 g in 325 ml <br />
+    45 g in 325 × 45 ml <br />
+    325 × 45 = 14625 ml = 14.625 l <br />
+    Round: 14.6 l
+- id: 7150
+  question: How many litres are required to provide a dose of 28 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '9.1'
+  solution: |-
+    1 g in 325 ml <br />
+    28 g in 325 × 28 ml <br />
+    325 × 28 = 9100 ml = 9.1 l <br />
+    Round: 9.1 l
+- id: 7151
+  question: How many litres are required to provide a dose of 13 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '0.5'
+  solution: |-
+    1 g in 40 ml <br />
+    13 g in 40 × 13 ml <br />
+    40 × 13 = 520 ml = 0.52 l <br />
+    Round: 0.5 l
+- id: 7152
+  question: How many litres are required to provide a dose of 84 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4.2'
+  solution: |-
+    1 g in 50 ml <br />
+    84 g in 50 × 84 ml <br />
+    50 × 84 = 4200 ml = 4.2 l <br />
+    Round: 4.2 l
+- id: 7153
+  question: How many litres are required to provide a dose of 83 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '6.6'
+  solution: |-
+    1 g in 80 ml <br />
+    83 g in 80 × 83 ml <br />
+    80 × 83 = 6640 ml = 6.64 l <br />
+    Round: 6.6 l
+- id: 7154
+  question: How many litres are required to provide a dose of 90 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4.5'
+  solution: |-
+    1 g in 50 ml <br />
+    90 g in 50 × 90 ml <br />
+    50 × 90 = 4500 ml = 4.5 l <br />
+    Round: 4.5 l
+- id: 7155
+  question: How many litres are required to provide a dose of 74 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '18.5'
+  solution: |-
+    1 g in 250 ml <br />
+    74 g in 250 × 74 ml <br />
+    250 × 74 = 18500 ml = 18.5 l <br />
+    Round: 18.5 l
+- id: 7156
+  question: How many litres are required to provide a dose of 78 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '54.6'
+  solution: |-
+    1 g in 700 ml <br />
+    78 g in 700 × 78 ml <br />
+    700 × 78 = 54600 ml = 54.6 l <br />
+    Round: 54.6 l
+- id: 7157
+  question: How many litres are required to provide a dose of 20 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - 1E+1
+  solution: |-
+    1 g in 500 ml <br />
+    20 g in 500 × 20 ml <br />
+    500 × 20 = 10000 ml = 1E+1 l <br />
+    Round: 1E+1 l
+- id: 7158
+  question: How many litres are required to provide a dose of 55 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4.4'
+  solution: |-
+    1 g in 80 ml <br />
+    55 g in 80 × 55 ml <br />
+    80 × 55 = 4400 ml = 4.4 l <br />
+    Round: 4.4 l
+- id: 7159
+  question: How many litres are required to provide a dose of 24 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '21.6'
+  solution: |-
+    1 g in 900 ml <br />
+    24 g in 900 × 24 ml <br />
+    900 × 24 = 21600 ml = 21.6 l <br />
+    Round: 21.6 l
+- id: 7160
+  question: How many litres are required to provide a dose of 46 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '13.8'
+  solution: |-
+    1 g in 300 ml <br />
+    46 g in 300 × 46 ml <br />
+    300 × 46 = 13800 ml = 13.8 l <br />
+    Round: 13.8 l
+- id: 7161
+  question: How many litres are required to provide a dose of 35 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '28'
+  solution: |-
+    1 g in 800 ml <br />
+    35 g in 800 × 35 ml <br />
+    800 × 35 = 28000 ml = 28 l <br />
+    Round: 28 l
+- id: 7162
+  question: How many litres are required to provide a dose of 38 g from a drug described
+    as 1 part in 20?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '0.8'
+  solution: |-
+    1 g in 20 ml <br />
+    38 g in 20 × 38 ml <br />
+    20 × 38 = 760 ml = 0.76 l <br />
+    Round: 0.8 l
+- id: 7163
+  question: How many litres are required to provide a dose of 87 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.5'
+  solution: |-
+    1 g in 40 ml <br />
+    87 g in 40 × 87 ml <br />
+    40 × 87 = 3480 ml = 3.48 l <br />
+    Round: 3.5 l
+- id: 7164
+  question: How many litres are required to provide a dose of 26 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.9'
+  solution: |-
+    1 g in 150 ml <br />
+    26 g in 150 × 26 ml <br />
+    150 × 26 = 3900 ml = 3.9 l <br />
+    Round: 3.9 l
+- id: 7165
+  question: How many litres are required to provide a dose of 84 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '37.8'
+  solution: |-
+    1 g in 450 ml <br />
+    84 g in 450 × 84 ml <br />
+    450 × 84 = 37800 ml = 37.8 l <br />
+    Round: 37.8 l
+- id: 7166
+  question: How many litres are required to provide a dose of 79 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '63.2'
+  solution: |-
+    1 g in 800 ml <br />
+    79 g in 800 × 79 ml <br />
+    800 × 79 = 63200 ml = 63.2 l <br />
+    Round: 63.2 l
+- id: 7167
+  question: How many litres are required to provide a dose of 35 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '8.8'
+  solution: |-
+    1 g in 250 ml <br />
+    35 g in 250 × 35 ml <br />
+    250 × 35 = 8750 ml = 8.75 l <br />
+    Round: 8.8 l
+- id: 7168
+  question: How many litres are required to provide a dose of 59 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '19.2'
+  solution: |-
+    1 g in 325 ml <br />
+    59 g in 325 × 59 ml <br />
+    325 × 59 = 19175 ml = 19.175 l <br />
+    Round: 19.2 l
+- id: 7169
+  question: How many litres are required to provide a dose of 85 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '6.8'
+  solution: |-
+    1 g in 80 ml <br />
+    85 g in 80 × 85 ml <br />
+    80 × 85 = 6800 ml = 6.8 l <br />
+    Round: 6.8 l
+- id: 7170
+  question: How many litres are required to provide a dose of 71 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '56.8'
+  solution: |-
+    1 g in 800 ml <br />
+    71 g in 800 × 71 ml <br />
+    800 × 71 = 56800 ml = 56.8 l <br />
+    Round: 56.8 l
+- id: 7171
+  question: How many litres are required to provide a dose of 90 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.6'
+  solution: |-
+    1 g in 40 ml <br />
+    90 g in 40 × 90 ml <br />
+    40 × 90 = 3600 ml = 3.6 l <br />
+    Round: 3.6 l
+- id: 7172
+  question: How many litres are required to provide a dose of 80 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '28'
+  solution: |-
+    1 g in 350 ml <br />
+    80 g in 350 × 80 ml <br />
+    350 × 80 = 28000 ml = 28 l <br />
+    Round: 28 l
+- id: 7173
+  question: How many litres are required to provide a dose of 29 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '13.1'
+  solution: |-
+    1 g in 450 ml <br />
+    29 g in 450 × 29 ml <br />
+    450 × 29 = 13050 ml = 13.05 l <br />
+    Round: 13.1 l
+- id: 7174
+  question: How many litres are required to provide a dose of 81 g from a drug described
+    as 1 part in 25?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2'
+  solution: |-
+    1 g in 25 ml <br />
+    81 g in 25 × 81 ml <br />
+    25 × 81 = 2025 ml = 2.025 l <br />
+    Round: 2 l
+- id: 7175
+  question: How many litres are required to provide a dose of 50 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '7.5'
+  solution: |-
+    1 g in 150 ml <br />
+    50 g in 150 × 50 ml <br />
+    150 × 50 = 7500 ml = 7.5 l <br />
+    Round: 7.5 l
+- id: 7176
+  question: How many litres are required to provide a dose of 54 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '32.4'
+  solution: |-
+    1 g in 600 ml <br />
+    54 g in 600 × 54 ml <br />
+    600 × 54 = 32400 ml = 32.4 l <br />
+    Round: 32.4 l
+- id: 7177
+  question: How many litres are required to provide a dose of 23 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '10.4'
+  solution: |-
+    1 g in 450 ml <br />
+    23 g in 450 × 23 ml <br />
+    450 × 23 = 10350 ml = 10.35 l <br />
+    Round: 10.4 l
+- id: 7178
+  question: How many litres are required to provide a dose of 84 g from a drug described
+    as 1 part in 25?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.1'
+  solution: |-
+    1 g in 25 ml <br />
+    84 g in 25 × 84 ml <br />
+    25 × 84 = 2100 ml = 2.1 l <br />
+    Round: 2.1 l
+- id: 7179
+  question: How many litres are required to provide a dose of 61 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '18.3'
+  solution: |-
+    1 g in 300 ml <br />
+    61 g in 300 × 61 ml <br />
+    300 × 61 = 18300 ml = 18.3 l <br />
+    Round: 18.3 l
+- id: 7180
+  question: How many litres are required to provide a dose of 79 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '11.9'
+  solution: |-
+    1 g in 150 ml <br />
+    79 g in 150 × 79 ml <br />
+    150 × 79 = 11850 ml = 11.85 l <br />
+    Round: 11.9 l
+- id: 7181
+  question: How many litres are required to provide a dose of 43 g from a drug described
+    as 1 part in 400?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '17.2'
+  solution: |-
+    1 g in 400 ml <br />
+    43 g in 400 × 43 ml <br />
+    400 × 43 = 17200 ml = 17.2 l <br />
+    Round: 17.2 l
+- id: 7182
+  question: How many litres are required to provide a dose of 59 g from a drug described
+    as 1 part in 25?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.5'
+  solution: |-
+    1 g in 25 ml <br />
+    59 g in 25 × 59 ml <br />
+    25 × 59 = 1475 ml = 1.475 l <br />
+    Round: 1.5 l
+- id: 7183
+  question: How many litres are required to provide a dose of 50 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - 4E+1
+  solution: |-
+    1 g in 800 ml <br />
+    50 g in 800 × 50 ml <br />
+    800 × 50 = 40000 ml = 4E+1 l <br />
+    Round: 4E+1 l
+- id: 7184
+  question: How many litres are required to provide a dose of 48 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '6'
+  solution: |-
+    1 g in 125 ml <br />
+    48 g in 125 × 48 ml <br />
+    125 × 48 = 6000 ml = 6 l <br />
+    Round: 6 l
+- id: 7185
+  question: How many litres are required to provide a dose of 38 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '26.6'
+  solution: |-
+    1 g in 700 ml <br />
+    38 g in 700 × 38 ml <br />
+    700 × 38 = 26600 ml = 26.6 l <br />
+    Round: 26.6 l
+- id: 7186
+  question: How many litres are required to provide a dose of 49 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.9'
+  solution: |-
+    1 g in 80 ml <br />
+    49 g in 80 × 49 ml <br />
+    80 × 49 = 3920 ml = 3.92 l <br />
+    Round: 3.9 l
+- id: 7187
+  question: How many litres are required to provide a dose of 89 g from a drug described
+    as 1 part in 20?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.8'
+  solution: |-
+    1 g in 20 ml <br />
+    89 g in 20 × 89 ml <br />
+    20 × 89 = 1780 ml = 1.78 l <br />
+    Round: 1.8 l
+- id: 7188
+  question: How many litres are required to provide a dose of 45 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '6.8'
+  solution: |-
+    1 g in 150 ml <br />
+    45 g in 150 × 45 ml <br />
+    150 × 45 = 6750 ml = 6.75 l <br />
+    Round: 6.8 l
+- id: 7189
+  question: How many litres are required to provide a dose of 70 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '56'
+  solution: |-
+    1 g in 800 ml <br />
+    70 g in 800 × 70 ml <br />
+    800 × 70 = 56000 ml = 56 l <br />
+    Round: 56 l
+- id: 7190
+  question: How many litres are required to provide a dose of 50 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.5'
+  solution: |-
+    1 g in 50 ml <br />
+    50 g in 50 × 50 ml <br />
+    50 × 50 = 2500 ml = 2.5 l <br />
+    Round: 2.5 l
+- id: 7191
+  question: How many litres are required to provide a dose of 13 g from a drug described
+    as 1 part in 25?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '0.3'
+  solution: |-
+    1 g in 25 ml <br />
+    13 g in 25 × 13 ml <br />
+    25 × 13 = 325 ml = 0.325 l <br />
+    Round: 0.3 l
+- id: 7192
+  question: How many litres are required to provide a dose of 29 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '8.7'
+  solution: |-
+    1 g in 300 ml <br />
+    29 g in 300 × 29 ml <br />
+    300 × 29 = 8700 ml = 8.7 l <br />
+    Round: 8.7 l
+- id: 7193
+  question: How many litres are required to provide a dose of 42 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '6.3'
+  solution: |-
+    1 g in 150 ml <br />
+    42 g in 150 × 42 ml <br />
+    150 × 42 = 6300 ml = 6.3 l <br />
+    Round: 6.3 l
+- id: 7194
+  question: How many litres are required to provide a dose of 55 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4.4'
+  solution: |-
+    1 g in 80 ml <br />
+    55 g in 80 × 55 ml <br />
+    80 × 55 = 4400 ml = 4.4 l <br />
+    Round: 4.4 l
+- id: 7195
+  question: How many litres are required to provide a dose of 33 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4.1'
+  solution: |-
+    1 g in 125 ml <br />
+    33 g in 125 × 33 ml <br />
+    125 × 33 = 4125 ml = 4.125 l <br />
+    Round: 4.1 l
+- id: 7196
+  question: How many litres are required to provide a dose of 17 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '5.1'
+  solution: |-
+    1 g in 300 ml <br />
+    17 g in 300 × 17 ml <br />
+    300 × 17 = 5100 ml = 5.1 l <br />
+    Round: 5.1 l
+- id: 7197
+  question: How many litres are required to provide a dose of 27 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '13.5'
+  solution: |-
+    1 g in 500 ml <br />
+    27 g in 500 × 27 ml <br />
+    500 × 27 = 13500 ml = 13.5 l <br />
+    Round: 13.5 l
+- id: 7198
+  question: How many litres are required to provide a dose of 87 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4.4'
+  solution: |-
+    1 g in 50 ml <br />
+    87 g in 50 × 87 ml <br />
+    50 × 87 = 4350 ml = 4.35 l <br />
+    Round: 4.4 l
+- id: 7199
+  question: How many litres are required to provide a dose of 44 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '30.8'
+  solution: |-
+    1 g in 700 ml <br />
+    44 g in 700 × 44 ml <br />
+    700 × 44 = 30800 ml = 30.8 l <br />
+    Round: 30.8 l
+- id: 7200
+  question: How many litres are required to provide a dose of 26 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.1'
+  solution: |-
+    1 g in 80 ml <br />
+    26 g in 80 × 26 ml <br />
+    80 × 26 = 2080 ml = 2.08 l <br />
+    Round: 2.1 l
+- id: 7201
+  question: How many litres are required to provide a dose of 44 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '14.3'
+  solution: |-
+    1 g in 325 ml <br />
+    44 g in 325 × 44 ml <br />
+    325 × 44 = 14300 ml = 14.3 l <br />
+    Round: 14.3 l
+- id: 7202
+  question: How many litres are required to provide a dose of 64 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '51.2'
+  solution: |-
+    1 g in 800 ml <br />
+    64 g in 800 × 64 ml <br />
+    800 × 64 = 51200 ml = 51.2 l <br />
+    Round: 51.2 l
+- id: 7203
+  question: How many litres are required to provide a dose of 83 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.3'
+  solution: |-
+    1 g in 40 ml <br />
+    83 g in 40 × 83 ml <br />
+    40 × 83 = 3320 ml = 3.32 l <br />
+    Round: 3.3 l
+- id: 7204
+  question: How many litres are required to provide a dose of 41 g from a drug described
+    as 1 part in 25?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1'
+  solution: |-
+    1 g in 25 ml <br />
+    41 g in 25 × 41 ml <br />
+    25 × 41 = 1025 ml = 1.025 l <br />
+    Round: 1 l
+- id: 7205
+  question: How many litres are required to provide a dose of 51 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '40.8'
+  solution: |-
+    1 g in 800 ml <br />
+    51 g in 800 × 51 ml <br />
+    800 × 51 = 40800 ml = 40.8 l <br />
+    Round: 40.8 l
+- id: 7206
+  question: How many litres are required to provide a dose of 76 g from a drug described
+    as 1 part in 25?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.9'
+  solution: |-
+    1 g in 25 ml <br />
+    76 g in 25 × 76 ml <br />
+    25 × 76 = 1900 ml = 1.9 l <br />
+    Round: 1.9 l
+- id: 7207
+  question: How many litres are required to provide a dose of 79 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '39.5'
+  solution: |-
+    1 g in 500 ml <br />
+    79 g in 500 × 79 ml <br />
+    500 × 79 = 39500 ml = 39.5 l <br />
+    Round: 39.5 l
+- id: 7208
+  question: How many litres are required to provide a dose of 33 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.6'
+  solution: |-
+    1 g in 80 ml <br />
+    33 g in 80 × 33 ml <br />
+    80 × 33 = 2640 ml = 2.64 l <br />
+    Round: 2.6 l
+- id: 7209
+  question: How many litres are required to provide a dose of 35 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '7'
+  solution: |-
+    1 g in 200 ml <br />
+    35 g in 200 × 35 ml <br />
+    200 × 35 = 7000 ml = 7 l <br />
+    Round: 7 l
+- id: 7210
+  question: How many litres are required to provide a dose of 73 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '16.4'
+  solution: |-
+    1 g in 225 ml <br />
+    73 g in 225 × 73 ml <br />
+    225 × 73 = 16425 ml = 16.425 l <br />
+    Round: 16.4 l
+- id: 7211
+  question: How many litres are required to provide a dose of 41 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.6'
+  solution: |-
+    1 g in 40 ml <br />
+    41 g in 40 × 41 ml <br />
+    40 × 41 = 1640 ml = 1.64 l <br />
+    Round: 1.6 l
+- id: 7212
+  question: How many litres are required to provide a dose of 53 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '37.1'
+  solution: |-
+    1 g in 700 ml <br />
+    53 g in 700 × 53 ml <br />
+    700 × 53 = 37100 ml = 37.1 l <br />
+    Round: 37.1 l
+- id: 7213
+  question: How many litres are required to provide a dose of 88 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '30.8'
+  solution: |-
+    1 g in 350 ml <br />
+    88 g in 350 × 88 ml <br />
+    350 × 88 = 30800 ml = 30.8 l <br />
+    Round: 30.8 l
+- id: 7214
+  question: How many litres are required to provide a dose of 64 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '20.8'
+  solution: |-
+    1 g in 325 ml <br />
+    64 g in 325 × 64 ml <br />
+    325 × 64 = 20800 ml = 20.8 l <br />
+    Round: 20.8 l
+- id: 7215
+  question: How many litres are required to provide a dose of 29 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '8.7'
+  solution: |-
+    1 g in 300 ml <br />
+    29 g in 300 × 29 ml <br />
+    300 × 29 = 8700 ml = 8.7 l <br />
+    Round: 8.7 l
+- id: 7216
+  question: How many litres are required to provide a dose of 24 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '7.2'
+  solution: |-
+    1 g in 300 ml <br />
+    24 g in 300 × 24 ml <br />
+    300 × 24 = 7200 ml = 7.2 l <br />
+    Round: 7.2 l
+- id: 7217
+  question: How many litres are required to provide a dose of 22 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4.4'
+  solution: |-
+    1 g in 200 ml <br />
+    22 g in 200 × 22 ml <br />
+    200 × 22 = 4400 ml = 4.4 l <br />
+    Round: 4.4 l
+- id: 7218
+  question: How many litres are required to provide a dose of 20 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '6.5'
+  solution: |-
+    1 g in 325 ml <br />
+    20 g in 325 × 20 ml <br />
+    325 × 20 = 6500 ml = 6.5 l <br />
+    Round: 6.5 l
+- id: 7219
+  question: How many litres are required to provide a dose of 46 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '36.8'
+  solution: |-
+    1 g in 800 ml <br />
+    46 g in 800 × 46 ml <br />
+    800 × 46 = 36800 ml = 36.8 l <br />
+    Round: 36.8 l
+- id: 7220
+  question: How many litres are required to provide a dose of 40 g from a drug described
+    as 1 part in 25?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1'
+  solution: |-
+    1 g in 25 ml <br />
+    40 g in 25 × 40 ml <br />
+    25 × 40 = 1000 ml = 1 l <br />
+    Round: 1 l
+- id: 7221
+  question: How many litres are required to provide a dose of 39 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '29.3'
+  solution: |-
+    1 g in 750 ml <br />
+    39 g in 750 × 39 ml <br />
+    750 × 39 = 29250 ml = 29.25 l <br />
+    Round: 29.3 l
+- id: 7222
+  question: How many litres are required to provide a dose of 22 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.1'
+  solution: |-
+    1 g in 50 ml <br />
+    22 g in 50 × 22 ml <br />
+    50 × 22 = 1100 ml = 1.1 l <br />
+    Round: 1.1 l
+- id: 7223
+  question: How many litres are required to provide a dose of 10 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.3'
+  solution: |-
+    1 g in 325 ml <br />
+    10 g in 325 × 10 ml <br />
+    325 × 10 = 3250 ml = 3.25 l <br />
+    Round: 3.3 l
+- id: 7224
+  question: How many litres are required to provide a dose of 18 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '6.3'
+  solution: |-
+    1 g in 350 ml <br />
+    18 g in 350 × 18 ml <br />
+    350 × 18 = 6300 ml = 6.3 l <br />
+    Round: 6.3 l
+- id: 7225
+  question: How many litres are required to provide a dose of 55 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '13.8'
+  solution: |-
+    1 g in 250 ml <br />
+    55 g in 250 × 55 ml <br />
+    250 × 55 = 13750 ml = 13.75 l <br />
+    Round: 13.8 l
+- id: 7226
+  question: How many litres are required to provide a dose of 20 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '12'
+  solution: |-
+    1 g in 600 ml <br />
+    20 g in 600 × 20 ml <br />
+    600 × 20 = 12000 ml = 12 l <br />
+    Round: 12 l
+- id: 7227
+  question: How many litres are required to provide a dose of 24 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.2'
+  solution: |-
+    1 g in 50 ml <br />
+    24 g in 50 × 24 ml <br />
+    50 × 24 = 1200 ml = 1.2 l <br />
+    Round: 1.2 l
+- id: 7228
+  question: How many litres are required to provide a dose of 32 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '14.4'
+  solution: |-
+    1 g in 450 ml <br />
+    32 g in 450 × 32 ml <br />
+    450 × 32 = 14400 ml = 14.4 l <br />
+    Round: 14.4 l
+- id: 7229
+  question: How many litres are required to provide a dose of 89 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '13.4'
+  solution: |-
+    1 g in 150 ml <br />
+    89 g in 150 × 89 ml <br />
+    150 × 89 = 13350 ml = 13.35 l <br />
+    Round: 13.4 l
+- id: 7230
+  question: How many litres are required to provide a dose of 25 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '17.5'
+  solution: |-
+    1 g in 700 ml <br />
+    25 g in 700 × 25 ml <br />
+    700 × 25 = 17500 ml = 17.5 l <br />
+    Round: 17.5 l
+- id: 7231
+  question: How many litres are required to provide a dose of 58 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '20.3'
+  solution: |-
+    1 g in 350 ml <br />
+    58 g in 350 × 58 ml <br />
+    350 × 58 = 20300 ml = 20.3 l <br />
+    Round: 20.3 l
+- id: 7232
+  question: How many litres are required to provide a dose of 71 g from a drug described
+    as 1 part in 20?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.4'
+  solution: |-
+    1 g in 20 ml <br />
+    71 g in 20 × 71 ml <br />
+    20 × 71 = 1420 ml = 1.42 l <br />
+    Round: 1.4 l
+- id: 7233
+  question: How many litres are required to provide a dose of 77 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '11.6'
+  solution: |-
+    1 g in 150 ml <br />
+    77 g in 150 × 77 ml <br />
+    150 × 77 = 11550 ml = 11.55 l <br />
+    Round: 11.6 l
+- id: 7234
+  question: How many litres are required to provide a dose of 24 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '7.2'
+  solution: |-
+    1 g in 300 ml <br />
+    24 g in 300 × 24 ml <br />
+    300 × 24 = 7200 ml = 7.2 l <br />
+    Round: 7.2 l
+- id: 7235
+  question: How many litres are required to provide a dose of 75 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '52.5'
+  solution: |-
+    1 g in 700 ml <br />
+    75 g in 700 × 75 ml <br />
+    700 × 75 = 52500 ml = 52.5 l <br />
+    Round: 52.5 l
+- id: 7236
+  question: How many litres are required to provide a dose of 25 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.8'
+  solution: |-
+    1 g in 150 ml <br />
+    25 g in 150 × 25 ml <br />
+    150 × 25 = 3750 ml = 3.75 l <br />
+    Round: 3.8 l
+- id: 7237
+  question: How many litres are required to provide a dose of 21 g from a drug described
+    as 1 part in 400?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '8.4'
+  solution: |-
+    1 g in 400 ml <br />
+    21 g in 400 × 21 ml <br />
+    400 × 21 = 8400 ml = 8.4 l <br />
+    Round: 8.4 l
+- id: 7238
+  question: How many litres are required to provide a dose of 33 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '24.8'
+  solution: |-
+    1 g in 750 ml <br />
+    33 g in 750 × 33 ml <br />
+    750 × 33 = 24750 ml = 24.75 l <br />
+    Round: 24.8 l
+- id: 7239
+  question: How many litres are required to provide a dose of 43 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.4'
+  solution: |-
+    1 g in 80 ml <br />
+    43 g in 80 × 43 ml <br />
+    80 × 43 = 3440 ml = 3.44 l <br />
+    Round: 3.4 l
+- id: 7240
+  question: How many litres are required to provide a dose of 44 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '19.8'
+  solution: |-
+    1 g in 450 ml <br />
+    44 g in 450 × 44 ml <br />
+    450 × 44 = 19800 ml = 19.8 l <br />
+    Round: 19.8 l
+- id: 7241
+  question: How many litres are required to provide a dose of 37 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '25.9'
+  solution: |-
+    1 g in 700 ml <br />
+    37 g in 700 × 37 ml <br />
+    700 × 37 = 25900 ml = 25.9 l <br />
+    Round: 25.9 l
+- id: 7242
+  question: How many litres are required to provide a dose of 33 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '26.4'
+  solution: |-
+    1 g in 800 ml <br />
+    33 g in 800 × 33 ml <br />
+    800 × 33 = 26400 ml = 26.4 l <br />
+    Round: 26.4 l
+- id: 7243
+  question: How many litres are required to provide a dose of 64 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '22.4'
+  solution: |-
+    1 g in 350 ml <br />
+    64 g in 350 × 64 ml <br />
+    350 × 64 = 22400 ml = 22.4 l <br />
+    Round: 22.4 l
+- id: 7244
+  question: How many litres are required to provide a dose of 13 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.9'
+  solution: |-
+    1 g in 225 ml <br />
+    13 g in 225 × 13 ml <br />
+    225 × 13 = 2925 ml = 2.925 l <br />
+    Round: 2.9 l
+- id: 7245
+  question: How many litres are required to provide a dose of 42 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '14.7'
+  solution: |-
+    1 g in 350 ml <br />
+    42 g in 350 × 42 ml <br />
+    350 × 42 = 14700 ml = 14.7 l <br />
+    Round: 14.7 l
+- id: 7246
+  question: How many litres are required to provide a dose of 44 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '15.4'
+  solution: |-
+    1 g in 350 ml <br />
+    44 g in 350 × 44 ml <br />
+    350 × 44 = 15400 ml = 15.4 l <br />
+    Round: 15.4 l
+- id: 7247
+  question: How many litres are required to provide a dose of 77 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '25'
+  solution: |-
+    1 g in 325 ml <br />
+    77 g in 325 × 77 ml <br />
+    325 × 77 = 25025 ml = 25.025 l <br />
+    Round: 25 l
+- id: 7248
+  question: How many litres are required to provide a dose of 66 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '19.8'
+  solution: |-
+    1 g in 300 ml <br />
+    66 g in 300 × 66 ml <br />
+    300 × 66 = 19800 ml = 19.8 l <br />
+    Round: 19.8 l
+- id: 7249
+  question: How many litres are required to provide a dose of 81 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '20.3'
+  solution: |-
+    1 g in 250 ml <br />
+    81 g in 250 × 81 ml <br />
+    250 × 81 = 20250 ml = 20.25 l <br />
+    Round: 20.3 l
+- id: 7250
+  question: How many litres are required to provide a dose of 30 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '21'
+  solution: |-
+    1 g in 700 ml <br />
+    30 g in 700 × 30 ml <br />
+    700 × 30 = 21000 ml = 21 l <br />
+    Round: 21 l
+- id: 7251
+  question: How many litres are required to provide a dose of 60 g from a drug described
+    as 1 part in 400?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '24'
+  solution: |-
+    1 g in 400 ml <br />
+    60 g in 400 × 60 ml <br />
+    400 × 60 = 24000 ml = 24 l <br />
+    Round: 24 l
+- id: 7252
+  question: How many litres are required to provide a dose of 84 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '16.8'
+  solution: |-
+    1 g in 200 ml <br />
+    84 g in 200 × 84 ml <br />
+    200 × 84 = 16800 ml = 16.8 l <br />
+    Round: 16.8 l
+- id: 7253
+  question: How many litres are required to provide a dose of 50 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '6.3'
+  solution: |-
+    1 g in 125 ml <br />
+    50 g in 125 × 50 ml <br />
+    125 × 50 = 6250 ml = 6.25 l <br />
+    Round: 6.3 l
+- id: 7254
+  question: How many litres are required to provide a dose of 59 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '29.5'
+  solution: |-
+    1 g in 500 ml <br />
+    59 g in 500 × 59 ml <br />
+    500 × 59 = 29500 ml = 29.5 l <br />
+    Round: 29.5 l
+- id: 7255
+  question: How many litres are required to provide a dose of 35 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '10.5'
+  solution: |-
+    1 g in 300 ml <br />
+    35 g in 300 × 35 ml <br />
+    300 × 35 = 10500 ml = 10.5 l <br />
+    Round: 10.5 l
+- id: 7256
+  question: How many litres are required to provide a dose of 20 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '14'
+  solution: |-
+    1 g in 700 ml <br />
+    20 g in 700 × 20 ml <br />
+    700 × 20 = 14000 ml = 14 l <br />
+    Round: 14 l
+- id: 7257
+  question: How many litres are required to provide a dose of 75 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '15'
+  solution: |-
+    1 g in 200 ml <br />
+    75 g in 200 × 75 ml <br />
+    200 × 75 = 15000 ml = 15 l <br />
+    Round: 15 l
+- id: 7258
+  question: How many litres are required to provide a dose of 53 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '23.9'
+  solution: |-
+    1 g in 450 ml <br />
+    53 g in 450 × 53 ml <br />
+    450 × 53 = 23850 ml = 23.85 l <br />
+    Round: 23.9 l
+- id: 7259
+  question: How many litres are required to provide a dose of 47 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '14.1'
+  solution: |-
+    1 g in 300 ml <br />
+    47 g in 300 × 47 ml <br />
+    300 × 47 = 14100 ml = 14.1 l <br />
+    Round: 14.1 l
+- id: 7260
+  question: How many litres are required to provide a dose of 89 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '80.1'
+  solution: |-
+    1 g in 900 ml <br />
+    89 g in 900 × 89 ml <br />
+    900 × 89 = 80100 ml = 80.1 l <br />
+    Round: 80.1 l
+- id: 7261
+  question: How many litres are required to provide a dose of 81 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '64.8'
+  solution: |-
+    1 g in 800 ml <br />
+    81 g in 800 × 81 ml <br />
+    800 × 81 = 64800 ml = 64.8 l <br />
+    Round: 64.8 l
+- id: 7262
+  question: How many litres are required to provide a dose of 90 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '63'
+  solution: |-
+    1 g in 700 ml <br />
+    90 g in 700 × 90 ml <br />
+    700 × 90 = 63000 ml = 63 l <br />
+    Round: 63 l
+- id: 7263
+  question: How many litres are required to provide a dose of 82 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '24.6'
+  solution: |-
+    1 g in 300 ml <br />
+    82 g in 300 × 82 ml <br />
+    300 × 82 = 24600 ml = 24.6 l <br />
+    Round: 24.6 l
+- id: 7264
+  question: How many litres are required to provide a dose of 33 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '14.9'
+  solution: |-
+    1 g in 450 ml <br />
+    33 g in 450 × 33 ml <br />
+    450 × 33 = 14850 ml = 14.85 l <br />
+    Round: 14.9 l
+- id: 7265
+  question: How many litres are required to provide a dose of 35 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.4'
+  solution: |-
+    1 g in 40 ml <br />
+    35 g in 40 × 35 ml <br />
+    40 × 35 = 1400 ml = 1.4 l <br />
+    Round: 1.4 l
+- id: 7266
+  question: How many litres are required to provide a dose of 20 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3'
+  solution: |-
+    1 g in 150 ml <br />
+    20 g in 150 × 20 ml <br />
+    150 × 20 = 3000 ml = 3 l <br />
+    Round: 3 l
+- id: 7267
+  question: How many litres are required to provide a dose of 34 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '17'
+  solution: |-
+    1 g in 500 ml <br />
+    34 g in 500 × 34 ml <br />
+    500 × 34 = 17000 ml = 17 l <br />
+    Round: 17 l
+- id: 7268
+  question: How many litres are required to provide a dose of 83 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '74.7'
+  solution: |-
+    1 g in 900 ml <br />
+    83 g in 900 × 83 ml <br />
+    900 × 83 = 74700 ml = 74.7 l <br />
+    Round: 74.7 l
+- id: 7269
+  question: How many litres are required to provide a dose of 86 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '6.9'
+  solution: |-
+    1 g in 80 ml <br />
+    86 g in 80 × 86 ml <br />
+    80 × 86 = 6880 ml = 6.88 l <br />
+    Round: 6.9 l
+- id: 7270
+  question: How many litres are required to provide a dose of 72 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.9'
+  solution: |-
+    1 g in 40 ml <br />
+    72 g in 40 × 72 ml <br />
+    40 × 72 = 2880 ml = 2.88 l <br />
+    Round: 2.9 l
+- id: 7271
+  question: How many litres are required to provide a dose of 12 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3'
+  solution: |-
+    1 g in 250 ml <br />
+    12 g in 250 × 12 ml <br />
+    250 × 12 = 3000 ml = 3 l <br />
+    Round: 3 l
+- id: 7272
+  question: How many litres are required to provide a dose of 28 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '8.4'
+  solution: |-
+    1 g in 300 ml <br />
+    28 g in 300 × 28 ml <br />
+    300 × 28 = 8400 ml = 8.4 l <br />
+    Round: 8.4 l
+- id: 7273
+  question: How many litres are required to provide a dose of 49 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '14.7'
+  solution: |-
+    1 g in 300 ml <br />
+    49 g in 300 × 49 ml <br />
+    300 × 49 = 14700 ml = 14.7 l <br />
+    Round: 14.7 l
+- id: 7274
+  question: How many litres are required to provide a dose of 34 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '10.2'
+  solution: |-
+    1 g in 300 ml <br />
+    34 g in 300 × 34 ml <br />
+    300 × 34 = 10200 ml = 10.2 l <br />
+    Round: 10.2 l
+- id: 7275
+  question: How many litres are required to provide a dose of 23 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '17.3'
+  solution: |-
+    1 g in 750 ml <br />
+    23 g in 750 × 23 ml <br />
+    750 × 23 = 17250 ml = 17.25 l <br />
+    Round: 17.3 l
+- id: 7276
+  question: How many litres are required to provide a dose of 46 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '32.2'
+  solution: |-
+    1 g in 700 ml <br />
+    46 g in 700 × 46 ml <br />
+    700 × 46 = 32200 ml = 32.2 l <br />
+    Round: 32.2 l
+- id: 7277
+  question: How many litres are required to provide a dose of 70 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '63'
+  solution: |-
+    1 g in 900 ml <br />
+    70 g in 900 × 70 ml <br />
+    900 × 70 = 63000 ml = 63 l <br />
+    Round: 63 l
+- id: 7278
+  question: How many litres are required to provide a dose of 16 g from a drug described
+    as 1 part in 400?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '6.4'
+  solution: |-
+    1 g in 400 ml <br />
+    16 g in 400 × 16 ml <br />
+    400 × 16 = 6400 ml = 6.4 l <br />
+    Round: 6.4 l
+- id: 7279
+  question: How many litres are required to provide a dose of 47 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '16.5'
+  solution: |-
+    1 g in 350 ml <br />
+    47 g in 350 × 47 ml <br />
+    350 × 47 = 16450 ml = 16.45 l <br />
+    Round: 16.5 l
+- id: 7280
+  question: How many litres are required to provide a dose of 46 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '9.2'
+  solution: |-
+    1 g in 200 ml <br />
+    46 g in 200 × 46 ml <br />
+    200 × 46 = 9200 ml = 9.2 l <br />
+    Round: 9.2 l
+- id: 7281
+  question: How many litres are required to provide a dose of 14 g from a drug described
+    as 1 part in 400?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '5.6'
+  solution: |-
+    1 g in 400 ml <br />
+    14 g in 400 × 14 ml <br />
+    400 × 14 = 5600 ml = 5.6 l <br />
+    Round: 5.6 l
+- id: 7282
+  question: How many litres are required to provide a dose of 54 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '8.1'
+  solution: |-
+    1 g in 150 ml <br />
+    54 g in 150 × 54 ml <br />
+    150 × 54 = 8100 ml = 8.1 l <br />
+    Round: 8.1 l
+- id: 7283
+  question: How many litres are required to provide a dose of 62 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '55.8'
+  solution: |-
+    1 g in 900 ml <br />
+    62 g in 900 × 62 ml <br />
+    900 × 62 = 55800 ml = 55.8 l <br />
+    Round: 55.8 l
+- id: 7284
+  question: How many litres are required to provide a dose of 19 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.4'
+  solution: |-
+    1 g in 125 ml <br />
+    19 g in 125 × 19 ml <br />
+    125 × 19 = 2375 ml = 2.375 l <br />
+    Round: 2.4 l
+- id: 7285
+  question: How many litres are required to provide a dose of 59 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '20.7'
+  solution: |-
+    1 g in 350 ml <br />
+    59 g in 350 × 59 ml <br />
+    350 × 59 = 20650 ml = 20.65 l <br />
+    Round: 20.7 l
+- id: 7286
+  question: How many litres are required to provide a dose of 33 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '9.9'
+  solution: |-
+    1 g in 300 ml <br />
+    33 g in 300 × 33 ml <br />
+    300 × 33 = 9900 ml = 9.9 l <br />
+    Round: 9.9 l
+- id: 7287
+  question: How many litres are required to provide a dose of 88 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '19.8'
+  solution: |-
+    1 g in 225 ml <br />
+    88 g in 225 × 88 ml <br />
+    225 × 88 = 19800 ml = 19.8 l <br />
+    Round: 19.8 l
+- id: 7288
+  question: How many litres are required to provide a dose of 28 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '19.6'
+  solution: |-
+    1 g in 700 ml <br />
+    28 g in 700 × 28 ml <br />
+    700 × 28 = 19600 ml = 19.6 l <br />
+    Round: 19.6 l
+- id: 7289
+  question: How many litres are required to provide a dose of 79 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '11.9'
+  solution: |-
+    1 g in 150 ml <br />
+    79 g in 150 × 79 ml <br />
+    150 × 79 = 11850 ml = 11.85 l <br />
+    Round: 11.9 l
+- id: 7290
+  question: How many litres are required to provide a dose of 45 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '14.6'
+  solution: |-
+    1 g in 325 ml <br />
+    45 g in 325 × 45 ml <br />
+    325 × 45 = 14625 ml = 14.625 l <br />
+    Round: 14.6 l
+- id: 7291
+  question: How many litres are required to provide a dose of 58 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.9'
+  solution: |-
+    1 g in 50 ml <br />
+    58 g in 50 × 58 ml <br />
+    50 × 58 = 2900 ml = 2.9 l <br />
+    Round: 2.9 l
+- id: 7292
+  question: How many litres are required to provide a dose of 77 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.9'
+  solution: |-
+    1 g in 50 ml <br />
+    77 g in 50 × 77 ml <br />
+    50 × 77 = 3850 ml = 3.85 l <br />
+    Round: 3.9 l
+- id: 7293
+  question: How many litres are required to provide a dose of 43 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.4'
+  solution: |-
+    1 g in 80 ml <br />
+    43 g in 80 × 43 ml <br />
+    80 × 43 = 3440 ml = 3.44 l <br />
+    Round: 3.4 l
+- id: 7294
+  question: How many litres are required to provide a dose of 67 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '21.8'
+  solution: |-
+    1 g in 325 ml <br />
+    67 g in 325 × 67 ml <br />
+    325 × 67 = 21775 ml = 21.775 l <br />
+    Round: 21.8 l
+- id: 7295
+  question: How many litres are required to provide a dose of 64 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '44.8'
+  solution: |-
+    1 g in 700 ml <br />
+    64 g in 700 × 64 ml <br />
+    700 × 64 = 44800 ml = 44.8 l <br />
+    Round: 44.8 l
+- id: 7296
+  question: How many litres are required to provide a dose of 67 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '30.2'
+  solution: |-
+    1 g in 450 ml <br />
+    67 g in 450 × 67 ml <br />
+    450 × 67 = 30150 ml = 30.15 l <br />
+    Round: 30.2 l
+- id: 7297
+  question: How many litres are required to provide a dose of 59 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '35.4'
+  solution: |-
+    1 g in 600 ml <br />
+    59 g in 600 × 59 ml <br />
+    600 × 59 = 35400 ml = 35.4 l <br />
+    Round: 35.4 l
+- id: 7298
+  question: How many litres are required to provide a dose of 11 g from a drug described
+    as 1 part in 25?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '0.3'
+  solution: |-
+    1 g in 25 ml <br />
+    11 g in 25 × 11 ml <br />
+    25 × 11 = 275 ml = 0.275 l <br />
+    Round: 0.3 l
+- id: 7299
+  question: How many litres are required to provide a dose of 83 g from a drug described
+    as 1 part in 400?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '33.2'
+  solution: |-
+    1 g in 400 ml <br />
+    83 g in 400 × 83 ml <br />
+    400 × 83 = 33200 ml = 33.2 l <br />
+    Round: 33.2 l
+- id: 7300
+  question: How many litres are required to provide a dose of 41 g from a drug described
+    as 1 part in 25?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1'
+  solution: |-
+    1 g in 25 ml <br />
+    41 g in 25 × 41 ml <br />
+    25 × 41 = 1025 ml = 1.025 l <br />
+    Round: 1 l
+- id: 7301
+  question: How many litres are required to provide a dose of 57 g from a drug described
+    as 1 part in 20?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.1'
+  solution: |-
+    1 g in 20 ml <br />
+    57 g in 20 × 57 ml <br />
+    20 × 57 = 1140 ml = 1.14 l <br />
+    Round: 1.1 l
+- id: 7302
+  question: How many litres are required to provide a dose of 77 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '17.3'
+  solution: |-
+    1 g in 225 ml <br />
+    77 g in 225 × 77 ml <br />
+    225 × 77 = 17325 ml = 17.325 l <br />
+    Round: 17.3 l
+- id: 7303
+  question: How many litres are required to provide a dose of 37 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '29.6'
+  solution: |-
+    1 g in 800 ml <br />
+    37 g in 800 × 37 ml <br />
+    800 × 37 = 29600 ml = 29.6 l <br />
+    Round: 29.6 l
+- id: 7304
+  question: How many litres are required to provide a dose of 84 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '42'
+  solution: |-
+    1 g in 500 ml <br />
+    84 g in 500 × 84 ml <br />
+    500 × 84 = 42000 ml = 42 l <br />
+    Round: 42 l
+- id: 7305
+  question: How many litres are required to provide a dose of 36 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.9'
+  solution: |-
+    1 g in 80 ml <br />
+    36 g in 80 × 36 ml <br />
+    80 × 36 = 2880 ml = 2.88 l <br />
+    Round: 2.9 l
+- id: 7306
+  question: How many litres are required to provide a dose of 36 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '7.2'
+  solution: |-
+    1 g in 200 ml <br />
+    36 g in 200 × 36 ml <br />
+    200 × 36 = 7200 ml = 7.2 l <br />
+    Round: 7.2 l
+- id: 7307
+  question: How many litres are required to provide a dose of 78 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '39'
+  solution: |-
+    1 g in 500 ml <br />
+    78 g in 500 × 78 ml <br />
+    500 × 78 = 39000 ml = 39 l <br />
+    Round: 39 l
+- id: 7308
+  question: How many litres are required to provide a dose of 65 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '16.3'
+  solution: |-
+    1 g in 250 ml <br />
+    65 g in 250 × 65 ml <br />
+    250 × 65 = 16250 ml = 16.25 l <br />
+    Round: 16.3 l
+- id: 7309
+  question: How many litres are required to provide a dose of 32 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '28.8'
+  solution: |-
+    1 g in 900 ml <br />
+    32 g in 900 × 32 ml <br />
+    900 × 32 = 28800 ml = 28.8 l <br />
+    Round: 28.8 l
+- id: 7310
+  question: How many litres are required to provide a dose of 18 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4.1'
+  solution: |-
+    1 g in 225 ml <br />
+    18 g in 225 × 18 ml <br />
+    225 × 18 = 4050 ml = 4.05 l <br />
+    Round: 4.1 l
+- id: 7311
+  question: How many litres are required to provide a dose of 73 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '16.4'
+  solution: |-
+    1 g in 225 ml <br />
+    73 g in 225 × 73 ml <br />
+    225 × 73 = 16425 ml = 16.425 l <br />
+    Round: 16.4 l
+- id: 7312
+  question: How many litres are required to provide a dose of 89 g from a drug described
+    as 1 part in 25?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.2'
+  solution: |-
+    1 g in 25 ml <br />
+    89 g in 25 × 89 ml <br />
+    25 × 89 = 2225 ml = 2.225 l <br />
+    Round: 2.2 l
+- id: 7313
+  question: How many litres are required to provide a dose of 47 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '21.2'
+  solution: |-
+    1 g in 450 ml <br />
+    47 g in 450 × 47 ml <br />
+    450 × 47 = 21150 ml = 21.15 l <br />
+    Round: 21.2 l
+- id: 7314
+  question: How many litres are required to provide a dose of 82 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '10.3'
+  solution: |-
+    1 g in 125 ml <br />
+    82 g in 125 × 82 ml <br />
+    125 × 82 = 10250 ml = 10.25 l <br />
+    Round: 10.3 l
+- id: 7315
+  question: How many litres are required to provide a dose of 74 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3'
+  solution: |-
+    1 g in 40 ml <br />
+    74 g in 40 × 74 ml <br />
+    40 × 74 = 2960 ml = 2.96 l <br />
+    Round: 3 l
+- id: 7316
+  question: How many litres are required to provide a dose of 84 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '37.8'
+  solution: |-
+    1 g in 450 ml <br />
+    84 g in 450 × 84 ml <br />
+    450 × 84 = 37800 ml = 37.8 l <br />
+    Round: 37.8 l
+- id: 7317
+  question: How many litres are required to provide a dose of 83 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '49.8'
+  solution: |-
+    1 g in 600 ml <br />
+    83 g in 600 × 83 ml <br />
+    600 × 83 = 49800 ml = 49.8 l <br />
+    Round: 49.8 l
+- id: 7318
+  question: How many litres are required to provide a dose of 50 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '12.5'
+  solution: |-
+    1 g in 250 ml <br />
+    50 g in 250 × 50 ml <br />
+    250 × 50 = 12500 ml = 12.5 l <br />
+    Round: 12.5 l
+- id: 7319
+  question: How many litres are required to provide a dose of 89 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '80.1'
+  solution: |-
+    1 g in 900 ml <br />
+    89 g in 900 × 89 ml <br />
+    900 × 89 = 80100 ml = 80.1 l <br />
+    Round: 80.1 l
+- id: 7320
+  question: How many litres are required to provide a dose of 49 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '6.1'
+  solution: |-
+    1 g in 125 ml <br />
+    49 g in 125 × 49 ml <br />
+    125 × 49 = 6125 ml = 6.125 l <br />
+    Round: 6.1 l
+- id: 7321
+  question: How many litres are required to provide a dose of 30 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '7.5'
+  solution: |-
+    1 g in 250 ml <br />
+    30 g in 250 × 30 ml <br />
+    250 × 30 = 7500 ml = 7.5 l <br />
+    Round: 7.5 l
+- id: 7322
+  question: How many litres are required to provide a dose of 33 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.6'
+  solution: |-
+    1 g in 80 ml <br />
+    33 g in 80 × 33 ml <br />
+    80 × 33 = 2640 ml = 2.64 l <br />
+    Round: 2.6 l
+- id: 7323
+  question: How many litres are required to provide a dose of 31 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '18.6'
+  solution: |-
+    1 g in 600 ml <br />
+    31 g in 600 × 31 ml <br />
+    600 × 31 = 18600 ml = 18.6 l <br />
+    Round: 18.6 l
+- id: 7324
+  question: How many litres are required to provide a dose of 81 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '24.3'
+  solution: |-
+    1 g in 300 ml <br />
+    81 g in 300 × 81 ml <br />
+    300 × 81 = 24300 ml = 24.3 l <br />
+    Round: 24.3 l
+- id: 7325
+  question: How many litres are required to provide a dose of 30 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '7.5'
+  solution: |-
+    1 g in 250 ml <br />
+    30 g in 250 × 30 ml <br />
+    250 × 30 = 7500 ml = 7.5 l <br />
+    Round: 7.5 l
+- id: 7326
+  question: How many litres are required to provide a dose of 78 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.9'
+  solution: |-
+    1 g in 50 ml <br />
+    78 g in 50 × 78 ml <br />
+    50 × 78 = 3900 ml = 3.9 l <br />
+    Round: 3.9 l
+- id: 7327
+  question: How many litres are required to provide a dose of 62 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '37.2'
+  solution: |-
+    1 g in 600 ml <br />
+    62 g in 600 × 62 ml <br />
+    600 × 62 = 37200 ml = 37.2 l <br />
+    Round: 37.2 l
+- id: 7328
+  question: How many litres are required to provide a dose of 26 g from a drug described
+    as 1 part in 25?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '0.7'
+  solution: |-
+    1 g in 25 ml <br />
+    26 g in 25 × 26 ml <br />
+    25 × 26 = 650 ml = 0.65 l <br />
+    Round: 0.7 l
+- id: 7329
+  question: How many litres are required to provide a dose of 19 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.8'
+  solution: |-
+    1 g in 200 ml <br />
+    19 g in 200 × 19 ml <br />
+    200 × 19 = 3800 ml = 3.8 l <br />
+    Round: 3.8 l
+- id: 7330
+  question: How many litres are required to provide a dose of 49 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '12.3'
+  solution: |-
+    1 g in 250 ml <br />
+    49 g in 250 × 49 ml <br />
+    250 × 49 = 12250 ml = 12.25 l <br />
+    Round: 12.3 l
+- id: 7331
+  question: How many litres are required to provide a dose of 53 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '13.3'
+  solution: |-
+    1 g in 250 ml <br />
+    53 g in 250 × 53 ml <br />
+    250 × 53 = 13250 ml = 13.25 l <br />
+    Round: 13.3 l
+- id: 7332
+  question: How many litres are required to provide a dose of 76 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '34.2'
+  solution: |-
+    1 g in 450 ml <br />
+    76 g in 450 × 76 ml <br />
+    450 × 76 = 34200 ml = 34.2 l <br />
+    Round: 34.2 l
+- id: 7333
+  question: How many litres are required to provide a dose of 47 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '14.1'
+  solution: |-
+    1 g in 300 ml <br />
+    47 g in 300 × 47 ml <br />
+    300 × 47 = 14100 ml = 14.1 l <br />
+    Round: 14.1 l
+- id: 7334
+  question: How many litres are required to provide a dose of 79 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '9.9'
+  solution: |-
+    1 g in 125 ml <br />
+    79 g in 125 × 79 ml <br />
+    125 × 79 = 9875 ml = 9.875 l <br />
+    Round: 9.9 l
+- id: 7335
+  question: How many litres are required to provide a dose of 48 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '21.6'
+  solution: |-
+    1 g in 450 ml <br />
+    48 g in 450 × 48 ml <br />
+    450 × 48 = 21600 ml = 21.6 l <br />
+    Round: 21.6 l
+- id: 7336
+  question: How many litres are required to provide a dose of 52 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '15.6'
+  solution: |-
+    1 g in 300 ml <br />
+    52 g in 300 × 52 ml <br />
+    300 × 52 = 15600 ml = 15.6 l <br />
+    Round: 15.6 l
+- id: 7337
+  question: How many litres are required to provide a dose of 65 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '19.5'
+  solution: |-
+    1 g in 300 ml <br />
+    65 g in 300 × 65 ml <br />
+    300 × 65 = 19500 ml = 19.5 l <br />
+    Round: 19.5 l
+- id: 7338
+  question: How many litres are required to provide a dose of 56 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '19.6'
+  solution: |-
+    1 g in 350 ml <br />
+    56 g in 350 × 56 ml <br />
+    350 × 56 = 19600 ml = 19.6 l <br />
+    Round: 19.6 l
+- id: 7339
+  question: How many litres are required to provide a dose of 32 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '19.2'
+  solution: |-
+    1 g in 600 ml <br />
+    32 g in 600 × 32 ml <br />
+    600 × 32 = 19200 ml = 19.2 l <br />
+    Round: 19.2 l
+- id: 7340
+  question: How many litres are required to provide a dose of 44 g from a drug described
+    as 1 part in 25?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.1'
+  solution: |-
+    1 g in 25 ml <br />
+    44 g in 25 × 44 ml <br />
+    25 × 44 = 1100 ml = 1.1 l <br />
+    Round: 1.1 l
+- id: 7341
+  question: How many litres are required to provide a dose of 69 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '8.6'
+  solution: |-
+    1 g in 125 ml <br />
+    69 g in 125 × 69 ml <br />
+    125 × 69 = 8625 ml = 8.625 l <br />
+    Round: 8.6 l
+- id: 7342
+  question: How many litres are required to provide a dose of 78 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '58.5'
+  solution: |-
+    1 g in 750 ml <br />
+    78 g in 750 × 78 ml <br />
+    750 × 78 = 58500 ml = 58.5 l <br />
+    Round: 58.5 l
+- id: 7343
+  question: How many litres are required to provide a dose of 27 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.4'
+  solution: |-
+    1 g in 125 ml <br />
+    27 g in 125 × 27 ml <br />
+    125 × 27 = 3375 ml = 3.375 l <br />
+    Round: 3.4 l
+- id: 7344
+  question: How many litres are required to provide a dose of 87 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '60.9'
+  solution: |-
+    1 g in 700 ml <br />
+    87 g in 700 × 87 ml <br />
+    700 × 87 = 60900 ml = 60.9 l <br />
+    Round: 60.9 l
+- id: 7345
+  question: How many litres are required to provide a dose of 87 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '26.1'
+  solution: |-
+    1 g in 300 ml <br />
+    87 g in 300 × 87 ml <br />
+    300 × 87 = 26100 ml = 26.1 l <br />
+    Round: 26.1 l
+- id: 7346
+  question: How many litres are required to provide a dose of 10 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.3'
+  solution: |-
+    1 g in 225 ml <br />
+    10 g in 225 × 10 ml <br />
+    225 × 10 = 2250 ml = 2.25 l <br />
+    Round: 2.3 l
+- id: 7347
+  question: How many litres are required to provide a dose of 46 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '9.2'
+  solution: |-
+    1 g in 200 ml <br />
+    46 g in 200 × 46 ml <br />
+    200 × 46 = 9200 ml = 9.2 l <br />
+    Round: 9.2 l
+- id: 7348
+  question: How many litres are required to provide a dose of 13 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.6'
+  solution: |-
+    1 g in 125 ml <br />
+    13 g in 125 × 13 ml <br />
+    125 × 13 = 1625 ml = 1.625 l <br />
+    Round: 1.6 l
+- id: 7349
+  question: How many litres are required to provide a dose of 80 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '18'
+  solution: |-
+    1 g in 225 ml <br />
+    80 g in 225 × 80 ml <br />
+    225 × 80 = 18000 ml = 18 l <br />
+    Round: 18 l
+- id: 7350
+  question: How many litres are required to provide a dose of 11 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '0.6'
+  solution: |-
+    1 g in 50 ml <br />
+    11 g in 50 × 11 ml <br />
+    50 × 11 = 550 ml = 0.55 l <br />
+    Round: 0.6 l
+- id: 7351
+  question: How many litres are required to provide a dose of 29 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.2'
+  solution: |-
+    1 g in 40 ml <br />
+    29 g in 40 × 29 ml <br />
+    40 × 29 = 1160 ml = 1.16 l <br />
+    Round: 1.2 l
+- id: 7352
+  question: How many litres are required to provide a dose of 20 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.6'
+  solution: |-
+    1 g in 80 ml <br />
+    20 g in 80 × 20 ml <br />
+    80 × 20 = 1600 ml = 1.6 l <br />
+    Round: 1.6 l
+- id: 7353
+  question: How many litres are required to provide a dose of 64 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.2'
+  solution: |-
+    1 g in 50 ml <br />
+    64 g in 50 × 64 ml <br />
+    50 × 64 = 3200 ml = 3.2 l <br />
+    Round: 3.2 l
+- id: 7354
+  question: How many litres are required to provide a dose of 90 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '22.5'
+  solution: |-
+    1 g in 250 ml <br />
+    90 g in 250 × 90 ml <br />
+    250 × 90 = 22500 ml = 22.5 l <br />
+    Round: 22.5 l
+- id: 7355
+  question: How many litres are required to provide a dose of 37 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '33.3'
+  solution: |-
+    1 g in 900 ml <br />
+    37 g in 900 × 37 ml <br />
+    900 × 37 = 33300 ml = 33.3 l <br />
+    Round: 33.3 l
+- id: 7356
+  question: How many litres are required to provide a dose of 84 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '42'
+  solution: |-
+    1 g in 500 ml <br />
+    84 g in 500 × 84 ml <br />
+    500 × 84 = 42000 ml = 42 l <br />
+    Round: 42 l
+- id: 7357
+  question: How many litres are required to provide a dose of 24 g from a drug described
+    as 1 part in 400?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '9.6'
+  solution: |-
+    1 g in 400 ml <br />
+    24 g in 400 × 24 ml <br />
+    400 × 24 = 9600 ml = 9.6 l <br />
+    Round: 9.6 l
+- id: 7358
+  question: How many litres are required to provide a dose of 37 g from a drug described
+    as 1 part in 25?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '0.9'
+  solution: |-
+    1 g in 25 ml <br />
+    37 g in 25 × 37 ml <br />
+    25 × 37 = 925 ml = 0.925 l <br />
+    Round: 0.9 l
+- id: 7359
+  question: How many litres are required to provide a dose of 43 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '25.8'
+  solution: |-
+    1 g in 600 ml <br />
+    43 g in 600 × 43 ml <br />
+    600 × 43 = 25800 ml = 25.8 l <br />
+    Round: 25.8 l
+- id: 7360
+  question: How many litres are required to provide a dose of 12 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '0.5'
+  solution: |-
+    1 g in 40 ml <br />
+    12 g in 40 × 12 ml <br />
+    40 × 12 = 480 ml = 0.48 l <br />
+    Round: 0.5 l
+- id: 7361
+  question: How many litres are required to provide a dose of 52 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '10.4'
+  solution: |-
+    1 g in 200 ml <br />
+    52 g in 200 × 52 ml <br />
+    200 × 52 = 10400 ml = 10.4 l <br />
+    Round: 10.4 l
+- id: 7362
+  question: How many litres are required to provide a dose of 69 g from a drug described
+    as 1 part in 400?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '27.6'
+  solution: |-
+    1 g in 400 ml <br />
+    69 g in 400 × 69 ml <br />
+    400 × 69 = 27600 ml = 27.6 l <br />
+    Round: 27.6 l
+- id: 7363
+  question: How many litres are required to provide a dose of 68 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '47.6'
+  solution: |-
+    1 g in 700 ml <br />
+    68 g in 700 × 68 ml <br />
+    700 × 68 = 47600 ml = 47.6 l <br />
+    Round: 47.6 l
+- id: 7364
+  question: How many litres are required to provide a dose of 77 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.9'
+  solution: |-
+    1 g in 50 ml <br />
+    77 g in 50 × 77 ml <br />
+    50 × 77 = 3850 ml = 3.85 l <br />
+    Round: 3.9 l
+- id: 7365
+  question: How many litres are required to provide a dose of 51 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '16.6'
+  solution: |-
+    1 g in 325 ml <br />
+    51 g in 325 × 51 ml <br />
+    325 × 51 = 16575 ml = 16.575 l <br />
+    Round: 16.6 l
+- id: 7366
+  question: How many litres are required to provide a dose of 86 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '38.7'
+  solution: |-
+    1 g in 450 ml <br />
+    86 g in 450 × 86 ml <br />
+    450 × 86 = 38700 ml = 38.7 l <br />
+    Round: 38.7 l
+- id: 7367
+  question: How many litres are required to provide a dose of 33 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '10.7'
+  solution: |-
+    1 g in 325 ml <br />
+    33 g in 325 × 33 ml <br />
+    325 × 33 = 10725 ml = 10.725 l <br />
+    Round: 10.7 l
+- id: 7368
+  question: How many litres are required to provide a dose of 54 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '37.8'
+  solution: |-
+    1 g in 700 ml <br />
+    54 g in 700 × 54 ml <br />
+    700 × 54 = 37800 ml = 37.8 l <br />
+    Round: 37.8 l
+- id: 7369
+  question: How many litres are required to provide a dose of 32 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4'
+  solution: |-
+    1 g in 125 ml <br />
+    32 g in 125 × 32 ml <br />
+    125 × 32 = 4000 ml = 4 l <br />
+    Round: 4 l
+- id: 7370
+  question: How many litres are required to provide a dose of 60 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '13.5'
+  solution: |-
+    1 g in 225 ml <br />
+    60 g in 225 × 60 ml <br />
+    225 × 60 = 13500 ml = 13.5 l <br />
+    Round: 13.5 l
+- id: 7371
+  question: How many litres are required to provide a dose of 13 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4.6'
+  solution: |-
+    1 g in 350 ml <br />
+    13 g in 350 × 13 ml <br />
+    350 × 13 = 4550 ml = 4.55 l <br />
+    Round: 4.6 l
+- id: 7372
+  question: How many litres are required to provide a dose of 79 g from a drug described
+    as 1 part in 400?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '31.6'
+  solution: |-
+    1 g in 400 ml <br />
+    79 g in 400 × 79 ml <br />
+    400 × 79 = 31600 ml = 31.6 l <br />
+    Round: 31.6 l
+- id: 7373
+  question: How many litres are required to provide a dose of 57 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '51.3'
+  solution: |-
+    1 g in 900 ml <br />
+    57 g in 900 × 57 ml <br />
+    900 × 57 = 51300 ml = 51.3 l <br />
+    Round: 51.3 l
+- id: 7374
+  question: How many litres are required to provide a dose of 79 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '19.8'
+  solution: |-
+    1 g in 250 ml <br />
+    79 g in 250 × 79 ml <br />
+    250 × 79 = 19750 ml = 19.75 l <br />
+    Round: 19.8 l
+- id: 7375
+  question: How many litres are required to provide a dose of 51 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '25.5'
+  solution: |-
+    1 g in 500 ml <br />
+    51 g in 500 × 51 ml <br />
+    500 × 51 = 25500 ml = 25.5 l <br />
+    Round: 25.5 l
+- id: 7376
+  question: How many litres are required to provide a dose of 49 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.9'
+  solution: |-
+    1 g in 80 ml <br />
+    49 g in 80 × 49 ml <br />
+    80 × 49 = 3920 ml = 3.92 l <br />
+    Round: 3.9 l
+- id: 7377
+  question: How many litres are required to provide a dose of 49 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '36.8'
+  solution: |-
+    1 g in 750 ml <br />
+    49 g in 750 × 49 ml <br />
+    750 × 49 = 36750 ml = 36.75 l <br />
+    Round: 36.8 l
+- id: 7378
+  question: How many litres are required to provide a dose of 41 g from a drug described
+    as 1 part in 25?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1'
+  solution: |-
+    1 g in 25 ml <br />
+    41 g in 25 × 41 ml <br />
+    25 × 41 = 1025 ml = 1.025 l <br />
+    Round: 1 l
+- id: 7379
+  question: How many litres are required to provide a dose of 31 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '7.8'
+  solution: |-
+    1 g in 250 ml <br />
+    31 g in 250 × 31 ml <br />
+    250 × 31 = 7750 ml = 7.75 l <br />
+    Round: 7.8 l
+- id: 7380
+  question: How many litres are required to provide a dose of 27 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '12.2'
+  solution: |-
+    1 g in 450 ml <br />
+    27 g in 450 × 27 ml <br />
+    450 × 27 = 12150 ml = 12.15 l <br />
+    Round: 12.2 l
+- id: 7381
+  question: How many litres are required to provide a dose of 88 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '26.4'
+  solution: |-
+    1 g in 300 ml <br />
+    88 g in 300 × 88 ml <br />
+    300 × 88 = 26400 ml = 26.4 l <br />
+    Round: 26.4 l
+- id: 7382
+  question: How many litres are required to provide a dose of 20 g from a drug described
+    as 1 part in 400?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '8'
+  solution: |-
+    1 g in 400 ml <br />
+    20 g in 400 × 20 ml <br />
+    400 × 20 = 8000 ml = 8 l <br />
+    Round: 8 l
+- id: 7383
+  question: How many litres are required to provide a dose of 37 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '13'
+  solution: |-
+    1 g in 350 ml <br />
+    37 g in 350 × 37 ml <br />
+    350 × 37 = 12950 ml = 12.95 l <br />
+    Round: 13 l
+- id: 7384
+  question: How many litres are required to provide a dose of 77 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.9'
+  solution: |-
+    1 g in 50 ml <br />
+    77 g in 50 × 77 ml <br />
+    50 × 77 = 3850 ml = 3.85 l <br />
+    Round: 3.9 l
+- id: 7385
+  question: How many litres are required to provide a dose of 47 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '16.5'
+  solution: |-
+    1 g in 350 ml <br />
+    47 g in 350 × 47 ml <br />
+    350 × 47 = 16450 ml = 16.45 l <br />
+    Round: 16.5 l
+- id: 7386
+  question: How many litres are required to provide a dose of 12 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.7'
+  solution: |-
+    1 g in 225 ml <br />
+    12 g in 225 × 12 ml <br />
+    225 × 12 = 2700 ml = 2.7 l <br />
+    Round: 2.7 l
+- id: 7387
+  question: How many litres are required to provide a dose of 20 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1'
+  solution: |-
+    1 g in 50 ml <br />
+    20 g in 50 × 20 ml <br />
+    50 × 20 = 1000 ml = 1 l <br />
+    Round: 1 l
+- id: 7388
+  question: How many litres are required to provide a dose of 52 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '41.6'
+  solution: |-
+    1 g in 800 ml <br />
+    52 g in 800 × 52 ml <br />
+    800 × 52 = 41600 ml = 41.6 l <br />
+    Round: 41.6 l
+- id: 7389
+  question: How many litres are required to provide a dose of 88 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '13.2'
+  solution: |-
+    1 g in 150 ml <br />
+    88 g in 150 × 88 ml <br />
+    150 × 88 = 13200 ml = 13.2 l <br />
+    Round: 13.2 l
+- id: 7390
+  question: How many litres are required to provide a dose of 58 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '13.1'
+  solution: |-
+    1 g in 225 ml <br />
+    58 g in 225 × 58 ml <br />
+    225 × 58 = 13050 ml = 13.05 l <br />
+    Round: 13.1 l
+- id: 7391
+  question: How many litres are required to provide a dose of 59 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '44.3'
+  solution: |-
+    1 g in 750 ml <br />
+    59 g in 750 × 59 ml <br />
+    750 × 59 = 44250 ml = 44.25 l <br />
+    Round: 44.3 l
+- id: 7392
+  question: How many litres are required to provide a dose of 57 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '14.3'
+  solution: |-
+    1 g in 250 ml <br />
+    57 g in 250 × 57 ml <br />
+    250 × 57 = 14250 ml = 14.25 l <br />
+    Round: 14.3 l
+- id: 7393
+  question: How many litres are required to provide a dose of 34 g from a drug described
+    as 1 part in 20?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '0.7'
+  solution: |-
+    1 g in 20 ml <br />
+    34 g in 20 × 34 ml <br />
+    20 × 34 = 680 ml = 0.68 l <br />
+    Round: 0.7 l
+- id: 7394
+  question: How many litres are required to provide a dose of 71 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '35.5'
+  solution: |-
+    1 g in 500 ml <br />
+    71 g in 500 × 71 ml <br />
+    500 × 71 = 35500 ml = 35.5 l <br />
+    Round: 35.5 l
+- id: 7395
+  question: How many litres are required to provide a dose of 79 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '55.3'
+  solution: |-
+    1 g in 700 ml <br />
+    79 g in 700 × 79 ml <br />
+    700 × 79 = 55300 ml = 55.3 l <br />
+    Round: 55.3 l
+- id: 7396
+  question: How many litres are required to provide a dose of 67 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '40.2'
+  solution: |-
+    1 g in 600 ml <br />
+    67 g in 600 × 67 ml <br />
+    600 × 67 = 40200 ml = 40.2 l <br />
+    Round: 40.2 l
+- id: 7397
+  question: How many litres are required to provide a dose of 58 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4.6'
+  solution: |-
+    1 g in 80 ml <br />
+    58 g in 80 × 58 ml <br />
+    80 × 58 = 4640 ml = 4.64 l <br />
+    Round: 4.6 l
+- id: 7398
+  question: How many litres are required to provide a dose of 75 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '45'
+  solution: |-
+    1 g in 600 ml <br />
+    75 g in 600 × 75 ml <br />
+    600 × 75 = 45000 ml = 45 l <br />
+    Round: 45 l
+- id: 7399
+  question: How many litres are required to provide a dose of 75 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '15'
+  solution: |-
+    1 g in 200 ml <br />
+    75 g in 200 × 75 ml <br />
+    200 × 75 = 15000 ml = 15 l <br />
+    Round: 15 l
+- id: 7400
+  question: How many litres are required to provide a dose of 67 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '21.8'
+  solution: |-
+    1 g in 325 ml <br />
+    67 g in 325 × 67 ml <br />
+    325 × 67 = 21775 ml = 21.775 l <br />
+    Round: 21.8 l
+- id: 7401
+  question: How many litres are required to provide a dose of 71 g from a drug described
+    as 1 part in 400?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '28.4'
+  solution: |-
+    1 g in 400 ml <br />
+    71 g in 400 × 71 ml <br />
+    400 × 71 = 28400 ml = 28.4 l <br />
+    Round: 28.4 l
+- id: 7402
+  question: How many litres are required to provide a dose of 37 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '27.8'
+  solution: |-
+    1 g in 750 ml <br />
+    37 g in 750 × 37 ml <br />
+    750 × 37 = 27750 ml = 27.75 l <br />
+    Round: 27.8 l
+- id: 7403
+  question: How many litres are required to provide a dose of 84 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '10.5'
+  solution: |-
+    1 g in 125 ml <br />
+    84 g in 125 × 84 ml <br />
+    125 × 84 = 10500 ml = 10.5 l <br />
+    Round: 10.5 l
+- id: 7404
+  question: How many litres are required to provide a dose of 20 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '15'
+  solution: |-
+    1 g in 750 ml <br />
+    20 g in 750 × 20 ml <br />
+    750 × 20 = 15000 ml = 15 l <br />
+    Round: 15 l
+- id: 7405
+  question: How many litres are required to provide a dose of 86 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '6.9'
+  solution: |-
+    1 g in 80 ml <br />
+    86 g in 80 × 86 ml <br />
+    80 × 86 = 6880 ml = 6.88 l <br />
+    Round: 6.9 l
+- id: 7406
+  question: How many litres are required to provide a dose of 48 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.9'
+  solution: |-
+    1 g in 40 ml <br />
+    48 g in 40 × 48 ml <br />
+    40 × 48 = 1920 ml = 1.92 l <br />
+    Round: 1.9 l
+- id: 7407
+  question: How many litres are required to provide a dose of 15 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '7.5'
+  solution: |-
+    1 g in 500 ml <br />
+    15 g in 500 × 15 ml <br />
+    500 × 15 = 7500 ml = 7.5 l <br />
+    Round: 7.5 l
+- id: 7408
+  question: How many litres are required to provide a dose of 27 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '20.3'
+  solution: |-
+    1 g in 750 ml <br />
+    27 g in 750 × 27 ml <br />
+    750 × 27 = 20250 ml = 20.25 l <br />
+    Round: 20.3 l
+- id: 7409
+  question: How many litres are required to provide a dose of 45 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '31.5'
+  solution: |-
+    1 g in 700 ml <br />
+    45 g in 700 × 45 ml <br />
+    700 × 45 = 31500 ml = 31.5 l <br />
+    Round: 31.5 l
+- id: 7410
+  question: How many litres are required to provide a dose of 71 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '10.7'
+  solution: |-
+    1 g in 150 ml <br />
+    71 g in 150 × 71 ml <br />
+    150 × 71 = 10650 ml = 10.65 l <br />
+    Round: 10.7 l
+- id: 7411
+  question: How many litres are required to provide a dose of 53 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '15.9'
+  solution: |-
+    1 g in 300 ml <br />
+    53 g in 300 × 53 ml <br />
+    300 × 53 = 15900 ml = 15.9 l <br />
+    Round: 15.9 l
+- id: 7412
+  question: How many litres are required to provide a dose of 28 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.4'
+  solution: |-
+    1 g in 50 ml <br />
+    28 g in 50 × 28 ml <br />
+    50 × 28 = 1400 ml = 1.4 l <br />
+    Round: 1.4 l
+- id: 7413
+  question: How many litres are required to provide a dose of 37 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '8.3'
+  solution: |-
+    1 g in 225 ml <br />
+    37 g in 225 × 37 ml <br />
+    225 × 37 = 8325 ml = 8.325 l <br />
+    Round: 8.3 l
+- id: 7414
+  question: How many litres are required to provide a dose of 23 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.5'
+  solution: |-
+    1 g in 150 ml <br />
+    23 g in 150 × 23 ml <br />
+    150 × 23 = 3450 ml = 3.45 l <br />
+    Round: 3.5 l
+- id: 7415
+  question: How many litres are required to provide a dose of 38 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '17.1'
+  solution: |-
+    1 g in 450 ml <br />
+    38 g in 450 × 38 ml <br />
+    450 × 38 = 17100 ml = 17.1 l <br />
+    Round: 17.1 l
+- id: 7416
+  question: How many litres are required to provide a dose of 43 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.2'
+  solution: |-
+    1 g in 50 ml <br />
+    43 g in 50 × 43 ml <br />
+    50 × 43 = 2150 ml = 2.15 l <br />
+    Round: 2.2 l
+- id: 7417
+  question: How many litres are required to provide a dose of 42 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '13.7'
+  solution: |-
+    1 g in 325 ml <br />
+    42 g in 325 × 42 ml <br />
+    325 × 42 = 13650 ml = 13.65 l <br />
+    Round: 13.7 l
+- id: 7418
+  question: How many litres are required to provide a dose of 67 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '21.8'
+  solution: |-
+    1 g in 325 ml <br />
+    67 g in 325 × 67 ml <br />
+    325 × 67 = 21775 ml = 21.775 l <br />
+    Round: 21.8 l
+- id: 7419
+  question: How many litres are required to provide a dose of 63 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '28.4'
+  solution: |-
+    1 g in 450 ml <br />
+    63 g in 450 × 63 ml <br />
+    450 × 63 = 28350 ml = 28.35 l <br />
+    Round: 28.4 l
+- id: 7420
+  question: How many litres are required to provide a dose of 58 g from a drug described
+    as 1 part in 20?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.2'
+  solution: |-
+    1 g in 20 ml <br />
+    58 g in 20 × 58 ml <br />
+    20 × 58 = 1160 ml = 1.16 l <br />
+    Round: 1.2 l
+- id: 7421
+  question: How many litres are required to provide a dose of 64 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '32'
+  solution: |-
+    1 g in 500 ml <br />
+    64 g in 500 × 64 ml <br />
+    500 × 64 = 32000 ml = 32 l <br />
+    Round: 32 l
+- id: 7422
+  question: How many litres are required to provide a dose of 77 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '53.9'
+  solution: |-
+    1 g in 700 ml <br />
+    77 g in 700 × 77 ml <br />
+    700 × 77 = 53900 ml = 53.9 l <br />
+    Round: 53.9 l
+- id: 7423
+  question: How many litres are required to provide a dose of 54 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '37.8'
+  solution: |-
+    1 g in 700 ml <br />
+    54 g in 700 × 54 ml <br />
+    700 × 54 = 37800 ml = 37.8 l <br />
+    Round: 37.8 l
+- id: 7424
+  question: How many litres are required to provide a dose of 27 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '18.9'
+  solution: |-
+    1 g in 700 ml <br />
+    27 g in 700 × 27 ml <br />
+    700 × 27 = 18900 ml = 18.9 l <br />
+    Round: 18.9 l
+- id: 7425
+  question: How many litres are required to provide a dose of 30 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '9.8'
+  solution: |-
+    1 g in 325 ml <br />
+    30 g in 325 × 30 ml <br />
+    325 × 30 = 9750 ml = 9.75 l <br />
+    Round: 9.8 l
+- id: 7426
+  question: How many litres are required to provide a dose of 59 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.4'
+  solution: |-
+    1 g in 40 ml <br />
+    59 g in 40 × 59 ml <br />
+    40 × 59 = 2360 ml = 2.36 l <br />
+    Round: 2.4 l
+- id: 7427
+  question: How many litres are required to provide a dose of 68 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '30.6'
+  solution: |-
+    1 g in 450 ml <br />
+    68 g in 450 × 68 ml <br />
+    450 × 68 = 30600 ml = 30.6 l <br />
+    Round: 30.6 l
+- id: 7428
+  question: How many litres are required to provide a dose of 40 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '6'
+  solution: |-
+    1 g in 150 ml <br />
+    40 g in 150 × 40 ml <br />
+    150 × 40 = 6000 ml = 6 l <br />
+    Round: 6 l
+- id: 7429
+  question: How many litres are required to provide a dose of 75 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '15'
+  solution: |-
+    1 g in 200 ml <br />
+    75 g in 200 × 75 ml <br />
+    200 × 75 = 15000 ml = 15 l <br />
+    Round: 15 l
+- id: 7430
+  question: How many litres are required to provide a dose of 83 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '24.9'
+  solution: |-
+    1 g in 300 ml <br />
+    83 g in 300 × 83 ml <br />
+    300 × 83 = 24900 ml = 24.9 l <br />
+    Round: 24.9 l
+- id: 7431
+  question: How many litres are required to provide a dose of 46 g from a drug described
+    as 1 part in 900?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '41.4'
+  solution: |-
+    1 g in 900 ml <br />
+    46 g in 900 × 46 ml <br />
+    900 × 46 = 41400 ml = 41.4 l <br />
+    Round: 41.4 l
+- id: 7432
+  question: How many litres are required to provide a dose of 21 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.7'
+  solution: |-
+    1 g in 80 ml <br />
+    21 g in 80 × 21 ml <br />
+    80 × 21 = 1680 ml = 1.68 l <br />
+    Round: 1.7 l
+- id: 7433
+  question: How many litres are required to provide a dose of 40 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '14'
+  solution: |-
+    1 g in 350 ml <br />
+    40 g in 350 × 40 ml <br />
+    350 × 40 = 14000 ml = 14 l <br />
+    Round: 14 l
+- id: 7434
+  question: How many litres are required to provide a dose of 23 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '16.1'
+  solution: |-
+    1 g in 700 ml <br />
+    23 g in 700 × 23 ml <br />
+    700 × 23 = 16100 ml = 16.1 l <br />
+    Round: 16.1 l
+- id: 7435
+  question: How many litres are required to provide a dose of 50 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '22.5'
+  solution: |-
+    1 g in 450 ml <br />
+    50 g in 450 × 50 ml <br />
+    450 × 50 = 22500 ml = 22.5 l <br />
+    Round: 22.5 l
+- id: 7436
+  question: How many litres are required to provide a dose of 62 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '20.2'
+  solution: |-
+    1 g in 325 ml <br />
+    62 g in 325 × 62 ml <br />
+    325 × 62 = 20150 ml = 20.15 l <br />
+    Round: 20.2 l
+- id: 7437
+  question: How many litres are required to provide a dose of 69 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '51.8'
+  solution: |-
+    1 g in 750 ml <br />
+    69 g in 750 × 69 ml <br />
+    750 × 69 = 51750 ml = 51.75 l <br />
+    Round: 51.8 l
+- id: 7438
+  question: How many litres are required to provide a dose of 50 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '7.5'
+  solution: |-
+    1 g in 150 ml <br />
+    50 g in 150 × 50 ml <br />
+    150 × 50 = 7500 ml = 7.5 l <br />
+    Round: 7.5 l
+- id: 7439
+  question: How many litres are required to provide a dose of 12 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.4'
+  solution: |-
+    1 g in 200 ml <br />
+    12 g in 200 × 12 ml <br />
+    200 × 12 = 2400 ml = 2.4 l <br />
+    Round: 2.4 l
+- id: 7440
+  question: How many litres are required to provide a dose of 35 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.4'
+  solution: |-
+    1 g in 40 ml <br />
+    35 g in 40 × 35 ml <br />
+    40 × 35 = 1400 ml = 1.4 l <br />
+    Round: 1.4 l
+- id: 7441
+  question: How many litres are required to provide a dose of 31 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '7.8'
+  solution: |-
+    1 g in 250 ml <br />
+    31 g in 250 × 31 ml <br />
+    250 × 31 = 7750 ml = 7.75 l <br />
+    Round: 7.8 l
+- id: 7442
+  question: How many litres are required to provide a dose of 87 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '52.2'
+  solution: |-
+    1 g in 600 ml <br />
+    87 g in 600 × 87 ml <br />
+    600 × 87 = 52200 ml = 52.2 l <br />
+    Round: 52.2 l
+- id: 7443
+  question: How many litres are required to provide a dose of 54 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '43.2'
+  solution: |-
+    1 g in 800 ml <br />
+    54 g in 800 × 54 ml <br />
+    800 × 54 = 43200 ml = 43.2 l <br />
+    Round: 43.2 l
+- id: 7444
+  question: How many litres are required to provide a dose of 50 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.5'
+  solution: |-
+    1 g in 50 ml <br />
+    50 g in 50 × 50 ml <br />
+    50 × 50 = 2500 ml = 2.5 l <br />
+    Round: 2.5 l
+- id: 7445
+  question: How many litres are required to provide a dose of 35 g from a drug described
+    as 1 part in 20?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '0.7'
+  solution: |-
+    1 g in 20 ml <br />
+    35 g in 20 × 35 ml <br />
+    20 × 35 = 700 ml = 0.7 l <br />
+    Round: 0.7 l
+- id: 7446
+  question: How many litres are required to provide a dose of 35 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '26.3'
+  solution: |-
+    1 g in 750 ml <br />
+    35 g in 750 × 35 ml <br />
+    750 × 35 = 26250 ml = 26.25 l <br />
+    Round: 26.3 l
+- id: 7447
+  question: How many litres are required to provide a dose of 21 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4.7'
+  solution: |-
+    1 g in 225 ml <br />
+    21 g in 225 × 21 ml <br />
+    225 × 21 = 4725 ml = 4.725 l <br />
+    Round: 4.7 l
+- id: 7448
+  question: How many litres are required to provide a dose of 27 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '18.9'
+  solution: |-
+    1 g in 700 ml <br />
+    27 g in 700 × 27 ml <br />
+    700 × 27 = 18900 ml = 18.9 l <br />
+    Round: 18.9 l
+- id: 7449
+  question: How many litres are required to provide a dose of 69 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '41.4'
+  solution: |-
+    1 g in 600 ml <br />
+    69 g in 600 × 69 ml <br />
+    600 × 69 = 41400 ml = 41.4 l <br />
+    Round: 41.4 l
+- id: 7450
+  question: How many litres are required to provide a dose of 63 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '18.9'
+  solution: |-
+    1 g in 300 ml <br />
+    63 g in 300 × 63 ml <br />
+    300 × 63 = 18900 ml = 18.9 l <br />
+    Round: 18.9 l
+- id: 7451
+  question: How many litres are required to provide a dose of 67 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '8.4'
+  solution: |-
+    1 g in 125 ml <br />
+    67 g in 125 × 67 ml <br />
+    125 × 67 = 8375 ml = 8.375 l <br />
+    Round: 8.4 l
+- id: 7452
+  question: How many litres are required to provide a dose of 58 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '8.7'
+  solution: |-
+    1 g in 150 ml <br />
+    58 g in 150 × 58 ml <br />
+    150 × 58 = 8700 ml = 8.7 l <br />
+    Round: 8.7 l
+- id: 7453
+  question: How many litres are required to provide a dose of 32 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '24'
+  solution: |-
+    1 g in 750 ml <br />
+    32 g in 750 × 32 ml <br />
+    750 × 32 = 24000 ml = 24 l <br />
+    Round: 24 l
+- id: 7454
+  question: How many litres are required to provide a dose of 32 g from a drug described
+    as 1 part in 25?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '0.8'
+  solution: |-
+    1 g in 25 ml <br />
+    32 g in 25 × 32 ml <br />
+    25 × 32 = 800 ml = 0.8 l <br />
+    Round: 0.8 l
+- id: 7455
+  question: How many litres are required to provide a dose of 15 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '0.8'
+  solution: |-
+    1 g in 50 ml <br />
+    15 g in 50 × 15 ml <br />
+    50 × 15 = 750 ml = 0.75 l <br />
+    Round: 0.8 l
+- id: 7456
+  question: How many litres are required to provide a dose of 85 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '19.1'
+  solution: |-
+    1 g in 225 ml <br />
+    85 g in 225 × 85 ml <br />
+    225 × 85 = 19125 ml = 19.125 l <br />
+    Round: 19.1 l
+- id: 7457
+  question: How many litres are required to provide a dose of 57 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '34.2'
+  solution: |-
+    1 g in 600 ml <br />
+    57 g in 600 × 57 ml <br />
+    600 × 57 = 34200 ml = 34.2 l <br />
+    Round: 34.2 l
+- id: 7458
+  question: How many litres are required to provide a dose of 79 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4'
+  solution: |-
+    1 g in 50 ml <br />
+    79 g in 50 × 79 ml <br />
+    50 × 79 = 3950 ml = 3.95 l <br />
+    Round: 4 l
+- id: 7459
+  question: How many litres are required to provide a dose of 51 g from a drug described
+    as 1 part in 400?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '20.4'
+  solution: |-
+    1 g in 400 ml <br />
+    51 g in 400 × 51 ml <br />
+    400 × 51 = 20400 ml = 20.4 l <br />
+    Round: 20.4 l
+- id: 7460
+  question: How many litres are required to provide a dose of 62 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '9.3'
+  solution: |-
+    1 g in 150 ml <br />
+    62 g in 150 × 62 ml <br />
+    150 × 62 = 9300 ml = 9.3 l <br />
+    Round: 9.3 l
+- id: 7461
+  question: How many litres are required to provide a dose of 57 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4.6'
+  solution: |-
+    1 g in 80 ml <br />
+    57 g in 80 × 57 ml <br />
+    80 × 57 = 4560 ml = 4.56 l <br />
+    Round: 4.6 l
+- id: 7462
+  question: How many litres are required to provide a dose of 80 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - 6E+1
+  solution: |-
+    1 g in 750 ml <br />
+    80 g in 750 × 80 ml <br />
+    750 × 80 = 60000 ml = 6E+1 l <br />
+    Round: 6E+1 l
+- id: 7463
+  question: How many litres are required to provide a dose of 16 g from a drug described
+    as 1 part in 325?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '5.2'
+  solution: |-
+    1 g in 325 ml <br />
+    16 g in 325 × 16 ml <br />
+    325 × 16 = 5200 ml = 5.2 l <br />
+    Round: 5.2 l
+- id: 7464
+  question: How many litres are required to provide a dose of 33 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '16.5'
+  solution: |-
+    1 g in 500 ml <br />
+    33 g in 500 × 33 ml <br />
+    500 × 33 = 16500 ml = 16.5 l <br />
+    Round: 16.5 l
+- id: 7465
+  question: How many litres are required to provide a dose of 79 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '6.3'
+  solution: |-
+    1 g in 80 ml <br />
+    79 g in 80 × 79 ml <br />
+    80 × 79 = 6320 ml = 6.32 l <br />
+    Round: 6.3 l
+- id: 7466
+  question: How many litres are required to provide a dose of 61 g from a drug described
+    as 1 part in 225?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '13.7'
+  solution: |-
+    1 g in 225 ml <br />
+    61 g in 225 × 61 ml <br />
+    225 × 61 = 13725 ml = 13.725 l <br />
+    Round: 13.7 l
+- id: 7467
+  question: How many litres are required to provide a dose of 71 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '10.7'
+  solution: |-
+    1 g in 150 ml <br />
+    71 g in 150 × 71 ml <br />
+    150 × 71 = 10650 ml = 10.65 l <br />
+    Round: 10.7 l
+- id: 7468
+  question: How many litres are required to provide a dose of 54 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.7'
+  solution: |-
+    1 g in 50 ml <br />
+    54 g in 50 × 54 ml <br />
+    50 × 54 = 2700 ml = 2.7 l <br />
+    Round: 2.7 l
+- id: 7469
+  question: How many litres are required to provide a dose of 10 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '8'
+  solution: |-
+    1 g in 800 ml <br />
+    10 g in 800 × 10 ml <br />
+    800 × 10 = 8000 ml = 8 l <br />
+    Round: 8 l
+- id: 7470
+  question: How many litres are required to provide a dose of 75 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '11.3'
+  solution: |-
+    1 g in 150 ml <br />
+    75 g in 150 × 75 ml <br />
+    150 × 75 = 11250 ml = 11.25 l <br />
+    Round: 11.3 l
+- id: 7471
+  question: How many litres are required to provide a dose of 72 g from a drug described
+    as 1 part in 350?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '25.2'
+  solution: |-
+    1 g in 350 ml <br />
+    72 g in 350 × 72 ml <br />
+    350 × 72 = 25200 ml = 25.2 l <br />
+    Round: 25.2 l
+- id: 7472
+  question: How many litres are required to provide a dose of 30 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '18'
+  solution: |-
+    1 g in 600 ml <br />
+    30 g in 600 × 30 ml <br />
+    600 × 30 = 18000 ml = 18 l <br />
+    Round: 18 l
+- id: 7473
+  question: How many litres are required to provide a dose of 47 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '9.4'
+  solution: |-
+    1 g in 200 ml <br />
+    47 g in 200 × 47 ml <br />
+    200 × 47 = 9400 ml = 9.4 l <br />
+    Round: 9.4 l
+- id: 7474
+  question: How many litres are required to provide a dose of 82 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '10.3'
+  solution: |-
+    1 g in 125 ml <br />
+    82 g in 125 × 82 ml <br />
+    125 × 82 = 10250 ml = 10.25 l <br />
+    Round: 10.3 l
+- id: 7475
+  question: How many litres are required to provide a dose of 76 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '53.2'
+  solution: |-
+    1 g in 700 ml <br />
+    76 g in 700 × 76 ml <br />
+    700 × 76 = 53200 ml = 53.2 l <br />
+    Round: 53.2 l
+- id: 7476
+  question: How many litres are required to provide a dose of 67 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.7'
+  solution: |-
+    1 g in 40 ml <br />
+    67 g in 40 × 67 ml <br />
+    40 × 67 = 2680 ml = 2.68 l <br />
+    Round: 2.7 l
+- id: 7477
+  question: How many litres are required to provide a dose of 29 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4.4'
+  solution: |-
+    1 g in 150 ml <br />
+    29 g in 150 × 29 ml <br />
+    150 × 29 = 4350 ml = 4.35 l <br />
+    Round: 4.4 l
+- id: 7478
+  question: How many litres are required to provide a dose of 49 g from a drug described
+    as 1 part in 80?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.9'
+  solution: |-
+    1 g in 80 ml <br />
+    49 g in 80 × 49 ml <br />
+    80 × 49 = 3920 ml = 3.92 l <br />
+    Round: 3.9 l
+- id: 7479
+  question: How many litres are required to provide a dose of 80 g from a drug described
+    as 1 part in 700?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '56'
+  solution: |-
+    1 g in 700 ml <br />
+    80 g in 700 × 80 ml <br />
+    700 × 80 = 56000 ml = 56 l <br />
+    Round: 56 l
+- id: 7480
+  question: How many litres are required to provide a dose of 33 g from a drug described
+    as 1 part in 500?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '16.5'
+  solution: |-
+    1 g in 500 ml <br />
+    33 g in 500 × 33 ml <br />
+    500 × 33 = 16500 ml = 16.5 l <br />
+    Round: 16.5 l
+- id: 7481
+  question: How many litres are required to provide a dose of 80 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '12'
+  solution: |-
+    1 g in 150 ml <br />
+    80 g in 150 × 80 ml <br />
+    150 × 80 = 12000 ml = 12 l <br />
+    Round: 12 l
+- id: 7482
+  question: How many litres are required to provide a dose of 19 g from a drug described
+    as 1 part in 400?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '7.6'
+  solution: |-
+    1 g in 400 ml <br />
+    19 g in 400 × 19 ml <br />
+    400 × 19 = 7600 ml = 7.6 l <br />
+    Round: 7.6 l
+- id: 7483
+  question: How many litres are required to provide a dose of 13 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '3.9'
+  solution: |-
+    1 g in 300 ml <br />
+    13 g in 300 × 13 ml <br />
+    300 × 13 = 3900 ml = 3.9 l <br />
+    Round: 3.9 l
+- id: 7484
+  question: How many litres are required to provide a dose of 30 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '4.5'
+  solution: |-
+    1 g in 150 ml <br />
+    30 g in 150 × 30 ml <br />
+    150 × 30 = 4500 ml = 4.5 l <br />
+    Round: 4.5 l
+- id: 7485
+  question: How many litres are required to provide a dose of 27 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '5.4'
+  solution: |-
+    1 g in 200 ml <br />
+    27 g in 200 × 27 ml <br />
+    200 × 27 = 5400 ml = 5.4 l <br />
+    Round: 5.4 l
+- id: 7486
+  question: How many litres are required to provide a dose of 38 g from a drug described
+    as 1 part in 50?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.9'
+  solution: |-
+    1 g in 50 ml <br />
+    38 g in 50 × 38 ml <br />
+    50 × 38 = 1900 ml = 1.9 l <br />
+    Round: 1.9 l
+- id: 7487
+  question: How many litres are required to provide a dose of 57 g from a drug described
+    as 1 part in 450?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '25.7'
+  solution: |-
+    1 g in 450 ml <br />
+    57 g in 450 × 57 ml <br />
+    450 × 57 = 25650 ml = 25.65 l <br />
+    Round: 25.7 l
+- id: 7488
+  question: How many litres are required to provide a dose of 56 g from a drug described
+    as 1 part in 750?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '42'
+  solution: |-
+    1 g in 750 ml <br />
+    56 g in 750 × 56 ml <br />
+    750 × 56 = 42000 ml = 42 l <br />
+    Round: 42 l
+- id: 7489
+  question: How many litres are required to provide a dose of 12 g from a drug described
+    as 1 part in 800?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '9.6'
+  solution: |-
+    1 g in 800 ml <br />
+    12 g in 800 × 12 ml <br />
+    800 × 12 = 9600 ml = 9.6 l <br />
+    Round: 9.6 l
+- id: 7490
+  question: How many litres are required to provide a dose of 82 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '12.3'
+  solution: |-
+    1 g in 150 ml <br />
+    82 g in 150 × 82 ml <br />
+    150 × 82 = 12300 ml = 12.3 l <br />
+    Round: 12.3 l
+- id: 7491
+  question: How many litres are required to provide a dose of 67 g from a drug described
+    as 1 part in 300?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '20.1'
+  solution: |-
+    1 g in 300 ml <br />
+    67 g in 300 × 67 ml <br />
+    300 × 67 = 20100 ml = 20.1 l <br />
+    Round: 20.1 l
+- id: 7492
+  question: How many litres are required to provide a dose of 11 g from a drug described
+    as 1 part in 200?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.2'
+  solution: |-
+    1 g in 200 ml <br />
+    11 g in 200 × 11 ml <br />
+    200 × 11 = 2200 ml = 2.2 l <br />
+    Round: 2.2 l
+- id: 7493
+  question: How many litres are required to provide a dose of 13 g from a drug described
+    as 1 part in 125?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.6'
+  solution: |-
+    1 g in 125 ml <br />
+    13 g in 125 × 13 ml <br />
+    125 × 13 = 1625 ml = 1.625 l <br />
+    Round: 1.6 l
+- id: 7494
+  question: How many litres are required to provide a dose of 52 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.1'
+  solution: |-
+    1 g in 40 ml <br />
+    52 g in 40 × 52 ml <br />
+    40 × 52 = 2080 ml = 2.08 l <br />
+    Round: 2.1 l
+- id: 7495
+  question: How many litres are required to provide a dose of 71 g from a drug described
+    as 1 part in 20?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '1.4'
+  solution: |-
+    1 g in 20 ml <br />
+    71 g in 20 × 71 ml <br />
+    20 × 71 = 1420 ml = 1.42 l <br />
+    Round: 1.4 l
+- id: 7496
+  question: How many litres are required to provide a dose of 38 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '9.5'
+  solution: |-
+    1 g in 250 ml <br />
+    38 g in 250 × 38 ml <br />
+    250 × 38 = 9500 ml = 9.5 l <br />
+    Round: 9.5 l
+- id: 7497
+  question: How many litres are required to provide a dose of 69 g from a drug described
+    as 1 part in 40?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '2.8'
+  solution: |-
+    1 g in 40 ml <br />
+    69 g in 40 × 69 ml <br />
+    40 × 69 = 2760 ml = 2.76 l <br />
+    Round: 2.8 l
+- id: 7498
+  question: How many litres are required to provide a dose of 61 g from a drug described
+    as 1 part in 150?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '9.2'
+  solution: |-
+    1 g in 150 ml <br />
+    61 g in 150 × 61 ml <br />
+    150 × 61 = 9150 ml = 9.15 l <br />
+    Round: 9.2 l
+- id: 7499
+  question: How many litres are required to provide a dose of 64 g from a drug described
+    as 1 part in 250?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '16'
+  solution: |-
+    1 g in 250 ml <br />
+    64 g in 250 × 64 ml <br />
+    250 × 64 = 16000 ml = 16 l <br />
+    Round: 16 l
+- id: 7500
+  question: How many litres are required to provide a dose of 69 g from a drug described
+    as 1 part in 600?  Give answer to 1 decimal place.
+  answer: !!python/object/apply:decimal.Decimal
+  - '41.4'
+  solution: |-
+    1 g in 600 ml <br />
+    69 g in 600 × 69 ml <br />
+    600 × 69 = 41400 ml = 41.4 l <br />
+    Round: 41.4 l
