@@ -1,0 +1,4000 @@
+- id: 4001
+  question: Convert 19.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.94
+  solution: |-
+    This means 19.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1940.0 per 100 ml <br />
+    Convert to g: 1.94 g per 100 ml <br />
+    1.94 % w/v
+- id: 4002
+  question: Convert 1.57 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 15.7
+  solution: |-
+    This means 1.57 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.016 g/ ml <br />
+    Convert to mg: 15.7 mg/ml<br />
+    15.7
+- id: 4003
+  question: Convert 19.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.97
+  solution: |-
+    This means 19.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1970.0 per 100 ml <br />
+    Convert to g: 1.97 g per 100 ml <br />
+    1.97 % w/v
+- id: 4004
+  question: Convert 4.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.48
+  solution: |-
+    This means 4.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 480.0 per 100 ml <br />
+    Convert to g: 0.48 g per 100 ml <br />
+    0.48 % w/v
+- id: 4005
+  question: Convert 17.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.73
+  solution: |-
+    This means 17.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1730.0 per 100 ml <br />
+    Convert to g: 1.73 g per 100 ml <br />
+    1.73 % w/v
+- id: 4006
+  question: Convert 7.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.75
+  solution: |-
+    This means 7.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 750.0 per 100 ml <br />
+    Convert to g: 0.75 g per 100 ml <br />
+    0.75 % w/v
+- id: 4007
+  question: Convert 6.1 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.61
+  solution: |-
+    This means 6.1 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 610.0 per 100 ml <br />
+    Convert to g: 0.61 g per 100 ml <br />
+    0.61 % w/v
+- id: 4008
+  question: Convert 5.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.56
+  solution: |-
+    This means 5.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 560.0 per 100 ml <br />
+    Convert to g: 0.56 g per 100 ml <br />
+    0.56 % w/v
+- id: 4009
+  question: Convert 2.0 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 20.0
+  solution: |-
+    This means 2.0 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.02 g/ ml <br />
+    Convert to mg: 20.0 mg/ml<br />
+    20.0
+- id: 4010
+  question: Convert 0.25 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 2.5
+  solution: |-
+    This means 0.25 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.003 g/ ml <br />
+    Convert to mg: 2.5 mg/ml<br />
+    2.5
+- id: 4011
+  question: Convert 1.24 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 12.4
+  solution: |-
+    This means 1.24 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.012 g/ ml <br />
+    Convert to mg: 12.4 mg/ml<br />
+    12.4
+- id: 4012
+  question: Convert 12.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.25
+  solution: |-
+    This means 12.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1250.0 per 100 ml <br />
+    Convert to g: 1.25 g per 100 ml <br />
+    1.25 % w/v
+- id: 4013
+  question: Convert 9.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.96
+  solution: |-
+    This means 9.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 960.0 per 100 ml <br />
+    Convert to g: 0.96 g per 100 ml <br />
+    0.96 % w/v
+- id: 4014
+  question: Convert 1.16 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 11.6
+  solution: |-
+    This means 1.16 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.012 g/ ml <br />
+    Convert to mg: 11.6 mg/ml<br />
+    11.6
+- id: 4015
+  question: Convert 1.78 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 17.8
+  solution: |-
+    This means 1.78 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.018 g/ ml <br />
+    Convert to mg: 17.8 mg/ml<br />
+    17.8
+- id: 4016
+  question: Convert 0.26 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 2.6
+  solution: |-
+    This means 0.26 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.003 g/ ml <br />
+    Convert to mg: 2.6 mg/ml<br />
+    2.6
+- id: 4017
+  question: Convert 1.21 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 12.1
+  solution: |-
+    This means 1.21 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.012 g/ ml <br />
+    Convert to mg: 12.1 mg/ml<br />
+    12.1
+- id: 4018
+  question: Convert 0.34 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 3.4
+  solution: |-
+    This means 0.34 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.003 g/ ml <br />
+    Convert to mg: 3.4 mg/ml<br />
+    3.4
+- id: 4019
+  question: Convert 5.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.55
+  solution: |-
+    This means 5.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 550.0 per 100 ml <br />
+    Convert to g: 0.55 g per 100 ml <br />
+    0.55 % w/v
+- id: 4020
+  question: Convert 1.0 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 10.0
+  solution: |-
+    This means 1.0 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.01 g/ ml <br />
+    Convert to mg: 10.0 mg/ml<br />
+    10.0
+- id: 4021
+  question: Convert 1.84 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 18.4
+  solution: |-
+    This means 1.84 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.018 g/ ml <br />
+    Convert to mg: 18.4 mg/ml<br />
+    18.4
+- id: 4022
+  question: Convert 0.81 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 8.1
+  solution: |-
+    This means 0.81 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.008 g/ ml <br />
+    Convert to mg: 8.1 mg/ml<br />
+    8.1
+- id: 4023
+  question: Convert 9.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.93
+  solution: |-
+    This means 9.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 930.0 per 100 ml <br />
+    Convert to g: 0.93 g per 100 ml <br />
+    0.93 % w/v
+- id: 4024
+  question: Convert 1.73 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 17.3
+  solution: |-
+    This means 1.73 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.017 g/ ml <br />
+    Convert to mg: 17.3 mg/ml<br />
+    17.3
+- id: 4025
+  question: Convert 2.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.26
+  solution: |-
+    This means 2.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 260.0 per 100 ml <br />
+    Convert to g: 0.26 g per 100 ml <br />
+    0.26 % w/v
+- id: 4026
+  question: Convert 1.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.19
+  solution: |-
+    This means 1.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 190.0 per 100 ml <br />
+    Convert to g: 0.19 g per 100 ml <br />
+    0.19 % w/v
+- id: 4027
+  question: Convert 11.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.17
+  solution: |-
+    This means 11.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1170.0 per 100 ml <br />
+    Convert to g: 1.17 g per 100 ml <br />
+    1.17 % w/v
+- id: 4028
+  question: Convert 15.0 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.5
+  solution: |-
+    This means 15.0 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1500.0 per 100 ml <br />
+    Convert to g: 1.5 g per 100 ml <br />
+    1.5 % w/v
+- id: 4029
+  question: Convert 3.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.33
+  solution: |-
+    This means 3.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 330.0 per 100 ml <br />
+    Convert to g: 0.33 g per 100 ml <br />
+    0.33 % w/v
+- id: 4030
+  question: Convert 3.1 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.31
+  solution: |-
+    This means 3.1 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 310.0 per 100 ml <br />
+    Convert to g: 0.31 g per 100 ml <br />
+    0.31 % w/v
+- id: 4031
+  question: Convert 4.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.42
+  solution: |-
+    This means 4.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 420.0 per 100 ml <br />
+    Convert to g: 0.42 g per 100 ml <br />
+    0.42 % w/v
+- id: 4032
+  question: Convert 0.68 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 6.8
+  solution: |-
+    This means 0.68 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.007 g/ ml <br />
+    Convert to mg: 6.8 mg/ml<br />
+    6.8
+- id: 4033
+  question: Convert 0.86 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 8.6
+  solution: |-
+    This means 0.86 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.009 g/ ml <br />
+    Convert to mg: 8.6 mg/ml<br />
+    8.6
+- id: 4034
+  question: Convert 1.52 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 15.2
+  solution: |-
+    This means 1.52 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.015 g/ ml <br />
+    Convert to mg: 15.2 mg/ml<br />
+    15.2
+- id: 4035
+  question: Convert 9.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.99
+  solution: |-
+    This means 9.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 990.0 per 100 ml <br />
+    Convert to g: 0.99 g per 100 ml <br />
+    0.99 % w/v
+- id: 4036
+  question: Convert 18.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.84
+  solution: |-
+    This means 18.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1840.0 per 100 ml <br />
+    Convert to g: 1.84 g per 100 ml <br />
+    1.84 % w/v
+- id: 4037
+  question: Convert 4.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.48
+  solution: |-
+    This means 4.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 480.0 per 100 ml <br />
+    Convert to g: 0.48 g per 100 ml <br />
+    0.48 % w/v
+- id: 4038
+  question: Convert 13.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.37
+  solution: |-
+    This means 13.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1370.0 per 100 ml <br />
+    Convert to g: 1.37 g per 100 ml <br />
+    1.37 % w/v
+- id: 4039
+  question: Convert 0.18 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 1.8
+  solution: |-
+    This means 0.18 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.002 g/ ml <br />
+    Convert to mg: 1.8 mg/ml<br />
+    1.8
+- id: 4040
+  question: Convert 0.58 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 5.8
+  solution: |-
+    This means 0.58 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.006 g/ ml <br />
+    Convert to mg: 5.8 mg/ml<br />
+    5.8
+- id: 4041
+  question: Convert 1.52 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 15.2
+  solution: |-
+    This means 1.52 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.015 g/ ml <br />
+    Convert to mg: 15.2 mg/ml<br />
+    15.2
+- id: 4042
+  question: Convert 1.03 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 10.3
+  solution: |-
+    This means 1.03 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.01 g/ ml <br />
+    Convert to mg: 10.3 mg/ml<br />
+    10.3
+- id: 4043
+  question: Convert 10.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.02
+  solution: |-
+    This means 10.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1020.0 per 100 ml <br />
+    Convert to g: 1.02 g per 100 ml <br />
+    1.02 % w/v
+- id: 4044
+  question: Convert 1.43 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 14.3
+  solution: |-
+    This means 1.43 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.014 g/ ml <br />
+    Convert to mg: 14.3 mg/ml<br />
+    14.3
+- id: 4045
+  question: Convert 8.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.85
+  solution: |-
+    This means 8.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 850.0 per 100 ml <br />
+    Convert to g: 0.85 g per 100 ml <br />
+    0.85 % w/v
+- id: 4046
+  question: Convert 0.64 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 6.4
+  solution: |-
+    This means 0.64 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.006 g/ ml <br />
+    Convert to mg: 6.4 mg/ml<br />
+    6.4
+- id: 4047
+  question: Convert 0.09 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 0.9
+  solution: |-
+    This means 0.09 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.001 g/ ml <br />
+    Convert to mg: 0.9 mg/ml<br />
+    0.9
+- id: 4048
+  question: Convert 0.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.08
+  solution: |-
+    This means 0.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 80.0 per 100 ml <br />
+    Convert to g: 0.08 g per 100 ml <br />
+    0.08 % w/v
+- id: 4049
+  question: Convert 1.07 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 10.7
+  solution: |-
+    This means 1.07 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.011 g/ ml <br />
+    Convert to mg: 10.7 mg/ml<br />
+    10.7
+- id: 4050
+  question: Convert 7.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.76
+  solution: |-
+    This means 7.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 760.0 per 100 ml <br />
+    Convert to g: 0.76 g per 100 ml <br />
+    0.76 % w/v
+- id: 4051
+  question: Convert 7.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.73
+  solution: |-
+    This means 7.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 730.0 per 100 ml <br />
+    Convert to g: 0.73 g per 100 ml <br />
+    0.73 % w/v
+- id: 4052
+  question: Convert 2.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.25
+  solution: |-
+    This means 2.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 250.0 per 100 ml <br />
+    Convert to g: 0.25 g per 100 ml <br />
+    0.25 % w/v
+- id: 4053
+  question: Convert 0.22 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 2.2
+  solution: |-
+    This means 0.22 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.002 g/ ml <br />
+    Convert to mg: 2.2 mg/ml<br />
+    2.2
+- id: 4054
+  question: Convert 0.41 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 4.1
+  solution: |-
+    This means 0.41 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.004 g/ ml <br />
+    Convert to mg: 4.1 mg/ml<br />
+    4.1
+- id: 4055
+  question: Convert 8.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.86
+  solution: |-
+    This means 8.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 860.0 per 100 ml <br />
+    Convert to g: 0.86 g per 100 ml <br />
+    0.86 % w/v
+- id: 4056
+  question: Convert 6.1 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.61
+  solution: |-
+    This means 6.1 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 610.0 per 100 ml <br />
+    Convert to g: 0.61 g per 100 ml <br />
+    0.61 % w/v
+- id: 4057
+  question: Convert 7.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.78
+  solution: |-
+    This means 7.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 780.0 per 100 ml <br />
+    Convert to g: 0.78 g per 100 ml <br />
+    0.78 % w/v
+- id: 4058
+  question: Convert 0.71 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 7.1
+  solution: |-
+    This means 0.71 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.007 g/ ml <br />
+    Convert to mg: 7.1 mg/ml<br />
+    7.1
+- id: 4059
+  question: Convert 10.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.04
+  solution: |-
+    This means 10.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1040.0 per 100 ml <br />
+    Convert to g: 1.04 g per 100 ml <br />
+    1.04 % w/v
+- id: 4060
+  question: Convert 0.85 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 8.5
+  solution: |-
+    This means 0.85 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.009 g/ ml <br />
+    Convert to mg: 8.5 mg/ml<br />
+    8.5
+- id: 4061
+  question: Convert 0.39 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 3.9
+  solution: |-
+    This means 0.39 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.004 g/ ml <br />
+    Convert to mg: 3.9 mg/ml<br />
+    3.9
+- id: 4062
+  question: Convert 18.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.88
+  solution: |-
+    This means 18.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1880.0 per 100 ml <br />
+    Convert to g: 1.88 g per 100 ml <br />
+    1.88 % w/v
+- id: 4063
+  question: Convert 1.78 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 17.8
+  solution: |-
+    This means 1.78 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.018 g/ ml <br />
+    Convert to mg: 17.8 mg/ml<br />
+    17.8
+- id: 4064
+  question: Convert 8.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.87
+  solution: |-
+    This means 8.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 870.0 per 100 ml <br />
+    Convert to g: 0.87 g per 100 ml <br />
+    0.87 % w/v
+- id: 4065
+  question: Convert 0.75 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 7.5
+  solution: |-
+    This means 0.75 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.007 g/ ml <br />
+    Convert to mg: 7.5 mg/ml<br />
+    7.5
+- id: 4066
+  question: Convert 11.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.17
+  solution: |-
+    This means 11.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1170.0 per 100 ml <br />
+    Convert to g: 1.17 g per 100 ml <br />
+    1.17 % w/v
+- id: 4067
+  question: Convert 1.87 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 18.7
+  solution: |-
+    This means 1.87 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.019 g/ ml <br />
+    Convert to mg: 18.7 mg/ml<br />
+    18.7
+- id: 4068
+  question: Convert 16.1 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.61
+  solution: |-
+    This means 16.1 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1610.0 per 100 ml <br />
+    Convert to g: 1.61 g per 100 ml <br />
+    1.61 % w/v
+- id: 4069
+  question: Convert 0.57 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 5.7
+  solution: |-
+    This means 0.57 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.006 g/ ml <br />
+    Convert to mg: 5.7 mg/ml<br />
+    5.7
+- id: 4070
+  question: Convert 1.51 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 15.1
+  solution: |-
+    This means 1.51 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.015 g/ ml <br />
+    Convert to mg: 15.1 mg/ml<br />
+    15.1
+- id: 4071
+  question: Convert 1.09 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 10.9
+  solution: |-
+    This means 1.09 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.011 g/ ml <br />
+    Convert to mg: 10.9 mg/ml<br />
+    10.9
+- id: 4072
+  question: Convert 17.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.79
+  solution: |-
+    This means 17.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1790.0 per 100 ml <br />
+    Convert to g: 1.79 g per 100 ml <br />
+    1.79 % w/v
+- id: 4073
+  question: Convert 0.55 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 5.5
+  solution: |-
+    This means 0.55 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.006 g/ ml <br />
+    Convert to mg: 5.5 mg/ml<br />
+    5.5
+- id: 4074
+  question: Convert 2.0 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 20.0
+  solution: |-
+    This means 2.0 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.02 g/ ml <br />
+    Convert to mg: 20.0 mg/ml<br />
+    20.0
+- id: 4075
+  question: Convert 0.45 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 4.5
+  solution: |-
+    This means 0.45 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.005 g/ ml <br />
+    Convert to mg: 4.5 mg/ml<br />
+    4.5
+- id: 4076
+  question: Convert 17.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.76
+  solution: |-
+    This means 17.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1760.0 per 100 ml <br />
+    Convert to g: 1.76 g per 100 ml <br />
+    1.76 % w/v
+- id: 4077
+  question: Convert 1.41 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 14.1
+  solution: |-
+    This means 1.41 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.014 g/ ml <br />
+    Convert to mg: 14.1 mg/ml<br />
+    14.1
+- id: 4078
+  question: Convert 5.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.52
+  solution: |-
+    This means 5.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 520.0 per 100 ml <br />
+    Convert to g: 0.52 g per 100 ml <br />
+    0.52 % w/v
+- id: 4079
+  question: Convert 1.24 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 12.4
+  solution: |-
+    This means 1.24 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.012 g/ ml <br />
+    Convert to mg: 12.4 mg/ml<br />
+    12.4
+- id: 4080
+  question: Convert 11.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.12
+  solution: |-
+    This means 11.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1120.0 per 100 ml <br />
+    Convert to g: 1.12 g per 100 ml <br />
+    1.12 % w/v
+- id: 4081
+  question: Convert 1.88 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 18.8
+  solution: |-
+    This means 1.88 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.019 g/ ml <br />
+    Convert to mg: 18.8 mg/ml<br />
+    18.8
+- id: 4082
+  question: Convert 8.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.87
+  solution: |-
+    This means 8.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 870.0 per 100 ml <br />
+    Convert to g: 0.87 g per 100 ml <br />
+    0.87 % w/v
+- id: 4083
+  question: Convert 1.16 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 11.6
+  solution: |-
+    This means 1.16 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.012 g/ ml <br />
+    Convert to mg: 11.6 mg/ml<br />
+    11.6
+- id: 4084
+  question: Convert 14.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.47
+  solution: |-
+    This means 14.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1470.0 per 100 ml <br />
+    Convert to g: 1.47 g per 100 ml <br />
+    1.47 % w/v
+- id: 4085
+  question: Convert 2.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.25
+  solution: |-
+    This means 2.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 250.0 per 100 ml <br />
+    Convert to g: 0.25 g per 100 ml <br />
+    0.25 % w/v
+- id: 4086
+  question: Convert 1.31 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 13.1
+  solution: |-
+    This means 1.31 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.013 g/ ml <br />
+    Convert to mg: 13.1 mg/ml<br />
+    13.1
+- id: 4087
+  question: Convert 11.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.17
+  solution: |-
+    This means 11.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1170.0 per 100 ml <br />
+    Convert to g: 1.17 g per 100 ml <br />
+    1.17 % w/v
+- id: 4088
+  question: Convert 0.36 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 3.6
+  solution: |-
+    This means 0.36 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.004 g/ ml <br />
+    Convert to mg: 3.6 mg/ml<br />
+    3.6
+- id: 4089
+  question: Convert 16.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.69
+  solution: |-
+    This means 16.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1690.0 per 100 ml <br />
+    Convert to g: 1.69 g per 100 ml <br />
+    1.69 % w/v
+- id: 4090
+  question: Convert 0.56 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 5.6
+  solution: |-
+    This means 0.56 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.006 g/ ml <br />
+    Convert to mg: 5.6 mg/ml<br />
+    5.6
+- id: 4091
+  question: Convert 0.35 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 3.5
+  solution: |-
+    This means 0.35 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.003 g/ ml <br />
+    Convert to mg: 3.5 mg/ml<br />
+    3.5
+- id: 4092
+  question: Convert 7.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.79
+  solution: |-
+    This means 7.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 790.0 per 100 ml <br />
+    Convert to g: 0.79 g per 100 ml <br />
+    0.79 % w/v
+- id: 4093
+  question: Convert 19.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.99
+  solution: |-
+    This means 19.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1990.0 per 100 ml <br />
+    Convert to g: 1.99 g per 100 ml <br />
+    1.99 % w/v
+- id: 4094
+  question: Convert 0.78 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 7.8
+  solution: |-
+    This means 0.78 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.008 g/ ml <br />
+    Convert to mg: 7.8 mg/ml<br />
+    7.8
+- id: 4095
+  question: Convert 1.13 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 11.3
+  solution: |-
+    This means 1.13 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.011 g/ ml <br />
+    Convert to mg: 11.3 mg/ml<br />
+    11.3
+- id: 4096
+  question: Convert 1.25 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 12.5
+  solution: |-
+    This means 1.25 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.013 g/ ml <br />
+    Convert to mg: 12.5 mg/ml<br />
+    12.5
+- id: 4097
+  question: Convert 0.27 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 2.7
+  solution: |-
+    This means 0.27 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.003 g/ ml <br />
+    Convert to mg: 2.7 mg/ml<br />
+    2.7
+- id: 4098
+  question: Convert 0.01 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 0.1
+  solution: |-
+    This means 0.01 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.0 g/ ml <br />
+    Convert to mg: 0.1 mg/ml<br />
+    0.1
+- id: 4099
+  question: Convert 0.8 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 8.0
+  solution: |-
+    This means 0.8 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.008 g/ ml <br />
+    Convert to mg: 8.0 mg/ml<br />
+    8.0
+- id: 4100
+  question: Convert 1.36 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 13.6
+  solution: |-
+    This means 1.36 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.014 g/ ml <br />
+    Convert to mg: 13.6 mg/ml<br />
+    13.6
+- id: 4101
+  question: Convert 1.15 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 11.5
+  solution: |-
+    This means 1.15 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.011 g/ ml <br />
+    Convert to mg: 11.5 mg/ml<br />
+    11.5
+- id: 4102
+  question: Convert 13.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.39
+  solution: |-
+    This means 13.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1390.0 per 100 ml <br />
+    Convert to g: 1.39 g per 100 ml <br />
+    1.39 % w/v
+- id: 4103
+  question: Convert 1.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.16
+  solution: |-
+    This means 1.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 160.0 per 100 ml <br />
+    Convert to g: 0.16 g per 100 ml <br />
+    0.16 % w/v
+- id: 4104
+  question: Convert 10.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.09
+  solution: |-
+    This means 10.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1090.0 per 100 ml <br />
+    Convert to g: 1.09 g per 100 ml <br />
+    1.09 % w/v
+- id: 4105
+  question: Convert 0.87 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 8.7
+  solution: |-
+    This means 0.87 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.009 g/ ml <br />
+    Convert to mg: 8.7 mg/ml<br />
+    8.7
+- id: 4106
+  question: Convert 1.53 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 15.3
+  solution: |-
+    This means 1.53 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.015 g/ ml <br />
+    Convert to mg: 15.3 mg/ml<br />
+    15.3
+- id: 4107
+  question: Convert 0.69 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 6.9
+  solution: |-
+    This means 0.69 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.007 g/ ml <br />
+    Convert to mg: 6.9 mg/ml<br />
+    6.9
+- id: 4108
+  question: Convert 0.89 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 8.9
+  solution: |-
+    This means 0.89 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.009 g/ ml <br />
+    Convert to mg: 8.9 mg/ml<br />
+    8.9
+- id: 4109
+  question: Convert 2.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.26
+  solution: |-
+    This means 2.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 260.0 per 100 ml <br />
+    Convert to g: 0.26 g per 100 ml <br />
+    0.26 % w/v
+- id: 4110
+  question: Convert 4.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.48
+  solution: |-
+    This means 4.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 480.0 per 100 ml <br />
+    Convert to g: 0.48 g per 100 ml <br />
+    0.48 % w/v
+- id: 4111
+  question: Convert 1.47 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 14.7
+  solution: |-
+    This means 1.47 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.015 g/ ml <br />
+    Convert to mg: 14.7 mg/ml<br />
+    14.7
+- id: 4112
+  question: Convert 0.45 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 4.5
+  solution: |-
+    This means 0.45 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.005 g/ ml <br />
+    Convert to mg: 4.5 mg/ml<br />
+    4.5
+- id: 4113
+  question: Convert 1.55 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 15.5
+  solution: |-
+    This means 1.55 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.015 g/ ml <br />
+    Convert to mg: 15.5 mg/ml<br />
+    15.5
+- id: 4114
+  question: Convert 0.62 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 6.2
+  solution: |-
+    This means 0.62 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.006 g/ ml <br />
+    Convert to mg: 6.2 mg/ml<br />
+    6.2
+- id: 4115
+  question: Convert 0.87 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 8.7
+  solution: |-
+    This means 0.87 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.009 g/ ml <br />
+    Convert to mg: 8.7 mg/ml<br />
+    8.7
+- id: 4116
+  question: Convert 4.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.47
+  solution: |-
+    This means 4.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 470.0 per 100 ml <br />
+    Convert to g: 0.47 g per 100 ml <br />
+    0.47 % w/v
+- id: 4117
+  question: Convert 0.82 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 8.2
+  solution: |-
+    This means 0.82 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.008 g/ ml <br />
+    Convert to mg: 8.2 mg/ml<br />
+    8.2
+- id: 4118
+  question: Convert 7.0 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.7
+  solution: |-
+    This means 7.0 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 700.0 per 100 ml <br />
+    Convert to g: 0.7 g per 100 ml <br />
+    0.7 % w/v
+- id: 4119
+  question: Convert 1.0 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.1
+  solution: |-
+    This means 1.0 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 100.0 per 100 ml <br />
+    Convert to g: 0.1 g per 100 ml <br />
+    0.1 % w/v
+- id: 4120
+  question: Convert 1.63 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 16.3
+  solution: |-
+    This means 1.63 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.016 g/ ml <br />
+    Convert to mg: 16.3 mg/ml<br />
+    16.3
+- id: 4121
+  question: Convert 8.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.89
+  solution: |-
+    This means 8.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 890.0 per 100 ml <br />
+    Convert to g: 0.89 g per 100 ml <br />
+    0.89 % w/v
+- id: 4122
+  question: Convert 17.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.79
+  solution: |-
+    This means 17.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1790.0 per 100 ml <br />
+    Convert to g: 1.79 g per 100 ml <br />
+    1.79 % w/v
+- id: 4123
+  question: Convert 1.18 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 11.8
+  solution: |-
+    This means 1.18 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.012 g/ ml <br />
+    Convert to mg: 11.8 mg/ml<br />
+    11.8
+- id: 4124
+  question: Convert 14.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.47
+  solution: |-
+    This means 14.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1470.0 per 100 ml <br />
+    Convert to g: 1.47 g per 100 ml <br />
+    1.47 % w/v
+- id: 4125
+  question: Convert 0.69 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 6.9
+  solution: |-
+    This means 0.69 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.007 g/ ml <br />
+    Convert to mg: 6.9 mg/ml<br />
+    6.9
+- id: 4126
+  question: Convert 17.0 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.7
+  solution: |-
+    This means 17.0 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1700.0 per 100 ml <br />
+    Convert to g: 1.7 g per 100 ml <br />
+    1.7 % w/v
+- id: 4127
+  question: Convert 8.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.88
+  solution: |-
+    This means 8.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 880.0 per 100 ml <br />
+    Convert to g: 0.88 g per 100 ml <br />
+    0.88 % w/v
+- id: 4128
+  question: Convert 1.19 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 11.9
+  solution: |-
+    This means 1.19 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.012 g/ ml <br />
+    Convert to mg: 11.9 mg/ml<br />
+    11.9
+- id: 4129
+  question: Convert 7.1 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.71
+  solution: |-
+    This means 7.1 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 710.0 per 100 ml <br />
+    Convert to g: 0.71 g per 100 ml <br />
+    0.71 % w/v
+- id: 4130
+  question: Convert 11.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.13
+  solution: |-
+    This means 11.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1130.0 per 100 ml <br />
+    Convert to g: 1.13 g per 100 ml <br />
+    1.13 % w/v
+- id: 4131
+  question: Convert 17.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.75
+  solution: |-
+    This means 17.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1750.0 per 100 ml <br />
+    Convert to g: 1.75 g per 100 ml <br />
+    1.75 % w/v
+- id: 4132
+  question: Convert 0.69 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 6.9
+  solution: |-
+    This means 0.69 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.007 g/ ml <br />
+    Convert to mg: 6.9 mg/ml<br />
+    6.9
+- id: 4133
+  question: Convert 14.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.44
+  solution: |-
+    This means 14.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1440.0 per 100 ml <br />
+    Convert to g: 1.44 g per 100 ml <br />
+    1.44 % w/v
+- id: 4134
+  question: Convert 13.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.36
+  solution: |-
+    This means 13.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1360.0 per 100 ml <br />
+    Convert to g: 1.36 g per 100 ml <br />
+    1.36 % w/v
+- id: 4135
+  question: Convert 1.46 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 14.6
+  solution: |-
+    This means 1.46 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.015 g/ ml <br />
+    Convert to mg: 14.6 mg/ml<br />
+    14.6
+- id: 4136
+  question: Convert 1.89 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 18.9
+  solution: |-
+    This means 1.89 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.019 g/ ml <br />
+    Convert to mg: 18.9 mg/ml<br />
+    18.9
+- id: 4137
+  question: Convert 10.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.08
+  solution: |-
+    This means 10.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1080.0 per 100 ml <br />
+    Convert to g: 1.08 g per 100 ml <br />
+    1.08 % w/v
+- id: 4138
+  question: Convert 0.97 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 9.7
+  solution: |-
+    This means 0.97 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.01 g/ ml <br />
+    Convert to mg: 9.7 mg/ml<br />
+    9.7
+- id: 4139
+  question: Convert 1.18 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 11.8
+  solution: |-
+    This means 1.18 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.012 g/ ml <br />
+    Convert to mg: 11.8 mg/ml<br />
+    11.8
+- id: 4140
+  question: Convert 1.77 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 17.7
+  solution: |-
+    This means 1.77 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.018 g/ ml <br />
+    Convert to mg: 17.7 mg/ml<br />
+    17.7
+- id: 4141
+  question: Convert 3.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.34
+  solution: |-
+    This means 3.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 340.0 per 100 ml <br />
+    Convert to g: 0.34 g per 100 ml <br />
+    0.34 % w/v
+- id: 4142
+  question: Convert 19.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.98
+  solution: |-
+    This means 19.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1980.0 per 100 ml <br />
+    Convert to g: 1.98 g per 100 ml <br />
+    1.98 % w/v
+- id: 4143
+  question: Convert 0.65 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 6.5
+  solution: |-
+    This means 0.65 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.007 g/ ml <br />
+    Convert to mg: 6.5 mg/ml<br />
+    6.5
+- id: 4144
+  question: Convert 0.52 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 5.2
+  solution: |-
+    This means 0.52 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.005 g/ ml <br />
+    Convert to mg: 5.2 mg/ml<br />
+    5.2
+- id: 4145
+  question: Convert 8.0 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.8
+  solution: |-
+    This means 8.0 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 800.0 per 100 ml <br />
+    Convert to g: 0.8 g per 100 ml <br />
+    0.8 % w/v
+- id: 4146
+  question: Convert 4.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.48
+  solution: |-
+    This means 4.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 480.0 per 100 ml <br />
+    Convert to g: 0.48 g per 100 ml <br />
+    0.48 % w/v
+- id: 4147
+  question: Convert 5.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.59
+  solution: |-
+    This means 5.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 590.0 per 100 ml <br />
+    Convert to g: 0.59 g per 100 ml <br />
+    0.59 % w/v
+- id: 4148
+  question: Convert 10.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.06
+  solution: |-
+    This means 10.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1060.0 per 100 ml <br />
+    Convert to g: 1.06 g per 100 ml <br />
+    1.06 % w/v
+- id: 4149
+  question: Convert 17.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.76
+  solution: |-
+    This means 17.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1760.0 per 100 ml <br />
+    Convert to g: 1.76 g per 100 ml <br />
+    1.76 % w/v
+- id: 4150
+  question: Convert 0.38 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 3.8
+  solution: |-
+    This means 0.38 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.004 g/ ml <br />
+    Convert to mg: 3.8 mg/ml<br />
+    3.8
+- id: 4151
+  question: Convert 0.68 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 6.8
+  solution: |-
+    This means 0.68 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.007 g/ ml <br />
+    Convert to mg: 6.8 mg/ml<br />
+    6.8
+- id: 4152
+  question: Convert 4.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.44
+  solution: |-
+    This means 4.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 440.0 per 100 ml <br />
+    Convert to g: 0.44 g per 100 ml <br />
+    0.44 % w/v
+- id: 4153
+  question: Convert 1.1 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.11
+  solution: |-
+    This means 1.1 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 110.0 per 100 ml <br />
+    Convert to g: 0.11 g per 100 ml <br />
+    0.11 % w/v
+- id: 4154
+  question: Convert 12.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.27
+  solution: |-
+    This means 12.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1270.0 per 100 ml <br />
+    Convert to g: 1.27 g per 100 ml <br />
+    1.27 % w/v
+- id: 4155
+  question: Convert 12.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.26
+  solution: |-
+    This means 12.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1260.0 per 100 ml <br />
+    Convert to g: 1.26 g per 100 ml <br />
+    1.26 % w/v
+- id: 4156
+  question: Convert 1.49 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 14.9
+  solution: |-
+    This means 1.49 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.015 g/ ml <br />
+    Convert to mg: 14.9 mg/ml<br />
+    14.9
+- id: 4157
+  question: Convert 0.97 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 9.7
+  solution: |-
+    This means 0.97 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.01 g/ ml <br />
+    Convert to mg: 9.7 mg/ml<br />
+    9.7
+- id: 4158
+  question: Convert 0.95 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 9.5
+  solution: |-
+    This means 0.95 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.009 g/ ml <br />
+    Convert to mg: 9.5 mg/ml<br />
+    9.5
+- id: 4159
+  question: Convert 1.77 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 17.7
+  solution: |-
+    This means 1.77 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.018 g/ ml <br />
+    Convert to mg: 17.7 mg/ml<br />
+    17.7
+- id: 4160
+  question: Convert 1.45 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 14.5
+  solution: |-
+    This means 1.45 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.014 g/ ml <br />
+    Convert to mg: 14.5 mg/ml<br />
+    14.5
+- id: 4161
+  question: Convert 15.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.52
+  solution: |-
+    This means 15.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1520.0 per 100 ml <br />
+    Convert to g: 1.52 g per 100 ml <br />
+    1.52 % w/v
+- id: 4162
+  question: Convert 19.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.95
+  solution: |-
+    This means 19.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1950.0 per 100 ml <br />
+    Convert to g: 1.95 g per 100 ml <br />
+    1.95 % w/v
+- id: 4163
+  question: Convert 6.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.62
+  solution: |-
+    This means 6.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 620.0 per 100 ml <br />
+    Convert to g: 0.62 g per 100 ml <br />
+    0.62 % w/v
+- id: 4164
+  question: Convert 15.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.55
+  solution: |-
+    This means 15.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1550.0 per 100 ml <br />
+    Convert to g: 1.55 g per 100 ml <br />
+    1.55 % w/v
+- id: 4165
+  question: Convert 0.19 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 1.9
+  solution: |-
+    This means 0.19 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.002 g/ ml <br />
+    Convert to mg: 1.9 mg/ml<br />
+    1.9
+- id: 4166
+  question: Convert 17.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.77
+  solution: |-
+    This means 17.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1770.0 per 100 ml <br />
+    Convert to g: 1.77 g per 100 ml <br />
+    1.77 % w/v
+- id: 4167
+  question: Convert 0.41 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 4.1
+  solution: |-
+    This means 0.41 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.004 g/ ml <br />
+    Convert to mg: 4.1 mg/ml<br />
+    4.1
+- id: 4168
+  question: Convert 2.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.23
+  solution: |-
+    This means 2.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 230.0 per 100 ml <br />
+    Convert to g: 0.23 g per 100 ml <br />
+    0.23 % w/v
+- id: 4169
+  question: Convert 0.11 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 1.1
+  solution: |-
+    This means 0.11 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.001 g/ ml <br />
+    Convert to mg: 1.1 mg/ml<br />
+    1.1
+- id: 4170
+  question: Convert 0.76 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 7.6
+  solution: |-
+    This means 0.76 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.008 g/ ml <br />
+    Convert to mg: 7.6 mg/ml<br />
+    7.6
+- id: 4171
+  question: Convert 1.59 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 15.9
+  solution: |-
+    This means 1.59 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.016 g/ ml <br />
+    Convert to mg: 15.9 mg/ml<br />
+    15.9
+- id: 4172
+  question: Convert 0.2 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 2.0
+  solution: |-
+    This means 0.2 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.002 g/ ml <br />
+    Convert to mg: 2.0 mg/ml<br />
+    2.0
+- id: 4173
+  question: Convert 0.47 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 4.7
+  solution: |-
+    This means 0.47 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.005 g/ ml <br />
+    Convert to mg: 4.7 mg/ml<br />
+    4.7
+- id: 4174
+  question: Convert 7.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.78
+  solution: |-
+    This means 7.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 780.0 per 100 ml <br />
+    Convert to g: 0.78 g per 100 ml <br />
+    0.78 % w/v
+- id: 4175
+  question: Convert 0.19 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 1.9
+  solution: |-
+    This means 0.19 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.002 g/ ml <br />
+    Convert to mg: 1.9 mg/ml<br />
+    1.9
+- id: 4176
+  question: Convert 3.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.37
+  solution: |-
+    This means 3.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 370.0 per 100 ml <br />
+    Convert to g: 0.37 g per 100 ml <br />
+    0.37 % w/v
+- id: 4177
+  question: Convert 18.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.88
+  solution: |-
+    This means 18.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1880.0 per 100 ml <br />
+    Convert to g: 1.88 g per 100 ml <br />
+    1.88 % w/v
+- id: 4178
+  question: Convert 1.76 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 17.6
+  solution: |-
+    This means 1.76 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.018 g/ ml <br />
+    Convert to mg: 17.6 mg/ml<br />
+    17.6
+- id: 4179
+  question: Convert 16.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.67
+  solution: |-
+    This means 16.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1670.0 per 100 ml <br />
+    Convert to g: 1.67 g per 100 ml <br />
+    1.67 % w/v
+- id: 4180
+  question: Convert 12.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.29
+  solution: |-
+    This means 12.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1290.0 per 100 ml <br />
+    Convert to g: 1.29 g per 100 ml <br />
+    1.29 % w/v
+- id: 4181
+  question: Convert 1.98 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 19.8
+  solution: |-
+    This means 1.98 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.02 g/ ml <br />
+    Convert to mg: 19.8 mg/ml<br />
+    19.8
+- id: 4182
+  question: Convert 9.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.95
+  solution: |-
+    This means 9.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 950.0 per 100 ml <br />
+    Convert to g: 0.95 g per 100 ml <br />
+    0.95 % w/v
+- id: 4183
+  question: Convert 0.79 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 7.9
+  solution: |-
+    This means 0.79 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.008 g/ ml <br />
+    Convert to mg: 7.9 mg/ml<br />
+    7.9
+- id: 4184
+  question: Convert 1.73 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 17.3
+  solution: |-
+    This means 1.73 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.017 g/ ml <br />
+    Convert to mg: 17.3 mg/ml<br />
+    17.3
+- id: 4185
+  question: Convert 1.77 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 17.7
+  solution: |-
+    This means 1.77 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.018 g/ ml <br />
+    Convert to mg: 17.7 mg/ml<br />
+    17.7
+- id: 4186
+  question: Convert 13.1 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.31
+  solution: |-
+    This means 13.1 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1310.0 per 100 ml <br />
+    Convert to g: 1.31 g per 100 ml <br />
+    1.31 % w/v
+- id: 4187
+  question: Convert 1.25 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 12.5
+  solution: |-
+    This means 1.25 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.013 g/ ml <br />
+    Convert to mg: 12.5 mg/ml<br />
+    12.5
+- id: 4188
+  question: Convert 0.21 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 2.1
+  solution: |-
+    This means 0.21 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.002 g/ ml <br />
+    Convert to mg: 2.1 mg/ml<br />
+    2.1
+- id: 4189
+  question: Convert 3.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.35
+  solution: |-
+    This means 3.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 350.0 per 100 ml <br />
+    Convert to g: 0.35 g per 100 ml <br />
+    0.35 % w/v
+- id: 4190
+  question: Convert 0.1 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.01
+  solution: |-
+    This means 0.1 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 10.0 per 100 ml <br />
+    Convert to g: 0.01 g per 100 ml <br />
+    0.01 % w/v
+- id: 4191
+  question: Convert 15.1 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.51
+  solution: |-
+    This means 15.1 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1510.0 per 100 ml <br />
+    Convert to g: 1.51 g per 100 ml <br />
+    1.51 % w/v
+- id: 4192
+  question: Convert 8.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.87
+  solution: |-
+    This means 8.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 870.0 per 100 ml <br />
+    Convert to g: 0.87 g per 100 ml <br />
+    0.87 % w/v
+- id: 4193
+  question: Convert 19.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.96
+  solution: |-
+    This means 19.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1960.0 per 100 ml <br />
+    Convert to g: 1.96 g per 100 ml <br />
+    1.96 % w/v
+- id: 4194
+  question: Convert 0.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.03
+  solution: |-
+    This means 0.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 30.0 per 100 ml <br />
+    Convert to g: 0.03 g per 100 ml <br />
+    0.03 % w/v
+- id: 4195
+  question: Convert 2.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.23
+  solution: |-
+    This means 2.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 230.0 per 100 ml <br />
+    Convert to g: 0.23 g per 100 ml <br />
+    0.23 % w/v
+- id: 4196
+  question: Convert 16.0 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.6
+  solution: |-
+    This means 16.0 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1600.0 per 100 ml <br />
+    Convert to g: 1.6 g per 100 ml <br />
+    1.6 % w/v
+- id: 4197
+  question: Convert 0.97 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 9.7
+  solution: |-
+    This means 0.97 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.01 g/ ml <br />
+    Convert to mg: 9.7 mg/ml<br />
+    9.7
+- id: 4198
+  question: Convert 0.57 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 5.7
+  solution: |-
+    This means 0.57 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.006 g/ ml <br />
+    Convert to mg: 5.7 mg/ml<br />
+    5.7
+- id: 4199
+  question: Convert 7.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.75
+  solution: |-
+    This means 7.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 750.0 per 100 ml <br />
+    Convert to g: 0.75 g per 100 ml <br />
+    0.75 % w/v
+- id: 4200
+  question: Convert 0.55 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 5.5
+  solution: |-
+    This means 0.55 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.006 g/ ml <br />
+    Convert to mg: 5.5 mg/ml<br />
+    5.5
+- id: 4201
+  question: Convert 2.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.22
+  solution: |-
+    This means 2.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 220.0 per 100 ml <br />
+    Convert to g: 0.22 g per 100 ml <br />
+    0.22 % w/v
+- id: 4202
+  question: Convert 0.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.08
+  solution: |-
+    This means 0.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 80.0 per 100 ml <br />
+    Convert to g: 0.08 g per 100 ml <br />
+    0.08 % w/v
+- id: 4203
+  question: Convert 16.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.64
+  solution: |-
+    This means 16.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1640.0 per 100 ml <br />
+    Convert to g: 1.64 g per 100 ml <br />
+    1.64 % w/v
+- id: 4204
+  question: Convert 1.01 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 10.1
+  solution: |-
+    This means 1.01 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.01 g/ ml <br />
+    Convert to mg: 10.1 mg/ml<br />
+    10.1
+- id: 4205
+  question: Convert 1.06 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 10.6
+  solution: |-
+    This means 1.06 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.011 g/ ml <br />
+    Convert to mg: 10.6 mg/ml<br />
+    10.6
+- id: 4206
+  question: Convert 1.63 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 16.3
+  solution: |-
+    This means 1.63 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.016 g/ ml <br />
+    Convert to mg: 16.3 mg/ml<br />
+    16.3
+- id: 4207
+  question: Convert 13.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.39
+  solution: |-
+    This means 13.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1390.0 per 100 ml <br />
+    Convert to g: 1.39 g per 100 ml <br />
+    1.39 % w/v
+- id: 4208
+  question: Convert 0.44 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 4.4
+  solution: |-
+    This means 0.44 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.004 g/ ml <br />
+    Convert to mg: 4.4 mg/ml<br />
+    4.4
+- id: 4209
+  question: Convert 0.97 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 9.7
+  solution: |-
+    This means 0.97 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.01 g/ ml <br />
+    Convert to mg: 9.7 mg/ml<br />
+    9.7
+- id: 4210
+  question: Convert 1.47 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 14.7
+  solution: |-
+    This means 1.47 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.015 g/ ml <br />
+    Convert to mg: 14.7 mg/ml<br />
+    14.7
+- id: 4211
+  question: Convert 0.87 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 8.7
+  solution: |-
+    This means 0.87 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.009 g/ ml <br />
+    Convert to mg: 8.7 mg/ml<br />
+    8.7
+- id: 4212
+  question: Convert 0.98 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 9.8
+  solution: |-
+    This means 0.98 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.01 g/ ml <br />
+    Convert to mg: 9.8 mg/ml<br />
+    9.8
+- id: 4213
+  question: Convert 0.05 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 0.5
+  solution: |-
+    This means 0.05 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.001 g/ ml <br />
+    Convert to mg: 0.5 mg/ml<br />
+    0.5
+- id: 4214
+  question: Convert 0.88 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 8.8
+  solution: |-
+    This means 0.88 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.009 g/ ml <br />
+    Convert to mg: 8.8 mg/ml<br />
+    8.8
+- id: 4215
+  question: Convert 10.0 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.0
+  solution: |-
+    This means 10.0 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1000.0 per 100 ml <br />
+    Convert to g: 1.0 g per 100 ml <br />
+    1.0 % w/v
+- id: 4216
+  question: Convert 1.38 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 13.8
+  solution: |-
+    This means 1.38 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.014 g/ ml <br />
+    Convert to mg: 13.8 mg/ml<br />
+    13.8
+- id: 4217
+  question: Convert 1.54 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 15.4
+  solution: |-
+    This means 1.54 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.015 g/ ml <br />
+    Convert to mg: 15.4 mg/ml<br />
+    15.4
+- id: 4218
+  question: Convert 0.85 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 8.5
+  solution: |-
+    This means 0.85 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.009 g/ ml <br />
+    Convert to mg: 8.5 mg/ml<br />
+    8.5
+- id: 4219
+  question: Convert 1.13 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 11.3
+  solution: |-
+    This means 1.13 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.011 g/ ml <br />
+    Convert to mg: 11.3 mg/ml<br />
+    11.3
+- id: 4220
+  question: Convert 15.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.53
+  solution: |-
+    This means 15.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1530.0 per 100 ml <br />
+    Convert to g: 1.53 g per 100 ml <br />
+    1.53 % w/v
+- id: 4221
+  question: Convert 0.18 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 1.8
+  solution: |-
+    This means 0.18 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.002 g/ ml <br />
+    Convert to mg: 1.8 mg/ml<br />
+    1.8
+- id: 4222
+  question: Convert 1.05 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 10.5
+  solution: |-
+    This means 1.05 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.011 g/ ml <br />
+    Convert to mg: 10.5 mg/ml<br />
+    10.5
+- id: 4223
+  question: Convert 17.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.74
+  solution: |-
+    This means 17.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1740.0 per 100 ml <br />
+    Convert to g: 1.74 g per 100 ml <br />
+    1.74 % w/v
+- id: 4224
+  question: Convert 9.1 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.91
+  solution: |-
+    This means 9.1 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 910.0 per 100 ml <br />
+    Convert to g: 0.91 g per 100 ml <br />
+    0.91 % w/v
+- id: 4225
+  question: Convert 0.44 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 4.4
+  solution: |-
+    This means 0.44 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.004 g/ ml <br />
+    Convert to mg: 4.4 mg/ml<br />
+    4.4
+- id: 4226
+  question: Convert 1.57 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 15.7
+  solution: |-
+    This means 1.57 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.016 g/ ml <br />
+    Convert to mg: 15.7 mg/ml<br />
+    15.7
+- id: 4227
+  question: Convert 0.28 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 2.8
+  solution: |-
+    This means 0.28 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.003 g/ ml <br />
+    Convert to mg: 2.8 mg/ml<br />
+    2.8
+- id: 4228
+  question: Convert 14.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.45
+  solution: |-
+    This means 14.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1450.0 per 100 ml <br />
+    Convert to g: 1.45 g per 100 ml <br />
+    1.45 % w/v
+- id: 4229
+  question: Convert 0.92 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 9.2
+  solution: |-
+    This means 0.92 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.009 g/ ml <br />
+    Convert to mg: 9.2 mg/ml<br />
+    9.2
+- id: 4230
+  question: Convert 1.7 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 17.0
+  solution: |-
+    This means 1.7 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.017 g/ ml <br />
+    Convert to mg: 17.0 mg/ml<br />
+    17.0
+- id: 4231
+  question: Convert 14.1 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.41
+  solution: |-
+    This means 14.1 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1410.0 per 100 ml <br />
+    Convert to g: 1.41 g per 100 ml <br />
+    1.41 % w/v
+- id: 4232
+  question: Convert 0.98 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 9.8
+  solution: |-
+    This means 0.98 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.01 g/ ml <br />
+    Convert to mg: 9.8 mg/ml<br />
+    9.8
+- id: 4233
+  question: Convert 1.76 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 17.6
+  solution: |-
+    This means 1.76 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.018 g/ ml <br />
+    Convert to mg: 17.6 mg/ml<br />
+    17.6
+- id: 4234
+  question: Convert 0.53 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 5.3
+  solution: |-
+    This means 0.53 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.005 g/ ml <br />
+    Convert to mg: 5.3 mg/ml<br />
+    5.3
+- id: 4235
+  question: Convert 0.01 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 0.1
+  solution: |-
+    This means 0.01 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.0 g/ ml <br />
+    Convert to mg: 0.1 mg/ml<br />
+    0.1
+- id: 4236
+  question: Convert 1.23 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 12.3
+  solution: |-
+    This means 1.23 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.012 g/ ml <br />
+    Convert to mg: 12.3 mg/ml<br />
+    12.3
+- id: 4237
+  question: Convert 19.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.92
+  solution: |-
+    This means 19.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1920.0 per 100 ml <br />
+    Convert to g: 1.92 g per 100 ml <br />
+    1.92 % w/v
+- id: 4238
+  question: Convert 0.73 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 7.3
+  solution: |-
+    This means 0.73 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.007 g/ ml <br />
+    Convert to mg: 7.3 mg/ml<br />
+    7.3
+- id: 4239
+  question: Convert 0.91 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 9.1
+  solution: |-
+    This means 0.91 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.009 g/ ml <br />
+    Convert to mg: 9.1 mg/ml<br />
+    9.1
+- id: 4240
+  question: Convert 1.19 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 11.9
+  solution: |-
+    This means 1.19 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.012 g/ ml <br />
+    Convert to mg: 11.9 mg/ml<br />
+    11.9
+- id: 4241
+  question: Convert 0.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.09
+  solution: |-
+    This means 0.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 90.0 per 100 ml <br />
+    Convert to g: 0.09 g per 100 ml <br />
+    0.09 % w/v
+- id: 4242
+  question: Convert 7.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.73
+  solution: |-
+    This means 7.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 730.0 per 100 ml <br />
+    Convert to g: 0.73 g per 100 ml <br />
+    0.73 % w/v
+- id: 4243
+  question: Convert 0.28 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 2.8
+  solution: |-
+    This means 0.28 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.003 g/ ml <br />
+    Convert to mg: 2.8 mg/ml<br />
+    2.8
+- id: 4244
+  question: Convert 0.41 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 4.1
+  solution: |-
+    This means 0.41 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.004 g/ ml <br />
+    Convert to mg: 4.1 mg/ml<br />
+    4.1
+- id: 4245
+  question: Convert 19.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.99
+  solution: |-
+    This means 19.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1990.0 per 100 ml <br />
+    Convert to g: 1.99 g per 100 ml <br />
+    1.99 % w/v
+- id: 4246
+  question: Convert 2.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.26
+  solution: |-
+    This means 2.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 260.0 per 100 ml <br />
+    Convert to g: 0.26 g per 100 ml <br />
+    0.26 % w/v
+- id: 4247
+  question: Convert 6.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.62
+  solution: |-
+    This means 6.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 620.0 per 100 ml <br />
+    Convert to g: 0.62 g per 100 ml <br />
+    0.62 % w/v
+- id: 4248
+  question: Convert 19.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.94
+  solution: |-
+    This means 19.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1940.0 per 100 ml <br />
+    Convert to g: 1.94 g per 100 ml <br />
+    1.94 % w/v
+- id: 4249
+  question: Convert 0.08 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 0.8
+  solution: |-
+    This means 0.08 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.001 g/ ml <br />
+    Convert to mg: 0.8 mg/ml<br />
+    0.8
+- id: 4250
+  question: Convert 4.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.43
+  solution: |-
+    This means 4.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 430.0 per 100 ml <br />
+    Convert to g: 0.43 g per 100 ml <br />
+    0.43 % w/v
+- id: 4251
+  question: Convert 12.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.28
+  solution: |-
+    This means 12.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1280.0 per 100 ml <br />
+    Convert to g: 1.28 g per 100 ml <br />
+    1.28 % w/v
+- id: 4252
+  question: Convert 14.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.43
+  solution: |-
+    This means 14.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1430.0 per 100 ml <br />
+    Convert to g: 1.43 g per 100 ml <br />
+    1.43 % w/v
+- id: 4253
+  question: Convert 1.73 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 17.3
+  solution: |-
+    This means 1.73 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.017 g/ ml <br />
+    Convert to mg: 17.3 mg/ml<br />
+    17.3
+- id: 4254
+  question: Convert 0.55 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 5.5
+  solution: |-
+    This means 0.55 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.006 g/ ml <br />
+    Convert to mg: 5.5 mg/ml<br />
+    5.5
+- id: 4255
+  question: Convert 7.1 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.71
+  solution: |-
+    This means 7.1 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 710.0 per 100 ml <br />
+    Convert to g: 0.71 g per 100 ml <br />
+    0.71 % w/v
+- id: 4256
+  question: Convert 19.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.94
+  solution: |-
+    This means 19.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1940.0 per 100 ml <br />
+    Convert to g: 1.94 g per 100 ml <br />
+    1.94 % w/v
+- id: 4257
+  question: Convert 2.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.24
+  solution: |-
+    This means 2.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 240.0 per 100 ml <br />
+    Convert to g: 0.24 g per 100 ml <br />
+    0.24 % w/v
+- id: 4258
+  question: Convert 0.07 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 0.7
+  solution: |-
+    This means 0.07 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.001 g/ ml <br />
+    Convert to mg: 0.7 mg/ml<br />
+    0.7
+- id: 4259
+  question: Convert 0.21 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 2.1
+  solution: |-
+    This means 0.21 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.002 g/ ml <br />
+    Convert to mg: 2.1 mg/ml<br />
+    2.1
+- id: 4260
+  question: Convert 1.55 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 15.5
+  solution: |-
+    This means 1.55 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.015 g/ ml <br />
+    Convert to mg: 15.5 mg/ml<br />
+    15.5
+- id: 4261
+  question: Convert 1.32 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 13.2
+  solution: |-
+    This means 1.32 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.013 g/ ml <br />
+    Convert to mg: 13.2 mg/ml<br />
+    13.2
+- id: 4262
+  question: Convert 0.42 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 4.2
+  solution: |-
+    This means 0.42 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.004 g/ ml <br />
+    Convert to mg: 4.2 mg/ml<br />
+    4.2
+- id: 4263
+  question: Convert 17.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.78
+  solution: |-
+    This means 17.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1780.0 per 100 ml <br />
+    Convert to g: 1.78 g per 100 ml <br />
+    1.78 % w/v
+- id: 4264
+  question: Convert 19.0 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.9
+  solution: |-
+    This means 19.0 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1900.0 per 100 ml <br />
+    Convert to g: 1.9 g per 100 ml <br />
+    1.9 % w/v
+- id: 4265
+  question: Convert 0.47 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 4.7
+  solution: |-
+    This means 0.47 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.005 g/ ml <br />
+    Convert to mg: 4.7 mg/ml<br />
+    4.7
+- id: 4266
+  question: Convert 5.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.56
+  solution: |-
+    This means 5.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 560.0 per 100 ml <br />
+    Convert to g: 0.56 g per 100 ml <br />
+    0.56 % w/v
+- id: 4267
+  question: Convert 1.85 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 18.5
+  solution: |-
+    This means 1.85 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.019 g/ ml <br />
+    Convert to mg: 18.5 mg/ml<br />
+    18.5
+- id: 4268
+  question: Convert 1.32 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 13.2
+  solution: |-
+    This means 1.32 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.013 g/ ml <br />
+    Convert to mg: 13.2 mg/ml<br />
+    13.2
+- id: 4269
+  question: Convert 0.21 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 2.1
+  solution: |-
+    This means 0.21 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.002 g/ ml <br />
+    Convert to mg: 2.1 mg/ml<br />
+    2.1
+- id: 4270
+  question: Convert 8.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.86
+  solution: |-
+    This means 8.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 860.0 per 100 ml <br />
+    Convert to g: 0.86 g per 100 ml <br />
+    0.86 % w/v
+- id: 4271
+  question: Convert 1.19 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 11.9
+  solution: |-
+    This means 1.19 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.012 g/ ml <br />
+    Convert to mg: 11.9 mg/ml<br />
+    11.9
+- id: 4272
+  question: Convert 0.09 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 0.9
+  solution: |-
+    This means 0.09 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.001 g/ ml <br />
+    Convert to mg: 0.9 mg/ml<br />
+    0.9
+- id: 4273
+  question: Convert 15.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.57
+  solution: |-
+    This means 15.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1570.0 per 100 ml <br />
+    Convert to g: 1.57 g per 100 ml <br />
+    1.57 % w/v
+- id: 4274
+  question: Convert 0.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.02
+  solution: |-
+    This means 0.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 20.0 per 100 ml <br />
+    Convert to g: 0.02 g per 100 ml <br />
+    0.02 % w/v
+- id: 4275
+  question: Convert 18.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.88
+  solution: |-
+    This means 18.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1880.0 per 100 ml <br />
+    Convert to g: 1.88 g per 100 ml <br />
+    1.88 % w/v
+- id: 4276
+  question: Convert 1.67 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 16.7
+  solution: |-
+    This means 1.67 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.017 g/ ml <br />
+    Convert to mg: 16.7 mg/ml<br />
+    16.7
+- id: 4277
+  question: Convert 1.32 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 13.2
+  solution: |-
+    This means 1.32 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.013 g/ ml <br />
+    Convert to mg: 13.2 mg/ml<br />
+    13.2
+- id: 4278
+  question: Convert 1.02 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 10.2
+  solution: |-
+    This means 1.02 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.01 g/ ml <br />
+    Convert to mg: 10.2 mg/ml<br />
+    10.2
+- id: 4279
+  question: Convert 1.94 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 19.4
+  solution: |-
+    This means 1.94 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.019 g/ ml <br />
+    Convert to mg: 19.4 mg/ml<br />
+    19.4
+- id: 4280
+  question: Convert 1.69 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 16.9
+  solution: |-
+    This means 1.69 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.017 g/ ml <br />
+    Convert to mg: 16.9 mg/ml<br />
+    16.9
+- id: 4281
+  question: Convert 4.1 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.41
+  solution: |-
+    This means 4.1 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 410.0 per 100 ml <br />
+    Convert to g: 0.41 g per 100 ml <br />
+    0.41 % w/v
+- id: 4282
+  question: Convert 0.45 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 4.5
+  solution: |-
+    This means 0.45 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.005 g/ ml <br />
+    Convert to mg: 4.5 mg/ml<br />
+    4.5
+- id: 4283
+  question: Convert 0.86 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 8.6
+  solution: |-
+    This means 0.86 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.009 g/ ml <br />
+    Convert to mg: 8.6 mg/ml<br />
+    8.6
+- id: 4284
+  question: Convert 1.05 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 10.5
+  solution: |-
+    This means 1.05 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.011 g/ ml <br />
+    Convert to mg: 10.5 mg/ml<br />
+    10.5
+- id: 4285
+  question: Convert 7.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.73
+  solution: |-
+    This means 7.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 730.0 per 100 ml <br />
+    Convert to g: 0.73 g per 100 ml <br />
+    0.73 % w/v
+- id: 4286
+  question: Convert 4.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.49
+  solution: |-
+    This means 4.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 490.0 per 100 ml <br />
+    Convert to g: 0.49 g per 100 ml <br />
+    0.49 % w/v
+- id: 4287
+  question: Convert 9.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.98
+  solution: |-
+    This means 9.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 980.0 per 100 ml <br />
+    Convert to g: 0.98 g per 100 ml <br />
+    0.98 % w/v
+- id: 4288
+  question: Convert 13.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.32
+  solution: |-
+    This means 13.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1320.0 per 100 ml <br />
+    Convert to g: 1.32 g per 100 ml <br />
+    1.32 % w/v
+- id: 4289
+  question: Convert 1.12 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 11.2
+  solution: |-
+    This means 1.12 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.011 g/ ml <br />
+    Convert to mg: 11.2 mg/ml<br />
+    11.2
+- id: 4290
+  question: Convert 0.27 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 2.7
+  solution: |-
+    This means 0.27 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.003 g/ ml <br />
+    Convert to mg: 2.7 mg/ml<br />
+    2.7
+- id: 4291
+  question: Convert 0.52 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 5.2
+  solution: |-
+    This means 0.52 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.005 g/ ml <br />
+    Convert to mg: 5.2 mg/ml<br />
+    5.2
+- id: 4292
+  question: Convert 14.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.45
+  solution: |-
+    This means 14.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1450.0 per 100 ml <br />
+    Convert to g: 1.45 g per 100 ml <br />
+    1.45 % w/v
+- id: 4293
+  question: Convert 0.66 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 6.6
+  solution: |-
+    This means 0.66 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.007 g/ ml <br />
+    Convert to mg: 6.6 mg/ml<br />
+    6.6
+- id: 4294
+  question: Convert 1.48 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 14.8
+  solution: |-
+    This means 1.48 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.015 g/ ml <br />
+    Convert to mg: 14.8 mg/ml<br />
+    14.8
+- id: 4295
+  question: Convert 7.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.78
+  solution: |-
+    This means 7.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 780.0 per 100 ml <br />
+    Convert to g: 0.78 g per 100 ml <br />
+    0.78 % w/v
+- id: 4296
+  question: Convert 0.26 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 2.6
+  solution: |-
+    This means 0.26 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.003 g/ ml <br />
+    Convert to mg: 2.6 mg/ml<br />
+    2.6
+- id: 4297
+  question: Convert 10.0 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.0
+  solution: |-
+    This means 10.0 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1000.0 per 100 ml <br />
+    Convert to g: 1.0 g per 100 ml <br />
+    1.0 % w/v
+- id: 4298
+  question: Convert 0.37 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 3.7
+  solution: |-
+    This means 0.37 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.004 g/ ml <br />
+    Convert to mg: 3.7 mg/ml<br />
+    3.7
+- id: 4299
+  question: Convert 16.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.67
+  solution: |-
+    This means 16.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1670.0 per 100 ml <br />
+    Convert to g: 1.67 g per 100 ml <br />
+    1.67 % w/v
+- id: 4300
+  question: Convert 1.46 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 14.6
+  solution: |-
+    This means 1.46 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.015 g/ ml <br />
+    Convert to mg: 14.6 mg/ml<br />
+    14.6
+- id: 4301
+  question: Convert 10.0 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.0
+  solution: |-
+    This means 10.0 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1000.0 per 100 ml <br />
+    Convert to g: 1.0 g per 100 ml <br />
+    1.0 % w/v
+- id: 4302
+  question: Convert 1.97 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 19.7
+  solution: |-
+    This means 1.97 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.02 g/ ml <br />
+    Convert to mg: 19.7 mg/ml<br />
+    19.7
+- id: 4303
+  question: Convert 1.73 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 17.3
+  solution: |-
+    This means 1.73 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.017 g/ ml <br />
+    Convert to mg: 17.3 mg/ml<br />
+    17.3
+- id: 4304
+  question: Convert 11.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.16
+  solution: |-
+    This means 11.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1160.0 per 100 ml <br />
+    Convert to g: 1.16 g per 100 ml <br />
+    1.16 % w/v
+- id: 4305
+  question: Convert 1.73 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 17.3
+  solution: |-
+    This means 1.73 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.017 g/ ml <br />
+    Convert to mg: 17.3 mg/ml<br />
+    17.3
+- id: 4306
+  question: Convert 5.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.53
+  solution: |-
+    This means 5.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 530.0 per 100 ml <br />
+    Convert to g: 0.53 g per 100 ml <br />
+    0.53 % w/v
+- id: 4307
+  question: Convert 1.3 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 13.0
+  solution: |-
+    This means 1.3 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.013 g/ ml <br />
+    Convert to mg: 13.0 mg/ml<br />
+    13.0
+- id: 4308
+  question: Convert 0.99 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 9.9
+  solution: |-
+    This means 0.99 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.01 g/ ml <br />
+    Convert to mg: 9.9 mg/ml<br />
+    9.9
+- id: 4309
+  question: Convert 1.64 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 16.4
+  solution: |-
+    This means 1.64 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.016 g/ ml <br />
+    Convert to mg: 16.4 mg/ml<br />
+    16.4
+- id: 4310
+  question: Convert 0.7 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 7.0
+  solution: |-
+    This means 0.7 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.007 g/ ml <br />
+    Convert to mg: 7.0 mg/ml<br />
+    7.0
+- id: 4311
+  question: Convert 1.58 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 15.8
+  solution: |-
+    This means 1.58 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.016 g/ ml <br />
+    Convert to mg: 15.8 mg/ml<br />
+    15.8
+- id: 4312
+  question: Convert 18.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.85
+  solution: |-
+    This means 18.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1850.0 per 100 ml <br />
+    Convert to g: 1.85 g per 100 ml <br />
+    1.85 % w/v
+- id: 4313
+  question: Convert 5.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.59
+  solution: |-
+    This means 5.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 590.0 per 100 ml <br />
+    Convert to g: 0.59 g per 100 ml <br />
+    0.59 % w/v
+- id: 4314
+  question: Convert 0.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.09
+  solution: |-
+    This means 0.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 90.0 per 100 ml <br />
+    Convert to g: 0.09 g per 100 ml <br />
+    0.09 % w/v
+- id: 4315
+  question: Convert 13.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.32
+  solution: |-
+    This means 13.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1320.0 per 100 ml <br />
+    Convert to g: 1.32 g per 100 ml <br />
+    1.32 % w/v
+- id: 4316
+  question: Convert 1.99 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 19.9
+  solution: |-
+    This means 1.99 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.02 g/ ml <br />
+    Convert to mg: 19.9 mg/ml<br />
+    19.9
+- id: 4317
+  question: Convert 16.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.63
+  solution: |-
+    This means 16.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1630.0 per 100 ml <br />
+    Convert to g: 1.63 g per 100 ml <br />
+    1.63 % w/v
+- id: 4318
+  question: Convert 0.99 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 9.9
+  solution: |-
+    This means 0.99 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.01 g/ ml <br />
+    Convert to mg: 9.9 mg/ml<br />
+    9.9
+- id: 4319
+  question: Convert 18.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.86
+  solution: |-
+    This means 18.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1860.0 per 100 ml <br />
+    Convert to g: 1.86 g per 100 ml <br />
+    1.86 % w/v
+- id: 4320
+  question: Convert 0.3 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 3.0
+  solution: |-
+    This means 0.3 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.003 g/ ml <br />
+    Convert to mg: 3.0 mg/ml<br />
+    3.0
+- id: 4321
+  question: Convert 1.98 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 19.8
+  solution: |-
+    This means 1.98 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.02 g/ ml <br />
+    Convert to mg: 19.8 mg/ml<br />
+    19.8
+- id: 4322
+  question: Convert 1.17 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 11.7
+  solution: |-
+    This means 1.17 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.012 g/ ml <br />
+    Convert to mg: 11.7 mg/ml<br />
+    11.7
+- id: 4323
+  question: Convert 0.95 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 9.5
+  solution: |-
+    This means 0.95 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.009 g/ ml <br />
+    Convert to mg: 9.5 mg/ml<br />
+    9.5
+- id: 4324
+  question: Convert 1.54 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 15.4
+  solution: |-
+    This means 1.54 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.015 g/ ml <br />
+    Convert to mg: 15.4 mg/ml<br />
+    15.4
+- id: 4325
+  question: Convert 1.18 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 11.8
+  solution: |-
+    This means 1.18 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.012 g/ ml <br />
+    Convert to mg: 11.8 mg/ml<br />
+    11.8
+- id: 4326
+  question: Convert 1.28 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 12.8
+  solution: |-
+    This means 1.28 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.013 g/ ml <br />
+    Convert to mg: 12.8 mg/ml<br />
+    12.8
+- id: 4327
+  question: Convert 5.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.55
+  solution: |-
+    This means 5.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 550.0 per 100 ml <br />
+    Convert to g: 0.55 g per 100 ml <br />
+    0.55 % w/v
+- id: 4328
+  question: Convert 3.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.34
+  solution: |-
+    This means 3.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 340.0 per 100 ml <br />
+    Convert to g: 0.34 g per 100 ml <br />
+    0.34 % w/v
+- id: 4329
+  question: Convert 7.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.75
+  solution: |-
+    This means 7.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 750.0 per 100 ml <br />
+    Convert to g: 0.75 g per 100 ml <br />
+    0.75 % w/v
+- id: 4330
+  question: Convert 10.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.04
+  solution: |-
+    This means 10.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1040.0 per 100 ml <br />
+    Convert to g: 1.04 g per 100 ml <br />
+    1.04 % w/v
+- id: 4331
+  question: Convert 0.01 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 0.1
+  solution: |-
+    This means 0.01 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.0 g/ ml <br />
+    Convert to mg: 0.1 mg/ml<br />
+    0.1
+- id: 4332
+  question: Convert 1.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.17
+  solution: |-
+    This means 1.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 170.0 per 100 ml <br />
+    Convert to g: 0.17 g per 100 ml <br />
+    0.17 % w/v
+- id: 4333
+  question: Convert 0.14 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 1.4
+  solution: |-
+    This means 0.14 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.001 g/ ml <br />
+    Convert to mg: 1.4 mg/ml<br />
+    1.4
+- id: 4334
+  question: Convert 13.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.33
+  solution: |-
+    This means 13.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1330.0 per 100 ml <br />
+    Convert to g: 1.33 g per 100 ml <br />
+    1.33 % w/v
+- id: 4335
+  question: Convert 0.01 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 0.1
+  solution: |-
+    This means 0.01 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.0 g/ ml <br />
+    Convert to mg: 0.1 mg/ml<br />
+    0.1
+- id: 4336
+  question: Convert 12.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.23
+  solution: |-
+    This means 12.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1230.0 per 100 ml <br />
+    Convert to g: 1.23 g per 100 ml <br />
+    1.23 % w/v
+- id: 4337
+  question: Convert 0.23 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 2.3
+  solution: |-
+    This means 0.23 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.002 g/ ml <br />
+    Convert to mg: 2.3 mg/ml<br />
+    2.3
+- id: 4338
+  question: Convert 2.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.24
+  solution: |-
+    This means 2.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 240.0 per 100 ml <br />
+    Convert to g: 0.24 g per 100 ml <br />
+    0.24 % w/v
+- id: 4339
+  question: Convert 13.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.33
+  solution: |-
+    This means 13.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1330.0 per 100 ml <br />
+    Convert to g: 1.33 g per 100 ml <br />
+    1.33 % w/v
+- id: 4340
+  question: Convert 4.1 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.41
+  solution: |-
+    This means 4.1 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 410.0 per 100 ml <br />
+    Convert to g: 0.41 g per 100 ml <br />
+    0.41 % w/v
+- id: 4341
+  question: Convert 1.03 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 10.3
+  solution: |-
+    This means 1.03 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.01 g/ ml <br />
+    Convert to mg: 10.3 mg/ml<br />
+    10.3
+- id: 4342
+  question: Convert 7.0 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.7
+  solution: |-
+    This means 7.0 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 700.0 per 100 ml <br />
+    Convert to g: 0.7 g per 100 ml <br />
+    0.7 % w/v
+- id: 4343
+  question: Convert 1.76 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 17.6
+  solution: |-
+    This means 1.76 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.018 g/ ml <br />
+    Convert to mg: 17.6 mg/ml<br />
+    17.6
+- id: 4344
+  question: Convert 7.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.74
+  solution: |-
+    This means 7.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 740.0 per 100 ml <br />
+    Convert to g: 0.74 g per 100 ml <br />
+    0.74 % w/v
+- id: 4345
+  question: Convert 1.55 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 15.5
+  solution: |-
+    This means 1.55 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.015 g/ ml <br />
+    Convert to mg: 15.5 mg/ml<br />
+    15.5
+- id: 4346
+  question: Convert 16.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.65
+  solution: |-
+    This means 16.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1650.0 per 100 ml <br />
+    Convert to g: 1.65 g per 100 ml <br />
+    1.65 % w/v
+- id: 4347
+  question: Convert 12.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.28
+  solution: |-
+    This means 12.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1280.0 per 100 ml <br />
+    Convert to g: 1.28 g per 100 ml <br />
+    1.28 % w/v
+- id: 4348
+  question: Convert 1.0 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.1
+  solution: |-
+    This means 1.0 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 100.0 per 100 ml <br />
+    Convert to g: 0.1 g per 100 ml <br />
+    0.1 % w/v
+- id: 4349
+  question: Convert 0.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.08
+  solution: |-
+    This means 0.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 80.0 per 100 ml <br />
+    Convert to g: 0.08 g per 100 ml <br />
+    0.08 % w/v
+- id: 4350
+  question: Convert 1.05 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 10.5
+  solution: |-
+    This means 1.05 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.011 g/ ml <br />
+    Convert to mg: 10.5 mg/ml<br />
+    10.5
+- id: 4351
+  question: Convert 9.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.99
+  solution: |-
+    This means 9.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 990.0 per 100 ml <br />
+    Convert to g: 0.99 g per 100 ml <br />
+    0.99 % w/v
+- id: 4352
+  question: Convert 0.42 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 4.2
+  solution: |-
+    This means 0.42 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.004 g/ ml <br />
+    Convert to mg: 4.2 mg/ml<br />
+    4.2
+- id: 4353
+  question: Convert 5.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.59
+  solution: |-
+    This means 5.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 590.0 per 100 ml <br />
+    Convert to g: 0.59 g per 100 ml <br />
+    0.59 % w/v
+- id: 4354
+  question: Convert 1.95 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 19.5
+  solution: |-
+    This means 1.95 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.019 g/ ml <br />
+    Convert to mg: 19.5 mg/ml<br />
+    19.5
+- id: 4355
+  question: Convert 1.59 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 15.9
+  solution: |-
+    This means 1.59 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.016 g/ ml <br />
+    Convert to mg: 15.9 mg/ml<br />
+    15.9
+- id: 4356
+  question: Convert 0.8 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 8.0
+  solution: |-
+    This means 0.8 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.008 g/ ml <br />
+    Convert to mg: 8.0 mg/ml<br />
+    8.0
+- id: 4357
+  question: Convert 0.15 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 1.5
+  solution: |-
+    This means 0.15 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.002 g/ ml <br />
+    Convert to mg: 1.5 mg/ml<br />
+    1.5
+- id: 4358
+  question: Convert 3.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.34
+  solution: |-
+    This means 3.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 340.0 per 100 ml <br />
+    Convert to g: 0.34 g per 100 ml <br />
+    0.34 % w/v
+- id: 4359
+  question: Convert 1.63 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 16.3
+  solution: |-
+    This means 1.63 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.016 g/ ml <br />
+    Convert to mg: 16.3 mg/ml<br />
+    16.3
+- id: 4360
+  question: Convert 1.37 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 13.7
+  solution: |-
+    This means 1.37 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.014 g/ ml <br />
+    Convert to mg: 13.7 mg/ml<br />
+    13.7
+- id: 4361
+  question: Convert 0.65 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 6.5
+  solution: |-
+    This means 0.65 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.007 g/ ml <br />
+    Convert to mg: 6.5 mg/ml<br />
+    6.5
+- id: 4362
+  question: Convert 1.61 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 16.1
+  solution: |-
+    This means 1.61 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.016 g/ ml <br />
+    Convert to mg: 16.1 mg/ml<br />
+    16.1
+- id: 4363
+  question: Convert 0.02 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 0.2
+  solution: |-
+    This means 0.02 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.0 g/ ml <br />
+    Convert to mg: 0.2 mg/ml<br />
+    0.2
+- id: 4364
+  question: Convert 1.03 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 10.3
+  solution: |-
+    This means 1.03 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.01 g/ ml <br />
+    Convert to mg: 10.3 mg/ml<br />
+    10.3
+- id: 4365
+  question: Convert 0.19 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 1.9
+  solution: |-
+    This means 0.19 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.002 g/ ml <br />
+    Convert to mg: 1.9 mg/ml<br />
+    1.9
+- id: 4366
+  question: Convert 0.05 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 0.5
+  solution: |-
+    This means 0.05 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.001 g/ ml <br />
+    Convert to mg: 0.5 mg/ml<br />
+    0.5
+- id: 4367
+  question: Convert 3.0 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.3
+  solution: |-
+    This means 3.0 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 300.0 per 100 ml <br />
+    Convert to g: 0.3 g per 100 ml <br />
+    0.3 % w/v
+- id: 4368
+  question: Convert 1.64 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 16.4
+  solution: |-
+    This means 1.64 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.016 g/ ml <br />
+    Convert to mg: 16.4 mg/ml<br />
+    16.4
+- id: 4369
+  question: Convert 17.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.72
+  solution: |-
+    This means 17.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1720.0 per 100 ml <br />
+    Convert to g: 1.72 g per 100 ml <br />
+    1.72 % w/v
+- id: 4370
+  question: Convert 1.98 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 19.8
+  solution: |-
+    This means 1.98 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.02 g/ ml <br />
+    Convert to mg: 19.8 mg/ml<br />
+    19.8
+- id: 4371
+  question: Convert 7.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.73
+  solution: |-
+    This means 7.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 730.0 per 100 ml <br />
+    Convert to g: 0.73 g per 100 ml <br />
+    0.73 % w/v
+- id: 4372
+  question: Convert 18.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.84
+  solution: |-
+    This means 18.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1840.0 per 100 ml <br />
+    Convert to g: 1.84 g per 100 ml <br />
+    1.84 % w/v
+- id: 4373
+  question: Convert 1.44 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 14.4
+  solution: |-
+    This means 1.44 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.014 g/ ml <br />
+    Convert to mg: 14.4 mg/ml<br />
+    14.4
+- id: 4374
+  question: Convert 0.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.09
+  solution: |-
+    This means 0.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 90.0 per 100 ml <br />
+    Convert to g: 0.09 g per 100 ml <br />
+    0.09 % w/v
+- id: 4375
+  question: Convert 10.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.05
+  solution: |-
+    This means 10.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1050.0 per 100 ml <br />
+    Convert to g: 1.05 g per 100 ml <br />
+    1.05 % w/v
+- id: 4376
+  question: Convert 0.07 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 0.7
+  solution: |-
+    This means 0.07 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.001 g/ ml <br />
+    Convert to mg: 0.7 mg/ml<br />
+    0.7
+- id: 4377
+  question: Convert 4.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.48
+  solution: |-
+    This means 4.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 480.0 per 100 ml <br />
+    Convert to g: 0.48 g per 100 ml <br />
+    0.48 % w/v
+- id: 4378
+  question: Convert 0.16 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 1.6
+  solution: |-
+    This means 0.16 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.002 g/ ml <br />
+    Convert to mg: 1.6 mg/ml<br />
+    1.6
+- id: 4379
+  question: Convert 1.88 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 18.8
+  solution: |-
+    This means 1.88 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.019 g/ ml <br />
+    Convert to mg: 18.8 mg/ml<br />
+    18.8
+- id: 4380
+  question: Convert 0.95 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 9.5
+  solution: |-
+    This means 0.95 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.009 g/ ml <br />
+    Convert to mg: 9.5 mg/ml<br />
+    9.5
+- id: 4381
+  question: Convert 1.47 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 14.7
+  solution: |-
+    This means 1.47 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.015 g/ ml <br />
+    Convert to mg: 14.7 mg/ml<br />
+    14.7
+- id: 4382
+  question: Convert 1.44 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 14.4
+  solution: |-
+    This means 1.44 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.014 g/ ml <br />
+    Convert to mg: 14.4 mg/ml<br />
+    14.4
+- id: 4383
+  question: Convert 1.07 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 10.7
+  solution: |-
+    This means 1.07 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.011 g/ ml <br />
+    Convert to mg: 10.7 mg/ml<br />
+    10.7
+- id: 4384
+  question: Convert 19.0 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.9
+  solution: |-
+    This means 19.0 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1900.0 per 100 ml <br />
+    Convert to g: 1.9 g per 100 ml <br />
+    1.9 % w/v
+- id: 4385
+  question: Convert 9.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.95
+  solution: |-
+    This means 9.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 950.0 per 100 ml <br />
+    Convert to g: 0.95 g per 100 ml <br />
+    0.95 % w/v
+- id: 4386
+  question: Convert 9.0 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.9
+  solution: |-
+    This means 9.0 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 900.0 per 100 ml <br />
+    Convert to g: 0.9 g per 100 ml <br />
+    0.9 % w/v
+- id: 4387
+  question: Convert 17.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.74
+  solution: |-
+    This means 17.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1740.0 per 100 ml <br />
+    Convert to g: 1.74 g per 100 ml <br />
+    1.74 % w/v
+- id: 4388
+  question: Convert 1.56 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 15.6
+  solution: |-
+    This means 1.56 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.016 g/ ml <br />
+    Convert to mg: 15.6 mg/ml<br />
+    15.6
+- id: 4389
+  question: Convert 0.58 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 5.8
+  solution: |-
+    This means 0.58 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.006 g/ ml <br />
+    Convert to mg: 5.8 mg/ml<br />
+    5.8
+- id: 4390
+  question: Convert 15.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.56
+  solution: |-
+    This means 15.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1560.0 per 100 ml <br />
+    Convert to g: 1.56 g per 100 ml <br />
+    1.56 % w/v
+- id: 4391
+  question: Convert 0.33 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 3.3
+  solution: |-
+    This means 0.33 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.003 g/ ml <br />
+    Convert to mg: 3.3 mg/ml<br />
+    3.3
+- id: 4392
+  question: Convert 1.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.17
+  solution: |-
+    This means 1.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 170.0 per 100 ml <br />
+    Convert to g: 0.17 g per 100 ml <br />
+    0.17 % w/v
+- id: 4393
+  question: Convert 1.99 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 19.9
+  solution: |-
+    This means 1.99 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.02 g/ ml <br />
+    Convert to mg: 19.9 mg/ml<br />
+    19.9
+- id: 4394
+  question: Convert 14.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.45
+  solution: |-
+    This means 14.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1450.0 per 100 ml <br />
+    Convert to g: 1.45 g per 100 ml <br />
+    1.45 % w/v
+- id: 4395
+  question: Convert 1.31 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 13.1
+  solution: |-
+    This means 1.31 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.013 g/ ml <br />
+    Convert to mg: 13.1 mg/ml<br />
+    13.1
+- id: 4396
+  question: Convert 3.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.35
+  solution: |-
+    This means 3.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 350.0 per 100 ml <br />
+    Convert to g: 0.35 g per 100 ml <br />
+    0.35 % w/v
+- id: 4397
+  question: Convert 1.94 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 19.4
+  solution: |-
+    This means 1.94 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.019 g/ ml <br />
+    Convert to mg: 19.4 mg/ml<br />
+    19.4
+- id: 4398
+  question: Convert 10.0 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.0
+  solution: |-
+    This means 10.0 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1000.0 per 100 ml <br />
+    Convert to g: 1.0 g per 100 ml <br />
+    1.0 % w/v
+- id: 4399
+  question: Convert 1.73 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 17.3
+  solution: |-
+    This means 1.73 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.017 g/ ml <br />
+    Convert to mg: 17.3 mg/ml<br />
+    17.3
+- id: 4400
+  question: Convert 1.65 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 16.5
+  solution: |-
+    This means 1.65 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.017 g/ ml <br />
+    Convert to mg: 16.5 mg/ml<br />
+    16.5
+- id: 4401
+  question: Convert 15.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.59
+  solution: |-
+    This means 15.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1590.0 per 100 ml <br />
+    Convert to g: 1.59 g per 100 ml <br />
+    1.59 % w/v
+- id: 4402
+  question: Convert 12.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.22
+  solution: |-
+    This means 12.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1220.0 per 100 ml <br />
+    Convert to g: 1.22 g per 100 ml <br />
+    1.22 % w/v
+- id: 4403
+  question: Convert 1.02 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 10.2
+  solution: |-
+    This means 1.02 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.01 g/ ml <br />
+    Convert to mg: 10.2 mg/ml<br />
+    10.2
+- id: 4404
+  question: Convert 2.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.29
+  solution: |-
+    This means 2.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 290.0 per 100 ml <br />
+    Convert to g: 0.29 g per 100 ml <br />
+    0.29 % w/v
+- id: 4405
+  question: Convert 1.17 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 11.7
+  solution: |-
+    This means 1.17 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.012 g/ ml <br />
+    Convert to mg: 11.7 mg/ml<br />
+    11.7
+- id: 4406
+  question: Convert 0.11 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 1.1
+  solution: |-
+    This means 0.11 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.001 g/ ml <br />
+    Convert to mg: 1.1 mg/ml<br />
+    1.1
+- id: 4407
+  question: Convert 1.32 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 13.2
+  solution: |-
+    This means 1.32 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.013 g/ ml <br />
+    Convert to mg: 13.2 mg/ml<br />
+    13.2
+- id: 4408
+  question: Convert 0.71 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 7.1
+  solution: |-
+    This means 0.71 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.007 g/ ml <br />
+    Convert to mg: 7.1 mg/ml<br />
+    7.1
+- id: 4409
+  question: Convert 9.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.99
+  solution: |-
+    This means 9.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 990.0 per 100 ml <br />
+    Convert to g: 0.99 g per 100 ml <br />
+    0.99 % w/v
+- id: 4410
+  question: Convert 1.63 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 16.3
+  solution: |-
+    This means 1.63 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.016 g/ ml <br />
+    Convert to mg: 16.3 mg/ml<br />
+    16.3
+- id: 4411
+  question: Convert 15.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.59
+  solution: |-
+    This means 15.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1590.0 per 100 ml <br />
+    Convert to g: 1.59 g per 100 ml <br />
+    1.59 % w/v
+- id: 4412
+  question: Convert 1.86 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 18.6
+  solution: |-
+    This means 1.86 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.019 g/ ml <br />
+    Convert to mg: 18.6 mg/ml<br />
+    18.6
+- id: 4413
+  question: Convert 1.83 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 18.3
+  solution: |-
+    This means 1.83 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.018 g/ ml <br />
+    Convert to mg: 18.3 mg/ml<br />
+    18.3
+- id: 4414
+  question: Convert 14.0 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.4
+  solution: |-
+    This means 14.0 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1400.0 per 100 ml <br />
+    Convert to g: 1.4 g per 100 ml <br />
+    1.4 % w/v
+- id: 4415
+  question: Convert 11.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.13
+  solution: |-
+    This means 11.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1130.0 per 100 ml <br />
+    Convert to g: 1.13 g per 100 ml <br />
+    1.13 % w/v
+- id: 4416
+  question: Convert 5.0 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.5
+  solution: |-
+    This means 5.0 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 500.0 per 100 ml <br />
+    Convert to g: 0.5 g per 100 ml <br />
+    0.5 % w/v
+- id: 4417
+  question: Convert 15.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.58
+  solution: |-
+    This means 15.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1580.0 per 100 ml <br />
+    Convert to g: 1.58 g per 100 ml <br />
+    1.58 % w/v
+- id: 4418
+  question: Convert 0.33 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 3.3
+  solution: |-
+    This means 0.33 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.003 g/ ml <br />
+    Convert to mg: 3.3 mg/ml<br />
+    3.3
+- id: 4419
+  question: Convert 12.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.28
+  solution: |-
+    This means 12.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1280.0 per 100 ml <br />
+    Convert to g: 1.28 g per 100 ml <br />
+    1.28 % w/v
+- id: 4420
+  question: Convert 1.37 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 13.7
+  solution: |-
+    This means 1.37 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.014 g/ ml <br />
+    Convert to mg: 13.7 mg/ml<br />
+    13.7
+- id: 4421
+  question: Convert 17.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.78
+  solution: |-
+    This means 17.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1780.0 per 100 ml <br />
+    Convert to g: 1.78 g per 100 ml <br />
+    1.78 % w/v
+- id: 4422
+  question: Convert 9.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.92
+  solution: |-
+    This means 9.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 920.0 per 100 ml <br />
+    Convert to g: 0.92 g per 100 ml <br />
+    0.92 % w/v
+- id: 4423
+  question: Convert 15.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.52
+  solution: |-
+    This means 15.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1520.0 per 100 ml <br />
+    Convert to g: 1.52 g per 100 ml <br />
+    1.52 % w/v
+- id: 4424
+  question: Convert 1.25 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 12.5
+  solution: |-
+    This means 1.25 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.013 g/ ml <br />
+    Convert to mg: 12.5 mg/ml<br />
+    12.5
+- id: 4425
+  question: Convert 0.24 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 2.4
+  solution: |-
+    This means 0.24 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.002 g/ ml <br />
+    Convert to mg: 2.4 mg/ml<br />
+    2.4
+- id: 4426
+  question: Convert 9.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.92
+  solution: |-
+    This means 9.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 920.0 per 100 ml <br />
+    Convert to g: 0.92 g per 100 ml <br />
+    0.92 % w/v
+- id: 4427
+  question: Convert 13.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.38
+  solution: |-
+    This means 13.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1380.0 per 100 ml <br />
+    Convert to g: 1.38 g per 100 ml <br />
+    1.38 % w/v
+- id: 4428
+  question: Convert 14.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.49
+  solution: |-
+    This means 14.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1490.0 per 100 ml <br />
+    Convert to g: 1.49 g per 100 ml <br />
+    1.49 % w/v
+- id: 4429
+  question: Convert 4.0 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.4
+  solution: |-
+    This means 4.0 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 400.0 per 100 ml <br />
+    Convert to g: 0.4 g per 100 ml <br />
+    0.4 % w/v
+- id: 4430
+  question: Convert 9.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.96
+  solution: |-
+    This means 9.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 960.0 per 100 ml <br />
+    Convert to g: 0.96 g per 100 ml <br />
+    0.96 % w/v
+- id: 4431
+  question: Convert 0.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.07
+  solution: |-
+    This means 0.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 70.0 per 100 ml <br />
+    Convert to g: 0.07 g per 100 ml <br />
+    0.07 % w/v
+- id: 4432
+  question: Convert 1.01 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 10.1
+  solution: |-
+    This means 1.01 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.01 g/ ml <br />
+    Convert to mg: 10.1 mg/ml<br />
+    10.1
+- id: 4433
+  question: Convert 0.83 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 8.3
+  solution: |-
+    This means 0.83 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.008 g/ ml <br />
+    Convert to mg: 8.3 mg/ml<br />
+    8.3
+- id: 4434
+  question: Convert 1.94 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 19.4
+  solution: |-
+    This means 1.94 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.019 g/ ml <br />
+    Convert to mg: 19.4 mg/ml<br />
+    19.4
+- id: 4435
+  question: Convert 0.23 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 2.3
+  solution: |-
+    This means 0.23 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.002 g/ ml <br />
+    Convert to mg: 2.3 mg/ml<br />
+    2.3
+- id: 4436
+  question: Convert 0.95 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 9.5
+  solution: |-
+    This means 0.95 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.009 g/ ml <br />
+    Convert to mg: 9.5 mg/ml<br />
+    9.5
+- id: 4437
+  question: Convert 7.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.78
+  solution: |-
+    This means 7.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 780.0 per 100 ml <br />
+    Convert to g: 0.78 g per 100 ml <br />
+    0.78 % w/v
+- id: 4438
+  question: Convert 0.04 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 0.4
+  solution: |-
+    This means 0.04 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.0 g/ ml <br />
+    Convert to mg: 0.4 mg/ml<br />
+    0.4
+- id: 4439
+  question: Convert 6.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.64
+  solution: |-
+    This means 6.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 640.0 per 100 ml <br />
+    Convert to g: 0.64 g per 100 ml <br />
+    0.64 % w/v
+- id: 4440
+  question: Convert 13.0 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.3
+  solution: |-
+    This means 13.0 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1300.0 per 100 ml <br />
+    Convert to g: 1.3 g per 100 ml <br />
+    1.3 % w/v
+- id: 4441
+  question: Convert 1.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.16
+  solution: |-
+    This means 1.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 160.0 per 100 ml <br />
+    Convert to g: 0.16 g per 100 ml <br />
+    0.16 % w/v
+- id: 4442
+  question: Convert 1.6 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 16.0
+  solution: |-
+    This means 1.6 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.016 g/ ml <br />
+    Convert to mg: 16.0 mg/ml<br />
+    16.0
+- id: 4443
+  question: Convert 1.99 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 19.9
+  solution: |-
+    This means 1.99 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.02 g/ ml <br />
+    Convert to mg: 19.9 mg/ml<br />
+    19.9
+- id: 4444
+  question: Convert 1.91 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 19.1
+  solution: |-
+    This means 1.91 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.019 g/ ml <br />
+    Convert to mg: 19.1 mg/ml<br />
+    19.1
+- id: 4445
+  question: Convert 1.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.12
+  solution: |-
+    This means 1.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 120.0 per 100 ml <br />
+    Convert to g: 0.12 g per 100 ml <br />
+    0.12 % w/v
+- id: 4446
+  question: Convert 0.59 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 5.9
+  solution: |-
+    This means 0.59 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.006 g/ ml <br />
+    Convert to mg: 5.9 mg/ml<br />
+    5.9
+- id: 4447
+  question: Convert 19.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.96
+  solution: |-
+    This means 19.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1960.0 per 100 ml <br />
+    Convert to g: 1.96 g per 100 ml <br />
+    1.96 % w/v
+- id: 4448
+  question: Convert 18.7 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.87
+  solution: |-
+    This means 18.7 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1870.0 per 100 ml <br />
+    Convert to g: 1.87 g per 100 ml <br />
+    1.87 % w/v
+- id: 4449
+  question: Convert 0.34 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 3.4
+  solution: |-
+    This means 0.34 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.003 g/ ml <br />
+    Convert to mg: 3.4 mg/ml<br />
+    3.4
+- id: 4450
+  question: Convert 14.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.46
+  solution: |-
+    This means 14.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1460.0 per 100 ml <br />
+    Convert to g: 1.46 g per 100 ml <br />
+    1.46 % w/v
+- id: 4451
+  question: Convert 0.68 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 6.8
+  solution: |-
+    This means 0.68 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.007 g/ ml <br />
+    Convert to mg: 6.8 mg/ml<br />
+    6.8
+- id: 4452
+  question: Convert 1.24 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 12.4
+  solution: |-
+    This means 1.24 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.012 g/ ml <br />
+    Convert to mg: 12.4 mg/ml<br />
+    12.4
+- id: 4453
+  question: Convert 3.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.39
+  solution: |-
+    This means 3.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 390.0 per 100 ml <br />
+    Convert to g: 0.39 g per 100 ml <br />
+    0.39 % w/v
+- id: 4454
+  question: Convert 1.42 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 14.2
+  solution: |-
+    This means 1.42 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.014 g/ ml <br />
+    Convert to mg: 14.2 mg/ml<br />
+    14.2
+- id: 4455
+  question: Convert 1.33 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 13.3
+  solution: |-
+    This means 1.33 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.013 g/ ml <br />
+    Convert to mg: 13.3 mg/ml<br />
+    13.3
+- id: 4456
+  question: Convert 1.04 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 10.4
+  solution: |-
+    This means 1.04 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.01 g/ ml <br />
+    Convert to mg: 10.4 mg/ml<br />
+    10.4
+- id: 4457
+  question: Convert 0.78 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 7.8
+  solution: |-
+    This means 0.78 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.008 g/ ml <br />
+    Convert to mg: 7.8 mg/ml<br />
+    7.8
+- id: 4458
+  question: Convert 16.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.69
+  solution: |-
+    This means 16.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1690.0 per 100 ml <br />
+    Convert to g: 1.69 g per 100 ml <br />
+    1.69 % w/v
+- id: 4459
+  question: Convert 12.1 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.21
+  solution: |-
+    This means 12.1 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1210.0 per 100 ml <br />
+    Convert to g: 1.21 g per 100 ml <br />
+    1.21 % w/v
+- id: 4460
+  question: Convert 1.06 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 10.6
+  solution: |-
+    This means 1.06 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.011 g/ ml <br />
+    Convert to mg: 10.6 mg/ml<br />
+    10.6
+- id: 4461
+  question: Convert 4.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.43
+  solution: |-
+    This means 4.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 430.0 per 100 ml <br />
+    Convert to g: 0.43 g per 100 ml <br />
+    0.43 % w/v
+- id: 4462
+  question: Convert 7.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.73
+  solution: |-
+    This means 7.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 730.0 per 100 ml <br />
+    Convert to g: 0.73 g per 100 ml <br />
+    0.73 % w/v
+- id: 4463
+  question: Convert 0.89 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 8.9
+  solution: |-
+    This means 0.89 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.009 g/ ml <br />
+    Convert to mg: 8.9 mg/ml<br />
+    8.9
+- id: 4464
+  question: Convert 1.59 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 15.9
+  solution: |-
+    This means 1.59 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.016 g/ ml <br />
+    Convert to mg: 15.9 mg/ml<br />
+    15.9
+- id: 4465
+  question: Convert 10.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.02
+  solution: |-
+    This means 10.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1020.0 per 100 ml <br />
+    Convert to g: 1.02 g per 100 ml <br />
+    1.02 % w/v
+- id: 4466
+  question: Convert 14.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.48
+  solution: |-
+    This means 14.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1480.0 per 100 ml <br />
+    Convert to g: 1.48 g per 100 ml <br />
+    1.48 % w/v
+- id: 4467
+  question: Convert 4.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.42
+  solution: |-
+    This means 4.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 420.0 per 100 ml <br />
+    Convert to g: 0.42 g per 100 ml <br />
+    0.42 % w/v
+- id: 4468
+  question: Convert 1.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.15
+  solution: |-
+    This means 1.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 150.0 per 100 ml <br />
+    Convert to g: 0.15 g per 100 ml <br />
+    0.15 % w/v
+- id: 4469
+  question: Convert 3.1 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.31
+  solution: |-
+    This means 3.1 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 310.0 per 100 ml <br />
+    Convert to g: 0.31 g per 100 ml <br />
+    0.31 % w/v
+- id: 4470
+  question: Convert 1.5 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 15.0
+  solution: |-
+    This means 1.5 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.015 g/ ml <br />
+    Convert to mg: 15.0 mg/ml<br />
+    15.0
+- id: 4471
+  question: Convert 8.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.85
+  solution: |-
+    This means 8.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 850.0 per 100 ml <br />
+    Convert to g: 0.85 g per 100 ml <br />
+    0.85 % w/v
+- id: 4472
+  question: Convert 14.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.45
+  solution: |-
+    This means 14.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1450.0 per 100 ml <br />
+    Convert to g: 1.45 g per 100 ml <br />
+    1.45 % w/v
+- id: 4473
+  question: Convert 18.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.84
+  solution: |-
+    This means 18.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1840.0 per 100 ml <br />
+    Convert to g: 1.84 g per 100 ml <br />
+    1.84 % w/v
+- id: 4474
+  question: Convert 0.94 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 9.4
+  solution: |-
+    This means 0.94 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.009 g/ ml <br />
+    Convert to mg: 9.4 mg/ml<br />
+    9.4
+- id: 4475
+  question: Convert 0.92 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 9.2
+  solution: |-
+    This means 0.92 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.009 g/ ml <br />
+    Convert to mg: 9.2 mg/ml<br />
+    9.2
+- id: 4476
+  question: Convert 1.3 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 13.0
+  solution: |-
+    This means 1.3 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.013 g/ ml <br />
+    Convert to mg: 13.0 mg/ml<br />
+    13.0
+- id: 4477
+  question: Convert 0.18 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 1.8
+  solution: |-
+    This means 0.18 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.002 g/ ml <br />
+    Convert to mg: 1.8 mg/ml<br />
+    1.8
+- id: 4478
+  question: Convert 0.77 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 7.7
+  solution: |-
+    This means 0.77 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.008 g/ ml <br />
+    Convert to mg: 7.7 mg/ml<br />
+    7.7
+- id: 4479
+  question: Convert 1.59 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 15.9
+  solution: |-
+    This means 1.59 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.016 g/ ml <br />
+    Convert to mg: 15.9 mg/ml<br />
+    15.9
+- id: 4480
+  question: Convert 19.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.96
+  solution: |-
+    This means 19.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1960.0 per 100 ml <br />
+    Convert to g: 1.96 g per 100 ml <br />
+    1.96 % w/v
+- id: 4481
+  question: Convert 16.8 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.68
+  solution: |-
+    This means 16.8 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1680.0 per 100 ml <br />
+    Convert to g: 1.68 g per 100 ml <br />
+    1.68 % w/v
+- id: 4482
+  question: Convert 2.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.26
+  solution: |-
+    This means 2.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 260.0 per 100 ml <br />
+    Convert to g: 0.26 g per 100 ml <br />
+    0.26 % w/v
+- id: 4483
+  question: Convert 10.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.05
+  solution: |-
+    This means 10.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1050.0 per 100 ml <br />
+    Convert to g: 1.05 g per 100 ml <br />
+    1.05 % w/v
+- id: 4484
+  question: Convert 0.17 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 1.7
+  solution: |-
+    This means 0.17 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.002 g/ ml <br />
+    Convert to mg: 1.7 mg/ml<br />
+    1.7
+- id: 4485
+  question: Convert 0.97 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 9.7
+  solution: |-
+    This means 0.97 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.01 g/ ml <br />
+    Convert to mg: 9.7 mg/ml<br />
+    9.7
+- id: 4486
+  question: Convert 13.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.33
+  solution: |-
+    This means 13.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1330.0 per 100 ml <br />
+    Convert to g: 1.33 g per 100 ml <br />
+    1.33 % w/v
+- id: 4487
+  question: Convert 12.3 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.23
+  solution: |-
+    This means 12.3 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1230.0 per 100 ml <br />
+    Convert to g: 1.23 g per 100 ml <br />
+    1.23 % w/v
+- id: 4488
+  question: Convert 2.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.22
+  solution: |-
+    This means 2.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 220.0 per 100 ml <br />
+    Convert to g: 0.22 g per 100 ml <br />
+    0.22 % w/v
+- id: 4489
+  question: Convert 0.13 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 1.3
+  solution: |-
+    This means 0.13 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.001 g/ ml <br />
+    Convert to mg: 1.3 mg/ml<br />
+    1.3
+- id: 4490
+  question: Convert 19.5 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.95
+  solution: |-
+    This means 19.5 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1950.0 per 100 ml <br />
+    Convert to g: 1.95 g per 100 ml <br />
+    1.95 % w/v
+- id: 4491
+  question: Convert 1.62 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 16.2
+  solution: |-
+    This means 1.62 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.016 g/ ml <br />
+    Convert to mg: 16.2 mg/ml<br />
+    16.2
+- id: 4492
+  question: Convert 12.9 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.29
+  solution: |-
+    This means 12.9 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1290.0 per 100 ml <br />
+    Convert to g: 1.29 g per 100 ml <br />
+    1.29 % w/v
+- id: 4493
+  question: Convert 6.1 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.61
+  solution: |-
+    This means 6.1 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 610.0 per 100 ml <br />
+    Convert to g: 0.61 g per 100 ml <br />
+    0.61 % w/v
+- id: 4494
+  question: Convert 1.31 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 13.1
+  solution: |-
+    This means 1.31 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.013 g/ ml <br />
+    Convert to mg: 13.1 mg/ml<br />
+    13.1
+- id: 4495
+  question: Convert 1.56 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 15.6
+  solution: |-
+    This means 1.56 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.016 g/ ml <br />
+    Convert to mg: 15.6 mg/ml<br />
+    15.6
+- id: 4496
+  question: Convert 1.21 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 12.1
+  solution: |-
+    This means 1.21 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.012 g/ ml <br />
+    Convert to mg: 12.1 mg/ml<br />
+    12.1
+- id: 4497
+  question: Convert 5.2 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 0.52
+  solution: |-
+    This means 5.2 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 520.0 per 100 ml <br />
+    Convert to g: 0.52 g per 100 ml <br />
+    0.52 % w/v
+- id: 4498
+  question: Convert 0.26 % w/v into mg/ml. Give your answer to 1 decimal place
+  answer: 2.6
+  solution: |-
+    This means 0.26 g in 100 ml <br />
+    Divide by 100 to get 1 ml: 0.003 g/ ml <br />
+    Convert to mg: 2.6 mg/ml<br />
+    2.6
+- id: 4499
+  question: Convert 12.4 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.24
+  solution: |-
+    This means 12.4 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1240.0 per 100 ml <br />
+    Convert to g: 1.24 g per 100 ml <br />
+    1.24 % w/v
+- id: 4500
+  question: Convert 15.6 mg/ml into %w/v.  Give your answer to 2 decimal places
+  answer: 1.56
+  solution: |-
+    This means 15.6 mg in 1 ml <br />
+    Get this out of 100 ml, multiply by 100: 1560.0 per 100 ml <br />
+    Convert to g: 1.56 g per 100 ml <br />
+    1.56 % w/v
