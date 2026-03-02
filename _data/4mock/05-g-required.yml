@@ -3,7 +3,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.4
   solution: |-
-    11 mg/ml × 670 ml = 7370 mg <br />
+    11 mg/ml Ã— 670 ml = 7370 mg <br />
     Convert to g: 7.37 g <br />
     Round: 7.4 g
 - id: 5002
@@ -11,7 +11,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.5
   solution: |-
-    11 mg/ml × 590 ml = 6490 mg <br />
+    11 mg/ml Ã— 590 ml = 6490 mg <br />
     Convert to g: 6.49 g <br />
     Round: 6.5 g
 - id: 5003
@@ -19,7 +19,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.0
   solution: |-
-    11 mg/ml × 360 ml = 3960 mg <br />
+    11 mg/ml Ã— 360 ml = 3960 mg <br />
     Convert to g: 3.96 g <br />
     Round: 4.0 g
 - id: 5004
@@ -27,7 +27,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 16.6
   solution: |-
-    20 mg/ml × 830 ml = 16600 mg <br />
+    20 mg/ml Ã— 830 ml = 16600 mg <br />
     Convert to g: 16.6 g <br />
     Round: 16.6 g
 - id: 5005
@@ -35,7 +35,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.0
   solution: |-
-    6 mg/ml × 830 ml = 4980 mg <br />
+    6 mg/ml Ã— 830 ml = 4980 mg <br />
     Convert to g: 4.98 g <br />
     Round: 5.0 g
 - id: 5006
@@ -43,7 +43,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.1
   solution: |-
-    3 mg/ml × 370 ml = 1110 mg <br />
+    3 mg/ml Ã— 370 ml = 1110 mg <br />
     Convert to g: 1.11 g <br />
     Round: 1.1 g
 - id: 5007
@@ -51,7 +51,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.6
   solution: |-
-    7 mg/ml × 660 ml = 4620 mg <br />
+    7 mg/ml Ã— 660 ml = 4620 mg <br />
     Convert to g: 4.62 g <br />
     Round: 4.6 g
 - id: 5008
@@ -59,7 +59,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.2
   solution: |-
-    10 mg/ml × 720 ml = 7200 mg <br />
+    10 mg/ml Ã— 720 ml = 7200 mg <br />
     Convert to g: 7.2 g <br />
     Round: 7.2 g
 - id: 5009
@@ -67,7 +67,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.7
   solution: |-
-    6 mg/ml × 120 ml = 720 mg <br />
+    6 mg/ml Ã— 120 ml = 720 mg <br />
     Convert to g: 0.72 g <br />
     Round: 0.7 g
 - id: 5010
@@ -75,7 +75,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.0
   solution: |-
-    18 mg/ml × 110 ml = 1980 mg <br />
+    18 mg/ml Ã— 110 ml = 1980 mg <br />
     Convert to g: 1.98 g <br />
     Round: 2.0 g
 - id: 5011
@@ -83,7 +83,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 9.5
   solution: |-
-    19 mg/ml × 500 ml = 9500 mg <br />
+    19 mg/ml Ã— 500 ml = 9500 mg <br />
     Convert to g: 9.5 g <br />
     Round: 9.5 g
 - id: 5012
@@ -91,7 +91,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.7
   solution: |-
-    4 mg/ml × 170 ml = 680 mg <br />
+    4 mg/ml Ã— 170 ml = 680 mg <br />
     Convert to g: 0.68 g <br />
     Round: 0.7 g
 - id: 5013
@@ -99,7 +99,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.8
   solution: |-
-    19 mg/ml × 200 ml = 3800 mg <br />
+    19 mg/ml Ã— 200 ml = 3800 mg <br />
     Convert to g: 3.8 g <br />
     Round: 3.8 g
 - id: 5014
@@ -107,7 +107,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.7
   solution: |-
-    17 mg/ml × 220 ml = 3740 mg <br />
+    17 mg/ml Ã— 220 ml = 3740 mg <br />
     Convert to g: 3.74 g <br />
     Round: 3.7 g
 - id: 5015
@@ -115,7 +115,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.7
   solution: |-
-    12 mg/ml × 560 ml = 6720 mg <br />
+    12 mg/ml Ã— 560 ml = 6720 mg <br />
     Convert to g: 6.72 g <br />
     Round: 6.7 g
 - id: 5016
@@ -123,7 +123,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.6
   solution: |-
-    11 mg/ml × 240 ml = 2640 mg <br />
+    11 mg/ml Ã— 240 ml = 2640 mg <br />
     Convert to g: 2.64 g <br />
     Round: 2.6 g
 - id: 5017
@@ -131,7 +131,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.9
   solution: |-
-    7 mg/ml × 270 ml = 1890 mg <br />
+    7 mg/ml Ã— 270 ml = 1890 mg <br />
     Convert to g: 1.89 g <br />
     Round: 1.9 g
 - id: 5018
@@ -139,7 +139,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.1
   solution: |-
-    7 mg/ml × 160 ml = 1120 mg <br />
+    7 mg/ml Ã— 160 ml = 1120 mg <br />
     Convert to g: 1.12 g <br />
     Round: 1.1 g
 - id: 5019
@@ -147,7 +147,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.2
   solution: |-
-    12 mg/ml × 270 ml = 3240 mg <br />
+    12 mg/ml Ã— 270 ml = 3240 mg <br />
     Convert to g: 3.24 g <br />
     Round: 3.2 g
 - id: 5020
@@ -155,7 +155,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.8
   solution: |-
-    14 mg/ml × 560 ml = 7840 mg <br />
+    14 mg/ml Ã— 560 ml = 7840 mg <br />
     Convert to g: 7.84 g <br />
     Round: 7.8 g
 - id: 5021
@@ -163,7 +163,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.0
   solution: |-
-    7 mg/ml × 860 ml = 6020 mg <br />
+    7 mg/ml Ã— 860 ml = 6020 mg <br />
     Convert to g: 6.02 g <br />
     Round: 6.0 g
 - id: 5022
@@ -171,7 +171,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.3
   solution: |-
-    1 mg/ml × 290 ml = 290 mg <br />
+    1 mg/ml Ã— 290 ml = 290 mg <br />
     Convert to g: 0.29 g <br />
     Round: 0.3 g
 - id: 5023
@@ -179,7 +179,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 15.2
   solution: |-
-    20 mg/ml × 760 ml = 15200 mg <br />
+    20 mg/ml Ã— 760 ml = 15200 mg <br />
     Convert to g: 15.2 g <br />
     Round: 15.2 g
 - id: 5024
@@ -187,7 +187,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.9
   solution: |-
-    4 mg/ml × 720 ml = 2880 mg <br />
+    4 mg/ml Ã— 720 ml = 2880 mg <br />
     Convert to g: 2.88 g <br />
     Round: 2.9 g
 - id: 5025
@@ -195,7 +195,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.9
   solution: |-
-    3 mg/ml × 310 ml = 930 mg <br />
+    3 mg/ml Ã— 310 ml = 930 mg <br />
     Convert to g: 0.93 g <br />
     Round: 0.9 g
 - id: 5026
@@ -203,7 +203,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.4
   solution: |-
-    1 mg/ml × 360 ml = 360 mg <br />
+    1 mg/ml Ã— 360 ml = 360 mg <br />
     Convert to g: 0.36 g <br />
     Round: 0.4 g
 - id: 5027
@@ -211,7 +211,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.5
   solution: |-
-    15 mg/ml × 230 ml = 3450 mg <br />
+    15 mg/ml Ã— 230 ml = 3450 mg <br />
     Convert to g: 3.45 g <br />
     Round: 3.5 g
 - id: 5028
@@ -219,7 +219,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.1
   solution: |-
-    10 mg/ml × 310 ml = 3100 mg <br />
+    10 mg/ml Ã— 310 ml = 3100 mg <br />
     Convert to g: 3.1 g <br />
     Round: 3.1 g
 - id: 5029
@@ -227,7 +227,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 9.7
   solution: |-
-    17 mg/ml × 570 ml = 9690 mg <br />
+    17 mg/ml Ã— 570 ml = 9690 mg <br />
     Convert to g: 9.69 g <br />
     Round: 9.7 g
 - id: 5030
@@ -235,7 +235,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.8
   solution: |-
-    8 mg/ml × 480 ml = 3840 mg <br />
+    8 mg/ml Ã— 480 ml = 3840 mg <br />
     Convert to g: 3.84 g <br />
     Round: 3.8 g
 - id: 5031
@@ -243,7 +243,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.5
   solution: |-
-    3 mg/ml × 500 ml = 1500 mg <br />
+    3 mg/ml Ã— 500 ml = 1500 mg <br />
     Convert to g: 1.5 g <br />
     Round: 1.5 g
 - id: 5032
@@ -251,7 +251,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.2
   solution: |-
-    8 mg/ml × 900 ml = 7200 mg <br />
+    8 mg/ml Ã— 900 ml = 7200 mg <br />
     Convert to g: 7.2 g <br />
     Round: 7.2 g
 - id: 5033
@@ -259,7 +259,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.4
   solution: |-
-    3 mg/ml × 450 ml = 1350 mg <br />
+    3 mg/ml Ã— 450 ml = 1350 mg <br />
     Convert to g: 1.35 g <br />
     Round: 1.4 g
 - id: 5034
@@ -267,7 +267,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.0
   solution: |-
-    3 mg/ml × 320 ml = 960 mg <br />
+    3 mg/ml Ã— 320 ml = 960 mg <br />
     Convert to g: 0.96 g <br />
     Round: 1.0 g
 - id: 5035
@@ -275,7 +275,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.2
   solution: |-
-    15 mg/ml × 550 ml = 8250 mg <br />
+    15 mg/ml Ã— 550 ml = 8250 mg <br />
     Convert to g: 8.25 g <br />
     Round: 8.2 g
 - id: 5036
@@ -283,7 +283,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.9
   solution: |-
-    10 mg/ml × 690 ml = 6900 mg <br />
+    10 mg/ml Ã— 690 ml = 6900 mg <br />
     Convert to g: 6.9 g <br />
     Round: 6.9 g
 - id: 5037
@@ -291,7 +291,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.0
   solution: |-
-    14 mg/ml × 430 ml = 6020 mg <br />
+    14 mg/ml Ã— 430 ml = 6020 mg <br />
     Convert to g: 6.02 g <br />
     Round: 6.0 g
 - id: 5038
@@ -299,7 +299,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.5
   solution: |-
-    11 mg/ml × 410 ml = 4510 mg <br />
+    11 mg/ml Ã— 410 ml = 4510 mg <br />
     Convert to g: 4.51 g <br />
     Round: 4.5 g
 - id: 5039
@@ -307,7 +307,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.2
   solution: |-
-    1 mg/ml × 220 ml = 220 mg <br />
+    1 mg/ml Ã— 220 ml = 220 mg <br />
     Convert to g: 0.22 g <br />
     Round: 0.2 g
 - id: 5040
@@ -315,7 +315,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.9
   solution: |-
-    7 mg/ml × 410 ml = 2870 mg <br />
+    7 mg/ml Ã— 410 ml = 2870 mg <br />
     Convert to g: 2.87 g <br />
     Round: 2.9 g
 - id: 5041
@@ -323,7 +323,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 10.3
   solution: |-
-    13 mg/ml × 790 ml = 10270 mg <br />
+    13 mg/ml Ã— 790 ml = 10270 mg <br />
     Convert to g: 10.27 g <br />
     Round: 10.3 g
 - id: 5042
@@ -331,7 +331,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.4
   solution: |-
-    12 mg/ml × 450 ml = 5400 mg <br />
+    12 mg/ml Ã— 450 ml = 5400 mg <br />
     Convert to g: 5.4 g <br />
     Round: 5.4 g
 - id: 5043
@@ -339,7 +339,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.6
   solution: |-
-    6 mg/ml × 270 ml = 1620 mg <br />
+    6 mg/ml Ã— 270 ml = 1620 mg <br />
     Convert to g: 1.62 g <br />
     Round: 1.6 g
 - id: 5044
@@ -347,7 +347,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.3
   solution: |-
-    4 mg/ml × 580 ml = 2320 mg <br />
+    4 mg/ml Ã— 580 ml = 2320 mg <br />
     Convert to g: 2.32 g <br />
     Round: 2.3 g
 - id: 5045
@@ -355,7 +355,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.4
   solution: |-
-    20 mg/ml × 170 ml = 3400 mg <br />
+    20 mg/ml Ã— 170 ml = 3400 mg <br />
     Convert to g: 3.4 g <br />
     Round: 3.4 g
 - id: 5046
@@ -363,7 +363,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.8
   solution: |-
-    9 mg/ml × 760 ml = 6840 mg <br />
+    9 mg/ml Ã— 760 ml = 6840 mg <br />
     Convert to g: 6.84 g <br />
     Round: 6.8 g
 - id: 5047
@@ -371,7 +371,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.4
   solution: |-
-    4 mg/ml × 360 ml = 1440 mg <br />
+    4 mg/ml Ã— 360 ml = 1440 mg <br />
     Convert to g: 1.44 g <br />
     Round: 1.4 g
 - id: 5048
@@ -379,7 +379,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.5
   solution: |-
-    7 mg/ml × 210 ml = 1470 mg <br />
+    7 mg/ml Ã— 210 ml = 1470 mg <br />
     Convert to g: 1.47 g <br />
     Round: 1.5 g
 - id: 5049
@@ -387,7 +387,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.5
   solution: |-
-    16 mg/ml × 220 ml = 3520 mg <br />
+    16 mg/ml Ã— 220 ml = 3520 mg <br />
     Convert to g: 3.52 g <br />
     Round: 3.5 g
 - id: 5050
@@ -395,7 +395,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.2
   solution: |-
-    20 mg/ml × 110 ml = 2200 mg <br />
+    20 mg/ml Ã— 110 ml = 2200 mg <br />
     Convert to g: 2.2 g <br />
     Round: 2.2 g
 - id: 5051
@@ -403,7 +403,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.1
   solution: |-
-    12 mg/ml × 260 ml = 3120 mg <br />
+    12 mg/ml Ã— 260 ml = 3120 mg <br />
     Convert to g: 3.12 g <br />
     Round: 3.1 g
 - id: 5052
@@ -411,7 +411,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.6
   solution: |-
-    3 mg/ml × 860 ml = 2580 mg <br />
+    3 mg/ml Ã— 860 ml = 2580 mg <br />
     Convert to g: 2.58 g <br />
     Round: 2.6 g
 - id: 5053
@@ -419,7 +419,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.3
   solution: |-
-    6 mg/ml × 380 ml = 2280 mg <br />
+    6 mg/ml Ã— 380 ml = 2280 mg <br />
     Convert to g: 2.28 g <br />
     Round: 2.3 g
 - id: 5054
@@ -427,7 +427,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.4
   solution: |-
-    9 mg/ml × 380 ml = 3420 mg <br />
+    9 mg/ml Ã— 380 ml = 3420 mg <br />
     Convert to g: 3.42 g <br />
     Round: 3.4 g
 - id: 5055
@@ -435,7 +435,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.8
   solution: |-
-    5 mg/ml × 350 ml = 1750 mg <br />
+    5 mg/ml Ã— 350 ml = 1750 mg <br />
     Convert to g: 1.75 g <br />
     Round: 1.8 g
 - id: 5056
@@ -443,7 +443,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.8
   solution: |-
-    15 mg/ml × 450 ml = 6750 mg <br />
+    15 mg/ml Ã— 450 ml = 6750 mg <br />
     Convert to g: 6.75 g <br />
     Round: 6.8 g
 - id: 5057
@@ -451,7 +451,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.2
   solution: |-
-    12 mg/ml × 430 ml = 5160 mg <br />
+    12 mg/ml Ã— 430 ml = 5160 mg <br />
     Convert to g: 5.16 g <br />
     Round: 5.2 g
 - id: 5058
@@ -459,7 +459,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.0
   solution: |-
-    12 mg/ml × 670 ml = 8040 mg <br />
+    12 mg/ml Ã— 670 ml = 8040 mg <br />
     Convert to g: 8.04 g <br />
     Round: 8.0 g
 - id: 5059
@@ -467,7 +467,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 11.7
   solution: |-
-    18 mg/ml × 650 ml = 11700 mg <br />
+    18 mg/ml Ã— 650 ml = 11700 mg <br />
     Convert to g: 11.7 g <br />
     Round: 11.7 g
 - id: 5060
@@ -475,7 +475,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.5
   solution: |-
-    10 mg/ml × 550 ml = 5500 mg <br />
+    10 mg/ml Ã— 550 ml = 5500 mg <br />
     Convert to g: 5.5 g <br />
     Round: 5.5 g
 - id: 5061
@@ -483,7 +483,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.9
   solution: |-
-    6 mg/ml × 320 ml = 1920 mg <br />
+    6 mg/ml Ã— 320 ml = 1920 mg <br />
     Convert to g: 1.92 g <br />
     Round: 1.9 g
 - id: 5062
@@ -491,7 +491,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 14.2
   solution: |-
-    19 mg/ml × 750 ml = 14250 mg <br />
+    19 mg/ml Ã— 750 ml = 14250 mg <br />
     Convert to g: 14.25 g <br />
     Round: 14.2 g
 - id: 5063
@@ -499,7 +499,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.1
   solution: |-
-    3 mg/ml × 360 ml = 1080 mg <br />
+    3 mg/ml Ã— 360 ml = 1080 mg <br />
     Convert to g: 1.08 g <br />
     Round: 1.1 g
 - id: 5064
@@ -507,7 +507,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.8
   solution: |-
-    14 mg/ml × 130 ml = 1820 mg <br />
+    14 mg/ml Ã— 130 ml = 1820 mg <br />
     Convert to g: 1.82 g <br />
     Round: 1.8 g
 - id: 5065
@@ -515,7 +515,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.8
   solution: |-
-    6 mg/ml × 300 ml = 1800 mg <br />
+    6 mg/ml Ã— 300 ml = 1800 mg <br />
     Convert to g: 1.8 g <br />
     Round: 1.8 g
 - id: 5066
@@ -523,7 +523,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.6
   solution: |-
-    15 mg/ml × 240 ml = 3600 mg <br />
+    15 mg/ml Ã— 240 ml = 3600 mg <br />
     Convert to g: 3.6 g <br />
     Round: 3.6 g
 - id: 5067
@@ -531,7 +531,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.8
   solution: |-
-    17 mg/ml × 460 ml = 7820 mg <br />
+    17 mg/ml Ã— 460 ml = 7820 mg <br />
     Convert to g: 7.82 g <br />
     Round: 7.8 g
 - id: 5068
@@ -539,7 +539,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.8
   solution: |-
-    16 mg/ml × 550 ml = 8800 mg <br />
+    16 mg/ml Ã— 550 ml = 8800 mg <br />
     Convert to g: 8.8 g <br />
     Round: 8.8 g
 - id: 5069
@@ -547,7 +547,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.5
   solution: |-
-    5 mg/ml × 890 ml = 4450 mg <br />
+    5 mg/ml Ã— 890 ml = 4450 mg <br />
     Convert to g: 4.45 g <br />
     Round: 4.5 g
 - id: 5070
@@ -555,7 +555,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.5
   solution: |-
-    18 mg/ml × 470 ml = 8460 mg <br />
+    18 mg/ml Ã— 470 ml = 8460 mg <br />
     Convert to g: 8.46 g <br />
     Round: 8.5 g
 - id: 5071
@@ -563,7 +563,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.1
   solution: |-
-    9 mg/ml × 230 ml = 2070 mg <br />
+    9 mg/ml Ã— 230 ml = 2070 mg <br />
     Convert to g: 2.07 g <br />
     Round: 2.1 g
 - id: 5072
@@ -571,7 +571,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.0
   solution: |-
-    17 mg/ml × 120 ml = 2040 mg <br />
+    17 mg/ml Ã— 120 ml = 2040 mg <br />
     Convert to g: 2.04 g <br />
     Round: 2.0 g
 - id: 5073
@@ -579,7 +579,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.1
   solution: |-
-    8 mg/ml × 510 ml = 4080 mg <br />
+    8 mg/ml Ã— 510 ml = 4080 mg <br />
     Convert to g: 4.08 g <br />
     Round: 4.1 g
 - id: 5074
@@ -587,7 +587,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 10.6
   solution: |-
-    20 mg/ml × 530 ml = 10600 mg <br />
+    20 mg/ml Ã— 530 ml = 10600 mg <br />
     Convert to g: 10.6 g <br />
     Round: 10.6 g
 - id: 5075
@@ -595,7 +595,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 12.7
   solution: |-
-    19 mg/ml × 670 ml = 12730 mg <br />
+    19 mg/ml Ã— 670 ml = 12730 mg <br />
     Convert to g: 12.73 g <br />
     Round: 12.7 g
 - id: 5076
@@ -603,7 +603,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.3
   solution: |-
-    5 mg/ml × 260 ml = 1300 mg <br />
+    5 mg/ml Ã— 260 ml = 1300 mg <br />
     Convert to g: 1.3 g <br />
     Round: 1.3 g
 - id: 5077
@@ -611,7 +611,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.6
   solution: |-
-    4 mg/ml × 390 ml = 1560 mg <br />
+    4 mg/ml Ã— 390 ml = 1560 mg <br />
     Convert to g: 1.56 g <br />
     Round: 1.6 g
 - id: 5078
@@ -619,7 +619,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.5
   solution: |-
-    5 mg/ml × 510 ml = 2550 mg <br />
+    5 mg/ml Ã— 510 ml = 2550 mg <br />
     Convert to g: 2.55 g <br />
     Round: 2.5 g
 - id: 5079
@@ -627,7 +627,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 11.3
   solution: |-
-    18 mg/ml × 630 ml = 11340 mg <br />
+    18 mg/ml Ã— 630 ml = 11340 mg <br />
     Convert to g: 11.34 g <br />
     Round: 11.3 g
 - id: 5080
@@ -635,7 +635,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.4
   solution: |-
-    3 mg/ml × 480 ml = 1440 mg <br />
+    3 mg/ml Ã— 480 ml = 1440 mg <br />
     Convert to g: 1.44 g <br />
     Round: 1.4 g
 - id: 5081
@@ -643,7 +643,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.7
   solution: |-
-    10 mg/ml × 470 ml = 4700 mg <br />
+    10 mg/ml Ã— 470 ml = 4700 mg <br />
     Convert to g: 4.7 g <br />
     Round: 4.7 g
 - id: 5082
@@ -651,7 +651,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.5
   solution: |-
-    10 mg/ml × 350 ml = 3500 mg <br />
+    10 mg/ml Ã— 350 ml = 3500 mg <br />
     Convert to g: 3.5 g <br />
     Round: 3.5 g
 - id: 5083
@@ -659,7 +659,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.4
   solution: |-
-    9 mg/ml × 160 ml = 1440 mg <br />
+    9 mg/ml Ã— 160 ml = 1440 mg <br />
     Convert to g: 1.44 g <br />
     Round: 1.4 g
 - id: 5084
@@ -667,7 +667,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.2
   solution: |-
-    14 mg/ml × 440 ml = 6160 mg <br />
+    14 mg/ml Ã— 440 ml = 6160 mg <br />
     Convert to g: 6.16 g <br />
     Round: 6.2 g
 - id: 5085
@@ -675,7 +675,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.8
   solution: |-
-    1 mg/ml × 770 ml = 770 mg <br />
+    1 mg/ml Ã— 770 ml = 770 mg <br />
     Convert to g: 0.77 g <br />
     Round: 0.8 g
 - id: 5086
@@ -683,7 +683,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.6
   solution: |-
-    1 mg/ml × 580 ml = 580 mg <br />
+    1 mg/ml Ã— 580 ml = 580 mg <br />
     Convert to g: 0.58 g <br />
     Round: 0.6 g
 - id: 5087
@@ -691,7 +691,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.0
   solution: |-
-    16 mg/ml × 500 ml = 8000 mg <br />
+    16 mg/ml Ã— 500 ml = 8000 mg <br />
     Convert to g: 8.0 g <br />
     Round: 8.0 g
 - id: 5088
@@ -699,7 +699,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 14.6
   solution: |-
-    19 mg/ml × 770 ml = 14630 mg <br />
+    19 mg/ml Ã— 770 ml = 14630 mg <br />
     Convert to g: 14.63 g <br />
     Round: 14.6 g
 - id: 5089
@@ -707,7 +707,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.8
   solution: |-
-    2 mg/ml × 390 ml = 780 mg <br />
+    2 mg/ml Ã— 390 ml = 780 mg <br />
     Convert to g: 0.78 g <br />
     Round: 0.8 g
 - id: 5090
@@ -715,7 +715,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.4
   solution: |-
-    17 mg/ml × 200 ml = 3400 mg <br />
+    17 mg/ml Ã— 200 ml = 3400 mg <br />
     Convert to g: 3.4 g <br />
     Round: 3.4 g
 - id: 5091
@@ -723,7 +723,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.1
   solution: |-
-    10 mg/ml × 510 ml = 5100 mg <br />
+    10 mg/ml Ã— 510 ml = 5100 mg <br />
     Convert to g: 5.1 g <br />
     Round: 5.1 g
 - id: 5092
@@ -731,7 +731,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.5
   solution: |-
-    10 mg/ml × 850 ml = 8500 mg <br />
+    10 mg/ml Ã— 850 ml = 8500 mg <br />
     Convert to g: 8.5 g <br />
     Round: 8.5 g
 - id: 5093
@@ -739,7 +739,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.7
   solution: |-
-    17 mg/ml × 220 ml = 3740 mg <br />
+    17 mg/ml Ã— 220 ml = 3740 mg <br />
     Convert to g: 3.74 g <br />
     Round: 3.7 g
 - id: 5094
@@ -747,7 +747,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.5
   solution: |-
-    5 mg/ml × 300 ml = 1500 mg <br />
+    5 mg/ml Ã— 300 ml = 1500 mg <br />
     Convert to g: 1.5 g <br />
     Round: 1.5 g
 - id: 5095
@@ -755,7 +755,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 10.4
   solution: |-
-    18 mg/ml × 580 ml = 10440 mg <br />
+    18 mg/ml Ã— 580 ml = 10440 mg <br />
     Convert to g: 10.44 g <br />
     Round: 10.4 g
 - id: 5096
@@ -763,7 +763,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 13.4
   solution: |-
-    20 mg/ml × 670 ml = 13400 mg <br />
+    20 mg/ml Ã— 670 ml = 13400 mg <br />
     Convert to g: 13.4 g <br />
     Round: 13.4 g
 - id: 5097
@@ -771,7 +771,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.2
   solution: |-
-    1 mg/ml × 210 ml = 210 mg <br />
+    1 mg/ml Ã— 210 ml = 210 mg <br />
     Convert to g: 0.21 g <br />
     Round: 0.2 g
 - id: 5098
@@ -779,7 +779,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.4
   solution: |-
-    6 mg/ml × 570 ml = 3420 mg <br />
+    6 mg/ml Ã— 570 ml = 3420 mg <br />
     Convert to g: 3.42 g <br />
     Round: 3.4 g
 - id: 5099
@@ -787,7 +787,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.5
   solution: |-
-    6 mg/ml × 590 ml = 3540 mg <br />
+    6 mg/ml Ã— 590 ml = 3540 mg <br />
     Convert to g: 3.54 g <br />
     Round: 3.5 g
 - id: 5100
@@ -795,7 +795,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.0
   solution: |-
-    8 mg/ml × 880 ml = 7040 mg <br />
+    8 mg/ml Ã— 880 ml = 7040 mg <br />
     Convert to g: 7.04 g <br />
     Round: 7.0 g
 - id: 5101
@@ -803,7 +803,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 11.6
   solution: |-
-    15 mg/ml × 770 ml = 11550 mg <br />
+    15 mg/ml Ã— 770 ml = 11550 mg <br />
     Convert to g: 11.55 g <br />
     Round: 11.6 g
 - id: 5102
@@ -811,7 +811,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.2
   solution: |-
-    7 mg/ml × 740 ml = 5180 mg <br />
+    7 mg/ml Ã— 740 ml = 5180 mg <br />
     Convert to g: 5.18 g <br />
     Round: 5.2 g
 - id: 5103
@@ -819,7 +819,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.2
   solution: |-
-    20 mg/ml × 210 ml = 4200 mg <br />
+    20 mg/ml Ã— 210 ml = 4200 mg <br />
     Convert to g: 4.2 g <br />
     Round: 4.2 g
 - id: 5104
@@ -827,7 +827,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.5
   solution: |-
-    10 mg/ml × 850 ml = 8500 mg <br />
+    10 mg/ml Ã— 850 ml = 8500 mg <br />
     Convert to g: 8.5 g <br />
     Round: 8.5 g
 - id: 5105
@@ -835,7 +835,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 18.0
   solution: |-
-    20 mg/ml × 900 ml = 18000 mg <br />
+    20 mg/ml Ã— 900 ml = 18000 mg <br />
     Convert to g: 18.0 g <br />
     Round: 18.0 g
 - id: 5106
@@ -843,7 +843,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.2
   solution: |-
-    19 mg/ml × 380 ml = 7220 mg <br />
+    19 mg/ml Ã— 380 ml = 7220 mg <br />
     Convert to g: 7.22 g <br />
     Round: 7.2 g
 - id: 5107
@@ -851,7 +851,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.1
   solution: |-
-    7 mg/ml × 150 ml = 1050 mg <br />
+    7 mg/ml Ã— 150 ml = 1050 mg <br />
     Convert to g: 1.05 g <br />
     Round: 1.1 g
 - id: 5108
@@ -859,7 +859,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.2
   solution: |-
-    9 mg/ml × 360 ml = 3240 mg <br />
+    9 mg/ml Ã— 360 ml = 3240 mg <br />
     Convert to g: 3.24 g <br />
     Round: 3.2 g
 - id: 5109
@@ -867,7 +867,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.5
   solution: |-
-    10 mg/ml × 550 ml = 5500 mg <br />
+    10 mg/ml Ã— 550 ml = 5500 mg <br />
     Convert to g: 5.5 g <br />
     Round: 5.5 g
 - id: 5110
@@ -875,7 +875,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 13.1
   solution: |-
-    17 mg/ml × 770 ml = 13090 mg <br />
+    17 mg/ml Ã— 770 ml = 13090 mg <br />
     Convert to g: 13.09 g <br />
     Round: 13.1 g
 - id: 5111
@@ -883,7 +883,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.1
   solution: |-
-    11 mg/ml × 460 ml = 5060 mg <br />
+    11 mg/ml Ã— 460 ml = 5060 mg <br />
     Convert to g: 5.06 g <br />
     Round: 5.1 g
 - id: 5112
@@ -891,7 +891,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.3
   solution: |-
-    7 mg/ml × 760 ml = 5320 mg <br />
+    7 mg/ml Ã— 760 ml = 5320 mg <br />
     Convert to g: 5.32 g <br />
     Round: 5.3 g
 - id: 5113
@@ -899,7 +899,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.6
   solution: |-
-    14 mg/ml × 470 ml = 6580 mg <br />
+    14 mg/ml Ã— 470 ml = 6580 mg <br />
     Convert to g: 6.58 g <br />
     Round: 6.6 g
 - id: 5114
@@ -907,7 +907,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.6
   solution: |-
-    7 mg/ml × 800 ml = 5600 mg <br />
+    7 mg/ml Ã— 800 ml = 5600 mg <br />
     Convert to g: 5.6 g <br />
     Round: 5.6 g
 - id: 5115
@@ -915,7 +915,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.4
   solution: |-
-    4 mg/ml × 350 ml = 1400 mg <br />
+    4 mg/ml Ã— 350 ml = 1400 mg <br />
     Convert to g: 1.4 g <br />
     Round: 1.4 g
 - id: 5116
@@ -923,7 +923,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 13.1
   solution: |-
-    18 mg/ml × 730 ml = 13140 mg <br />
+    18 mg/ml Ã— 730 ml = 13140 mg <br />
     Convert to g: 13.14 g <br />
     Round: 13.1 g
 - id: 5117
@@ -931,7 +931,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.5
   solution: |-
-    14 mg/ml × 180 ml = 2520 mg <br />
+    14 mg/ml Ã— 180 ml = 2520 mg <br />
     Convert to g: 2.52 g <br />
     Round: 2.5 g
 - id: 5118
@@ -939,7 +939,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.9
   solution: |-
-    5 mg/ml × 190 ml = 950 mg <br />
+    5 mg/ml Ã— 190 ml = 950 mg <br />
     Convert to g: 0.95 g <br />
     Round: 0.9 g
 - id: 5119
@@ -947,7 +947,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.1
   solution: |-
-    7 mg/ml × 160 ml = 1120 mg <br />
+    7 mg/ml Ã— 160 ml = 1120 mg <br />
     Convert to g: 1.12 g <br />
     Round: 1.1 g
 - id: 5120
@@ -955,7 +955,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.3
   solution: |-
-    16 mg/ml × 270 ml = 4320 mg <br />
+    16 mg/ml Ã— 270 ml = 4320 mg <br />
     Convert to g: 4.32 g <br />
     Round: 4.3 g
 - id: 5121
@@ -963,7 +963,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.8
   solution: |-
-    7 mg/ml × 110 ml = 770 mg <br />
+    7 mg/ml Ã— 110 ml = 770 mg <br />
     Convert to g: 0.77 g <br />
     Round: 0.8 g
 - id: 5122
@@ -971,7 +971,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.0
   solution: |-
-    9 mg/ml × 220 ml = 1980 mg <br />
+    9 mg/ml Ã— 220 ml = 1980 mg <br />
     Convert to g: 1.98 g <br />
     Round: 2.0 g
 - id: 5123
@@ -979,7 +979,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.7
   solution: |-
-    18 mg/ml × 430 ml = 7740 mg <br />
+    18 mg/ml Ã— 430 ml = 7740 mg <br />
     Convert to g: 7.74 g <br />
     Round: 7.7 g
 - id: 5124
@@ -987,7 +987,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.0
   solution: |-
-    20 mg/ml × 200 ml = 4000 mg <br />
+    20 mg/ml Ã— 200 ml = 4000 mg <br />
     Convert to g: 4.0 g <br />
     Round: 4.0 g
 - id: 5125
@@ -995,7 +995,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 12.1
   solution: |-
-    18 mg/ml × 670 ml = 12060 mg <br />
+    18 mg/ml Ã— 670 ml = 12060 mg <br />
     Convert to g: 12.06 g <br />
     Round: 12.1 g
 - id: 5126
@@ -1003,7 +1003,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.1
   solution: |-
-    17 mg/ml × 180 ml = 3060 mg <br />
+    17 mg/ml Ã— 180 ml = 3060 mg <br />
     Convert to g: 3.06 g <br />
     Round: 3.1 g
 - id: 5127
@@ -1011,7 +1011,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.1
   solution: |-
-    16 mg/ml × 130 ml = 2080 mg <br />
+    16 mg/ml Ã— 130 ml = 2080 mg <br />
     Convert to g: 2.08 g <br />
     Round: 2.1 g
 - id: 5128
@@ -1019,7 +1019,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.9
   solution: |-
-    4 mg/ml × 720 ml = 2880 mg <br />
+    4 mg/ml Ã— 720 ml = 2880 mg <br />
     Convert to g: 2.88 g <br />
     Round: 2.9 g
 - id: 5129
@@ -1027,7 +1027,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.1
   solution: |-
-    8 mg/ml × 260 ml = 2080 mg <br />
+    8 mg/ml Ã— 260 ml = 2080 mg <br />
     Convert to g: 2.08 g <br />
     Round: 2.1 g
 - id: 5130
@@ -1035,7 +1035,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.1
   solution: |-
-    10 mg/ml × 810 ml = 8100 mg <br />
+    10 mg/ml Ã— 810 ml = 8100 mg <br />
     Convert to g: 8.1 g <br />
     Round: 8.1 g
 - id: 5131
@@ -1043,7 +1043,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 9.0
   solution: |-
-    17 mg/ml × 530 ml = 9010 mg <br />
+    17 mg/ml Ã— 530 ml = 9010 mg <br />
     Convert to g: 9.01 g <br />
     Round: 9.0 g
 - id: 5132
@@ -1051,7 +1051,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.8
   solution: |-
-    6 mg/ml × 630 ml = 3780 mg <br />
+    6 mg/ml Ã— 630 ml = 3780 mg <br />
     Convert to g: 3.78 g <br />
     Round: 3.8 g
 - id: 5133
@@ -1059,7 +1059,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.1
   solution: |-
-    10 mg/ml × 710 ml = 7100 mg <br />
+    10 mg/ml Ã— 710 ml = 7100 mg <br />
     Convert to g: 7.1 g <br />
     Round: 7.1 g
 - id: 5134
@@ -1067,7 +1067,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.6
   solution: |-
-    18 mg/ml × 200 ml = 3600 mg <br />
+    18 mg/ml Ã— 200 ml = 3600 mg <br />
     Convert to g: 3.6 g <br />
     Round: 3.6 g
 - id: 5135
@@ -1075,7 +1075,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.0
   solution: |-
-    9 mg/ml × 440 ml = 3960 mg <br />
+    9 mg/ml Ã— 440 ml = 3960 mg <br />
     Convert to g: 3.96 g <br />
     Round: 4.0 g
 - id: 5136
@@ -1083,7 +1083,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.0
   solution: |-
-    4 mg/ml × 490 ml = 1960 mg <br />
+    4 mg/ml Ã— 490 ml = 1960 mg <br />
     Convert to g: 1.96 g <br />
     Round: 2.0 g
 - id: 5137
@@ -1091,7 +1091,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.7
   solution: |-
-    15 mg/ml × 310 ml = 4650 mg <br />
+    15 mg/ml Ã— 310 ml = 4650 mg <br />
     Convert to g: 4.65 g <br />
     Round: 4.7 g
 - id: 5138
@@ -1099,7 +1099,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.6
   solution: |-
-    6 mg/ml × 270 ml = 1620 mg <br />
+    6 mg/ml Ã— 270 ml = 1620 mg <br />
     Convert to g: 1.62 g <br />
     Round: 1.6 g
 - id: 5139
@@ -1107,7 +1107,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.8
   solution: |-
-    14 mg/ml × 340 ml = 4760 mg <br />
+    14 mg/ml Ã— 340 ml = 4760 mg <br />
     Convert to g: 4.76 g <br />
     Round: 4.8 g
 - id: 5140
@@ -1115,7 +1115,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.1
   solution: |-
-    4 mg/ml × 530 ml = 2120 mg <br />
+    4 mg/ml Ã— 530 ml = 2120 mg <br />
     Convert to g: 2.12 g <br />
     Round: 2.1 g
 - id: 5141
@@ -1123,7 +1123,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.2
   solution: |-
-    19 mg/ml × 220 ml = 4180 mg <br />
+    19 mg/ml Ã— 220 ml = 4180 mg <br />
     Convert to g: 4.18 g <br />
     Round: 4.2 g
 - id: 5142
@@ -1131,7 +1131,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.1
   solution: |-
-    15 mg/ml × 340 ml = 5100 mg <br />
+    15 mg/ml Ã— 340 ml = 5100 mg <br />
     Convert to g: 5.1 g <br />
     Round: 5.1 g
 - id: 5143
@@ -1139,7 +1139,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 13.1
   solution: |-
-    19 mg/ml × 690 ml = 13110 mg <br />
+    19 mg/ml Ã— 690 ml = 13110 mg <br />
     Convert to g: 13.11 g <br />
     Round: 13.1 g
 - id: 5144
@@ -1147,7 +1147,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.5
   solution: |-
-    1 mg/ml × 540 ml = 540 mg <br />
+    1 mg/ml Ã— 540 ml = 540 mg <br />
     Convert to g: 0.54 g <br />
     Round: 0.5 g
 - id: 5145
@@ -1155,7 +1155,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 15.1
   solution: |-
-    18 mg/ml × 840 ml = 15120 mg <br />
+    18 mg/ml Ã— 840 ml = 15120 mg <br />
     Convert to g: 15.12 g <br />
     Round: 15.1 g
 - id: 5146
@@ -1163,7 +1163,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.1
   solution: |-
-    6 mg/ml × 690 ml = 4140 mg <br />
+    6 mg/ml Ã— 690 ml = 4140 mg <br />
     Convert to g: 4.14 g <br />
     Round: 4.1 g
 - id: 5147
@@ -1171,7 +1171,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.9
   solution: |-
-    18 mg/ml × 330 ml = 5940 mg <br />
+    18 mg/ml Ã— 330 ml = 5940 mg <br />
     Convert to g: 5.94 g <br />
     Round: 5.9 g
 - id: 5148
@@ -1179,7 +1179,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.2
   solution: |-
-    13 mg/ml × 320 ml = 4160 mg <br />
+    13 mg/ml Ã— 320 ml = 4160 mg <br />
     Convert to g: 4.16 g <br />
     Round: 4.2 g
 - id: 5149
@@ -1187,7 +1187,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.2
   solution: |-
-    8 mg/ml × 150 ml = 1200 mg <br />
+    8 mg/ml Ã— 150 ml = 1200 mg <br />
     Convert to g: 1.2 g <br />
     Round: 1.2 g
 - id: 5150
@@ -1195,7 +1195,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.1
   solution: |-
-    19 mg/ml × 270 ml = 5130 mg <br />
+    19 mg/ml Ã— 270 ml = 5130 mg <br />
     Convert to g: 5.13 g <br />
     Round: 5.1 g
 - id: 5151
@@ -1203,7 +1203,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 9.7
   solution: |-
-    11 mg/ml × 880 ml = 9680 mg <br />
+    11 mg/ml Ã— 880 ml = 9680 mg <br />
     Convert to g: 9.68 g <br />
     Round: 9.7 g
 - id: 5152
@@ -1211,7 +1211,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.0
   solution: |-
-    15 mg/ml × 330 ml = 4950 mg <br />
+    15 mg/ml Ã— 330 ml = 4950 mg <br />
     Convert to g: 4.95 g <br />
     Round: 5.0 g
 - id: 5153
@@ -1219,7 +1219,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.3
   solution: |-
-    6 mg/ml × 220 ml = 1320 mg <br />
+    6 mg/ml Ã— 220 ml = 1320 mg <br />
     Convert to g: 1.32 g <br />
     Round: 1.3 g
 - id: 5154
@@ -1227,7 +1227,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.3
   solution: |-
-    4 mg/ml × 330 ml = 1320 mg <br />
+    4 mg/ml Ã— 330 ml = 1320 mg <br />
     Convert to g: 1.32 g <br />
     Round: 1.3 g
 - id: 5155
@@ -1235,7 +1235,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.6
   solution: |-
-    7 mg/ml × 510 ml = 3570 mg <br />
+    7 mg/ml Ã— 510 ml = 3570 mg <br />
     Convert to g: 3.57 g <br />
     Round: 3.6 g
 - id: 5156
@@ -1243,7 +1243,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.5
   solution: |-
-    8 mg/ml × 690 ml = 5520 mg <br />
+    8 mg/ml Ã— 690 ml = 5520 mg <br />
     Convert to g: 5.52 g <br />
     Round: 5.5 g
 - id: 5157
@@ -1251,7 +1251,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.3
   solution: |-
-    8 mg/ml × 540 ml = 4320 mg <br />
+    8 mg/ml Ã— 540 ml = 4320 mg <br />
     Convert to g: 4.32 g <br />
     Round: 4.3 g
 - id: 5158
@@ -1259,7 +1259,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.3
   solution: |-
-    9 mg/ml × 590 ml = 5310 mg <br />
+    9 mg/ml Ã— 590 ml = 5310 mg <br />
     Convert to g: 5.31 g <br />
     Round: 5.3 g
 - id: 5159
@@ -1267,7 +1267,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.5
   solution: |-
-    2 mg/ml × 770 ml = 1540 mg <br />
+    2 mg/ml Ã— 770 ml = 1540 mg <br />
     Convert to g: 1.54 g <br />
     Round: 1.5 g
 - id: 5160
@@ -1275,7 +1275,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.0
   solution: |-
-    4 mg/ml × 740 ml = 2960 mg <br />
+    4 mg/ml Ã— 740 ml = 2960 mg <br />
     Convert to g: 2.96 g <br />
     Round: 3.0 g
 - id: 5161
@@ -1283,7 +1283,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.7
   solution: |-
-    9 mg/ml × 410 ml = 3690 mg <br />
+    9 mg/ml Ã— 410 ml = 3690 mg <br />
     Convert to g: 3.69 g <br />
     Round: 3.7 g
 - id: 5162
@@ -1291,7 +1291,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.3
   solution: |-
-    3 mg/ml × 100 ml = 300 mg <br />
+    3 mg/ml Ã— 100 ml = 300 mg <br />
     Convert to g: 0.3 g <br />
     Round: 0.3 g
 - id: 5163
@@ -1299,7 +1299,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.0
   solution: |-
-    6 mg/ml × 170 ml = 1020 mg <br />
+    6 mg/ml Ã— 170 ml = 1020 mg <br />
     Convert to g: 1.02 g <br />
     Round: 1.0 g
 - id: 5164
@@ -1307,7 +1307,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.8
   solution: |-
-    15 mg/ml × 120 ml = 1800 mg <br />
+    15 mg/ml Ã— 120 ml = 1800 mg <br />
     Convert to g: 1.8 g <br />
     Round: 1.8 g
 - id: 5165
@@ -1315,7 +1315,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.9
   solution: |-
-    16 mg/ml × 370 ml = 5920 mg <br />
+    16 mg/ml Ã— 370 ml = 5920 mg <br />
     Convert to g: 5.92 g <br />
     Round: 5.9 g
 - id: 5166
@@ -1323,7 +1323,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.0
   solution: |-
-    9 mg/ml × 330 ml = 2970 mg <br />
+    9 mg/ml Ã— 330 ml = 2970 mg <br />
     Convert to g: 2.97 g <br />
     Round: 3.0 g
 - id: 5167
@@ -1331,7 +1331,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.2
   solution: |-
-    7 mg/ml × 310 ml = 2170 mg <br />
+    7 mg/ml Ã— 310 ml = 2170 mg <br />
     Convert to g: 2.17 g <br />
     Round: 2.2 g
 - id: 5168
@@ -1339,7 +1339,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.5
   solution: |-
-    17 mg/ml × 150 ml = 2550 mg <br />
+    17 mg/ml Ã— 150 ml = 2550 mg <br />
     Convert to g: 2.55 g <br />
     Round: 2.5 g
 - id: 5169
@@ -1347,7 +1347,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.0
   solution: |-
-    10 mg/ml × 200 ml = 2000 mg <br />
+    10 mg/ml Ã— 200 ml = 2000 mg <br />
     Convert to g: 2.0 g <br />
     Round: 2.0 g
 - id: 5170
@@ -1355,7 +1355,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.7
   solution: |-
-    1 mg/ml × 650 ml = 650 mg <br />
+    1 mg/ml Ã— 650 ml = 650 mg <br />
     Convert to g: 0.65 g <br />
     Round: 0.7 g
 - id: 5171
@@ -1363,7 +1363,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.4
   solution: |-
-    10 mg/ml × 440 ml = 4400 mg <br />
+    10 mg/ml Ã— 440 ml = 4400 mg <br />
     Convert to g: 4.4 g <br />
     Round: 4.4 g
 - id: 5172
@@ -1371,7 +1371,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 11.1
   solution: |-
-    17 mg/ml × 650 ml = 11050 mg <br />
+    17 mg/ml Ã— 650 ml = 11050 mg <br />
     Convert to g: 11.05 g <br />
     Round: 11.1 g
 - id: 5173
@@ -1379,7 +1379,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.6
   solution: |-
-    16 mg/ml × 540 ml = 8640 mg <br />
+    16 mg/ml Ã— 540 ml = 8640 mg <br />
     Convert to g: 8.64 g <br />
     Round: 8.6 g
 - id: 5174
@@ -1387,7 +1387,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 9.9
   solution: |-
-    14 mg/ml × 710 ml = 9940 mg <br />
+    14 mg/ml Ã— 710 ml = 9940 mg <br />
     Convert to g: 9.94 g <br />
     Round: 9.9 g
 - id: 5175
@@ -1395,7 +1395,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.2
   solution: |-
-    4 mg/ml × 310 ml = 1240 mg <br />
+    4 mg/ml Ã— 310 ml = 1240 mg <br />
     Convert to g: 1.24 g <br />
     Round: 1.2 g
 - id: 5176
@@ -1403,7 +1403,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.4
   solution: |-
-    16 mg/ml × 400 ml = 6400 mg <br />
+    16 mg/ml Ã— 400 ml = 6400 mg <br />
     Convert to g: 6.4 g <br />
     Round: 6.4 g
 - id: 5177
@@ -1411,7 +1411,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.7
   solution: |-
-    9 mg/ml × 410 ml = 3690 mg <br />
+    9 mg/ml Ã— 410 ml = 3690 mg <br />
     Convert to g: 3.69 g <br />
     Round: 3.7 g
 - id: 5178
@@ -1419,7 +1419,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.4
   solution: |-
-    9 mg/ml × 150 ml = 1350 mg <br />
+    9 mg/ml Ã— 150 ml = 1350 mg <br />
     Convert to g: 1.35 g <br />
     Round: 1.4 g
 - id: 5179
@@ -1427,7 +1427,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.2
   solution: |-
-    4 mg/ml × 540 ml = 2160 mg <br />
+    4 mg/ml Ã— 540 ml = 2160 mg <br />
     Convert to g: 2.16 g <br />
     Round: 2.2 g
 - id: 5180
@@ -1435,7 +1435,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 10.4
   solution: |-
-    13 mg/ml × 800 ml = 10400 mg <br />
+    13 mg/ml Ã— 800 ml = 10400 mg <br />
     Convert to g: 10.4 g <br />
     Round: 10.4 g
 - id: 5181
@@ -1443,7 +1443,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.0
   solution: |-
-    8 mg/ml × 130 ml = 1040 mg <br />
+    8 mg/ml Ã— 130 ml = 1040 mg <br />
     Convert to g: 1.04 g <br />
     Round: 1.0 g
 - id: 5182
@@ -1451,7 +1451,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 12.0
   solution: |-
-    15 mg/ml × 800 ml = 12000 mg <br />
+    15 mg/ml Ã— 800 ml = 12000 mg <br />
     Convert to g: 12.0 g <br />
     Round: 12.0 g
 - id: 5183
@@ -1459,7 +1459,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.5
   solution: |-
-    11 mg/ml × 500 ml = 5500 mg <br />
+    11 mg/ml Ã— 500 ml = 5500 mg <br />
     Convert to g: 5.5 g <br />
     Round: 5.5 g
 - id: 5184
@@ -1467,7 +1467,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.4
   solution: |-
-    2 mg/ml × 700 ml = 1400 mg <br />
+    2 mg/ml Ã— 700 ml = 1400 mg <br />
     Convert to g: 1.4 g <br />
     Round: 1.4 g
 - id: 5185
@@ -1475,7 +1475,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.4
   solution: |-
-    1 mg/ml × 430 ml = 430 mg <br />
+    1 mg/ml Ã— 430 ml = 430 mg <br />
     Convert to g: 0.43 g <br />
     Round: 0.4 g
 - id: 5186
@@ -1483,7 +1483,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.4
   solution: |-
-    20 mg/ml × 420 ml = 8400 mg <br />
+    20 mg/ml Ã— 420 ml = 8400 mg <br />
     Convert to g: 8.4 g <br />
     Round: 8.4 g
 - id: 5187
@@ -1491,7 +1491,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.0
   solution: |-
-    13 mg/ml × 460 ml = 5980 mg <br />
+    13 mg/ml Ã— 460 ml = 5980 mg <br />
     Convert to g: 5.98 g <br />
     Round: 6.0 g
 - id: 5188
@@ -1499,7 +1499,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.7
   solution: |-
-    10 mg/ml × 870 ml = 8700 mg <br />
+    10 mg/ml Ã— 870 ml = 8700 mg <br />
     Convert to g: 8.7 g <br />
     Round: 8.7 g
 - id: 5189
@@ -1507,7 +1507,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.8
   solution: |-
-    3 mg/ml × 270 ml = 810 mg <br />
+    3 mg/ml Ã— 270 ml = 810 mg <br />
     Convert to g: 0.81 g <br />
     Round: 0.8 g
 - id: 5190
@@ -1515,7 +1515,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 12.0
   solution: |-
-    19 mg/ml × 630 ml = 11970 mg <br />
+    19 mg/ml Ã— 630 ml = 11970 mg <br />
     Convert to g: 11.97 g <br />
     Round: 12.0 g
 - id: 5191
@@ -1523,7 +1523,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.2
   solution: |-
-    5 mg/ml × 840 ml = 4200 mg <br />
+    5 mg/ml Ã— 840 ml = 4200 mg <br />
     Convert to g: 4.2 g <br />
     Round: 4.2 g
 - id: 5192
@@ -1531,7 +1531,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.1
   solution: |-
-    6 mg/ml × 180 ml = 1080 mg <br />
+    6 mg/ml Ã— 180 ml = 1080 mg <br />
     Convert to g: 1.08 g <br />
     Round: 1.1 g
 - id: 5193
@@ -1539,7 +1539,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.2
   solution: |-
-    5 mg/ml × 450 ml = 2250 mg <br />
+    5 mg/ml Ã— 450 ml = 2250 mg <br />
     Convert to g: 2.25 g <br />
     Round: 2.2 g
 - id: 5194
@@ -1547,7 +1547,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.8
   solution: |-
-    19 mg/ml × 250 ml = 4750 mg <br />
+    19 mg/ml Ã— 250 ml = 4750 mg <br />
     Convert to g: 4.75 g <br />
     Round: 4.8 g
 - id: 5195
@@ -1555,7 +1555,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.6
   solution: |-
-    19 mg/ml × 400 ml = 7600 mg <br />
+    19 mg/ml Ã— 400 ml = 7600 mg <br />
     Convert to g: 7.6 g <br />
     Round: 7.6 g
 - id: 5196
@@ -1563,7 +1563,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.2
   solution: |-
-    16 mg/ml × 510 ml = 8160 mg <br />
+    16 mg/ml Ã— 510 ml = 8160 mg <br />
     Convert to g: 8.16 g <br />
     Round: 8.2 g
 - id: 5197
@@ -1571,7 +1571,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.4
   solution: |-
-    5 mg/ml × 270 ml = 1350 mg <br />
+    5 mg/ml Ã— 270 ml = 1350 mg <br />
     Convert to g: 1.35 g <br />
     Round: 1.4 g
 - id: 5198
@@ -1579,7 +1579,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.8
   solution: |-
-    6 mg/ml × 140 ml = 840 mg <br />
+    6 mg/ml Ã— 140 ml = 840 mg <br />
     Convert to g: 0.84 g <br />
     Round: 0.8 g
 - id: 5199
@@ -1587,7 +1587,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.4
   solution: |-
-    6 mg/ml × 900 ml = 5400 mg <br />
+    6 mg/ml Ã— 900 ml = 5400 mg <br />
     Convert to g: 5.4 g <br />
     Round: 5.4 g
 - id: 5200
@@ -1595,7 +1595,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.4
   solution: |-
-    14 mg/ml × 240 ml = 3360 mg <br />
+    14 mg/ml Ã— 240 ml = 3360 mg <br />
     Convert to g: 3.36 g <br />
     Round: 3.4 g
 - id: 5201
@@ -1603,7 +1603,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.7
   solution: |-
-    9 mg/ml × 630 ml = 5670 mg <br />
+    9 mg/ml Ã— 630 ml = 5670 mg <br />
     Convert to g: 5.67 g <br />
     Round: 5.7 g
 - id: 5202
@@ -1611,7 +1611,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.2
   solution: |-
-    7 mg/ml × 460 ml = 3220 mg <br />
+    7 mg/ml Ã— 460 ml = 3220 mg <br />
     Convert to g: 3.22 g <br />
     Round: 3.2 g
 - id: 5203
@@ -1619,7 +1619,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 11.6
   solution: |-
-    15 mg/ml × 770 ml = 11550 mg <br />
+    15 mg/ml Ã— 770 ml = 11550 mg <br />
     Convert to g: 11.55 g <br />
     Round: 11.6 g
 - id: 5204
@@ -1627,7 +1627,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.1
   solution: |-
-    4 mg/ml × 280 ml = 1120 mg <br />
+    4 mg/ml Ã— 280 ml = 1120 mg <br />
     Convert to g: 1.12 g <br />
     Round: 1.1 g
 - id: 5205
@@ -1635,7 +1635,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 11.7
   solution: |-
-    18 mg/ml × 650 ml = 11700 mg <br />
+    18 mg/ml Ã— 650 ml = 11700 mg <br />
     Convert to g: 11.7 g <br />
     Round: 11.7 g
 - id: 5206
@@ -1643,7 +1643,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 16.0
   solution: |-
-    19 mg/ml × 840 ml = 15960 mg <br />
+    19 mg/ml Ã— 840 ml = 15960 mg <br />
     Convert to g: 15.96 g <br />
     Round: 16.0 g
 - id: 5207
@@ -1651,7 +1651,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.6
   solution: |-
-    16 mg/ml × 290 ml = 4640 mg <br />
+    16 mg/ml Ã— 290 ml = 4640 mg <br />
     Convert to g: 4.64 g <br />
     Round: 4.6 g
 - id: 5208
@@ -1659,7 +1659,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.7
   solution: |-
-    5 mg/ml × 340 ml = 1700 mg <br />
+    5 mg/ml Ã— 340 ml = 1700 mg <br />
     Convert to g: 1.7 g <br />
     Round: 1.7 g
 - id: 5209
@@ -1667,7 +1667,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.5
   solution: |-
-    11 mg/ml × 590 ml = 6490 mg <br />
+    11 mg/ml Ã— 590 ml = 6490 mg <br />
     Convert to g: 6.49 g <br />
     Round: 6.5 g
 - id: 5210
@@ -1675,7 +1675,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.9
   solution: |-
-    15 mg/ml × 460 ml = 6900 mg <br />
+    15 mg/ml Ã— 460 ml = 6900 mg <br />
     Convert to g: 6.9 g <br />
     Round: 6.9 g
 - id: 5211
@@ -1683,7 +1683,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.4
   solution: |-
-    14 mg/ml × 600 ml = 8400 mg <br />
+    14 mg/ml Ã— 600 ml = 8400 mg <br />
     Convert to g: 8.4 g <br />
     Round: 8.4 g
 - id: 5212
@@ -1691,7 +1691,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.2
   solution: |-
-    5 mg/ml × 840 ml = 4200 mg <br />
+    5 mg/ml Ã— 840 ml = 4200 mg <br />
     Convert to g: 4.2 g <br />
     Round: 4.2 g
 - id: 5213
@@ -1699,7 +1699,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.4
   solution: |-
-    5 mg/ml × 670 ml = 3350 mg <br />
+    5 mg/ml Ã— 670 ml = 3350 mg <br />
     Convert to g: 3.35 g <br />
     Round: 3.4 g
 - id: 5214
@@ -1707,7 +1707,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.8
   solution: |-
-    18 mg/ml × 380 ml = 6840 mg <br />
+    18 mg/ml Ã— 380 ml = 6840 mg <br />
     Convert to g: 6.84 g <br />
     Round: 6.8 g
 - id: 5215
@@ -1715,7 +1715,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.9
   solution: |-
-    3 mg/ml × 310 ml = 930 mg <br />
+    3 mg/ml Ã— 310 ml = 930 mg <br />
     Convert to g: 0.93 g <br />
     Round: 0.9 g
 - id: 5216
@@ -1723,7 +1723,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 10.5
   solution: |-
-    14 mg/ml × 750 ml = 10500 mg <br />
+    14 mg/ml Ã— 750 ml = 10500 mg <br />
     Convert to g: 10.5 g <br />
     Round: 10.5 g
 - id: 5217
@@ -1731,7 +1731,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.5
   solution: |-
-    4 mg/ml × 130 ml = 520 mg <br />
+    4 mg/ml Ã— 130 ml = 520 mg <br />
     Convert to g: 0.52 g <br />
     Round: 0.5 g
 - id: 5218
@@ -1739,7 +1739,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.1
   solution: |-
-    10 mg/ml × 810 ml = 8100 mg <br />
+    10 mg/ml Ã— 810 ml = 8100 mg <br />
     Convert to g: 8.1 g <br />
     Round: 8.1 g
 - id: 5219
@@ -1747,7 +1747,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.4
   solution: |-
-    19 mg/ml × 440 ml = 8360 mg <br />
+    19 mg/ml Ã— 440 ml = 8360 mg <br />
     Convert to g: 8.36 g <br />
     Round: 8.4 g
 - id: 5220
@@ -1755,7 +1755,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.9
   solution: |-
-    9 mg/ml × 320 ml = 2880 mg <br />
+    9 mg/ml Ã— 320 ml = 2880 mg <br />
     Convert to g: 2.88 g <br />
     Round: 2.9 g
 - id: 5221
@@ -1763,7 +1763,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 9.2
   solution: |-
-    15 mg/ml × 610 ml = 9150 mg <br />
+    15 mg/ml Ã— 610 ml = 9150 mg <br />
     Convert to g: 9.15 g <br />
     Round: 9.2 g
 - id: 5222
@@ -1771,7 +1771,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.9
   solution: |-
-    10 mg/ml × 390 ml = 3900 mg <br />
+    10 mg/ml Ã— 390 ml = 3900 mg <br />
     Convert to g: 3.9 g <br />
     Round: 3.9 g
 - id: 5223
@@ -1779,7 +1779,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.6
   solution: |-
-    2 mg/ml × 290 ml = 580 mg <br />
+    2 mg/ml Ã— 290 ml = 580 mg <br />
     Convert to g: 0.58 g <br />
     Round: 0.6 g
 - id: 5224
@@ -1787,7 +1787,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.2
   solution: |-
-    11 mg/ml × 750 ml = 8250 mg <br />
+    11 mg/ml Ã— 750 ml = 8250 mg <br />
     Convert to g: 8.25 g <br />
     Round: 8.2 g
 - id: 5225
@@ -1795,7 +1795,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.4
   solution: |-
-    11 mg/ml × 490 ml = 5390 mg <br />
+    11 mg/ml Ã— 490 ml = 5390 mg <br />
     Convert to g: 5.39 g <br />
     Round: 5.4 g
 - id: 5226
@@ -1803,7 +1803,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 16.2
   solution: |-
-    20 mg/ml × 810 ml = 16200 mg <br />
+    20 mg/ml Ã— 810 ml = 16200 mg <br />
     Convert to g: 16.2 g <br />
     Round: 16.2 g
 - id: 5227
@@ -1811,7 +1811,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.5
   solution: |-
-    1 mg/ml × 490 ml = 490 mg <br />
+    1 mg/ml Ã— 490 ml = 490 mg <br />
     Convert to g: 0.49 g <br />
     Round: 0.5 g
 - id: 5228
@@ -1819,7 +1819,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.7
   solution: |-
-    11 mg/ml × 520 ml = 5720 mg <br />
+    11 mg/ml Ã— 520 ml = 5720 mg <br />
     Convert to g: 5.72 g <br />
     Round: 5.7 g
 - id: 5229
@@ -1827,7 +1827,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 11.5
   solution: |-
-    14 mg/ml × 820 ml = 11480 mg <br />
+    14 mg/ml Ã— 820 ml = 11480 mg <br />
     Convert to g: 11.48 g <br />
     Round: 11.5 g
 - id: 5230
@@ -1835,7 +1835,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 12.6
   solution: |-
-    14 mg/ml × 900 ml = 12600 mg <br />
+    14 mg/ml Ã— 900 ml = 12600 mg <br />
     Convert to g: 12.6 g <br />
     Round: 12.6 g
 - id: 5231
@@ -1843,7 +1843,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.6
   solution: |-
-    2 mg/ml × 300 ml = 600 mg <br />
+    2 mg/ml Ã— 300 ml = 600 mg <br />
     Convert to g: 0.6 g <br />
     Round: 0.6 g
 - id: 5232
@@ -1851,7 +1851,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 9.5
   solution: |-
-    18 mg/ml × 530 ml = 9540 mg <br />
+    18 mg/ml Ã— 530 ml = 9540 mg <br />
     Convert to g: 9.54 g <br />
     Round: 9.5 g
 - id: 5233
@@ -1859,7 +1859,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 12.0
   solution: |-
-    15 mg/ml × 800 ml = 12000 mg <br />
+    15 mg/ml Ã— 800 ml = 12000 mg <br />
     Convert to g: 12.0 g <br />
     Round: 12.0 g
 - id: 5234
@@ -1867,7 +1867,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.6
   solution: |-
-    4 mg/ml × 410 ml = 1640 mg <br />
+    4 mg/ml Ã— 410 ml = 1640 mg <br />
     Convert to g: 1.64 g <br />
     Round: 1.6 g
 - id: 5235
@@ -1875,7 +1875,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.1
   solution: |-
-    10 mg/ml × 110 ml = 1100 mg <br />
+    10 mg/ml Ã— 110 ml = 1100 mg <br />
     Convert to g: 1.1 g <br />
     Round: 1.1 g
 - id: 5236
@@ -1883,7 +1883,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 10.8
   solution: |-
-    13 mg/ml × 830 ml = 10790 mg <br />
+    13 mg/ml Ã— 830 ml = 10790 mg <br />
     Convert to g: 10.79 g <br />
     Round: 10.8 g
 - id: 5237
@@ -1891,7 +1891,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.9
   solution: |-
-    5 mg/ml × 390 ml = 1950 mg <br />
+    5 mg/ml Ã— 390 ml = 1950 mg <br />
     Convert to g: 1.95 g <br />
     Round: 1.9 g
 - id: 5238
@@ -1899,7 +1899,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.4
   solution: |-
-    2 mg/ml × 220 ml = 440 mg <br />
+    2 mg/ml Ã— 220 ml = 440 mg <br />
     Convert to g: 0.44 g <br />
     Round: 0.4 g
 - id: 5239
@@ -1907,7 +1907,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.8
   solution: |-
-    14 mg/ml × 560 ml = 7840 mg <br />
+    14 mg/ml Ã— 560 ml = 7840 mg <br />
     Convert to g: 7.84 g <br />
     Round: 7.8 g
 - id: 5240
@@ -1915,7 +1915,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.1
   solution: |-
-    9 mg/ml × 460 ml = 4140 mg <br />
+    9 mg/ml Ã— 460 ml = 4140 mg <br />
     Convert to g: 4.14 g <br />
     Round: 4.1 g
 - id: 5241
@@ -1923,7 +1923,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.9
   solution: |-
-    19 mg/ml × 150 ml = 2850 mg <br />
+    19 mg/ml Ã— 150 ml = 2850 mg <br />
     Convert to g: 2.85 g <br />
     Round: 2.9 g
 - id: 5242
@@ -1931,7 +1931,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 11.4
   solution: |-
-    16 mg/ml × 710 ml = 11360 mg <br />
+    16 mg/ml Ã— 710 ml = 11360 mg <br />
     Convert to g: 11.36 g <br />
     Round: 11.4 g
 - id: 5243
@@ -1939,7 +1939,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.0
   solution: |-
-    8 mg/ml × 500 ml = 4000 mg <br />
+    8 mg/ml Ã— 500 ml = 4000 mg <br />
     Convert to g: 4.0 g <br />
     Round: 4.0 g
 - id: 5244
@@ -1947,7 +1947,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.5
   solution: |-
-    3 mg/ml × 170 ml = 510 mg <br />
+    3 mg/ml Ã— 170 ml = 510 mg <br />
     Convert to g: 0.51 g <br />
     Round: 0.5 g
 - id: 5245
@@ -1955,7 +1955,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.4
   solution: |-
-    20 mg/ml × 420 ml = 8400 mg <br />
+    20 mg/ml Ã— 420 ml = 8400 mg <br />
     Convert to g: 8.4 g <br />
     Round: 8.4 g
 - id: 5246
@@ -1963,7 +1963,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.8
   solution: |-
-    19 mg/ml × 360 ml = 6840 mg <br />
+    19 mg/ml Ã— 360 ml = 6840 mg <br />
     Convert to g: 6.84 g <br />
     Round: 6.8 g
 - id: 5247
@@ -1971,7 +1971,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.9
   solution: |-
-    13 mg/ml × 610 ml = 7930 mg <br />
+    13 mg/ml Ã— 610 ml = 7930 mg <br />
     Convert to g: 7.93 g <br />
     Round: 7.9 g
 - id: 5248
@@ -1979,7 +1979,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.4
   solution: |-
-    12 mg/ml × 200 ml = 2400 mg <br />
+    12 mg/ml Ã— 200 ml = 2400 mg <br />
     Convert to g: 2.4 g <br />
     Round: 2.4 g
 - id: 5249
@@ -1987,7 +1987,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 16.4
   solution: |-
-    20 mg/ml × 820 ml = 16400 mg <br />
+    20 mg/ml Ã— 820 ml = 16400 mg <br />
     Convert to g: 16.4 g <br />
     Round: 16.4 g
 - id: 5250
@@ -1995,7 +1995,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 13.1
   solution: |-
-    19 mg/ml × 690 ml = 13110 mg <br />
+    19 mg/ml Ã— 690 ml = 13110 mg <br />
     Convert to g: 13.11 g <br />
     Round: 13.1 g
 - id: 5251
@@ -2003,7 +2003,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 10.8
   solution: |-
-    14 mg/ml × 770 ml = 10780 mg <br />
+    14 mg/ml Ã— 770 ml = 10780 mg <br />
     Convert to g: 10.78 g <br />
     Round: 10.8 g
 - id: 5252
@@ -2011,7 +2011,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.9
   solution: |-
-    2 mg/ml × 470 ml = 940 mg <br />
+    2 mg/ml Ã— 470 ml = 940 mg <br />
     Convert to g: 0.94 g <br />
     Round: 0.9 g
 - id: 5253
@@ -2019,7 +2019,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 11.6
   solution: |-
-    13 mg/ml × 890 ml = 11570 mg <br />
+    13 mg/ml Ã— 890 ml = 11570 mg <br />
     Convert to g: 11.57 g <br />
     Round: 11.6 g
 - id: 5254
@@ -2027,7 +2027,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.0
   solution: |-
-    20 mg/ml × 200 ml = 4000 mg <br />
+    20 mg/ml Ã— 200 ml = 4000 mg <br />
     Convert to g: 4.0 g <br />
     Round: 4.0 g
 - id: 5255
@@ -2035,7 +2035,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 14.8
   solution: |-
-    18 mg/ml × 820 ml = 14760 mg <br />
+    18 mg/ml Ã— 820 ml = 14760 mg <br />
     Convert to g: 14.76 g <br />
     Round: 14.8 g
 - id: 5256
@@ -2043,7 +2043,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.8
   solution: |-
-    2 mg/ml × 410 ml = 820 mg <br />
+    2 mg/ml Ã— 410 ml = 820 mg <br />
     Convert to g: 0.82 g <br />
     Round: 0.8 g
 - id: 5257
@@ -2051,7 +2051,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.0
   solution: |-
-    19 mg/ml × 370 ml = 7030 mg <br />
+    19 mg/ml Ã— 370 ml = 7030 mg <br />
     Convert to g: 7.03 g <br />
     Round: 7.0 g
 - id: 5258
@@ -2059,7 +2059,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.6
   solution: |-
-    4 mg/ml × 900 ml = 3600 mg <br />
+    4 mg/ml Ã— 900 ml = 3600 mg <br />
     Convert to g: 3.6 g <br />
     Round: 3.6 g
 - id: 5259
@@ -2067,7 +2067,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.2
   solution: |-
-    20 mg/ml × 260 ml = 5200 mg <br />
+    20 mg/ml Ã— 260 ml = 5200 mg <br />
     Convert to g: 5.2 g <br />
     Round: 5.2 g
 - id: 5260
@@ -2075,7 +2075,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.1
   solution: |-
-    10 mg/ml × 210 ml = 2100 mg <br />
+    10 mg/ml Ã— 210 ml = 2100 mg <br />
     Convert to g: 2.1 g <br />
     Round: 2.1 g
 - id: 5261
@@ -2083,7 +2083,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 17.8
   solution: |-
-    20 mg/ml × 890 ml = 17800 mg <br />
+    20 mg/ml Ã— 890 ml = 17800 mg <br />
     Convert to g: 17.8 g <br />
     Round: 17.8 g
 - id: 5262
@@ -2091,7 +2091,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.0
   solution: |-
-    3 mg/ml × 320 ml = 960 mg <br />
+    3 mg/ml Ã— 320 ml = 960 mg <br />
     Convert to g: 0.96 g <br />
     Round: 1.0 g
 - id: 5263
@@ -2099,7 +2099,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.6
   solution: |-
-    1 mg/ml × 580 ml = 580 mg <br />
+    1 mg/ml Ã— 580 ml = 580 mg <br />
     Convert to g: 0.58 g <br />
     Round: 0.6 g
 - id: 5264
@@ -2107,7 +2107,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.8
   solution: |-
-    15 mg/ml × 520 ml = 7800 mg <br />
+    15 mg/ml Ã— 520 ml = 7800 mg <br />
     Convert to g: 7.8 g <br />
     Round: 7.8 g
 - id: 5265
@@ -2115,7 +2115,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 13.2
   solution: |-
-    20 mg/ml × 660 ml = 13200 mg <br />
+    20 mg/ml Ã— 660 ml = 13200 mg <br />
     Convert to g: 13.2 g <br />
     Round: 13.2 g
 - id: 5266
@@ -2123,7 +2123,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.7
   solution: |-
-    16 mg/ml × 480 ml = 7680 mg <br />
+    16 mg/ml Ã— 480 ml = 7680 mg <br />
     Convert to g: 7.68 g <br />
     Round: 7.7 g
 - id: 5267
@@ -2131,7 +2131,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.7
   solution: |-
-    3 mg/ml × 240 ml = 720 mg <br />
+    3 mg/ml Ã— 240 ml = 720 mg <br />
     Convert to g: 0.72 g <br />
     Round: 0.7 g
 - id: 5268
@@ -2139,7 +2139,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.2
   solution: |-
-    1 mg/ml × 180 ml = 180 mg <br />
+    1 mg/ml Ã— 180 ml = 180 mg <br />
     Convert to g: 0.18 g <br />
     Round: 0.2 g
 - id: 5269
@@ -2147,7 +2147,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 11.0
   solution: |-
-    20 mg/ml × 550 ml = 11000 mg <br />
+    20 mg/ml Ã— 550 ml = 11000 mg <br />
     Convert to g: 11.0 g <br />
     Round: 11.0 g
 - id: 5270
@@ -2155,7 +2155,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.8
   solution: |-
-    10 mg/ml × 580 ml = 5800 mg <br />
+    10 mg/ml Ã— 580 ml = 5800 mg <br />
     Convert to g: 5.8 g <br />
     Round: 5.8 g
 - id: 5271
@@ -2163,7 +2163,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.4
   solution: |-
-    18 mg/ml × 300 ml = 5400 mg <br />
+    18 mg/ml Ã— 300 ml = 5400 mg <br />
     Convert to g: 5.4 g <br />
     Round: 5.4 g
 - id: 5272
@@ -2171,7 +2171,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.1
   solution: |-
-    18 mg/ml × 230 ml = 4140 mg <br />
+    18 mg/ml Ã— 230 ml = 4140 mg <br />
     Convert to g: 4.14 g <br />
     Round: 4.1 g
 - id: 5273
@@ -2179,7 +2179,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.2
   solution: |-
-    17 mg/ml × 190 ml = 3230 mg <br />
+    17 mg/ml Ã— 190 ml = 3230 mg <br />
     Convert to g: 3.23 g <br />
     Round: 3.2 g
 - id: 5274
@@ -2187,7 +2187,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.8
   solution: |-
-    8 mg/ml × 230 ml = 1840 mg <br />
+    8 mg/ml Ã— 230 ml = 1840 mg <br />
     Convert to g: 1.84 g <br />
     Round: 1.8 g
 - id: 5275
@@ -2195,7 +2195,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 12.6
   solution: |-
-    14 mg/ml × 900 ml = 12600 mg <br />
+    14 mg/ml Ã— 900 ml = 12600 mg <br />
     Convert to g: 12.6 g <br />
     Round: 12.6 g
 - id: 5276
@@ -2203,7 +2203,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.8
   solution: |-
-    17 mg/ml × 340 ml = 5780 mg <br />
+    17 mg/ml Ã— 340 ml = 5780 mg <br />
     Convert to g: 5.78 g <br />
     Round: 5.8 g
 - id: 5277
@@ -2211,7 +2211,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.8
   solution: |-
-    18 mg/ml × 380 ml = 6840 mg <br />
+    18 mg/ml Ã— 380 ml = 6840 mg <br />
     Convert to g: 6.84 g <br />
     Round: 6.8 g
 - id: 5278
@@ -2219,7 +2219,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.1
   solution: |-
-    4 mg/ml × 770 ml = 3080 mg <br />
+    4 mg/ml Ã— 770 ml = 3080 mg <br />
     Convert to g: 3.08 g <br />
     Round: 3.1 g
 - id: 5279
@@ -2227,7 +2227,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.6
   solution: |-
-    9 mg/ml × 510 ml = 4590 mg <br />
+    9 mg/ml Ã— 510 ml = 4590 mg <br />
     Convert to g: 4.59 g <br />
     Round: 4.6 g
 - id: 5280
@@ -2235,7 +2235,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.7
   solution: |-
-    7 mg/ml × 820 ml = 5740 mg <br />
+    7 mg/ml Ã— 820 ml = 5740 mg <br />
     Convert to g: 5.74 g <br />
     Round: 5.7 g
 - id: 5281
@@ -2243,7 +2243,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 9.9
   solution: |-
-    18 mg/ml × 550 ml = 9900 mg <br />
+    18 mg/ml Ã— 550 ml = 9900 mg <br />
     Convert to g: 9.9 g <br />
     Round: 9.9 g
 - id: 5282
@@ -2251,7 +2251,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.5
   solution: |-
-    4 mg/ml × 130 ml = 520 mg <br />
+    4 mg/ml Ã— 130 ml = 520 mg <br />
     Convert to g: 0.52 g <br />
     Round: 0.5 g
 - id: 5283
@@ -2259,7 +2259,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 13.3
   solution: |-
-    16 mg/ml × 830 ml = 13280 mg <br />
+    16 mg/ml Ã— 830 ml = 13280 mg <br />
     Convert to g: 13.28 g <br />
     Round: 13.3 g
 - id: 5284
@@ -2267,7 +2267,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.4
   solution: |-
-    2 mg/ml × 720 ml = 1440 mg <br />
+    2 mg/ml Ã— 720 ml = 1440 mg <br />
     Convert to g: 1.44 g <br />
     Round: 1.4 g
 - id: 5285
@@ -2275,7 +2275,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 9.6
   solution: |-
-    13 mg/ml × 740 ml = 9620 mg <br />
+    13 mg/ml Ã— 740 ml = 9620 mg <br />
     Convert to g: 9.62 g <br />
     Round: 9.6 g
 - id: 5286
@@ -2283,7 +2283,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.6
   solution: |-
-    1 mg/ml × 590 ml = 590 mg <br />
+    1 mg/ml Ã— 590 ml = 590 mg <br />
     Convert to g: 0.59 g <br />
     Round: 0.6 g
 - id: 5287
@@ -2291,7 +2291,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 11.7
   solution: |-
-    15 mg/ml × 780 ml = 11700 mg <br />
+    15 mg/ml Ã— 780 ml = 11700 mg <br />
     Convert to g: 11.7 g <br />
     Round: 11.7 g
 - id: 5288
@@ -2299,7 +2299,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.1
   solution: |-
-    4 mg/ml × 270 ml = 1080 mg <br />
+    4 mg/ml Ã— 270 ml = 1080 mg <br />
     Convert to g: 1.08 g <br />
     Round: 1.1 g
 - id: 5289
@@ -2307,7 +2307,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.0
   solution: |-
-    12 mg/ml × 330 ml = 3960 mg <br />
+    12 mg/ml Ã— 330 ml = 3960 mg <br />
     Convert to g: 3.96 g <br />
     Round: 4.0 g
 - id: 5290
@@ -2315,7 +2315,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.0
   solution: |-
-    18 mg/ml × 280 ml = 5040 mg <br />
+    18 mg/ml Ã— 280 ml = 5040 mg <br />
     Convert to g: 5.04 g <br />
     Round: 5.0 g
 - id: 5291
@@ -2323,7 +2323,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.1
   solution: |-
-    8 mg/ml × 640 ml = 5120 mg <br />
+    8 mg/ml Ã— 640 ml = 5120 mg <br />
     Convert to g: 5.12 g <br />
     Round: 5.1 g
 - id: 5292
@@ -2331,7 +2331,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.0
   solution: |-
-    3 mg/ml × 670 ml = 2010 mg <br />
+    3 mg/ml Ã— 670 ml = 2010 mg <br />
     Convert to g: 2.01 g <br />
     Round: 2.0 g
 - id: 5293
@@ -2339,7 +2339,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.0
   solution: |-
-    8 mg/ml × 870 ml = 6960 mg <br />
+    8 mg/ml Ã— 870 ml = 6960 mg <br />
     Convert to g: 6.96 g <br />
     Round: 7.0 g
 - id: 5294
@@ -2347,7 +2347,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.5
   solution: |-
-    16 mg/ml × 280 ml = 4480 mg <br />
+    16 mg/ml Ã— 280 ml = 4480 mg <br />
     Convert to g: 4.48 g <br />
     Round: 4.5 g
 - id: 5295
@@ -2355,7 +2355,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.1
   solution: |-
-    6 mg/ml × 350 ml = 2100 mg <br />
+    6 mg/ml Ã— 350 ml = 2100 mg <br />
     Convert to g: 2.1 g <br />
     Round: 2.1 g
 - id: 5296
@@ -2363,7 +2363,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.6
   solution: |-
-    2 mg/ml × 280 ml = 560 mg <br />
+    2 mg/ml Ã— 280 ml = 560 mg <br />
     Convert to g: 0.56 g <br />
     Round: 0.6 g
 - id: 5297
@@ -2371,7 +2371,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.0
   solution: |-
-    20 mg/ml × 350 ml = 7000 mg <br />
+    20 mg/ml Ã— 350 ml = 7000 mg <br />
     Convert to g: 7.0 g <br />
     Round: 7.0 g
 - id: 5298
@@ -2379,7 +2379,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.8
   solution: |-
-    3 mg/ml × 260 ml = 780 mg <br />
+    3 mg/ml Ã— 260 ml = 780 mg <br />
     Convert to g: 0.78 g <br />
     Round: 0.8 g
 - id: 5299
@@ -2387,7 +2387,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.5
   solution: |-
-    3 mg/ml × 490 ml = 1470 mg <br />
+    3 mg/ml Ã— 490 ml = 1470 mg <br />
     Convert to g: 1.47 g <br />
     Round: 1.5 g
 - id: 5300
@@ -2395,7 +2395,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.6
   solution: |-
-    1 mg/ml × 580 ml = 580 mg <br />
+    1 mg/ml Ã— 580 ml = 580 mg <br />
     Convert to g: 0.58 g <br />
     Round: 0.6 g
 - id: 5301
@@ -2403,7 +2403,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.6
   solution: |-
-    20 mg/ml × 130 ml = 2600 mg <br />
+    20 mg/ml Ã— 130 ml = 2600 mg <br />
     Convert to g: 2.6 g <br />
     Round: 2.6 g
 - id: 5302
@@ -2411,7 +2411,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.4
   solution: |-
-    1 mg/ml × 420 ml = 420 mg <br />
+    1 mg/ml Ã— 420 ml = 420 mg <br />
     Convert to g: 0.42 g <br />
     Round: 0.4 g
 - id: 5303
@@ -2419,7 +2419,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.2
   solution: |-
-    20 mg/ml × 310 ml = 6200 mg <br />
+    20 mg/ml Ã— 310 ml = 6200 mg <br />
     Convert to g: 6.2 g <br />
     Round: 6.2 g
 - id: 5304
@@ -2427,7 +2427,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.1
   solution: |-
-    7 mg/ml × 590 ml = 4130 mg <br />
+    7 mg/ml Ã— 590 ml = 4130 mg <br />
     Convert to g: 4.13 g <br />
     Round: 4.1 g
 - id: 5305
@@ -2435,7 +2435,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.4
   solution: |-
-    11 mg/ml × 580 ml = 6380 mg <br />
+    11 mg/ml Ã— 580 ml = 6380 mg <br />
     Convert to g: 6.38 g <br />
     Round: 6.4 g
 - id: 5306
@@ -2443,7 +2443,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.3
   solution: |-
-    5 mg/ml × 460 ml = 2300 mg <br />
+    5 mg/ml Ã— 460 ml = 2300 mg <br />
     Convert to g: 2.3 g <br />
     Round: 2.3 g
 - id: 5307
@@ -2451,7 +2451,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.0
   solution: |-
-    8 mg/ml × 130 ml = 1040 mg <br />
+    8 mg/ml Ã— 130 ml = 1040 mg <br />
     Convert to g: 1.04 g <br />
     Round: 1.0 g
 - id: 5308
@@ -2459,7 +2459,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.5
   solution: |-
-    17 mg/ml × 150 ml = 2550 mg <br />
+    17 mg/ml Ã— 150 ml = 2550 mg <br />
     Convert to g: 2.55 g <br />
     Round: 2.5 g
 - id: 5309
@@ -2467,7 +2467,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.8
   solution: |-
-    20 mg/ml × 140 ml = 2800 mg <br />
+    20 mg/ml Ã— 140 ml = 2800 mg <br />
     Convert to g: 2.8 g <br />
     Round: 2.8 g
 - id: 5310
@@ -2475,7 +2475,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.9
   solution: |-
-    18 mg/ml × 160 ml = 2880 mg <br />
+    18 mg/ml Ã— 160 ml = 2880 mg <br />
     Convert to g: 2.88 g <br />
     Round: 2.9 g
 - id: 5311
@@ -2483,7 +2483,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.4
   solution: |-
-    12 mg/ml × 280 ml = 3360 mg <br />
+    12 mg/ml Ã— 280 ml = 3360 mg <br />
     Convert to g: 3.36 g <br />
     Round: 3.4 g
 - id: 5312
@@ -2491,7 +2491,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.7
   solution: |-
-    11 mg/ml × 700 ml = 7700 mg <br />
+    11 mg/ml Ã— 700 ml = 7700 mg <br />
     Convert to g: 7.7 g <br />
     Round: 7.7 g
 - id: 5313
@@ -2499,7 +2499,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 9.6
   solution: |-
-    12 mg/ml × 800 ml = 9600 mg <br />
+    12 mg/ml Ã— 800 ml = 9600 mg <br />
     Convert to g: 9.6 g <br />
     Round: 9.6 g
 - id: 5314
@@ -2507,7 +2507,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.4
   solution: |-
-    8 mg/ml × 170 ml = 1360 mg <br />
+    8 mg/ml Ã— 170 ml = 1360 mg <br />
     Convert to g: 1.36 g <br />
     Round: 1.4 g
 - id: 5315
@@ -2515,7 +2515,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 10.0
   solution: |-
-    17 mg/ml × 590 ml = 10030 mg <br />
+    17 mg/ml Ã— 590 ml = 10030 mg <br />
     Convert to g: 10.03 g <br />
     Round: 10.0 g
 - id: 5316
@@ -2523,7 +2523,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.4
   solution: |-
-    10 mg/ml × 740 ml = 7400 mg <br />
+    10 mg/ml Ã— 740 ml = 7400 mg <br />
     Convert to g: 7.4 g <br />
     Round: 7.4 g
 - id: 5317
@@ -2531,7 +2531,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.6
   solution: |-
-    7 mg/ml × 370 ml = 2590 mg <br />
+    7 mg/ml Ã— 370 ml = 2590 mg <br />
     Convert to g: 2.59 g <br />
     Round: 2.6 g
 - id: 5318
@@ -2539,7 +2539,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.0
   solution: |-
-    20 mg/ml × 200 ml = 4000 mg <br />
+    20 mg/ml Ã— 200 ml = 4000 mg <br />
     Convert to g: 4.0 g <br />
     Round: 4.0 g
 - id: 5319
@@ -2547,7 +2547,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 12.7
   solution: |-
-    19 mg/ml × 670 ml = 12730 mg <br />
+    19 mg/ml Ã— 670 ml = 12730 mg <br />
     Convert to g: 12.73 g <br />
     Round: 12.7 g
 - id: 5320
@@ -2555,7 +2555,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.5
   solution: |-
-    17 mg/ml × 150 ml = 2550 mg <br />
+    17 mg/ml Ã— 150 ml = 2550 mg <br />
     Convert to g: 2.55 g <br />
     Round: 2.5 g
 - id: 5321
@@ -2563,7 +2563,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.2
   solution: |-
-    14 mg/ml × 300 ml = 4200 mg <br />
+    14 mg/ml Ã— 300 ml = 4200 mg <br />
     Convert to g: 4.2 g <br />
     Round: 4.2 g
 - id: 5322
@@ -2571,7 +2571,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.7
   solution: |-
-    7 mg/ml × 670 ml = 4690 mg <br />
+    7 mg/ml Ã— 670 ml = 4690 mg <br />
     Convert to g: 4.69 g <br />
     Round: 4.7 g
 - id: 5323
@@ -2579,7 +2579,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 10.6
   solution: |-
-    18 mg/ml × 590 ml = 10620 mg <br />
+    18 mg/ml Ã— 590 ml = 10620 mg <br />
     Convert to g: 10.62 g <br />
     Round: 10.6 g
 - id: 5324
@@ -2587,7 +2587,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.4
   solution: |-
-    6 mg/ml × 560 ml = 3360 mg <br />
+    6 mg/ml Ã— 560 ml = 3360 mg <br />
     Convert to g: 3.36 g <br />
     Round: 3.4 g
 - id: 5325
@@ -2595,7 +2595,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 11.6
   solution: |-
-    17 mg/ml × 680 ml = 11560 mg <br />
+    17 mg/ml Ã— 680 ml = 11560 mg <br />
     Convert to g: 11.56 g <br />
     Round: 11.6 g
 - id: 5326
@@ -2603,7 +2603,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.8
   solution: |-
-    12 mg/ml × 730 ml = 8760 mg <br />
+    12 mg/ml Ã— 730 ml = 8760 mg <br />
     Convert to g: 8.76 g <br />
     Round: 8.8 g
 - id: 5327
@@ -2611,7 +2611,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.2
   solution: |-
-    12 mg/ml × 100 ml = 1200 mg <br />
+    12 mg/ml Ã— 100 ml = 1200 mg <br />
     Convert to g: 1.2 g <br />
     Round: 1.2 g
 - id: 5328
@@ -2619,7 +2619,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.8
   solution: |-
-    11 mg/ml × 440 ml = 4840 mg <br />
+    11 mg/ml Ã— 440 ml = 4840 mg <br />
     Convert to g: 4.84 g <br />
     Round: 4.8 g
 - id: 5329
@@ -2627,7 +2627,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.8
   solution: |-
-    10 mg/ml × 780 ml = 7800 mg <br />
+    10 mg/ml Ã— 780 ml = 7800 mg <br />
     Convert to g: 7.8 g <br />
     Round: 7.8 g
 - id: 5330
@@ -2635,7 +2635,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.0
   solution: |-
-    3 mg/ml × 660 ml = 1980 mg <br />
+    3 mg/ml Ã— 660 ml = 1980 mg <br />
     Convert to g: 1.98 g <br />
     Round: 2.0 g
 - id: 5331
@@ -2643,7 +2643,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.1
   solution: |-
-    8 mg/ml × 510 ml = 4080 mg <br />
+    8 mg/ml Ã— 510 ml = 4080 mg <br />
     Convert to g: 4.08 g <br />
     Round: 4.1 g
 - id: 5332
@@ -2651,7 +2651,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.3
   solution: |-
-    2 mg/ml × 660 ml = 1320 mg <br />
+    2 mg/ml Ã— 660 ml = 1320 mg <br />
     Convert to g: 1.32 g <br />
     Round: 1.3 g
 - id: 5333
@@ -2659,7 +2659,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.5
   solution: |-
-    13 mg/ml × 500 ml = 6500 mg <br />
+    13 mg/ml Ã— 500 ml = 6500 mg <br />
     Convert to g: 6.5 g <br />
     Round: 6.5 g
 - id: 5334
@@ -2667,7 +2667,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 16.0
   solution: |-
-    18 mg/ml × 890 ml = 16020 mg <br />
+    18 mg/ml Ã— 890 ml = 16020 mg <br />
     Convert to g: 16.02 g <br />
     Round: 16.0 g
 - id: 5335
@@ -2675,7 +2675,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.0
   solution: |-
-    10 mg/ml × 700 ml = 7000 mg <br />
+    10 mg/ml Ã— 700 ml = 7000 mg <br />
     Convert to g: 7.0 g <br />
     Round: 7.0 g
 - id: 5336
@@ -2683,7 +2683,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 11.3
   solution: |-
-    13 mg/ml × 870 ml = 11310 mg <br />
+    13 mg/ml Ã— 870 ml = 11310 mg <br />
     Convert to g: 11.31 g <br />
     Round: 11.3 g
 - id: 5337
@@ -2691,7 +2691,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.7
   solution: |-
-    7 mg/ml × 380 ml = 2660 mg <br />
+    7 mg/ml Ã— 380 ml = 2660 mg <br />
     Convert to g: 2.66 g <br />
     Round: 2.7 g
 - id: 5338
@@ -2699,7 +2699,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 15.6
   solution: |-
-    20 mg/ml × 780 ml = 15600 mg <br />
+    20 mg/ml Ã— 780 ml = 15600 mg <br />
     Convert to g: 15.6 g <br />
     Round: 15.6 g
 - id: 5339
@@ -2707,7 +2707,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.1
   solution: |-
-    9 mg/ml × 340 ml = 3060 mg <br />
+    9 mg/ml Ã— 340 ml = 3060 mg <br />
     Convert to g: 3.06 g <br />
     Round: 3.1 g
 - id: 5340
@@ -2715,7 +2715,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.5
   solution: |-
-    3 mg/ml × 850 ml = 2550 mg <br />
+    3 mg/ml Ã— 850 ml = 2550 mg <br />
     Convert to g: 2.55 g <br />
     Round: 2.5 g
 - id: 5341
@@ -2723,7 +2723,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 15.3
   solution: |-
-    18 mg/ml × 850 ml = 15300 mg <br />
+    18 mg/ml Ã— 850 ml = 15300 mg <br />
     Convert to g: 15.3 g <br />
     Round: 15.3 g
 - id: 5342
@@ -2731,7 +2731,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 9.0
   solution: |-
-    10 mg/ml × 900 ml = 9000 mg <br />
+    10 mg/ml Ã— 900 ml = 9000 mg <br />
     Convert to g: 9.0 g <br />
     Round: 9.0 g
 - id: 5343
@@ -2739,7 +2739,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.5
   solution: |-
-    1 mg/ml × 450 ml = 450 mg <br />
+    1 mg/ml Ã— 450 ml = 450 mg <br />
     Convert to g: 0.45 g <br />
     Round: 0.5 g
 - id: 5344
@@ -2747,7 +2747,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.9
   solution: |-
-    6 mg/ml × 820 ml = 4920 mg <br />
+    6 mg/ml Ã— 820 ml = 4920 mg <br />
     Convert to g: 4.92 g <br />
     Round: 4.9 g
 - id: 5345
@@ -2755,7 +2755,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.9
   solution: |-
-    14 mg/ml × 420 ml = 5880 mg <br />
+    14 mg/ml Ã— 420 ml = 5880 mg <br />
     Convert to g: 5.88 g <br />
     Round: 5.9 g
 - id: 5346
@@ -2763,7 +2763,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.0
   solution: |-
-    20 mg/ml × 300 ml = 6000 mg <br />
+    20 mg/ml Ã— 300 ml = 6000 mg <br />
     Convert to g: 6.0 g <br />
     Round: 6.0 g
 - id: 5347
@@ -2771,7 +2771,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.7
   solution: |-
-    10 mg/ml × 170 ml = 1700 mg <br />
+    10 mg/ml Ã— 170 ml = 1700 mg <br />
     Convert to g: 1.7 g <br />
     Round: 1.7 g
 - id: 5348
@@ -2779,7 +2779,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 13.3
   solution: |-
-    15 mg/ml × 890 ml = 13350 mg <br />
+    15 mg/ml Ã— 890 ml = 13350 mg <br />
     Convert to g: 13.35 g <br />
     Round: 13.3 g
 - id: 5349
@@ -2787,7 +2787,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.8
   solution: |-
-    1 mg/ml × 780 ml = 780 mg <br />
+    1 mg/ml Ã— 780 ml = 780 mg <br />
     Convert to g: 0.78 g <br />
     Round: 0.8 g
 - id: 5350
@@ -2795,7 +2795,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 15.0
   solution: |-
-    17 mg/ml × 880 ml = 14960 mg <br />
+    17 mg/ml Ã— 880 ml = 14960 mg <br />
     Convert to g: 14.96 g <br />
     Round: 15.0 g
 - id: 5351
@@ -2803,7 +2803,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 12.9
   solution: |-
-    15 mg/ml × 860 ml = 12900 mg <br />
+    15 mg/ml Ã— 860 ml = 12900 mg <br />
     Convert to g: 12.9 g <br />
     Round: 12.9 g
 - id: 5352
@@ -2811,7 +2811,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.2
   solution: |-
-    8 mg/ml × 650 ml = 5200 mg <br />
+    8 mg/ml Ã— 650 ml = 5200 mg <br />
     Convert to g: 5.2 g <br />
     Round: 5.2 g
 - id: 5353
@@ -2819,7 +2819,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.5
   solution: |-
-    14 mg/ml × 110 ml = 1540 mg <br />
+    14 mg/ml Ã— 110 ml = 1540 mg <br />
     Convert to g: 1.54 g <br />
     Round: 1.5 g
 - id: 5354
@@ -2827,7 +2827,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.5
   solution: |-
-    19 mg/ml × 290 ml = 5510 mg <br />
+    19 mg/ml Ã— 290 ml = 5510 mg <br />
     Convert to g: 5.51 g <br />
     Round: 5.5 g
 - id: 5355
@@ -2835,7 +2835,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.1
   solution: |-
-    4 mg/ml × 520 ml = 2080 mg <br />
+    4 mg/ml Ã— 520 ml = 2080 mg <br />
     Convert to g: 2.08 g <br />
     Round: 2.1 g
 - id: 5356
@@ -2843,7 +2843,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.2
   solution: |-
-    16 mg/ml × 200 ml = 3200 mg <br />
+    16 mg/ml Ã— 200 ml = 3200 mg <br />
     Convert to g: 3.2 g <br />
     Round: 3.2 g
 - id: 5357
@@ -2851,7 +2851,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.2
   solution: |-
-    14 mg/ml × 370 ml = 5180 mg <br />
+    14 mg/ml Ã— 370 ml = 5180 mg <br />
     Convert to g: 5.18 g <br />
     Round: 5.2 g
 - id: 5358
@@ -2859,7 +2859,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.6
   solution: |-
-    2 mg/ml × 320 ml = 640 mg <br />
+    2 mg/ml Ã— 320 ml = 640 mg <br />
     Convert to g: 0.64 g <br />
     Round: 0.6 g
 - id: 5359
@@ -2867,7 +2867,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.2
   solution: |-
-    6 mg/ml × 200 ml = 1200 mg <br />
+    6 mg/ml Ã— 200 ml = 1200 mg <br />
     Convert to g: 1.2 g <br />
     Round: 1.2 g
 - id: 5360
@@ -2875,7 +2875,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.8
   solution: |-
-    8 mg/ml × 470 ml = 3760 mg <br />
+    8 mg/ml Ã— 470 ml = 3760 mg <br />
     Convert to g: 3.76 g <br />
     Round: 3.8 g
 - id: 5361
@@ -2883,7 +2883,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.8
   solution: |-
-    18 mg/ml × 100 ml = 1800 mg <br />
+    18 mg/ml Ã— 100 ml = 1800 mg <br />
     Convert to g: 1.8 g <br />
     Round: 1.8 g
 - id: 5362
@@ -2891,7 +2891,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.3
   solution: |-
-    17 mg/ml × 430 ml = 7310 mg <br />
+    17 mg/ml Ã— 430 ml = 7310 mg <br />
     Convert to g: 7.31 g <br />
     Round: 7.3 g
 - id: 5363
@@ -2899,7 +2899,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 9.0
   solution: |-
-    15 mg/ml × 600 ml = 9000 mg <br />
+    15 mg/ml Ã— 600 ml = 9000 mg <br />
     Convert to g: 9.0 g <br />
     Round: 9.0 g
 - id: 5364
@@ -2907,7 +2907,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.2
   solution: |-
-    8 mg/ml × 530 ml = 4240 mg <br />
+    8 mg/ml Ã— 530 ml = 4240 mg <br />
     Convert to g: 4.24 g <br />
     Round: 4.2 g
 - id: 5365
@@ -2915,7 +2915,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 10.0
   solution: |-
-    13 mg/ml × 770 ml = 10010 mg <br />
+    13 mg/ml Ã— 770 ml = 10010 mg <br />
     Convert to g: 10.01 g <br />
     Round: 10.0 g
 - id: 5366
@@ -2923,7 +2923,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.1
   solution: |-
-    10 mg/ml × 510 ml = 5100 mg <br />
+    10 mg/ml Ã— 510 ml = 5100 mg <br />
     Convert to g: 5.1 g <br />
     Round: 5.1 g
 - id: 5367
@@ -2931,7 +2931,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.8
   solution: |-
-    8 mg/ml × 470 ml = 3760 mg <br />
+    8 mg/ml Ã— 470 ml = 3760 mg <br />
     Convert to g: 3.76 g <br />
     Round: 3.8 g
 - id: 5368
@@ -2939,7 +2939,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.2
   solution: |-
-    9 mg/ml × 130 ml = 1170 mg <br />
+    9 mg/ml Ã— 130 ml = 1170 mg <br />
     Convert to g: 1.17 g <br />
     Round: 1.2 g
 - id: 5369
@@ -2947,7 +2947,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 16.0
   solution: |-
-    19 mg/ml × 840 ml = 15960 mg <br />
+    19 mg/ml Ã— 840 ml = 15960 mg <br />
     Convert to g: 15.96 g <br />
     Round: 16.0 g
 - id: 5370
@@ -2955,7 +2955,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.5
   solution: |-
-    3 mg/ml × 150 ml = 450 mg <br />
+    3 mg/ml Ã— 150 ml = 450 mg <br />
     Convert to g: 0.45 g <br />
     Round: 0.5 g
 - id: 5371
@@ -2963,7 +2963,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.8
   solution: |-
-    12 mg/ml × 320 ml = 3840 mg <br />
+    12 mg/ml Ã— 320 ml = 3840 mg <br />
     Convert to g: 3.84 g <br />
     Round: 3.8 g
 - id: 5372
@@ -2971,7 +2971,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 12.8
   solution: |-
-    18 mg/ml × 710 ml = 12780 mg <br />
+    18 mg/ml Ã— 710 ml = 12780 mg <br />
     Convert to g: 12.78 g <br />
     Round: 12.8 g
 - id: 5373
@@ -2979,7 +2979,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 9.0
   solution: |-
-    10 mg/ml × 900 ml = 9000 mg <br />
+    10 mg/ml Ã— 900 ml = 9000 mg <br />
     Convert to g: 9.0 g <br />
     Round: 9.0 g
 - id: 5374
@@ -2987,7 +2987,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.3
   solution: |-
-    1 mg/ml × 280 ml = 280 mg <br />
+    1 mg/ml Ã— 280 ml = 280 mg <br />
     Convert to g: 0.28 g <br />
     Round: 0.3 g
 - id: 5375
@@ -2995,7 +2995,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.7
   solution: |-
-    7 mg/ml × 390 ml = 2730 mg <br />
+    7 mg/ml Ã— 390 ml = 2730 mg <br />
     Convert to g: 2.73 g <br />
     Round: 2.7 g
 - id: 5376
@@ -3003,7 +3003,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.0
   solution: |-
-    13 mg/ml × 310 ml = 4030 mg <br />
+    13 mg/ml Ã— 310 ml = 4030 mg <br />
     Convert to g: 4.03 g <br />
     Round: 4.0 g
 - id: 5377
@@ -3011,7 +3011,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 10.0
   solution: |-
-    13 mg/ml × 770 ml = 10010 mg <br />
+    13 mg/ml Ã— 770 ml = 10010 mg <br />
     Convert to g: 10.01 g <br />
     Round: 10.0 g
 - id: 5378
@@ -3019,7 +3019,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 14.9
   solution: |-
-    18 mg/ml × 830 ml = 14940 mg <br />
+    18 mg/ml Ã— 830 ml = 14940 mg <br />
     Convert to g: 14.94 g <br />
     Round: 14.9 g
 - id: 5379
@@ -3027,7 +3027,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.8
   solution: |-
-    2 mg/ml × 900 ml = 1800 mg <br />
+    2 mg/ml Ã— 900 ml = 1800 mg <br />
     Convert to g: 1.8 g <br />
     Round: 1.8 g
 - id: 5380
@@ -3035,7 +3035,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.2
   solution: |-
-    4 mg/ml × 290 ml = 1160 mg <br />
+    4 mg/ml Ã— 290 ml = 1160 mg <br />
     Convert to g: 1.16 g <br />
     Round: 1.2 g
 - id: 5381
@@ -3043,7 +3043,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.0
   solution: |-
-    20 mg/ml × 250 ml = 5000 mg <br />
+    20 mg/ml Ã— 250 ml = 5000 mg <br />
     Convert to g: 5.0 g <br />
     Round: 5.0 g
 - id: 5382
@@ -3051,7 +3051,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 11.8
   solution: |-
-    20 mg/ml × 590 ml = 11800 mg <br />
+    20 mg/ml Ã— 590 ml = 11800 mg <br />
     Convert to g: 11.8 g <br />
     Round: 11.8 g
 - id: 5383
@@ -3059,7 +3059,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.7
   solution: |-
-    14 mg/ml × 620 ml = 8680 mg <br />
+    14 mg/ml Ã— 620 ml = 8680 mg <br />
     Convert to g: 8.68 g <br />
     Round: 8.7 g
 - id: 5384
@@ -3067,7 +3067,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.5
   solution: |-
-    5 mg/ml × 510 ml = 2550 mg <br />
+    5 mg/ml Ã— 510 ml = 2550 mg <br />
     Convert to g: 2.55 g <br />
     Round: 2.5 g
 - id: 5385
@@ -3075,7 +3075,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.1
   solution: |-
-    10 mg/ml × 710 ml = 7100 mg <br />
+    10 mg/ml Ã— 710 ml = 7100 mg <br />
     Convert to g: 7.1 g <br />
     Round: 7.1 g
 - id: 5386
@@ -3083,7 +3083,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 13.3
   solution: |-
-    19 mg/ml × 700 ml = 13300 mg <br />
+    19 mg/ml Ã— 700 ml = 13300 mg <br />
     Convert to g: 13.3 g <br />
     Round: 13.3 g
 - id: 5387
@@ -3091,7 +3091,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.5
   solution: |-
-    13 mg/ml × 580 ml = 7540 mg <br />
+    13 mg/ml Ã— 580 ml = 7540 mg <br />
     Convert to g: 7.54 g <br />
     Round: 7.5 g
 - id: 5388
@@ -3099,7 +3099,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.3
   solution: |-
-    11 mg/ml × 390 ml = 4290 mg <br />
+    11 mg/ml Ã— 390 ml = 4290 mg <br />
     Convert to g: 4.29 g <br />
     Round: 4.3 g
 - id: 5389
@@ -3107,7 +3107,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.4
   solution: |-
-    14 mg/ml × 240 ml = 3360 mg <br />
+    14 mg/ml Ã— 240 ml = 3360 mg <br />
     Convert to g: 3.36 g <br />
     Round: 3.4 g
 - id: 5390
@@ -3115,7 +3115,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.8
   solution: |-
-    3 mg/ml × 250 ml = 750 mg <br />
+    3 mg/ml Ã— 250 ml = 750 mg <br />
     Convert to g: 0.75 g <br />
     Round: 0.8 g
 - id: 5391
@@ -3123,7 +3123,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.8
   solution: |-
-    19 mg/ml × 200 ml = 3800 mg <br />
+    19 mg/ml Ã— 200 ml = 3800 mg <br />
     Convert to g: 3.8 g <br />
     Round: 3.8 g
 - id: 5392
@@ -3131,7 +3131,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.0
   solution: |-
-    10 mg/ml × 800 ml = 8000 mg <br />
+    10 mg/ml Ã— 800 ml = 8000 mg <br />
     Convert to g: 8.0 g <br />
     Round: 8.0 g
 - id: 5393
@@ -3139,7 +3139,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.0
   solution: |-
-    16 mg/ml × 440 ml = 7040 mg <br />
+    16 mg/ml Ã— 440 ml = 7040 mg <br />
     Convert to g: 7.04 g <br />
     Round: 7.0 g
 - id: 5394
@@ -3147,7 +3147,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.8
   solution: |-
-    6 mg/ml × 460 ml = 2760 mg <br />
+    6 mg/ml Ã— 460 ml = 2760 mg <br />
     Convert to g: 2.76 g <br />
     Round: 2.8 g
 - id: 5395
@@ -3155,7 +3155,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 10.5
   solution: |-
-    17 mg/ml × 620 ml = 10540 mg <br />
+    17 mg/ml Ã— 620 ml = 10540 mg <br />
     Convert to g: 10.54 g <br />
     Round: 10.5 g
 - id: 5396
@@ -3163,7 +3163,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.1
   solution: |-
-    9 mg/ml × 900 ml = 8100 mg <br />
+    9 mg/ml Ã— 900 ml = 8100 mg <br />
     Convert to g: 8.1 g <br />
     Round: 8.1 g
 - id: 5397
@@ -3171,7 +3171,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.3
   solution: |-
-    8 mg/ml × 410 ml = 3280 mg <br />
+    8 mg/ml Ã— 410 ml = 3280 mg <br />
     Convert to g: 3.28 g <br />
     Round: 3.3 g
 - id: 5398
@@ -3179,7 +3179,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.7
   solution: |-
-    13 mg/ml × 440 ml = 5720 mg <br />
+    13 mg/ml Ã— 440 ml = 5720 mg <br />
     Convert to g: 5.72 g <br />
     Round: 5.7 g
 - id: 5399
@@ -3187,7 +3187,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.7
   solution: |-
-    4 mg/ml × 170 ml = 680 mg <br />
+    4 mg/ml Ã— 170 ml = 680 mg <br />
     Convert to g: 0.68 g <br />
     Round: 0.7 g
 - id: 5400
@@ -3195,7 +3195,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 16.2
   solution: |-
-    20 mg/ml × 810 ml = 16200 mg <br />
+    20 mg/ml Ã— 810 ml = 16200 mg <br />
     Convert to g: 16.2 g <br />
     Round: 16.2 g
 - id: 5401
@@ -3203,7 +3203,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 12.3
   solution: |-
-    14 mg/ml × 880 ml = 12320 mg <br />
+    14 mg/ml Ã— 880 ml = 12320 mg <br />
     Convert to g: 12.32 g <br />
     Round: 12.3 g
 - id: 5402
@@ -3211,7 +3211,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 18.0
   solution: |-
-    20 mg/ml × 900 ml = 18000 mg <br />
+    20 mg/ml Ã— 900 ml = 18000 mg <br />
     Convert to g: 18.0 g <br />
     Round: 18.0 g
 - id: 5403
@@ -3219,7 +3219,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.3
   solution: |-
-    6 mg/ml × 210 ml = 1260 mg <br />
+    6 mg/ml Ã— 210 ml = 1260 mg <br />
     Convert to g: 1.26 g <br />
     Round: 1.3 g
 - id: 5404
@@ -3227,7 +3227,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.4
   solution: |-
-    19 mg/ml × 440 ml = 8360 mg <br />
+    19 mg/ml Ã— 440 ml = 8360 mg <br />
     Convert to g: 8.36 g <br />
     Round: 8.4 g
 - id: 5405
@@ -3235,7 +3235,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.9
   solution: |-
-    9 mg/ml × 660 ml = 5940 mg <br />
+    9 mg/ml Ã— 660 ml = 5940 mg <br />
     Convert to g: 5.94 g <br />
     Round: 5.9 g
 - id: 5406
@@ -3243,7 +3243,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 13.3
   solution: |-
-    16 mg/ml × 830 ml = 13280 mg <br />
+    16 mg/ml Ã— 830 ml = 13280 mg <br />
     Convert to g: 13.28 g <br />
     Round: 13.3 g
 - id: 5407
@@ -3251,7 +3251,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 16.0
   solution: |-
-    20 mg/ml × 800 ml = 16000 mg <br />
+    20 mg/ml Ã— 800 ml = 16000 mg <br />
     Convert to g: 16.0 g <br />
     Round: 16.0 g
 - id: 5408
@@ -3259,7 +3259,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.6
   solution: |-
-    7 mg/ml × 800 ml = 5600 mg <br />
+    7 mg/ml Ã— 800 ml = 5600 mg <br />
     Convert to g: 5.6 g <br />
     Round: 5.6 g
 - id: 5409
@@ -3267,7 +3267,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.1
   solution: |-
-    15 mg/ml × 140 ml = 2100 mg <br />
+    15 mg/ml Ã— 140 ml = 2100 mg <br />
     Convert to g: 2.1 g <br />
     Round: 2.1 g
 - id: 5410
@@ -3275,7 +3275,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.2
   solution: |-
-    4 mg/ml × 800 ml = 3200 mg <br />
+    4 mg/ml Ã— 800 ml = 3200 mg <br />
     Convert to g: 3.2 g <br />
     Round: 3.2 g
 - id: 5411
@@ -3283,7 +3283,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 15.4
   solution: |-
-    19 mg/ml × 810 ml = 15390 mg <br />
+    19 mg/ml Ã— 810 ml = 15390 mg <br />
     Convert to g: 15.39 g <br />
     Round: 15.4 g
 - id: 5412
@@ -3291,7 +3291,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 11.7
   solution: |-
-    17 mg/ml × 690 ml = 11730 mg <br />
+    17 mg/ml Ã— 690 ml = 11730 mg <br />
     Convert to g: 11.73 g <br />
     Round: 11.7 g
 - id: 5413
@@ -3299,7 +3299,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 11.7
   solution: |-
-    16 mg/ml × 730 ml = 11680 mg <br />
+    16 mg/ml Ã— 730 ml = 11680 mg <br />
     Convert to g: 11.68 g <br />
     Round: 11.7 g
 - id: 5414
@@ -3307,7 +3307,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.7
   solution: |-
-    12 mg/ml × 560 ml = 6720 mg <br />
+    12 mg/ml Ã— 560 ml = 6720 mg <br />
     Convert to g: 6.72 g <br />
     Round: 6.7 g
 - id: 5415
@@ -3315,7 +3315,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.1
   solution: |-
-    15 mg/ml × 140 ml = 2100 mg <br />
+    15 mg/ml Ã— 140 ml = 2100 mg <br />
     Convert to g: 2.1 g <br />
     Round: 2.1 g
 - id: 5416
@@ -3323,7 +3323,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.7
   solution: |-
-    4 mg/ml × 420 ml = 1680 mg <br />
+    4 mg/ml Ã— 420 ml = 1680 mg <br />
     Convert to g: 1.68 g <br />
     Round: 1.7 g
 - id: 5417
@@ -3331,7 +3331,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.1
   solution: |-
-    8 mg/ml × 760 ml = 6080 mg <br />
+    8 mg/ml Ã— 760 ml = 6080 mg <br />
     Convert to g: 6.08 g <br />
     Round: 6.1 g
 - id: 5418
@@ -3339,7 +3339,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 11.2
   solution: |-
-    13 mg/ml × 860 ml = 11180 mg <br />
+    13 mg/ml Ã— 860 ml = 11180 mg <br />
     Convert to g: 11.18 g <br />
     Round: 11.2 g
 - id: 5419
@@ -3347,7 +3347,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.4
   solution: |-
-    12 mg/ml × 700 ml = 8400 mg <br />
+    12 mg/ml Ã— 700 ml = 8400 mg <br />
     Convert to g: 8.4 g <br />
     Round: 8.4 g
 - id: 5420
@@ -3355,7 +3355,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 15.8
   solution: |-
-    20 mg/ml × 790 ml = 15800 mg <br />
+    20 mg/ml Ã— 790 ml = 15800 mg <br />
     Convert to g: 15.8 g <br />
     Round: 15.8 g
 - id: 5421
@@ -3363,7 +3363,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.4
   solution: |-
-    6 mg/ml × 900 ml = 5400 mg <br />
+    6 mg/ml Ã— 900 ml = 5400 mg <br />
     Convert to g: 5.4 g <br />
     Round: 5.4 g
 - id: 5422
@@ -3371,7 +3371,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.4
   solution: |-
-    18 mg/ml × 300 ml = 5400 mg <br />
+    18 mg/ml Ã— 300 ml = 5400 mg <br />
     Convert to g: 5.4 g <br />
     Round: 5.4 g
 - id: 5423
@@ -3379,7 +3379,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.1
   solution: |-
-    11 mg/ml × 740 ml = 8140 mg <br />
+    11 mg/ml Ã— 740 ml = 8140 mg <br />
     Convert to g: 8.14 g <br />
     Round: 8.1 g
 - id: 5424
@@ -3387,7 +3387,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.6
   solution: |-
-    4 mg/ml × 890 ml = 3560 mg <br />
+    4 mg/ml Ã— 890 ml = 3560 mg <br />
     Convert to g: 3.56 g <br />
     Round: 3.6 g
 - id: 5425
@@ -3395,7 +3395,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 13.3
   solution: |-
-    17 mg/ml × 780 ml = 13260 mg <br />
+    17 mg/ml Ã— 780 ml = 13260 mg <br />
     Convert to g: 13.26 g <br />
     Round: 13.3 g
 - id: 5426
@@ -3403,7 +3403,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.8
   solution: |-
-    18 mg/ml × 100 ml = 1800 mg <br />
+    18 mg/ml Ã— 100 ml = 1800 mg <br />
     Convert to g: 1.8 g <br />
     Round: 1.8 g
 - id: 5427
@@ -3411,7 +3411,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.2
   solution: |-
-    9 mg/ml × 800 ml = 7200 mg <br />
+    9 mg/ml Ã— 800 ml = 7200 mg <br />
     Convert to g: 7.2 g <br />
     Round: 7.2 g
 - id: 5428
@@ -3419,7 +3419,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.7
   solution: |-
-    1 mg/ml × 700 ml = 700 mg <br />
+    1 mg/ml Ã— 700 ml = 700 mg <br />
     Convert to g: 0.7 g <br />
     Round: 0.7 g
 - id: 5429
@@ -3427,7 +3427,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 12.2
   solution: |-
-    20 mg/ml × 610 ml = 12200 mg <br />
+    20 mg/ml Ã— 610 ml = 12200 mg <br />
     Convert to g: 12.2 g <br />
     Round: 12.2 g
 - id: 5430
@@ -3435,7 +3435,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.4
   solution: |-
-    12 mg/ml × 620 ml = 7440 mg <br />
+    12 mg/ml Ã— 620 ml = 7440 mg <br />
     Convert to g: 7.44 g <br />
     Round: 7.4 g
 - id: 5431
@@ -3443,7 +3443,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.0
   solution: |-
-    11 mg/ml × 450 ml = 4950 mg <br />
+    11 mg/ml Ã— 450 ml = 4950 mg <br />
     Convert to g: 4.95 g <br />
     Round: 5.0 g
 - id: 5432
@@ -3451,7 +3451,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.3
   solution: |-
-    11 mg/ml × 390 ml = 4290 mg <br />
+    11 mg/ml Ã— 390 ml = 4290 mg <br />
     Convert to g: 4.29 g <br />
     Round: 4.3 g
 - id: 5433
@@ -3459,7 +3459,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.4
   solution: |-
-    11 mg/ml × 580 ml = 6380 mg <br />
+    11 mg/ml Ã— 580 ml = 6380 mg <br />
     Convert to g: 6.38 g <br />
     Round: 6.4 g
 - id: 5434
@@ -3467,7 +3467,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.9
   solution: |-
-    3 mg/ml × 640 ml = 1920 mg <br />
+    3 mg/ml Ã— 640 ml = 1920 mg <br />
     Convert to g: 1.92 g <br />
     Round: 1.9 g
 - id: 5435
@@ -3475,7 +3475,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.8
   solution: |-
-    5 mg/ml × 150 ml = 750 mg <br />
+    5 mg/ml Ã— 150 ml = 750 mg <br />
     Convert to g: 0.75 g <br />
     Round: 0.8 g
 - id: 5436
@@ -3483,7 +3483,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.6
   solution: |-
-    8 mg/ml × 570 ml = 4560 mg <br />
+    8 mg/ml Ã— 570 ml = 4560 mg <br />
     Convert to g: 4.56 g <br />
     Round: 4.6 g
 - id: 5437
@@ -3491,7 +3491,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 10.9
   solution: |-
-    13 mg/ml × 840 ml = 10920 mg <br />
+    13 mg/ml Ã— 840 ml = 10920 mg <br />
     Convert to g: 10.92 g <br />
     Round: 10.9 g
 - id: 5438
@@ -3499,7 +3499,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.1
   solution: |-
-    10 mg/ml × 810 ml = 8100 mg <br />
+    10 mg/ml Ã— 810 ml = 8100 mg <br />
     Convert to g: 8.1 g <br />
     Round: 8.1 g
 - id: 5439
@@ -3507,7 +3507,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.9
   solution: |-
-    8 mg/ml × 490 ml = 3920 mg <br />
+    8 mg/ml Ã— 490 ml = 3920 mg <br />
     Convert to g: 3.92 g <br />
     Round: 3.9 g
 - id: 5440
@@ -3515,7 +3515,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.4
   solution: |-
-    15 mg/ml × 160 ml = 2400 mg <br />
+    15 mg/ml Ã— 160 ml = 2400 mg <br />
     Convert to g: 2.4 g <br />
     Round: 2.4 g
 - id: 5441
@@ -3523,7 +3523,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 12.3
   solution: |-
-    16 mg/ml × 770 ml = 12320 mg <br />
+    16 mg/ml Ã— 770 ml = 12320 mg <br />
     Convert to g: 12.32 g <br />
     Round: 12.3 g
 - id: 5442
@@ -3531,7 +3531,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.6
   solution: |-
-    10 mg/ml × 560 ml = 5600 mg <br />
+    10 mg/ml Ã— 560 ml = 5600 mg <br />
     Convert to g: 5.6 g <br />
     Round: 5.6 g
 - id: 5443
@@ -3539,7 +3539,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.6
   solution: |-
-    1 mg/ml × 570 ml = 570 mg <br />
+    1 mg/ml Ã— 570 ml = 570 mg <br />
     Convert to g: 0.57 g <br />
     Round: 0.6 g
 - id: 5444
@@ -3547,7 +3547,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.0
   solution: |-
-    11 mg/ml × 270 ml = 2970 mg <br />
+    11 mg/ml Ã— 270 ml = 2970 mg <br />
     Convert to g: 2.97 g <br />
     Round: 3.0 g
 - id: 5445
@@ -3555,7 +3555,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.2
   solution: |-
-    4 mg/ml × 810 ml = 3240 mg <br />
+    4 mg/ml Ã— 810 ml = 3240 mg <br />
     Convert to g: 3.24 g <br />
     Round: 3.2 g
 - id: 5446
@@ -3563,7 +3563,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 15.8
   solution: |-
-    19 mg/ml × 830 ml = 15770 mg <br />
+    19 mg/ml Ã— 830 ml = 15770 mg <br />
     Convert to g: 15.77 g <br />
     Round: 15.8 g
 - id: 5447
@@ -3571,7 +3571,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.2
   solution: |-
-    8 mg/ml × 400 ml = 3200 mg <br />
+    8 mg/ml Ã— 400 ml = 3200 mg <br />
     Convert to g: 3.2 g <br />
     Round: 3.2 g
 - id: 5448
@@ -3579,7 +3579,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.3
   solution: |-
-    3 mg/ml × 770 ml = 2310 mg <br />
+    3 mg/ml Ã— 770 ml = 2310 mg <br />
     Convert to g: 2.31 g <br />
     Round: 2.3 g
 - id: 5449
@@ -3587,7 +3587,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.2
   solution: |-
-    6 mg/ml × 530 ml = 3180 mg <br />
+    6 mg/ml Ã— 530 ml = 3180 mg <br />
     Convert to g: 3.18 g <br />
     Round: 3.2 g
 - id: 5450
@@ -3595,7 +3595,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.5
   solution: |-
-    11 mg/ml × 590 ml = 6490 mg <br />
+    11 mg/ml Ã— 590 ml = 6490 mg <br />
     Convert to g: 6.49 g <br />
     Round: 6.5 g
 - id: 5451
@@ -3603,7 +3603,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 15.5
   solution: |-
-    18 mg/ml × 860 ml = 15480 mg <br />
+    18 mg/ml Ã— 860 ml = 15480 mg <br />
     Convert to g: 15.48 g <br />
     Round: 15.5 g
 - id: 5452
@@ -3611,7 +3611,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 14.8
   solution: |-
-    19 mg/ml × 780 ml = 14820 mg <br />
+    19 mg/ml Ã— 780 ml = 14820 mg <br />
     Convert to g: 14.82 g <br />
     Round: 14.8 g
 - id: 5453
@@ -3619,7 +3619,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 17.1
   solution: |-
-    19 mg/ml × 900 ml = 17100 mg <br />
+    19 mg/ml Ã— 900 ml = 17100 mg <br />
     Convert to g: 17.1 g <br />
     Round: 17.1 g
 - id: 5454
@@ -3627,7 +3627,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.3
   solution: |-
-    13 mg/ml × 410 ml = 5330 mg <br />
+    13 mg/ml Ã— 410 ml = 5330 mg <br />
     Convert to g: 5.33 g <br />
     Round: 5.3 g
 - id: 5455
@@ -3635,7 +3635,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.1
   solution: |-
-    6 mg/ml × 520 ml = 3120 mg <br />
+    6 mg/ml Ã— 520 ml = 3120 mg <br />
     Convert to g: 3.12 g <br />
     Round: 3.1 g
 - id: 5456
@@ -3643,7 +3643,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.2
   solution: |-
-    5 mg/ml × 240 ml = 1200 mg <br />
+    5 mg/ml Ã— 240 ml = 1200 mg <br />
     Convert to g: 1.2 g <br />
     Round: 1.2 g
 - id: 5457
@@ -3651,7 +3651,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 10.2
   solution: |-
-    14 mg/ml × 730 ml = 10220 mg <br />
+    14 mg/ml Ã— 730 ml = 10220 mg <br />
     Convert to g: 10.22 g <br />
     Round: 10.2 g
 - id: 5458
@@ -3659,7 +3659,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.9
   solution: |-
-    1 mg/ml × 870 ml = 870 mg <br />
+    1 mg/ml Ã— 870 ml = 870 mg <br />
     Convert to g: 0.87 g <br />
     Round: 0.9 g
 - id: 5459
@@ -3667,7 +3667,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.4
   solution: |-
-    10 mg/ml × 340 ml = 3400 mg <br />
+    10 mg/ml Ã— 340 ml = 3400 mg <br />
     Convert to g: 3.4 g <br />
     Round: 3.4 g
 - id: 5460
@@ -3675,7 +3675,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.2
   solution: |-
-    15 mg/ml × 280 ml = 4200 mg <br />
+    15 mg/ml Ã— 280 ml = 4200 mg <br />
     Convert to g: 4.2 g <br />
     Round: 4.2 g
 - id: 5461
@@ -3683,7 +3683,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.6
   solution: |-
-    20 mg/ml × 380 ml = 7600 mg <br />
+    20 mg/ml Ã— 380 ml = 7600 mg <br />
     Convert to g: 7.6 g <br />
     Round: 7.6 g
 - id: 5462
@@ -3691,7 +3691,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.2
   solution: |-
-    18 mg/ml × 400 ml = 7200 mg <br />
+    18 mg/ml Ã— 400 ml = 7200 mg <br />
     Convert to g: 7.2 g <br />
     Round: 7.2 g
 - id: 5463
@@ -3699,7 +3699,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.5
   solution: |-
-    11 mg/ml × 140 ml = 1540 mg <br />
+    11 mg/ml Ã— 140 ml = 1540 mg <br />
     Convert to g: 1.54 g <br />
     Round: 1.5 g
 - id: 5464
@@ -3707,7 +3707,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.9
   solution: |-
-    6 mg/ml × 820 ml = 4920 mg <br />
+    6 mg/ml Ã— 820 ml = 4920 mg <br />
     Convert to g: 4.92 g <br />
     Round: 4.9 g
 - id: 5465
@@ -3715,7 +3715,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 10.5
   solution: |-
-    13 mg/ml × 810 ml = 10530 mg <br />
+    13 mg/ml Ã— 810 ml = 10530 mg <br />
     Convert to g: 10.53 g <br />
     Round: 10.5 g
 - id: 5466
@@ -3723,7 +3723,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.1
   solution: |-
-    8 mg/ml × 390 ml = 3120 mg <br />
+    8 mg/ml Ã— 390 ml = 3120 mg <br />
     Convert to g: 3.12 g <br />
     Round: 3.1 g
 - id: 5467
@@ -3731,7 +3731,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 9.9
   solution: |-
-    11 mg/ml × 900 ml = 9900 mg <br />
+    11 mg/ml Ã— 900 ml = 9900 mg <br />
     Convert to g: 9.9 g <br />
     Round: 9.9 g
 - id: 5468
@@ -3739,7 +3739,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.1
   solution: |-
-    3 mg/ml × 700 ml = 2100 mg <br />
+    3 mg/ml Ã— 700 ml = 2100 mg <br />
     Convert to g: 2.1 g <br />
     Round: 2.1 g
 - id: 5469
@@ -3747,7 +3747,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.4
   solution: |-
-    12 mg/ml × 200 ml = 2400 mg <br />
+    12 mg/ml Ã— 200 ml = 2400 mg <br />
     Convert to g: 2.4 g <br />
     Round: 2.4 g
 - id: 5470
@@ -3755,7 +3755,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 10.0
   solution: |-
-    13 mg/ml × 770 ml = 10010 mg <br />
+    13 mg/ml Ã— 770 ml = 10010 mg <br />
     Convert to g: 10.01 g <br />
     Round: 10.0 g
 - id: 5471
@@ -3763,7 +3763,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.3
   solution: |-
-    14 mg/ml × 520 ml = 7280 mg <br />
+    14 mg/ml Ã— 520 ml = 7280 mg <br />
     Convert to g: 7.28 g <br />
     Round: 7.3 g
 - id: 5472
@@ -3771,7 +3771,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 11.1
   solution: |-
-    14 mg/ml × 790 ml = 11060 mg <br />
+    14 mg/ml Ã— 790 ml = 11060 mg <br />
     Convert to g: 11.06 g <br />
     Round: 11.1 g
 - id: 5473
@@ -3779,7 +3779,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.6
   solution: |-
-    2 mg/ml × 790 ml = 1580 mg <br />
+    2 mg/ml Ã— 790 ml = 1580 mg <br />
     Convert to g: 1.58 g <br />
     Round: 1.6 g
 - id: 5474
@@ -3787,7 +3787,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.5
   solution: |-
-    12 mg/ml × 710 ml = 8520 mg <br />
+    12 mg/ml Ã— 710 ml = 8520 mg <br />
     Convert to g: 8.52 g <br />
     Round: 8.5 g
 - id: 5475
@@ -3795,7 +3795,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.9
   solution: |-
-    3 mg/ml × 620 ml = 1860 mg <br />
+    3 mg/ml Ã— 620 ml = 1860 mg <br />
     Convert to g: 1.86 g <br />
     Round: 1.9 g
 - id: 5476
@@ -3803,7 +3803,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.1
   solution: |-
-    10 mg/ml × 310 ml = 3100 mg <br />
+    10 mg/ml Ã— 310 ml = 3100 mg <br />
     Convert to g: 3.1 g <br />
     Round: 3.1 g
 - id: 5477
@@ -3811,7 +3811,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.4
   solution: |-
-    10 mg/ml × 140 ml = 1400 mg <br />
+    10 mg/ml Ã— 140 ml = 1400 mg <br />
     Convert to g: 1.4 g <br />
     Round: 1.4 g
 - id: 5478
@@ -3819,7 +3819,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 13.9
   solution: |-
-    16 mg/ml × 870 ml = 13920 mg <br />
+    16 mg/ml Ã— 870 ml = 13920 mg <br />
     Convert to g: 13.92 g <br />
     Round: 13.9 g
 - id: 5479
@@ -3827,7 +3827,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.6
   solution: |-
-    1 mg/ml × 580 ml = 580 mg <br />
+    1 mg/ml Ã— 580 ml = 580 mg <br />
     Convert to g: 0.58 g <br />
     Round: 0.6 g
 - id: 5480
@@ -3835,7 +3835,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 11.7
   solution: |-
-    15 mg/ml × 780 ml = 11700 mg <br />
+    15 mg/ml Ã— 780 ml = 11700 mg <br />
     Convert to g: 11.7 g <br />
     Round: 11.7 g
 - id: 5481
@@ -3843,7 +3843,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 7.9
   solution: |-
-    11 mg/ml × 720 ml = 7920 mg <br />
+    11 mg/ml Ã— 720 ml = 7920 mg <br />
     Convert to g: 7.92 g <br />
     Round: 7.9 g
 - id: 5482
@@ -3851,7 +3851,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 13.3
   solution: |-
-    19 mg/ml × 700 ml = 13300 mg <br />
+    19 mg/ml Ã— 700 ml = 13300 mg <br />
     Convert to g: 13.3 g <br />
     Round: 13.3 g
 - id: 5483
@@ -3859,7 +3859,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.4
   solution: |-
-    5 mg/ml × 290 ml = 1450 mg <br />
+    5 mg/ml Ã— 290 ml = 1450 mg <br />
     Convert to g: 1.45 g <br />
     Round: 1.4 g
 - id: 5484
@@ -3867,7 +3867,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.8
   solution: |-
-    2 mg/ml × 880 ml = 1760 mg <br />
+    2 mg/ml Ã— 880 ml = 1760 mg <br />
     Convert to g: 1.76 g <br />
     Round: 1.8 g
 - id: 5485
@@ -3875,7 +3875,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.2
   solution: |-
-    4 mg/ml × 290 ml = 1160 mg <br />
+    4 mg/ml Ã— 290 ml = 1160 mg <br />
     Convert to g: 1.16 g <br />
     Round: 1.2 g
 - id: 5486
@@ -3883,7 +3883,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.7
   solution: |-
-    13 mg/ml × 210 ml = 2730 mg <br />
+    13 mg/ml Ã— 210 ml = 2730 mg <br />
     Convert to g: 2.73 g <br />
     Round: 2.7 g
 - id: 5487
@@ -3891,7 +3891,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 9.0
   solution: |-
-    11 mg/ml × 820 ml = 9020 mg <br />
+    11 mg/ml Ã— 820 ml = 9020 mg <br />
     Convert to g: 9.02 g <br />
     Round: 9.0 g
 - id: 5488
@@ -3899,7 +3899,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 8.3
   solution: |-
-    14 mg/ml × 590 ml = 8260 mg <br />
+    14 mg/ml Ã— 590 ml = 8260 mg <br />
     Convert to g: 8.26 g <br />
     Round: 8.3 g
 - id: 5489
@@ -3907,7 +3907,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.2
   solution: |-
-    1 mg/ml × 220 ml = 220 mg <br />
+    1 mg/ml Ã— 220 ml = 220 mg <br />
     Convert to g: 0.22 g <br />
     Round: 0.2 g
 - id: 5490
@@ -3915,7 +3915,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.4
   solution: |-
-    5 mg/ml × 680 ml = 3400 mg <br />
+    5 mg/ml Ã— 680 ml = 3400 mg <br />
     Convert to g: 3.4 g <br />
     Round: 3.4 g
 - id: 5491
@@ -3923,7 +3923,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 3.6
   solution: |-
-    6 mg/ml × 600 ml = 3600 mg <br />
+    6 mg/ml Ã— 600 ml = 3600 mg <br />
     Convert to g: 3.6 g <br />
     Round: 3.6 g
 - id: 5492
@@ -3931,7 +3931,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 14.8
   solution: |-
-    20 mg/ml × 740 ml = 14800 mg <br />
+    20 mg/ml Ã— 740 ml = 14800 mg <br />
     Convert to g: 14.8 g <br />
     Round: 14.8 g
 - id: 5493
@@ -3939,7 +3939,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 16.2
   solution: |-
-    18 mg/ml × 900 ml = 16200 mg <br />
+    18 mg/ml Ã— 900 ml = 16200 mg <br />
     Convert to g: 16.2 g <br />
     Round: 16.2 g
 - id: 5494
@@ -3947,7 +3947,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 6.3
   solution: |-
-    18 mg/ml × 350 ml = 6300 mg <br />
+    18 mg/ml Ã— 350 ml = 6300 mg <br />
     Convert to g: 6.3 g <br />
     Round: 6.3 g
 - id: 5495
@@ -3955,7 +3955,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 5.8
   solution: |-
-    9 mg/ml × 640 ml = 5760 mg <br />
+    9 mg/ml Ã— 640 ml = 5760 mg <br />
     Convert to g: 5.76 g <br />
     Round: 5.8 g
 - id: 5496
@@ -3963,7 +3963,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 0.7
   solution: |-
-    3 mg/ml × 240 ml = 720 mg <br />
+    3 mg/ml Ã— 240 ml = 720 mg <br />
     Convert to g: 0.72 g <br />
     Round: 0.7 g
 - id: 5497
@@ -3971,7 +3971,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 1.3
   solution: |-
-    9 mg/ml × 140 ml = 1260 mg <br />
+    9 mg/ml Ã— 140 ml = 1260 mg <br />
     Convert to g: 1.26 g <br />
     Round: 1.3 g
 - id: 5498
@@ -3979,7 +3979,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 2.5
   solution: |-
-    15 mg/ml × 170 ml = 2550 mg <br />
+    15 mg/ml Ã— 170 ml = 2550 mg <br />
     Convert to g: 2.55 g <br />
     Round: 2.5 g
 - id: 5499
@@ -3987,7 +3987,7 @@
     mixture? Give your answer to 1 decimal place
   answer: 9.3
   solution: |-
-    19 mg/ml × 490 ml = 9310 mg <br />
+    19 mg/ml Ã— 490 ml = 9310 mg <br />
     Convert to g: 9.31 g <br />
     Round: 9.3 g
 - id: 5500
@@ -3995,6 +3995,6 @@
     mixture? Give your answer to 1 decimal place
   answer: 4.9
   solution: |-
-    13 mg/ml × 380 ml = 4940 mg <br />
+    13 mg/ml Ã— 380 ml = 4940 mg <br />
     Convert to g: 4.94 g <br />
     Round: 4.9 g
