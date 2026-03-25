@@ -371,35 +371,39 @@ input[type=number] {
     font-size: 1.1em;
 }
 
-/* Individual Revision Question Block - Mimics .test-question-item */
+/* Individual Revision Question Block - Now correctly mimics .test-question-item */
 .revision-question-item {
-    /* Base styling from your .test-question-item */
+    /* The fieldset itself gets the styling from your .test-question-item */
     background-color: #ffffff;
     border: 1px solid #ccc;
     border-left: 8px solid var(--scrub-green-dark);
-    padding: 1.5rem; /* This padding applies to the content *inside* the fieldset */
+    padding: 1.5rem; /* This padding will now correctly apply *around* its content */
     margin-bottom: 2rem;
     border-radius: 4px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+    /* Remove any default fieldset margin/padding that might conflict */
+    margin-inline-start: 0;
+    margin-inline-end: 0;
+    padding-block-start: 1.5rem; /* Ensure padding consistency */
+    padding-inline-start: 1.5rem;
+    padding-inline-end: 1.5rem;
+    padding-block-end: 1.5rem;
+    min-width: 0; /* Sometimes useful for flexbox/grid children */
 }
 
-/* Styling the legend to appear as an internal heading */
-.revision-question-item legend.revision-question-text {
-    /* Reset legend's default browser styling */
-    width: auto; /* Allow legend to size to content */
-    padding: 0; /* Remove default legend padding */
-    margin-left: -0.25rem; /* Minor adjustment if needed to align with border */
-    /* Mimic your .question-text styling */
+/* The actual visual question text (now a DIV, not the LEGEND) */
+.revision-question-text {
+    /* Mimics your .question-text styling */
     font-size: 1.2rem;
     line-height: var(--line-height);
     margin-bottom: 1rem; /* Spacing after the question text */
     color: var(--text-main);
-    font-weight: normal; /* Legends are often bold by default, ensure normal */
-    display: block; /* Ensure it behaves like a block element */
+    /* Ensure no residual legend styling */
+    font-weight: normal; 
 }
 
-.revision-question-item legend.revision-question-text strong {
-    color: var(--text-main); /* Ensure question number is also main text color */
+.revision-question-text strong {
+    color: var(--text-main); /* Ensures "Question X:" is also main text color */
 }
 
 .input-area {
@@ -421,8 +425,7 @@ input[type=number] {
     border: 2px solid var(--scrub-green-dark); /* Using your defined color */
     border-radius: 4px;
     width: 150px;
-    /* margin-top: 10px; - Removed as it's handled by input-area's margin-top */
-    flex-grow: 0; /* Prevent it from stretching too much */
+    flex-grow: 0;
     box-sizing: border-box;
     color: var(--text-main);
     background-color: #ffffff;
@@ -436,10 +439,8 @@ input[type=number] {
 
 /* Button Styling - Uses your existing .btn class */
 .btn-check-answer {
-    /* This button will inherit all styles from your global .btn class */
     background-color: var(--scrub-green-dark); /* Using your primary dark green for consistency */
     color: var(--text-light); /* White text on dark button */
-    /* Any specific overrides not covered by .btn can go here */
 }
 
 .btn-check-answer:hover:not(:disabled) {
@@ -461,8 +462,7 @@ input[type=number] {
     border-radius: 4px;
     color: #333; /* Dark text for readability */
     line-height: var(--line-height);
-    /* Add a border-left for accent, consistent with your solution-box */
-    border-left: 5px solid #fbc02d;
+    border-left: 5px solid #fbc02d; /* Accent border */
 }
 
 .revision-solution-text strong {
@@ -493,7 +493,7 @@ input[type=number] {
     border-top: 1px solid #eee;
 }
 
-/* Visually Hidden for accessibility labels */
+/* Visually Hidden for accessibility labels (used for the actual legend) */
 .visually-hidden {
     position: absolute;
     width: 1px;
