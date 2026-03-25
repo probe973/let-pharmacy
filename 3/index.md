@@ -21,3 +21,14 @@ title: Foundation Year Home
 
 </div>
     
+<div class="card-menu">
+    <a href="{{ "/3/prep/numeracy.html" | relative_url }}" class="card">
+        <div class="card-content">
+            <div class="card-text">
+                <h3>Arithmetic Skills</h3>
+                <p>Randomly generated 10 questions practicing multiplication and division.</p>
+            </div>
+        </div>
+    </a>
+
+</div>
