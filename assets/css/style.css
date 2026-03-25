@@ -339,3 +339,162 @@ input[type=number] {
     margin-top: 0;
     font-size: 2rem;
 }
+
+
+/* --- Revision Specific Styles  --- */
+
+.revision-container {
+    max-width: 900px; /* Aligns with your 'main' max-width */
+    margin: 30px auto;
+    padding: 2rem; /* Using your standard padding */
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Consistent with card:hover */
+}
+
+.revision-header {
+    text-align: center;
+    margin-bottom: 2rem; /* Consistent with other sections */
+    padding-bottom: 1.5rem;
+    border-bottom: 1px solid #eee;
+}
+
+.revision-header h2 {
+    color: var(--scrub-green-dark); /* Using your primary color */
+    font-size: 2rem; /* Consistent with header h1 */
+    margin-bottom: 0.5rem;
+}
+
+.revision-header p {
+    color: var(--text-main);
+    font-size: 1.1em;
+}
+
+/* Individual Revision Question Item */
+.revision-question-item {
+    background-color: var(--scrub-green-light); /* Light background for contrast */
+    border: 1px solid var(--scrub-green-dark); /* Clear border */
+    border-left: 8px solid var(--scrub-green-dark); /* Strong accent border */
+    padding: 1.5rem;
+    margin-bottom: 2rem;
+    border-radius: 6px; /* Slightly softer corners */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+/* Distinct question text for revision */
+.revision-question-text {
+    font-size: 1.2rem;
+    line-height: var(--line-height);
+    margin-bottom: 1.2rem;
+    color: var(--text-main);
+}
+
+.revision-question-text strong {
+    color: var(--scrub-green-dark); /* Emphasize question number */
+}
+
+.input-area {
+    display: flex;
+    flex-wrap: wrap; /* Allow wrapping on small screens */
+    align-items: center;
+    gap: 1rem; /* Consistent gap spacing */
+    margin-bottom: 1rem;
+}
+
+.user-revision-input {
+    flex-grow: 1;
+    padding: 10px 12px;
+    border: 2px solid var(--scrub-green-dark); /* Stronger border for input */
+    border-radius: 5px;
+    font-size: 1.1rem; /* Readable font size */
+    width: auto; /* Allow flexible width */
+    max-width: 200px; /* Prevent excessive width */
+    box-sizing: border-box;
+    color: var(--text-main);
+    background-color: #ffffff;
+}
+
+.user-revision-input:focus {
+    border-color: var(--focus-outline); /* Reusing your focus outline color */
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(255,191,71,0.5); /* Soft focus shadow */
+}
+
+/* Spinner removal, consistent with your existing rules */
+.user-revision-input::-webkit-outer-spin-button,
+.user-revision-input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+.user-revision-input {
+    -moz-appearance: textfield;
+}
+
+.btn-check-answer {
+    /* Inherits base .btn styles, add specific color */
+    background-color: #28a745; /* Standard green for "check" */
+    color: var(--text-light); /* Ensure high contrast text */
+}
+
+.btn-check-answer:hover:not(:disabled) {
+    background-color: #218838; /* Darker green on hover */
+}
+
+.btn-check-answer:disabled {
+    background-color: #cccccc;
+    cursor: not-allowed;
+    opacity: 0.7; /* Indicate disabled state visually */
+}
+
+/* Distinct solution text for revision */
+.revision-solution-text {
+    margin-top: 1.5rem;
+    padding-top: 1rem;
+    border-top: 1px dashed #cccccc; /* Subtle separator */
+    font-size: 1em;
+    color: var(--text-main); /* Main text color */
+    line-height: var(--line-height);
+    background-color: #fff9c4; /* Soft yellow, consistent with quiz solution-box */
+    border-left: 5px solid #fbc02d; /* Accent border */
+    padding: 1rem;
+    border-radius: 4px;
+}
+
+.revision-solution-text strong {
+    color: var(--scrub-green-dark);
+}
+
+.solution-feedback {
+    margin-bottom: 1rem;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+/* Feedback borders for revision inputs */
+.user-revision-input.correct-border {
+    border: 3px solid #2e7d32 !important; /* Your existing correct color */
+    background-color: #e8f5e9; /* Your existing correct background */
+}
+
+.user-revision-input.incorrect-border {
+    border: 3px solid #d32f2f !important; /* Your existing incorrect color */
+    background-color: #ffebee; /* Your existing incorrect background */
+}
+
+.revision-footer {
+    text-align: center;
+    margin-top: 3rem; /* Spacing */
+    padding-top: 1.5rem;
+    border-top: 1px solid #eee;
+}
+
+/* Responsive adjustment for input area */
+@media (max-width: 480px) {
+    .input-area {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    .user-revision-input {
+        max-width: 100%; /* Allow input to stretch */
+    }
+}
