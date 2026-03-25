@@ -6,7 +6,7 @@ title: Numeracy Skills Revision
 <section class="revision-container" aria-labelledby="revision-heading">
     <div class="revision-header">
         <h2 id="revision-heading">Numeracy Skills Revision</h2>
-        <p>Practice 10 random questions from various topics. Check your answer after each question.</p>
+        <p>Practice 10 random questions from various topics. Check your answer after each question. Give answers to 2 decimal places if necessary.</p>
     </div>
 
     <div id="revision-questions-container">
