@@ -29,8 +29,8 @@ title: Fractions, Decimals, Percentages Revision
     document.addEventListener('DOMContentLoaded', () => {
         // Ensure initRevisionTest is available (from revision-core-logic.js)
         // and numeracyQuestionGenerators is available (from numeracy-questions.js)
-        if (window.initRevisionTest && window.numeracyQuestionGenerators) {
-            window.initRevisionTest(window.numeracyQuestionGenerators);
+        if (window.initRevisionTest && window.fdpQuestionGenerators) {
+            window.initRevisionTest(window.fdpQuestionGenerators);
         } else {
             console.error("Required revision scripts not loaded correctly.");
         }
