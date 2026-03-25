@@ -9,7 +9,6 @@ title: Numeracy Skills Revision
         <p>Practice 10 random questions from various topics. Check your answer after each question.</p>
     </div>
 
-    <!-- This container will hold dynamically generated questions -->
     <div id="revision-questions-container">
         <!-- Questions will be injected here as fieldsets for accessibility -->
     </div>
@@ -19,5 +18,21 @@ title: Numeracy Skills Revision
     </div>
 </section>
 
-<!-- Load the specific logic for this revision mode -->
-<script src="{{ '/assets/js/numeracy-revision-logic.js' | relative_url }}"></script>
+<!-- 1. Load the specific question generators for this page -->
+<script src="{{ '/assets/js/numeracy-questions.js' | relative_url }}"></script>
+
+<!-- 2. Load the core revision logic -->
+<script src="{{ '/assets/js/revision-core-logic.js' | relative_url }}"></script>
+
+<!-- 3. Initialize the revision test with the appropriate generators -->
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+        // Ensure initRevisionTest is available (from revision-core-logic.js)
+        // and numeracyQuestionGenerators is available (from numeracy-questions.js)
+        if (window.initRevisionTest && window.numeracyQuestionGenerators) {
+            window.initRevisionTest(window.numeracyQuestionGenerators);
+        } else {
+            console.error("Required revision scripts not loaded correctly.");
+        }
+    });
+</script>
