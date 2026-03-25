@@ -1,12 +1,14 @@
 /* --- Variables & Accessibility Setup --- */
 :root {
-    --header-main-green: #006054;
-    --header-nav-footer-green: #00332d;
-    --scrub-green-light: #e0f2f1;
-    --text-main: #1a1a1a;
-    --text-light: #ffffff;
-    --link-color: #0056b3;
-    --focus-outline: #ffbf47;
+    /* Color Palette - AAA Compliant */
+    --scrub-green-dark: #004d40; /* Deep Medical Teal */
+    --scrub-green-light: #e0f2f1; /* Very light tint for backgrounds */
+    --text-main: #1a1a1a;       /* Near black for readability */
+    --text-light: #ffffff;      /* Pure white for dark backgrounds */
+    --link-color: #0056b3;      /* Standard accessible blue */
+    --focus-outline: #ffbf47;   /* High visibility orange for keyboard focus */
+    
+    /* Typography */
     --font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
     --line-height: 1.6;
 }
@@ -34,17 +36,10 @@ a:focus, button:focus {
 }
 
 /* --- Layout Containers --- */
-
 header, nav, footer {
+    background-color: var(--scrub-green-dark);
     color: var(--text-light);
     padding: 1.5rem;
-}
-
-header {
-    background-color: var(--header-main-green);
-    padding: 3rem 0;
-    text-align: center;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.15);
 }
 
 main {
@@ -56,65 +51,22 @@ main {
 /* --- Header & Navigation --- */
 header h1 {
     margin: 0;
-    font-size: 2.5em;
-    font-family: var(--font-family);
+    font-size: 2rem;
 }
 
 header p {
-    margin: 0.5em 0 0;
-    font-size: 1.1em;
-    font-style: normal;
-    opacity: 1;
-}
-
-nav {
-    /* Use the darker green for the navigation background */
-    background-color: var(--header-nav-footer-green);
-    /* Keep existing box shadow */
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    /* Keep existing padding */
-    padding: 0.5rem 0;
-    /* The color of nav links will be set in Step 7 */
+    margin: 0.5rem 0 0 0;
+    font-style: italic;
+    opacity: 0.9;
 }
 
 nav ul {
-    list-style-type: none;
-    /* Center the <ul> block itself within the <nav> */
-    margin: 0 auto;
-    /* Constrain the width of the <ul> to match your main content area (960px) */
-    max-width: 960px;
+    list-style: none;
     padding: 0;
+    margin: 1rem 0 0 0;
     display: flex;
-    /* Center the <li> items horizontally within the <ul> */
-    justify-content: center;
     flex-wrap: wrap;
-    /* Keep the spacing between the navigation links */
     gap: 1.5rem;
-}
-
-nav ul li a {
-    display: block;
-    /* Explicitly set link color to white for contrast on the dark green background */
-    color: var(--text-light);
-    text-align: center;
-    padding: 12px 20px;
-    text-decoration: none;
-    transition: background-color 0.3s ease, color 0.3s ease;
-    font-size: 1.0em;
-    font-weight: 500;
-}
-
-nav ul li a:hover,
-nav ul li a:focus {
-    background-color: #005A9C; /* NEW AAA-COMPLIANT DARK BLUE */
-    color: #ffffff;
-    outline: none;
-}
-nav ul li a.active {
-    background-color: #005A9C; /* NEW AAA-COMPLIANT DARK BLUE */
-    color: #ffffff;
-    font-weight: bold;
-    cursor: default;
 }
 
 nav a {
@@ -123,6 +75,10 @@ nav a {
     font-weight: 600;
 }
 
+nav a:hover {
+    text-decoration: none;
+    background-color: rgba(255,255,255,0.1);
+}
 
 /* --- Home Page Cards --- */
 .card-menu {
@@ -177,17 +133,9 @@ h1, h2, h3 {
 
 /* --- Footer --- */
 footer {
-    /* Keep existing text alignment, padding, margin, font size, shadow */
+    margin-top: 4rem;
     text-align: center;
-    padding: 25px;
-    margin-top: 40px;
-    font-size: 0.9em;
-    box-shadow: 0 -3px 6px rgba(0,0,0,0.1);
-
-    /* Use the darker green for the footer background, matching nav */
-    background-color: var(--header-nav-footer-green);
-    /* Ensure footer text color is white for contrast */
-    color: var(--text-light);
+    font-size: 0.95rem;
 }
 
 footer a {
