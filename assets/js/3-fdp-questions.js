@@ -151,13 +151,13 @@ function generateFracToDec(q_id) {
         d2 = d * 2;
     } else if (d === 2) {
         n2 = n * 5;
-        d2 = d * 5; // Should be 10 for consistency with python's logic
+        d2 = d * 5; // Should result in 10
     } else if (d === 20) {
         n2 = n / 2;
-        d2 = d / 2; // Should be 10 for consistency with python's logic
+        d2 = d / 2; // Should result in 10
     } else { // d === 40
         n2 = n / 4;
-        d2 = d / 4; // Should be 10 for consistency with python's logic
+        d2 = d / 4; // Should result in 10
     }
 
     const question_text = `Express \\( \\frac{${n}}{${d}} \\) as a decimal, giving the answer to 2 decimal places.`;
@@ -190,24 +190,42 @@ function generateDecToPerc(q_id) {
 }
 window.fdpQuestionGenerators.push(generateDecToPerc);
 
-// --- NEW Question Type: Percentage to Decimal ---
+// --- NEW Question Type: Percentage to Decimal (FIXED PRECISION INSTRUCTION) ---
 function generatePercentToDecimal(q_id) {
     let perc_val;
-    let perc_str; // Store as string to handle x.0 formatting
+    let perc_str;
 
-    // Generate a percentage that might have one decimal place for variety
     const type = Math.floor(Math.random() * 2);
-    if (type === 0) { // Whole number percentage
+    if (type === 0) { // Whole number percentage, e.g., 50%
         perc_val = Math.floor(Math.random() * (99 - 1 + 1)) + 1; // 1 to 99
         perc_str = perc_val.toString();
-    } else { // One decimal place percentage
+    } else { // One decimal place percentage, e.g., 26.8%
         perc_val = (Math.floor(Math.random() * (999 - 10 + 1)) + 10) / 10; // e.g., 10/10=1, 11/10=1.1, up to 999/10=99.9
         perc_str = perc_val.toFixed(1); // Format to one decimal place string, e.g., "12.0" or "12.5"
     }
     
-    const x = roundToDecimalPlaces(parseFloat(perc_str) / 100, 4); // Allow up to 4 d.p. for decimal output, e.g., 12.5% -> 0.125, 50% -> 0.50, 1.25% -> 0.0125
+    const raw_decimal_result = parseFloat(perc_str) / 100; // e.g., 0.268
 
-    const question_text = `Express ${perc_str}% as a decimal, giving the answer to 4 decimal places where necessary.`;
+    // Dynamically determine the *natural* number of decimal places for the instruction
+    let natural_dp = 0;
+    const decimal_parts = raw_decimal_result.toString().split('.');
+    if (decimal_parts.length > 1) {
+        natural_dp = decimal_parts[1].length;
+    }
+    
+    // The answer `x` should be rounded to its natural precision for checking.
+    const x = roundToDecimalPlaces(raw_decimal_result, natural_dp);
+
+    let instruction_text;
+    if (natural_dp === 0) {
+        instruction_text = `giving the answer as a whole number.`;
+    } else if (natural_dp === 1) {
+        instruction_text = `giving the answer to 1 decimal place.`;
+    } else {
+        instruction_text = `giving the answer to ${natural_dp} decimal places.`;
+    }
+
+    const question_text = `Express ${perc_str}% as a decimal, ${instruction_text}`;
     const solution_text = `**Answer:** \\( \\frac{${perc_str}}{100} = ${x} \\)`;
 
     return {
