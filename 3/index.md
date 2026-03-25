@@ -26,9 +26,20 @@ title: Foundation Year Home
         <div class="card-content">
             <div class="card-text">
                 <h3>Arithmetic Skills</h3>
-                <p>Randomly generated 10 questions practicing multiplication and division.</p>
+                <p>Randomly generated 10 questions on multiplication and division.</p>
             </div>
         </div>
     </a>
+
+    <a href="{{ "/3/prep/fdp.html" | relative_url }}" class="card">
+        <div class="card-content">
+            <div class="card-text">
+                <h3>Fractions, Decimals, Percentages</h3>
+                <p>Randomly generated 10 questions on converting between fractions, decimals, and percentages.</p>
+            </div>
+        </div>
+    </a>
+
+    
 
 </div>
