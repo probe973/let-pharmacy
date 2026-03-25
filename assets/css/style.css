@@ -1,7 +1,7 @@
 /* --- Variables & Accessibility Setup --- */
 :root {
     /* Color Palette - AAA Compliant */
-    --scrub-green-dark: #004d40; /* Deep Medical Teal */
+    --scrub-green-dark: #00332d; /* Deep Medical Teal */
     --scrub-green-light: #e0f2f1; /* Very light tint for backgrounds */
     --text-main: #1a1a1a;       /* Near black for readability */
     --text-light: #ffffff;      /* Pure white for dark backgrounds */
@@ -36,10 +36,22 @@ a:focus, button:focus {
 }
 
 /* --- Layout Containers --- */
+
 header, nav, footer {
     background-color: var(--scrub-green-dark);
     color: var(--text-light);
     padding: 1.5rem;
+}
+
+header {
+    /* This overrides the 'padding: 1.5rem;' from 'header, nav, footer' */
+    padding: 1.5rem 0; 
+    
+    /* THIS WILL CENTER THE CONTENT INSIDE THE HEADER */
+    text-align: center;        
+    
+    /* Adds the desired box shadow */
+    box-shadow: 0 3px 6px rgba(0,0,0,0.15); 
 }
 
 main {
@@ -51,13 +63,16 @@ main {
 /* --- Header & Navigation --- */
 header h1 {
     margin: 0;
-    font-size: 2rem;
+    font-size: 2.5rem;
+    font-family: var(--font-family);
 }
 
 header p {
-    margin: 0.5rem 0 0 0;
-    font-style: italic;
-    opacity: 0.9;
+    color: #e0e0e0; 
+    margin: 0.5em 0 0;
+    font-size: 1.1em;
+    font-style: normal;
+    opacity: 1;
 }
 
 nav ul {
