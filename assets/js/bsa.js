@@ -50,7 +50,7 @@ function generateBSA(q_id) {
 
     const lines = sorted_vals.map(v => {
         const root = Math.sqrt(v);
-        return `\\( \\\\sqrt{${v.toFixed(2)}} = ${root.toFixed(2)} \\)`;
+        return `\\( \\sqrt{${v.toFixed(2)}} = ${root.toFixed(2)} \\)`;
     });
 
     const result_string = lines.join(" <br />\n");
@@ -59,7 +59,7 @@ function generateBSA(q_id) {
         `Given these values:<br />\n` +
         `${result_string} <br />\n` +
         `The formula: <br />\n` +
-        `\\( \\text{BSA}(m^2) = \\\\sqrt{ \\frac{ \\text{mass(kg)} \\times \\text{height(cm)} }{3600} } \\) <br />\n` +
+        `\\( \\text{BSA}(m^2) = \\sqrt{ \\frac{ \\text{mass(kg)} \\times \\text{height(cm)} }{3600} } \\) <br />\n` +
         `Find the body surface area, in metres squared, of someone who is ${height_m_str} metres tall and weights ${mass} kg. <br />\n`;
 
     const solution_text =
