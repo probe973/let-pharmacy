@@ -5,7 +5,7 @@ title: Fractions, Decimals, Percentages Revision
 
 <section class="revision-container" aria-labelledby="revision-heading">
     <div class="revision-header">
-        <h2 id="revision-heading">Numeracy Skills Revision</h2>
+        <h2 id="revision-heading">Fractions, Decimals, and Percentages</h2>
         <p>Practice 10 random questions. Check your answer after each question. Give answers to 2 decimal places if necessary, unless otherwise stated.</p>
     </div>
 
