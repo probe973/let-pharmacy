@@ -20,10 +20,15 @@ document.addEventListener('DOMContentLoaded', () => {
         const fieldset = document.createElement('fieldset');
         fieldset.className = 'revision-question-item';
 
+        // The legend is for accessibility to label the fieldset, it's visually hidden.
+        // The actual visual question text is now in a div inside the fieldset's padding.
         fieldset.innerHTML = `
-            <legend class="revision-question-text" id="question-${i}-label">
+            <legend class="visually-hidden">Question ${i + 1}</legend>
+            
+            <div class="revision-question-text" id="question-${i}-label">
                 <strong>Question ${i + 1}:</strong> ${cleanText(q.question)}
-            </legend>
+            </div>
+            
             <div class="input-area">
                 <label for="rev-ans-${i}" class="visually-hidden">Your answer for Question ${i + 1}</label>
                 <input type="number" id="rev-ans-${i}" class="user-revision-input" step="any" placeholder="0.0" aria-labelledby="question-${i}-label">
@@ -71,7 +76,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // --- Core function to initialize a revision test ---
-    // This function now expects an array of question generator functions
     window.initRevisionTest = function(questionGeneratorFunctions) {
         if (!container) {
             console.error("Revision questions container not found.");
