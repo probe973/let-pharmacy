@@ -19,7 +19,7 @@ title: Dilutions
 </section>
 
 <!-- 1. Load the specific question generators for this page -->
-<script src="{{ '/assets/js/bsa.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/3-dilutions.js' | relative_url }}"></script>
 
 <!-- 2. Load the core revision logic -->
 <script src="{{ '/assets/js/revision-core-logic.js' | relative_url }}"></script>
