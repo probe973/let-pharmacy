@@ -1,6 +1,6 @@
 /* --- Variables & Accessibility Setup --- */
 :root {
-    /* Color Palette - AAA Compliant */
+    /* Color Palette - AAA Compliant */ 
     --scrub-green-dark: #004d40; /* Deep Medical Teal */
     --scrub-green-light: #e0f2f1; /* Very light tint for backgrounds */
     --text-main: #1a1a1a;       /* Near black for readability */
