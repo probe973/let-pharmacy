@@ -26,7 +26,7 @@ title: Foundation Year Home
         <div class="card-content">
             <div class="card-text">
                 <h3>Arithmetic Skills</h3>
-                <p>Randomly generated 10 questions on multiplication and division</p>
+                <p>Multiplication and division</p>
             </div>
         </div>
     </a>
@@ -44,7 +44,7 @@ title: Foundation Year Home
         <div class="card-content">
             <div class="card-text">
                 <h3>Fractions, Decimals, Percentages</h3>
-                <p>Randomly generated 10 questions on converting between fractions, decimals and percentages, and finding percentages of amounts</p>
+                <p>Using fractions, decimals, and percentages</p>
             </div>
         </div>
     </a>
@@ -62,7 +62,7 @@ title: Foundation Year Home
         <div class="card-content">
             <div class="card-text">
                 <h3>Dilutions</h3>
-                <p>Randomly generated 10 questions on finding strengths of solutions after dilutions</p>
+                <p>Finding strengths of solutions after dilutions</p>
             </div>
         </div>
     </a>
@@ -71,7 +71,7 @@ title: Foundation Year Home
         <div class="card-content">
             <div class="card-text">
                 <h3>Molecular Weight</h3>
-                <p>Randomly generated 10 questions on finding masses from molecular weights and molarity</p>
+                <p>Finding masses from molecular weights and molarity</p>
             </div>
         </div>
     </a> 
@@ -80,7 +80,7 @@ title: Foundation Year Home
         <div class="card-content">
             <div class="card-text">
                 <h3>Body Surface Area</h3>
-                <p>Randomly generated 10 questions on calculating body surface areas</p>
+                <p>Calculating body surface areas</p>
             </div>
         </div>
     </a>
