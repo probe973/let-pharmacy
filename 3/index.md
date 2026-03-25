@@ -13,8 +13,8 @@ title: Foundation Year Home
     <a href="{{ "/3/mock.html" | relative_url }}" class="card">
         <div class="card-content">
             <div class="card-text">
-                <h3>Practice Test for 3001/3004Y</h3>
-                <p>Randomly generated each time questions for the 3001/3004Y calculations course.</p>
+                <h3>Practice Test</h3>
+                <p>Randomly generated each time questions for assessment prep</p>
             </div>
         </div>
     </a>
