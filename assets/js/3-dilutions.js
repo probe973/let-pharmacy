@@ -57,3 +57,4 @@ function generateDilution(q_id) {
     };
 }
 
+window.dilutionQuestionGenerators.push(generateDilution);
