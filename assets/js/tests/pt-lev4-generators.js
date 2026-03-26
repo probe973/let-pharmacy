@@ -402,3 +402,97 @@ function generateQ9_Mtog(q_id, roundToDecimalPlaces) {
     
 }
 window.CurrentTestGenerators.push(generateQ9_Mtog);
+
+
+function generateQ10_c1v1(q_id, roundToDecimalPlaces) {
+    
+    const v1 = getRandomInt(6,50)*5;
+    const mf = getRandomInt(5,16)/2;
+    const c2 = getRandomInt(3,10);
+    const v2 = mf*v1;
+    const c1 = mf*c2;
+    
+    let question_text, solution_text;
+    
+    question_text = `You need to make ${v2} mL of a ${c2} M solution from a ${c1} M stock solution. How many millilitres of stock solution do you require?`;
+    
+    solution_text = `\\( C_{1}V_{1} = C_{2}V_{2} \\) <br />` +
+                    `\\( C_{1} = ${c1} \\text{ M} \\) <br />` +
+                    `\\( V_{1} = \\text{ ?} \\) <br />` +
+                    `\\( C_{2} = ${c2} \\text{ M} \\) <br />` +
+                    `\\( V_{2} = ${v2} \\text{ ml} \\) <br />` +
+                    `\\( V_{1} = \\frac{C_{2}V_{2}}{C_{1}} = \\frac{${c2} \\times ${v2}}{${c1}} = ${v1} \\) <br />` +
+                    `${v1} ml`;
+    
+    return {
+        id: q_id,
+        question: question_text,
+        answer: v1,
+        solution: solution_text
+    };
+    
+}
+window.CurrentTestGenerators.push(generateQ10_c1v1);                
+
+
+function generateQ11_ftin(q_id, roundToDecimalPlaces) { 
+    
+    let ft, inc;
+    
+    while (true) {
+    
+        ft = getRandomInt(3, 6);
+        inc = getRandomInt(1, 11);
+        if (!(ft === 6 && inc > 6)) {
+            break;
+        }
+    }
+    
+    const inches = ft*12 + inc;
+    const cm = inches * 2.5;
+    const m = roundToDecimalPlaces(cm/100, 2);
+    
+    let question_text, solution_text;
+    
+    question_text = `Assuming 2.5 cm is 1 inch, convert a height of ${ft} feet and ${inc} inches into metres.  Give your answer to 2 d.p.`;
+    
+    solution_text = `1 foot is 12 inches, so ${ft} feet and ${inc} inches is ${ft} × 12 + ${inc} = ${inches} inches<br />` +
+                    `Convert to cm:  ${inches} inch × 2.5 cm/inch = ${cm} cm<br />` +
+                    `Convert to m, divide by 100: ${m} m`;
+     
+    
+    return {
+        id: q_id,
+        question: question_text,
+        answer: m,
+        solution: solution_text
+    };
+    
+}
+window.CurrentTestGenerators.push(generateQ11_ftin); 
+    
+    
+function generateQ12_stlb(q_id, roundToDecimalPlaces) { 
+    
+    const st = getRandomInt(5,20);
+    const lb = getRandomInt(1,13);
+    const pounds = 14*st + lb;
+    const kg = roundToDecimalPlaces(pounds/2,1);
+    
+    let question_text, solution_text;
+    
+    question_text = `Using 1 kg = 2 lbs, what is the mass of a patient, in kg, if they are ${st} stone and ${lb} lbs? Give you answer to 1 d.p.`;
+    
+    solution_text = `1 stone is 14 lbs, so ${st} stone and ${lb} lbs is ${st} × 14 + ${lb} = ${pounds} lbs<br />` +
+                    `Convert to kg, divide by 2:  ${pounds} ÷ 2 = ${kg} kg`;
+    
+    return {
+        id: q_id,
+        question: question_text,
+        answer: kg,
+        solution: solution_text
+    };
+    
+}
+window.CurrentTestGenerators.push(generateQ12_stlb);
+    
