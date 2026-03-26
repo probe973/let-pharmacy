@@ -74,7 +74,7 @@ let question_text, solution_text, x;
 if (ct === 1) {
     question_text = `Convert 1 in ${r} into mg/ml.  Give your answer to 1 decimal place`;
 
-    const x = roundToDecimalPlaces(1000 / r, 1);
+    x = roundToDecimalPlaces(1000 / r, 1);
 
     solution_text = `This means 1 g in ${r} ml <br />
 Convert to mg to get 1000 mg in ${r} ml or \\( \\frac{1000}{${r}} \\text{mg/ml} \\) <br />
@@ -82,12 +82,12 @@ ${x} mg/ml`;
 } else {
     question_text = `Convert 1 in ${r} into % w/v. Give your answer to 2 decimal places`;
 
-    const x = roundToDecimalPlaces(1000 / r, 2);
+    x = roundToDecimalPlaces(100 / r, 2);
 
     solution_text = `This means 1 g in ${r} ml <br />
 For percentage weight volume, you need g per 100 ml <br />
-\\(\\frac{1 \\text{ g}}{${r} \\text{ ml}} \\times 100 \\text{ ml} = ${x} \\) <br />
-${x}`;
+\\(\\frac{1 \\text{ g}}{${r} \\text{ ml}} \\times 100 \\text{ ml} = ${x} \\text{ % w/v} \\) <br />
+${x} % w/v`;
 };
 
 return { 
