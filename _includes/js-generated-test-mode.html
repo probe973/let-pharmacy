@@ -1,0 +1,60 @@
+<!-- _includes/js-generated-test-mode.html -->
+
+{% comment %}
+    This include file receives a 'folder' parameter (e.g., "exam-set-1").
+    It will use this parameter to load a specific JavaScript file
+    from /assets/js/tests/ that defines the question generator functions
+    for *this particular test instance*.
+    Example: folder="exam-set-1" will load /assets/js/tests/exam-set-1-generators.js
+{% endcomment %}
+
+{% assign base_path = '/assets/js/tests/' %}
+{% assign folder_name = include.folder | default: "default-test" %}
+{% assign filename_suffix = '-generators.js' %}
+{% assign test_generators_js_file = base_path | append: folder_name | append: filename_suffix %}
+
+<section class="test-container" aria-labelledby="test-heading">
+    <div class="test-header">
+        <h2 id="test-heading">Practice Test:</h2>
+        
+        <!-- Accessible Status Region for Timer and Question Count -->
+        <div class="test-status-bar" aria-live="polite">
+            <p>Total Questions: <strong id="total-questions-count"></strong></p>
+            <p>Time Elapsed: <span id="test-timer">0:00</span></p>
+        </div>
+    </div>
+
+    <!-- The Container where JavaScript will build the questions -->
+    <div id="test-questions-container">
+        <!-- Questions will be injected here as fieldsets for accessibility -->
+    </div>
+
+    <!-- The Footer Actions -->
+    <div class="test-footer">
+        <button type="button" id="btn-submit-test" class="btn">Check All Answers</button>
+        
+        <!-- This region is announced immediately when the score is calculated -->
+        <div id="test-results" class="final-results-box" style="display:none;" aria-live="assertive">
+            <!-- Results and Restart button injected here -->
+        </div>
+    </div>
+</section>
+
+<!-- 1. Load the specific JavaScript file that defines THIS test's question generator functions.
+        This file will define a global array like `window.CurrentTestGenerators`. -->
+<script src="{{ test_generators_js_file | relative_url }}"></script>
+
+<!-- 2. The Data Bridge: We need to make the 'CurrentTestGenerators' array available to the test logic. -->
+<script>
+    // CRITICAL: We expect the previously loaded JS file (e.g., exam-set-1-generators.js)
+    // to have defined 'window.CurrentTestGenerators'.
+    const testData = window.CurrentTestGenerators || [];
+    if (testData.length === 0) {
+        console.error("ERROR: 'window.CurrentTestGenerators' was not populated. Check your generator data file: {{ test_generators_js_file }}.");
+        // Disable test interaction if no questions are loaded
+        document.getElementById('btn-submit-test').disabled = true;
+    }
+</script>
+
+<!-- 3. Load the generic test execution logic (which we will create in the next step) -->
+<script src="{{ '/assets/js/js-test-logic.js' | relative_url }}"></script>
