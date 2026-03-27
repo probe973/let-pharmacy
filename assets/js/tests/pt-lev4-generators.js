@@ -147,6 +147,158 @@ function generateQ4_ratioconvert(q_id, roundToDecimalPlaces) {
 
 window.CurrentTestGenerators.push(generateQ4_ratioconvert);
 
+
+function generateQ11_ftin(q_id, roundToDecimalPlaces) { 
+    
+    let ft, inc;
+    
+    while (true) {
+    
+        ft = getRandomInt(3, 6);
+        inc = getRandomInt(1, 11);
+        if (!(ft === 6 && inc > 6)) {
+            break;
+        }
+    }
+    
+    const inches = ft*12 + inc;
+    const cm = inches * 2.5;
+    const m = roundToDecimalPlaces(cm/100, 2);
+    
+    let question_text, solution_text;
+    
+    question_text = `Assuming 2.5 cm is 1 inch, convert a height of ${ft} feet and ${inc} inches into metres.  Give your answer to 2 d.p.`;
+    
+    solution_text = `1 foot is 12 inches, so ${ft} feet and ${inc} inches is ${ft} × 12 + ${inc} = ${inches} inches<br />` +
+                    `Convert to cm:  ${inches} inch × 2.5 cm/inch = ${cm} cm<br />` +
+                    `Convert to m, divide by 100: ${m} m`;
+     
+    
+    return {
+        id: q_id,
+        question: question_text,
+        answer: m,
+        solution: solution_text
+    };
+    
+}
+window.CurrentTestGenerators.push(generateQ11_ftin); 
+
+
+function generateQ12_stlb(q_id, roundToDecimalPlaces) { 
+    
+    const st = getRandomInt(5,20);
+    const lb = getRandomInt(1,13);
+    const pounds = 14*st + lb;
+    const kg = roundToDecimalPlaces(pounds/2,1);
+    
+    let question_text, solution_text;
+    
+    question_text = `Using 1 kg = 2 lbs, what is the mass of a patient, in kg, if they are ${st} stone and ${lb} lbs? Give you answer to 1 d.p.`;
+    
+    solution_text = `1 stone is 14 lbs, so ${st} stone and ${lb} lbs is ${st} × 14 + ${lb} = ${pounds} lbs<br />` +
+                    `Convert to kg, divide by 2:  ${pounds} ÷ 2 = ${kg} kg`;
+    
+    return {
+        id: q_id,
+        question: question_text,
+        answer: kg,
+        solution: solution_text
+    };
+    
+}
+window.CurrentTestGenerators.push(generateQ12_stlb);
+
+
+function generateQ14_CF(q_id, roundToDecimalPlaces) {
+    
+    const c = getRandomInt(1,19)*5;
+    const f = 9*c/5 + 32;
+    
+    const ct = getRandomInt(1,2);
+    
+    let question_text, solution_text, answer;
+    
+    if (ct === 1) {
+        question_text = `Convert \\( ${c} ^{\\circ} \\text{C into } ^{\\circ} \\text{F} \\)`;
+        solution_text = `\\( F = \\frac{9}{5}C + 32 \\) <br />` +
+                        `\\( F = \\frac{9}{5} \\times ${c} + 32 = ${9*c/5} +32 = ${f} \\)`;
+        
+        answer = f;
+    } else {
+        question_text = `Convert \\( ${f} ^{\\circ} \\text{F into } ^{\\circ} \\text{C} \\)`;
+        solution_text = `\\( C = \\frac{5}{9}(F - 32) \\) <br />` +
+                        `\\( C = \\frac{5}{9} (${f} - 32) = \\frac{5}{9} \\times ${f - 32} = ${c} \\)`;
+        
+        answer = c;
+    }
+    
+    return {
+        id: q_id,
+        question: question_text,
+        answer: answer,
+        solution: solution_text
+    };
+}
+window.CurrentTestGenerators.push(generateQ14_CF);
+
+
+function generateQ20_recipe(q_id, roundToDecimalPlaces) {
+    
+    const chosen = ["A", "B", "C"][Math.floor(Math.random() * 3)];
+    
+    const wt = getRandomInt(5,25)*10;
+    
+    let A, B, C, mp, wk, wku, question_text, solution_text;
+    
+    while (true) {
+        mp = getRandomInt(1, 10)*10;
+        A = getRandomInt(1, 20);
+        B = getRandomInt(10,100)*5;
+        C = getRandomInt(1, Math.round(wt/3));
+        if (mp*wt/1000 >= 1 && mp*wt/1000 <= 10 && A*mp <= 1000 && B*mp <= 1000 && C*mp <= 1000) {
+            break;
+        }
+    }
+    
+    const rwt = mp*wt/1000;
+    
+    
+    
+    if (chosen === "A") {
+        wk = A; 
+        wku = "g";
+    } else if (chosen === "B") {
+        wk = B; 
+        wku = "mg";
+    } else {
+        wk = C; 
+        wku = "ml";
+    }
+    
+    const answer = wk*mp;
+    
+    question_text = `A formula for a lotion is: <br />` +
+                    `Compound A:  ${A} g <br />` +
+                    `Compound B:  ${B} mg <br />` +
+                    `Solution C:  ${C} ml <br />` +
+                    `Water to ${wt} ml <br /><br />` +
+                    `How much of ${chosen} is required, in ${wku}, to make ${rwt} L of the lotion?`;
+                    
+    solution_text = `${rwt} L is ${rwt * 1000} mL <br />` +
+                    `This is ${mp} times more than the original lotion formula amount of ${wt} mL <br />` +
+                    `Multiply ${wk} ${wku} by ${mp} gives ${answer} ${wku}`;
+    
+    return {
+        id: q_id,
+        question: question_text,
+        answer: answer,
+        solution: solution_text
+    };
+}
+window.CurrentTestGenerators.push(generateQ20_recipe);
+
+
 function generateQ5_grequired(q_id, roundToDecimalPlaces) {
     
     const mgml = getRandomInt(3, 20);
@@ -172,31 +324,42 @@ function generateQ5_grequired(q_id, roundToDecimalPlaces) {
 }
 window.CurrentTestGenerators.push(generateQ5_grequired);
 
-function generateQ6_mlrequired(q_id, roundToDecimalPlaces) {
+
+function generateQ17_ww(q_id, roundToDecimalPlaces) {
     
-    const x = getRandomInt(5, 25);
-    const mgml = getRandomInt(8,100);
-    const pc = mgml / 10;
-    const mg = x * mgml;
-    const gml = pc / 100
+    let pc1, pc2, pc, m, reqg, reqmg;
+    
+    while (true) {
+        pc1 = getRandomInt(1, 9);
+        pc2 = 10**getRandomInt(0,2);
+        pc = pc1/pc2;
+        m = getRandomInt(2, 40)*10;
+        reqg = pc*m/100;
+        reqmg = reqg*1000;
+        
+        if (reqg <= 2 && reqg >= 0.001) {
+            break;
+        }
+    }
+         
     
     let question_text, solution_text;
     
-    question_text = `How many millilitres of a ${roundToDecimalPlaces(pc,1)} % w/v solution are required to provide a dose of ${mg} mg?`;
+    question_text = `If an ointment is described as ${pc} % w/w, how much active ingredient, in milligrams, will be required to make ${m} grams?`;
     
-    solution_text = `Convert ${roundToDecimalPlaces(pc,1)} % w/v into g/ml by dividing by 100: ${roundToDecimalPlaces(gml,3)} g/ml <br />` +
-                    `Convert to mg/ml: ${mgml} mg/ml <br />` +
-                    `${mg} mg ÷ ${mgml} mg/ml = ${x} ml`;
+    solution_text = `${pc} % of ${m} g:  <br /> `+ 
+                    `\\( \\frac{${pc}}{100} \\times ${m} = ${reqg} \\) <br />`  +
+                    `Convert to mg: ${reqmg}`;
     
     return {
         id: q_id,
         question: question_text,
-        answer: x,
+        answer: reqmg,
         solution: solution_text
     };
-    
 }
-window.CurrentTestGenerators.push(generateQ6_mlrequired);
+window.CurrentTestGenerators.push(generateQ17_ww);
+
 
 function generateQ7_lfrompart(q_id, roundToDecimalPlaces) {
     
@@ -435,64 +598,255 @@ function generateQ10_c1v1(q_id, roundToDecimalPlaces) {
 window.CurrentTestGenerators.push(generateQ10_c1v1);                
 
 
-function generateQ11_ftin(q_id, roundToDecimalPlaces) { 
+function generateQ15_dilution(q_id, roundToDecimalPlaces) {
     
-    let ft, inc;
+    let c1, df, c2, v2, v1;
     
     while (true) {
-    
-        ft = getRandomInt(3, 6);
-        inc = getRandomInt(1, 11);
-        if (!(ft === 6 && inc > 6)) {
+        c1 = getRandomInt(1, 10)*100;
+        df = getRandomInt(1,10)*5;
+        c2 = c1*df;
+        v2 = getRandomInt(1,80)*10;
+        v1 = v2/df;
+        
+        const check = roundToDecimalPlaces(v1,2);
+        
+        if (v1 === check) {
             break;
         }
     }
     
-    const inches = ft*12 + inc;
-    const cm = inches * 2.5;
-    const m = roundToDecimalPlaces(cm/100, 2);
+    const x = roundToDecimalPlaces(v1,1);
     
     let question_text, solution_text;
     
-    question_text = `Assuming 2.5 cm is 1 inch, convert a height of ${ft} feet and ${inc} inches into metres.  Give your answer to 2 d.p.`;
+    question_text = `How many millilitres of a 1 in ${c1} solution is required to produce ${v2} mL of a 1 in ${c2} solution? Please give your answer to 1 decimal places`;
     
-    solution_text = `1 foot is 12 inches, so ${ft} feet and ${inc} inches is ${ft} × 12 + ${inc} = ${inches} inches<br />` +
-                    `Convert to cm:  ${inches} inch × 2.5 cm/inch = ${cm} cm<br />` +
-                    `Convert to m, divide by 100: ${m} m`;
-     
+    solution_text = `1 in ${c2} has been diluted by a factor of ${df} from a 1 in ${c1} solution ( ${c2} ÷ ${c1} ) <br />` +
+                    `Volume required from stock is ${v2} ÷ ${df} = ${v1} mL <br />` +
+                    `Round: ${x} mL`;
+                    
+    return {
+        id: q_id,
+        question: question_text,
+        answer: x,
+        solution: solution_text
+    };
+}
+window.CurrentTestGenerators.push(generateQ15_dilution);
+
+
+function generateQ13_bsa(q_id, roundToDecimalPlaces) {
+    
+    let mass, height, bsa2;
+
+    while (true) {
+        mass = Math.floor(Math.random() * 41) + 50;   // 50–90
+        height = [120, 150, 180, 200][Math.floor(Math.random() * 4)];
+        bsa2 = (mass * height) / 3600;
+
+        // Python conditions:
+        // 1.1 ≤ bsa2 ≤ 5
+        // round(bsa2,2) == bsa2
+        const bsa2Rounded = Math.round(bsa2 * 100) / 100;
+
+        if (bsa2 >= 1.1 && bsa2 <= 5 && bsa2Rounded === bsa2) {
+            break;
+        }
+    }
+
+    const height_m = height / 100;
+    const height_m_str = `${height_m}`;
+    const x = roundToDecimalPlaces(Math.sqrt(bsa2), 2);
+
+    // Construct list of 7 values: six random, last = bsa2
+    const srlist2 = [
+        (Math.floor(Math.random() * 391) + 110) / 100,
+        (Math.floor(Math.random() * 391) + 110) / 100,
+        (Math.floor(Math.random() * 391) + 110) / 100,
+        (Math.floor(Math.random() * 391) + 110) / 100,
+        (Math.floor(Math.random() * 391) + 110) / 100,
+        (Math.floor(Math.random() * 391) + 110) / 100,
+        bsa2
+    ];
+
+    const sorted_vals = srlist2.slice().sort((a, b) => a - b);
+
+    const lines = sorted_vals.map(v => {
+        const root = Math.sqrt(v);
+        return `\\( \\sqrt{${v.toFixed(2)}} = ${root.toFixed(2)} \\)`;
+    });
+
+    const result_string = lines.join(" <br />\n");
+
+    const question_text =
+        `Given these values:<br />` +
+        `${result_string} <br />` +
+        `The formula: <br />` +
+        `\\( \\text{BSA}(m^2) = \\sqrt{ \\frac{ \\text{mass(kg)} \\times \\text{height(cm)} }{3600} } \\) <br />` +
+        `Find the body surface area, in metres squared, of someone who is ${height_m_str} metres tall and weights ${mass} kg. <br />`;
+
+    const solution_text =
+        `\\( \\frac{${mass} \\times ${height}}{3600} = ${bsa2} \\) <br />` +
+        `Look up in list gives ${x}`;
+
+    return {
+        id: q_id,
+        question: question_text,
+        answer: x,
+        solution: solution_text
+    };
+}
+window.CurrentTestGenerators.push(generateQ13_bsa);
+
+
+function generateQ16_crcl(q_id, roundToDecimalPlaces) {
+    
+    sex = ["female","male"][Math.floor(Math.random() * 2)];
+    
+    let mad = 0;
+    
+    if (sex === "male") {
+        mad = 20;
+    }
+    
+    const age = getRandomInt(65, 90);
+    const abw = getRandomInt(60, 75);
+    const ibw = abw + getRandomInt(1, 10);
+    const secr = getRandomInt(8, 14)*10 + mad;
+    
+    const crcl = roundToDecimalPlaces((140-age)*abw/secr,2);
+    const answer = roundToDecimalPlaces((140-age)*abw/secr,1);
+    
+    let question_text, solution_text;
+    
+    question_text = `If a ${age} year old ${sex} has an ideal body weight of ${ibw} kg and an actual body weight of ${abw} kg, with a serum creatinine of ${secr} micromol/litre, what is their CrCl? ` + 
+                    `Please give your answer to 1 decimal place <br />` +
+                    `Assume: <br />` +
+                    `\\( \\text{CrCl (ml/min)} = \\frac{(140 - \\text{age}) \\times \\text{Weight (kg)}}{\\text{Serum Creatine (micromol/L)}} \\)`;
+    
+    solution_text = `Underweight, so use ABW. <br />` +
+                    `\\( (140 - \\text{age}) = 140 - ${age} = ${140 - age} \\) <br />` +
+                    `\\( ${140 - age} \\times ${abw} = ${(140 - age)*abw} \\) <br />` +
+                    `\\( \\frac{${(140 - age)*abw}}{${secr}} = ${crcl} \\) <br />` +
+                    `Round: ${answer}`;
     
     return {
         id: q_id,
         question: question_text,
-        answer: m,
+        answer: answer,
         solution: solution_text
     };
-    
 }
-window.CurrentTestGenerators.push(generateQ11_ftin); 
+window.CurrentTestGenerators.push(generateQ16_crcl);
+
+
+function generateQ6_mlrequired(q_id, roundToDecimalPlaces) {
     
-    
-function generateQ12_stlb(q_id, roundToDecimalPlaces) { 
-    
-    const st = getRandomInt(5,20);
-    const lb = getRandomInt(1,13);
-    const pounds = 14*st + lb;
-    const kg = roundToDecimalPlaces(pounds/2,1);
+    const x = getRandomInt(5, 25);
+    const mgml = getRandomInt(8,100);
+    const pc = mgml / 10;
+    const mg = x * mgml;
+    const gml = pc / 100
     
     let question_text, solution_text;
     
-    question_text = `Using 1 kg = 2 lbs, what is the mass of a patient, in kg, if they are ${st} stone and ${lb} lbs? Give you answer to 1 d.p.`;
+    question_text = `How many millilitres of a ${roundToDecimalPlaces(pc,1)} % w/v solution are required to provide a dose of ${mg} mg?`;
     
-    solution_text = `1 stone is 14 lbs, so ${st} stone and ${lb} lbs is ${st} × 14 + ${lb} = ${pounds} lbs<br />` +
-                    `Convert to kg, divide by 2:  ${pounds} ÷ 2 = ${kg} kg`;
+    solution_text = `\\( \\frac{\\text{Need}}{\\text{Have}} \\times \\text{Supplied In} \\) <br />` +
+                    `${roundToDecimalPlaces(pc,1)} % w/v means ${roundToDecimalPlaces(pc,1)} g in 100 ml <br />` +
+                    `\\( \\frac{${mg} \\text{ mg}}{${roundToDecimalPlaces(pc,1)} \\text{ g}} \\times 100 \\text{ ml} = \\frac{${mg/1000} \\text{ g}}{${roundToDecimalPlaces(pc,1)} \\text{ g}} \\times 100 \\text{ ml} = ${x} \\text{ ml} \\)`;
     
     return {
         id: q_id,
         question: question_text,
-        answer: kg,
+        answer: x,
         solution: solution_text
     };
     
 }
-window.CurrentTestGenerators.push(generateQ12_stlb);
+window.CurrentTestGenerators.push(generateQ6_mlrequired);
     
+
+function generateQ19_ratetime(q_id, roundToDecimalPlaces) {
+    
+    let rate, time, mcg, mg
+    
+    while (true) {
+        rate = getRandomInt(20, 100);
+        time = [5, 6, 8, 12, 15, 16, 20, 24, 36][Math.floor(Math.random() * 9)];
+        mcg = 60*rate*time;
+        mg = mcg/1000;
+        
+        if (mg >= 1 && mg <= 1000) {
+            break;
+        }
+    }
+    
+    const answer = roundToDecimalPlaces(mg,1);
+    
+    let question_text, solution_text
+    
+    question_text = `If a patient requires ${rate} mcg/minute of a drug for ${time} hours, what is total amount of drug they will receive in milligrams? Please give your answer to 1 decimal place`;
+    
+    solution_text = `${rate} mcg/min × 60 min/hr = ${rate*60} mcg/hr <br />` +
+                    `${rate*60} mcg/hr × ${time} hr = ${mcg} mcg = ${mg} mg<br />` +
+                    `${answer} mg`;
+                    
+    return {
+        id: q_id,
+        question: question_text,
+        answer: answer,
+        solution: solution_text
+    };
+}
+window.CurrentTestGenerators.push(generateQ19_ratetime);
+
+    
+function generateQ18_nhs(q_id, roundToDecimalPlaces) {
+    
+    const mass = getRandomInt(40, 100);
+    const rate = getRandomInt(1,20)/10;
+    const time = getRandomInt(1,9)*10;
+    const pc = [2, 4, 5, 8, 10, 20, 25, 40, 50][Math.floor(Math.random() * 9)];
+    const mgml = pc*10;
+    
+    const needmg = mass*rate*time;
+    const needg = needmg/1000;
+    
+    const qt = getRandomInt(1,2);
+    
+    let question_text, solution_text, answer;
+    
+    if (qt === 1) {
+        question_text = `A ${mass} Kg patient requires ${rate} mg/Kg/minute for ${time} minutes.  This is to be delivered from a ${pc} % w/v solution. How much solution will they need in ml? `+
+                        `Please give your answer to 1 decimal places`;
+        
+        answer = roundToDecimalPlaces(needg/pc * 100,1);
+                        
+        solution_text = `Need ${mass} kg × ${rate} mg/kg/minute = ${roundToDecimalPlaces(mass*rate,1)} mg/min <br />` +
+                        `Need ${roundToDecimalPlaces(mass*rate,1)} mg/min × ${time} min = ${roundToDecimalPlaces(needmg,1)} mg <br />` +
+                        `Have ${pc} g in 100 ml <br />` +
+                        `\\( \\frac{\\text{Need}}{\\text{Have}} \\times \\text{Supplied In} = \\frac{${roundToDecimalPlaces(needmg,1)} \\text{ mg}}{${pc} \\text{ g}} \\times 100 \\text{ ml} = ` +
+                        `\\frac{${needg} \\text{ g}}{${pc} \\text{ g}} \\times 100 \\text{ ml} = ${answer} \\text{ ml} \\)`;
+        
+    } else {
+        question_text = `A ${mass} Kg patient requires ${rate} mg/Kg/minute for ${time} minutes.  This is to be delivered from a ${mgml} mg/ml solution. How much solution will they need in ml? `+
+                        `Please give your answer to 1 decimal place`;
+        
+        answer = roundToDecimalPlaces(needmg/mgml,1);
+                        
+        solution_text = `Need ${mass} kg × ${rate} mg/kg/minute = ${roundToDecimalPlaces(mass*rate,1)} mg/min <br />` +
+                        `Need ${roundToDecimalPlaces(mass*rate,1)} mg/min × ${time} min = ${roundToDecimalPlaces(needmg,1)} mg <br />` +
+                        `Have ${mgml} mg in 1 ml <br />` +
+                        `\\( \\frac{\\text{Need}}{\\text{Have}} \\times \\text{Supplied In} = \\frac{${roundToDecimalPlaces(needmg,1)} \\text{ mg}}{${mgml} \\text{ mg}} \\times 1 \\text{ ml} = ${answer} \\text{ ml} \\)`;
+        }
+        
+    return {
+        id: q_id,
+        question: question_text,
+        answer: answer,
+        solution: solution_text
+    };
+}
+window.CurrentTestGenerators.push(generateQ18_nhs);
