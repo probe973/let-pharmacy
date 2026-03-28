@@ -28,8 +28,9 @@ function generateConvertMassDivide(q_id) {
     
     const q = getRandomInt(5,950)*d/Math.pow(10, getRandomInt(0,2));
     
-    const x1 = q/d
-    const x = roundToDecimalPlaces(x1,2)
+    const x2 = q/d
+    const x1 = roundToDecimalPlaces(x2,4)
+    const x = roundToDecimalPlaces(x2,2)
     
     const question = `Convert ${q} ${sn}g into ${ln}g.`;
     
@@ -60,8 +61,9 @@ function generateConvertMassMultiply(q_id) {
     
     const q = getRandomInt(5,950)*Math.pow(10, getRandomInt(1,3))/d;
     
-    const x1 = q*d
-    const x = roundToDecimalPlaces(x1,2)
+    const x2 = q*d
+    const x1 = roundToDecimalPlaces(x2,4)
+    const x = roundToDecimalPlaces(x2,2)
     
     const question = `Convert ${q} ${ln}g into ${sn}g.`;
     
@@ -77,23 +79,24 @@ window.conversionQuestionGenerators.push(generateConvertMassMultiply);
 
 
 function generateConvertLengthDivide(q_id) {
-    const units = ["m", "", "k"];
+    const units = ["m","c","d", "", "da","h", "k"];
     let s, l;
     
     while (true) {
-        s = getRandomInt(1,2);
-        l = getRandomInt(2,3);
-        if (s < l) break;
+        s = getRandomInt(1,4);
+        l = getRandomInt(2,7);
+        if (s < l && (s === 1 || s === 2 || s === 4) && (l === 2 || l === 4 || l === 7)) break;
     }
     
     const sn = units[s - 1];
     const ln = units[l - 1];
-    const d = Math.pow(10, 3 * (l - s));
+    const d = Math.pow(10, (l - s));
     
     const q = getRandomInt(5,950)*d/Math.pow(10, getRandomInt(0,2));
     
-    const x1 = q/d
-    const x = roundToDecimalPlaces(x1,2)
+    const x2 = q/d
+    const x1 = roundToDecimalPlaces(x2,4)
+    const x = roundToDecimalPlaces(x2,2)
     
     const question = `Convert ${q} ${sn}m into ${ln}m.`;
     
@@ -109,23 +112,24 @@ window.conversionQuestionGenerators.push(generateConvertLengthDivide);
 
 
 function generateConvertLengthMultiply(q_id) {
-    const units = ["m", "", "k"];
+    const units = ["m","c","d", "", "da","h", "k"];
     let s, l;
     
     while (true) {
-        s = getRandomInt(1,2);
-        l = getRandomInt(2,3);
-        if (s < l) break;
+        s = getRandomInt(1,4);
+        l = getRandomInt(2,7);
+        if (s < l && (s === 1 || s === 2 || s === 4) && (l === 2 || l === 4 || l === 7)) break;
     }
     
     const sn = units[s - 1];
     const ln = units[l - 1];
-    const d = Math.pow(10, 3 * (l - s));
+    const d = Math.pow(10, (l - s));
     
     const q = getRandomInt(5,950)*Math.pow(10, getRandomInt(1,3))/d;
     
-    const x1 = q*d
-    const x = roundToDecimalPlaces(x1,2)
+    const x2 = q*d
+    const x1 = roundToDecimalPlaces(x2,4)
+    const x = roundToDecimalPlaces(x2,2)
     
     const question = `Convert ${q} ${ln}m into ${sn}m.`;
     
@@ -151,8 +155,9 @@ function generateConvertVolumeDivide(q_id) {
     
     const q = getRandomInt(5,950)*d/Math.pow(10, getRandomInt(0,2));
     
-    const x1 = q/d
-    const x = roundToDecimalPlaces(x1,2)
+    const x2 = q/d
+    const x1 = roundToDecimalPlaces(x2,4)
+    const x = roundToDecimalPlaces(x2,2)
     
     const question = `Convert ${q} ${sn}L into ${ln}L.`;
     
@@ -177,8 +182,9 @@ function generateConvertVolumeMultiply(q_id) {
     
     const q = getRandomInt(5,950)*Math.pow(10, getRandomInt(1,3))/d;
     
-    const x1 = q*d
-    const x = roundToDecimalPlaces(x1,2)
+    const x2 = q*d
+    const x1 = roundToDecimalPlaces(x2,4)
+    const x = roundToDecimalPlaces(x2,2)
     
     const question = `Convert ${q} ${ln}L into ${sn}L.`;
     
@@ -209,8 +215,9 @@ function generateConvertMoleDivide(q_id) {
     
     const q = getRandomInt(5,150)*d/Math.pow(10, getRandomInt(0,2));
     
-    const x1 = q/d
-    const x = roundToDecimalPlaces(x1,2)
+    const x2 = q/d
+    const x1 = roundToDecimalPlaces(x2,4)
+    const x = roundToDecimalPlaces(x2,2)
     
     const question = `Convert ${q} ${sn}mol into ${ln}mol.`;
     
@@ -241,8 +248,9 @@ function generateConvertMoleMultiply(q_id) {
     
     const q = getRandomInt(5,150)*Math.pow(10, getRandomInt(1,3))/d;
     
-    const x1 = q*d
-    const x = roundToDecimalPlaces(x1,2)
+    const x2 = q*d
+    const x1 = roundToDecimalPlaces(x2,4)
+    const x = roundToDecimalPlaces(x2,2)
     
     const question = `Convert ${q} ${ln}mol into ${sn}mol.`;
     
