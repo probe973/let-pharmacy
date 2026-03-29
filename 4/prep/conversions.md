@@ -5,9 +5,10 @@ title: Metric Conversions
 
 <section class="explanation" aria-label="Intro to Conversions">
 
-<center>
 
 <h1> Metric Conversions </h1>
+
+<center>
 
 <svg width="100%" height="auto" viewBox="0 0 600 500" role="img" aria-labelledby="staircaseTitle staircaseDesc" xmlns="http://www.w3.org/2000/svg">
   <title id="staircaseTitle">Metric System Conversion Staircase</title>

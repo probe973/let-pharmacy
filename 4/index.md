@@ -34,5 +34,23 @@ title: Year 1 Home
         </div>
     </a>
 
+    <a href="{{ "/4/prep/imperial.html" | relative_url }}" class="card">
+        <div class="card-content">
+            <div class="card-text">
+                <h3>Metric/Imperial Conversions</h3>
+                <p>Converting between metric and imperial units</p>
+            </div>
+        </div>
+    </a>
+
+    <a href="{{ "/4/prep/concentrations.html" | relative_url }}" class="card">
+        <div class="card-content">
+            <div class="card-text">
+                <h3>Concentrations</h3>
+                <p>Using concentrations such as mg/ml, %w/v, 1 in X, and converting between them</p>
+            </div>
+        </div>
+    </a>
+
 </div>
     

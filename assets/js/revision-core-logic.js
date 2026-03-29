@@ -76,29 +76,30 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     // --- Core function to initialize a revision test ---
-    window.initRevisionTest = function(questionGeneratorFunctions) {
-        if (!container) {
-            console.error("Revision questions container not found.");
-            return;
-        }
+    window.initRevisionTest = function(questionGeneratorFunctions, numQuestions = 10) {
+    if (!container) {
+        console.error("Revision questions container not found.");
+        return;
+    }
 
-        container.innerHTML = ''; // Clear any existing content
-        window.revisionQuestionsData = []; // Global to store generated questions for checking answers
+    container.innerHTML = '';
+    window.revisionQuestionsData = [];
 
-        const NUM_REVISION_QUESTIONS = 10; // Can be a parameter if desired
+    // Use provided number OR default to 10
+    const NUM_REVISION_QUESTIONS = numQuestions || 10;
 
-        for (let i = 0; i < NUM_REVISION_QUESTIONS; i++) {
-            const randomGeneratorIndex = Math.floor(Math.random() * questionGeneratorFunctions.length);
-            const selectedGenerator = questionGeneratorFunctions[randomGeneratorIndex];
-            const q_id = 7000 + i; // Start revision IDs at 7000 or higher
-            const question = selectedGenerator(q_id, roundToDecimalPlaces); // Pass roundToDecimalPlaces helper
-            window.revisionQuestionsData.push(question);
-            renderQuestionHTML(question, i);
-        }
+    for (let i = 0; i < NUM_REVISION_QUESTIONS; i++) {
+        const randomGeneratorIndex = Math.floor(Math.random() * questionGeneratorFunctions.length);
+        const selectedGenerator = questionGeneratorFunctions[randomGeneratorIndex];
+        const q_id = 7000 + i;
 
-        // Draw all math symbols ONCE after the loop is finished
-        if (window.MathJax) {
-            MathJax.typesetPromise([container]);
-        }
-    };
+        const question = selectedGenerator(q_id, roundToDecimalPlaces);
+        window.revisionQuestionsData.push(question);
+        renderQuestionHTML(question, i);
+    }
+
+    if (window.MathJax) {
+        MathJax.typesetPromise([container]);
+    }
+};
 });
