@@ -52,5 +52,23 @@ title: Year 1 Home
         </div>
     </a>
 
+    <a href="{{ "/4/prep/dosage.html" | relative_url }}" class="card">
+        <div class="card-content">
+            <div class="card-text">
+                <h3>Dosage Calculations</h3>
+                <p>Calculating the required dose based on what is needed, what you have, and what it is supplied in</p>
+            </div>
+        </div>
+    </a>
+
+    <a href="{{ "/4/prep/bodycalcs.html" | relative_url }}" class="card">
+        <div class="card-content">
+            <div class="card-text">
+                <h3>Patient Calculations</h3>
+                <p>Calculate BMI, BSA and renal functions using formula</p>
+            </div>
+        </div>
+    </a>
+
 </div>
     
