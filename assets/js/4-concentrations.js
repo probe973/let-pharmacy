@@ -309,3 +309,62 @@ function generateConvert_sl_1in_a(q_id) {
 }
 
 window.conversionQuestionGenerators.push(generateConvert_sl_1in_a);
+
+
+function generateConvert_mgml_mgml(q_id) {
+    
+    let x, v, m, question_text, solution_text;
+    
+    while (true) {
+        x = getRandomInt(5,200);
+        v = getRandomInt(50, 600);
+        m = v*x;
+        
+        if (m < 1000) break;
+    }
+    
+    question_text = `If ${m} mg of drug is disolved in ${v} ml of water, what is it's strength in mg/ml?`;
+    
+    solution_text = `\\( \\frac{${m} \\text{ mg}}{${v} \\text{ ml}} = ${x} \\text{ mg/ml} \\)`;
+    
+    return {
+        id: q_id,
+        question: question_text,
+        answer: x,
+        solution: solution_text
+    };
+    
+}
+
+window.conversionQuestionGenerators.push(generateConvert_mgml_mgml);
+    
+    
+function generateConvert_mgml_pc(q_id) {
+    
+    let xm, x, v, m, question_text, solution_text;
+    
+    while (true) {
+        xm = getRandomInt(5,150);
+        v = getRandomInt(50, 800);
+        m = v*xm;
+        x = roundToDecimalPlaces(xm/10,1);
+        
+        if (m < 1000) break;
+    }
+    
+    question_text = `If ${m} mg of drug is disolved in ${v} ml of water, what is it's strength in %w/v?  Give answers to 1 decimal place`;
+    
+    solution_text = `\\( \\frac{${m} \\text{ mg}}{${v} \\text{ ml}} = ${xm} \\text{ mg/ml} \\) <br />`+
+                    `Make out of 100 ml: \\( ${xm *100} \\text{ mg/100ml} \\) <br />`+
+                    `Convert to g: \\( \\frac{${x} \\text{ g}}{100 \\text{ ml}} = ${x} \\text{ %w/v} \\)`;
+    
+    return {
+        id: q_id,
+        question: question_text,
+        answer: x,
+        solution: solution_text
+    };
+    
+}
+
+window.conversionQuestionGenerators.push(generateConvert_mgml_pc);

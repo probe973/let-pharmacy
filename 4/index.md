@@ -70,5 +70,23 @@ title: Year 1 Home
         </div>
     </a>
 
+    <a href="{{ "/4/prep/mole.html" | relative_url }}" class="card">
+        <div class="card-content">
+            <div class="card-text">
+                <h3>Moles and Molarity</h3>
+                <p>Calculating quantities of substances based on molecular weights and molarity</p>
+            </div>
+        </div>
+    </a>
+
+    <a href="{{ "/4/prep/dilutions.html" | relative_url }}" class="card">
+        <div class="card-content">
+            <div class="card-text">
+                <h3>Dilutions</h3>
+                <p>Using dilution factors and the C1V1=C2V2 formula</p>
+            </div>
+        </div>
+    </a>
+
 </div>
     
