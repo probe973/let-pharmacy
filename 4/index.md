@@ -88,5 +88,14 @@ title: Year 1 Home
         </div>
     </a>
 
+    <a href="{{ "/4/prep/rates.html" | relative_url }}" class="card">
+        <div class="card-content">
+            <div class="card-text">
+                <h3>Drug Administration Rates</h3>
+                <p>Working out the amount of drug based on rates per time and rates per kg mass</p>
+            </div>
+        </div>
+    </a>
+
 </div>
     
