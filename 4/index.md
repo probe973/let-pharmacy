@@ -9,7 +9,10 @@ title: Year 1 Home
 
 </div>
 
+### Practice Assessment
+
 <div class="card-menu">
+
     <a href="{{ "/4/mocktest.html" | relative_url }}" class="card">
         <div class="card-content">
             <div class="card-text">
@@ -22,6 +25,8 @@ title: Year 1 Home
 </div>
 
 ---
+
+### Topic Practice Questions
 
 <div class="card-menu">
 
@@ -97,5 +102,15 @@ title: Year 1 Home
         </div>
     </a>
 
+    <a href="{{ "/4/prep/formula_scaling.html" | relative_url }}" class="card">
+        <div class="card-content">
+            <div class="card-text">
+                <h3>Formula Scaling</h3>
+                <p>Calculating ingredient quantities for larger/smaller batches of multi-component preparations</p>
+            </div>
+        </div>
+    </a>
+
 </div>
+
     
