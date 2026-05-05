@@ -433,19 +433,19 @@ function generate_titrating(q_id) {
     
         t1amountC = getRandomInt(0,2);
         t1amount = [0.5, 1, 2][t1amountC];
-        t1amountW = ["Half", "One", "Two"][t1amountC];
+        t1amountW = ["Half tablet,", "One tablet,", "Two tablets,"][t1amountC];
         t1freqC = getRandomInt(0,1);
         t1freq = t1freqC+1;
-        t1freqW = ["Once", "Twice"][t1freqC];
+        t1freqW = ["once", "twice"][t1freqC];
         t1length = getRandomInt(1,2);
         t1lengthW = ["one week", "two weeks"][t1length-1];
     
         t2amountC = getRandomInt(0,2);
         t2amount = [0.5, 1, 2][t2amountC];
-        t2amountW = ["Half", "One", "Two"][t2amountC];
+        t2amountW = ["Half tablet, ", "One tablet,", "Two tablets,"][t2amountC];
         t2freqC = getRandomInt(0,1);
         t2freq = t2freqC+1;
-        t2freqW = ["Once", "Twice"][t2freqC];
+        t2freqW = ["once", "twice"][t2freqC];
         t2length = getRandomInt(1,2);
         t2lengthW = ["one week", "two weeks"][t2length-1];
         
@@ -459,7 +459,7 @@ function generate_titrating(q_id) {
     const x = roundToDecimalPlaces(ct,0);
     
     let question_text = `A patient is prescribed a titrating dose of a drug as follows: <br /><br />` +
-                        `Drug ${drug} mg tablets; ${t1amountW} ${t1freqW} daily for ${t1lengthW};  ${t2amountW} ${t2freqW} daily for ${t2lengthW}. <br />`+
+                        `Drug ${drug} mg tablets; <br /> ${t1amountW} ${t1freqW} daily for ${t1lengthW}; <br /> ${t2amountW} ${t2freqW} daily for ${t2lengthW}. <br />`+
                         `How many complete ${drug} mg tablets are required to fulfil the the prescription?`;
     
     let solution_text = `First course: ${t1amount} × ${t1freq} × 7 × ${t1length} = ${c1} <br /> ` +
