@@ -476,3 +476,45 @@ function generate_titrating(q_id) {
 };
 
 window.reviewQuestionGenerators.push(generate_titrating);
+
+
+function generate_unit_last(q_id) {
+    
+    let n, pml, conc, ppdose, ppd, ppdtext, upp, nupp, dunit, days, x;
+    
+    while (true) {
+        n = getRandomInt(5,20);
+        pml = getRandomInt(1,10)/2;
+        conc = [50, 75, 100, 125, 150][getRandomInt(0,4)];
+        ppdose = getRandomInt(2,10)*5;
+        ppd = getRandomInt(1,3);
+        ppdtext = ["once daily", "twice daily", "three times per day"][ppd-1];
+        
+        upp = pml * conc;
+        nupp = n * upp;
+        dunit = ppdose * ppd;
+        days = roundToDecimalPlaces(nupp/dunit,2);
+        x = Math.floor(nupp/dunit);
+        
+        if (x > 9 && x < 60 && upp === roundToDecimalPlaces(upp,0)) break;
+    }
+        
+        
+        let question_text = `How many days will a pack of ${n} × ${pml} ml pens at a strength of ${conc} units/ml last a patient using ${ppdose} units ${ppdtext}?`;
+        
+        let solution_text = `Units per pen: ${pml} ml × ${conc} units/ml = ${upp} units <br />` +
+                            `Units available to patient: ${upp} units × ${n} = ${nupp} units <br />` +
+                            `Units taken per day: ${ppdose} × ${ppd} = ${dunit} units/day <br />` +
+                            `Days last: ${nupp} units ÷ ${dunit} units/day = ${days} days<br />` +
+                            `Will last: ${x} days`;
+        
+        return {
+        id: q_id,
+        question: question_text,
+        answer: x,
+        solution: solution_text
+    };
+    
+};
+
+window.reviewQuestionGenerators.push(generate_unit_last);
