@@ -46,5 +46,14 @@ Welcome to the interactive resource for pharmacy calculations.
             </div>
         </div>
     </a>
+
+    <a href="{{ "/T/" | relative_url }}" class="card">
+        <div class="card-content">
+            <div class="card-text">
+                <h3>Pharmacy Technicians</h3>
+                <p>Practice questions for the pharmacy technicians apprenticeship.</p>
+            </div>
+        </div>
+    </a>
     
 </div>
