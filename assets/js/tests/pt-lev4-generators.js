@@ -165,9 +165,19 @@ function generateQ11_ftin(q_id, roundToDecimalPlaces) {
     const cm = inches * 2.5;
     const m = roundToDecimalPlaces(cm/100, 2);
     
+    const ct = getRandomInt(1,2);
+    
+    
     let question_text, solution_text;
     
-    question_text = `Assuming 2.5 cm is 1 inch, convert a height of ${ft} feet and ${inc} inches into metres.  Give your answer to 2 d.p.`;
+    if (ct === 1) {
+    
+        question_text = `Assuming 2.5 cm is 1 inch, convert a height of ${ft} feet and ${inc} inches into metres.  Give your answer to 2 d.p.`;
+        
+    } else {
+        
+        question_text = `A patient is ${ft} feet and ${inc} inches.  What is the patient's height in metres, giving your answer to no more than 2 d.p..  Use 2.5 cm is 1 inch.`
+    }
     
     solution_text = `1 foot is 12 inches, so ${ft} feet and ${inc} inches is ${ft} × 12 + ${inc} = ${inches} inches<br />` +
                     `Convert to cm:  ${inches} inch × 2.5 cm/inch = ${cm} cm<br />` +
@@ -192,9 +202,18 @@ function generateQ12_stlb(q_id, roundToDecimalPlaces) {
     const pounds = 14*st + lb;
     const kg = roundToDecimalPlaces(pounds/2,1);
     
+    const ct = getRandomInt(1,2);
+    
     let question_text, solution_text;
     
-    question_text = `Using 1 kg = 2 lbs, what is the mass of a patient, in kg, if they are ${st} stone and ${lb} lbs? Give you answer to 1 d.p.`;
+    if (ct === 1) {
+    
+        question_text = `Using 1 kg = 2 lbs, what is the mass of a patient, in kg, if they are ${st} stone and ${lb} lbs? Give you answer to 1 d.p.`;
+        
+    } else {
+        
+        question_text = `Making use of 1 kg = 2 lbs: convert ${st} stone and ${lb} pounds into kg, giving your answer to 1 d.p..`;
+    }
     
     solution_text = `1 stone is 14 lbs, so ${st} stone and ${lb} lbs is ${st} × 14 + ${lb} = ${pounds} lbs<br />` +
                     `Convert to kg, divide by 2:  ${pounds} ÷ 2 = ${kg} kg`;
@@ -215,7 +234,7 @@ function generateQ14_CF(q_id, roundToDecimalPlaces) {
     const c = getRandomInt(1,19)*5;
     const f = 9*c/5 + 32;
     
-    const ct = getRandomInt(1,2);
+    const ct = getRandomInt(1,4);
     
     let question_text, solution_text, answer;
     
@@ -225,11 +244,21 @@ function generateQ14_CF(q_id, roundToDecimalPlaces) {
                         `\\( F = \\frac{9}{5} \\times ${c} + 32 = ${9*c/5} +32 = ${f} \\)`;
         
         answer = f;
-    } else {
+    } else  if (ct === 2) {
         question_text = `Convert \\( ${f} ^{\\circ} \\text{F into } ^{\\circ} \\text{C} \\)`;
         solution_text = `\\( C = \\frac{5}{9}(F - 32) \\) <br />` +
                         `\\( C = \\frac{5}{9} (${f} - 32) = \\frac{5}{9} \\times ${f - 32} = ${c} \\)`;
         
+        answer = c;
+    } else if (ct === 3) {
+        question_text = `The instructions to a procedure say that while preparing a solution it must be at ${c} degrees centigrade.  What is this in degrees Fahrenheit?`;
+        solution_text = `\\( F = \\frac{9}{5}C + 32 \\) <br />` +
+                        `\\( F = \\frac{9}{5} \\times ${c} + 32 = ${9*c/5} +32 = ${f} \\)`;
+        answer = f;
+    } else {
+        question_text = `A measurement of a surface gives a reading of ${f} degrees Fahrenheit.  What is this in degrees centigrade?`;
+        solution_text = `\\( C = \\frac{5}{9}(F - 32) \\) <br />` +
+                        `\\( C = \\frac{5}{9} (${f} - 32) = \\frac{5}{9} \\times ${f - 32} = ${c} \\)`;
         answer = c;
     }
     
@@ -307,8 +336,15 @@ function generateQ5_grequired(q_id, roundToDecimalPlaces) {
     const g = mg / 1000;
 
     const x = roundToDecimalPlaces(g, 1);
+    
+    const ct = getRandomInt(1,2);
+    
+    if (ct === 1) {
 
-    question_text = `If a mixture is ${mgml} mg/ml, how many grams are required to make ${ml} ml of the mixture? Give your answer to 1 decimal place.`;
+        question_text = `If a mixture is ${mgml} mg/ml, how many grams are required to make ${ml} ml of the mixture? Give your answer to 1 decimal place.`;
+    } else {
+        question_text = `How many grams of active indgredient are required to make ${ml} ml of a solution with strength ${mgml} mg/ml?  Give answer to 1 d.p..`;
+    }
 
     solution_text = `\\( ${mg} \\text{ ml} \\times ${mgml} \\text{ mg/ml} = ${mg} \\text{ mg} \\) <br />` +
                     `Convert to g: ${g} <br />` +
@@ -479,7 +515,14 @@ function generateQ8_mmoltog(q_id, roundToDecimalPlaces) {
     
     let question_text, solution_text;
     
-    question_text =`How much ${compound}, in grams, is required to make ${millimoles} millimoles, given that the atomic weights are: ${atomic_text}?`;
+    const ct = getRandomInt(1,2);
+    
+    if (ct === 1) {
+    
+        question_text =`How much ${compound}, in grams, is required to make ${millimoles} millimoles, given that the atomic weights are: ${atomic_text}?`;
+    } else {
+        question_text =`Given the following atomic weights: ${atomic_text}, how many grams of ${compound} are required for ${millimoles} mmol?`;
+    }
     
     solution_text =`Formula mass of ${compound}: <br />` +
                     breakdown.join("<br />") +
@@ -751,7 +794,14 @@ function generateQ6_mlrequired(q_id, roundToDecimalPlaces) {
     
     let question_text, solution_text;
     
-    question_text = `How many millilitres of a ${roundToDecimalPlaces(pc,1)} % w/v solution are required to provide a dose of ${mg} mg?`;
+    const ct = getRandomInt(1,2);
+    
+    if (ct === 1) {
+    
+        question_text = `How many millilitres of a ${roundToDecimalPlaces(pc,1)} % w/v solution are required to provide a dose of ${mg} mg?`;
+    } else {
+        question_text = `If a patient requires a dose ${mg} mg and you have a ${roundToDecimalPlaces(pc,1)} % w/v solution, how many millilitres should you give? `;
+    }
     
     solution_text = `\\( \\frac{\\text{Need}}{\\text{Have}} \\times \\text{Supplied In} \\) <br />` +
                     `${roundToDecimalPlaces(pc,1)} % w/v means ${roundToDecimalPlaces(pc,1)} g in 100 ml <br />` +
@@ -785,9 +835,15 @@ function generateQ19_ratetime(q_id, roundToDecimalPlaces) {
     
     const answer = roundToDecimalPlaces(mg,1);
     
+    const ct = getRandomInt(1,2);
+    
     let question_text, solution_text
     
-    question_text = `If a patient requires ${rate} mcg/minute of a drug for ${time} hours, what is total amount of drug they will receive in milligrams? Please give your answer to 1 decimal place`;
+    if (ct === 1) {
+        question_text = `If a patient requires ${rate} mcg/minute of a drug for ${time} hours, what is total amount of drug they will receive in milligrams? Please give your answer to 1 decimal place`;
+    } else {
+        question_text = `A patient receives treatment for ${time} hours of a drug at ${rate} mcg/min.  How much drug did they receive?  Give your answer in milligrams, correct to 1 d.p..`;
+    }
     
     solution_text = `${rate} mcg/min × 60 min/hr = ${rate*60} mcg/hr <br />` +
                     `${rate*60} mcg/hr × ${time} hr = ${mcg} mcg = ${mg} mg<br />` +
