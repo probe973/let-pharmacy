@@ -214,7 +214,7 @@ function generateT178Q10(q_id, roundToDecimalPlaces) {
     const small = getRandomInt(1,big/avail-1)*avail;
     const weeks = getRandomInt(2,4);
     
-    const answer = (big*days + small*(7-days))*weeks;
+    const answer = (big*days + small*(7-days))*weeks/avail;
     
     const question_text = `A patient is on a warfarin dose of ${big} mg ${daysT} and ${small} mg the rest of the week. ` +
                             `Assuming they only take ${avail} mg tablets to make up the doses, how many ${avail} mg tablets will they need for a ${weeks} weeks supply?`;
