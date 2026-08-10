@@ -163,7 +163,13 @@ function generateQ11_ftin(q_id, roundToDecimalPlaces) {
     
     const inches = ft*12 + inc;
     const cm = inches * 2.5;
-    const m = roundToDecimalPlaces(cm/100, 2);
+    let cmsanity;
+    if (roundToDecimalPlaces(inc/2,0) === inc/2) {
+        cmsanity = cm;
+    } else {
+        cmsanity = cm+0.5;
+    }
+    const m = roundToDecimalPlaces(cmsanity/100, 2);
     
     const ct = getRandomInt(1,2);
     
@@ -181,7 +187,7 @@ function generateQ11_ftin(q_id, roundToDecimalPlaces) {
     
     solution_text = `1 foot is 12 inches, so ${ft} feet and ${inc} inches is ${ft} × 12 + ${inc} = ${inches} inches<br />` +
                     `Convert to cm:  ${inches} inch × 2.5 cm/inch = ${cm} cm<br />` +
-                    `Convert to m, divide by 100: ${m} m`;
+                    `Convert to m, divide by 100, and round to 2 d.p.: ${m} m`;
      
     
     return {
@@ -373,7 +379,7 @@ function generateQ17_ww(q_id, roundToDecimalPlaces) {
         reqg = pc*m/100;
         reqmg = reqg*1000;
         
-        if (reqg <= 2 && reqg >= 0.001) {
+        if (reqg <= 2 && reqg >= 0.001 && reqmg === roundToDecimalPlaces(reqmg,0)) {
             break;
         }
     }
